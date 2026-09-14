@@ -27,7 +27,7 @@ def apply(root: Path, decisions: dict, evidence: list) -> None:
     if hashlib.sha256(manifest.read_bytes()).hexdigest()!=spec['candidateManifestSha256']:
         raise ValueError('Gap-review snapshot no longer matches the recorded hash')
     candidates={c['number']:c for c in json.loads(manifest.read_text())['records']}
-    visited=set();adopted=0;excluded=0;awaiting=0
+    visited=set();adopted=0;excluded=0;awaiting=0;individual=0
     for role,field in [('primary','primaryNumbers'),('supplementary','supplementaryNumbers'),('exclude','excludeNumbers')]:
         for n in spec.get(field,[]):
             if n in visited or n not in candidates:raise ValueError('Unknown or duplicate reviewed candidate')
@@ -42,19 +42,25 @@ def apply(root: Path, decisions: dict, evidence: list) -> None:
                     matches.append(r)
             if not matches:awaiting+=1;continue
             default=spec.get('defaultNotesJa',{}).get(role,'主体の輪郭・主要な形が一覧上で明瞭。' if role=='primary' else '部分・別角度・生態等の補足写真。')
+            followup=spec.get('individualPreviewReviews',{}).get(str(n))
+            if followup:
+                if followup.get('previewSha256')!=c['previewSha256'] or followup.get('recommendedRole')!=role:
+                    raise ValueError('Individual follow-up does not match the image or final role')
+                individual+=1
             decisions[target['id']+'|'+c['assetId']]={
                 'status':'screened','recommendedRole':role,'reviewer':spec['reviewer'],
-                'reviewedAt':spec['reviewedAt'],'method':spec['method'],
+                'reviewedAt':spec['reviewedAt'],'method':followup['method'] if followup else spec['method'],
                 'reviewFile':'reviews/gap-20260914.json','snapshotNumber':n,
                 'candidateManifestSha256':spec['candidateManifestSha256'],
                 'previewPath':c['previewPath'],'previewSha256':c['previewSha256'],
                 'sourceCaption':c.get('sourceCaption',''),
                 'sourceSearchTargetId':c['target']['id'],
                 'targetCorrection':spec.get('retargetedCandidates',{}).get(str(n)),
+                'individualPreviewReview':followup,
                 'noteJa':spec.get('notesJa',{}).get(str(n),default),
                 'speciesIdentity':'source_name_and_caption_checked_not_independently_reidentified',
-                'fullResolutionInspection':'contact_sheet_screening; source_preview_up_to_1280px_retained'
+                'fullResolutionInspection':'saved_1280px_JPEG_viewed_individually_not_original_source_pixel_audit' if followup else 'contact_sheet_screening; source_preview_up_to_1280px_retained'
             };adopted+=1
     if len(visited)!=spec['reviewedCount'] or visited!=set(candidates):
         raise ValueError('Gap-review must partition every candidate exactly once')
-    evidence.append({'file':'reviews/gap-20260914.json','count':len(visited),'candidateManifestSha256':spec['candidateManifestSha256'],'adoptedPhotoPairs':adopted,'rejectedPreviewCandidates':excluded,'selectedAwaitingMasterSave':awaiting,'explicitTargetCorrections':len(spec.get('retargetedCandidates',{})),'kind':'new_gap_photos_visual_screening'})
+    evidence.append({'file':'reviews/gap-20260914.json','count':len(visited),'candidateManifestSha256':spec['candidateManifestSha256'],'adoptedPhotoPairs':adopted,'rejectedPreviewCandidates':excluded,'selectedAwaitingMasterSave':awaiting,'explicitTargetCorrections':len(spec.get('retargetedCandidates',{})),'individuallyReviewedSavedJPEGs':individual,'kind':'new_gap_photos_visual_screening'})
