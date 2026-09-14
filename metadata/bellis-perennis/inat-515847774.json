@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-515847774",
+  "targetId": "inat-taxon-55563",
+  "scientificName": "Bellis perennis",
+  "nameJa": "ヒナギク",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:13:41+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:13:41+00:00",
+  "files": {
+    "master": "images/bellis-perennis/inat-515847774.jpg",
+    "web": "images/bellis-perennis/inat-515847774.webp",
+    "thumbnail": "images/bellis-perennis/inat-515847774-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 749036,
+    "web": 164946,
+    "thumbnail": 25084
+  },
+  "sha256": {
+    "download": "f8eca87a7f02759e1c2b15aa561107d401d4ac7f72eaa22df2642d5333bcf5e7",
+    "master": "b1cdddc55c643935b0585c3f2bdd5c5b389597571c93ebfdfe7c144f23e4faa0",
+    "web": "5ab642a9686605f2cfdb5072fd50c1be87d8461aa9ecb0906c3708efa03c11ec"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Bellis perennis [Bellis perennis] — m.dolores paderne sa… / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/515847774. Original attribution: (c) m.dolores paderne sa…, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Bellis perennis",
+  "sourceId": "515847774",
+  "photoUrl": "https://www.inaturalist.org/photos/515847774",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/515847774/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/515847774/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "m.dolores paderne sa…",
+  "originalAttribution": "(c) m.dolores paderne sa…, some rights reserved (CC BY-SA)",
+  "taxonId": 55563,
+  "acceptedScientificName": "Bellis perennis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.194285714285714,
+  "photoApiEvidence": {
+    "id": 515847774,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) m.dolores paderne sa…, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515847774/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "m.dolores paderne sa…",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515847774/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515847774/medium.jpg"
+  },
+  "observationTaxon": null
+}

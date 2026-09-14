@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-546227666",
+  "targetId": "inat-taxon-52856",
+  "scientificName": "Artemisia vulgaris",
+  "nameJa": "オウシュウヨモギ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:13:21+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:13:21+00:00",
+  "files": {
+    "master": "images/artemisia-vulgaris/inat-546227666.jpg",
+    "web": "images/artemisia-vulgaris/inat-546227666.webp",
+    "thumbnail": "images/artemisia-vulgaris/inat-546227666-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1221383,
+    "web": 234760,
+    "thumbnail": 23032
+  },
+  "sha256": {
+    "download": "913d8af5917925b9659d4e90755aedf04e345984b11ba0ff486444ac7c9ef467",
+    "master": "cb2281530c1f2e132a7c565a2e29a4ae4fedf7d123a05d73484d154f5da98efd",
+    "web": "991514576222a98a49b0b7c204847812f8666ef4ee61f6ea61eebd612ca0cccf"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Artemisia vulgaris [Artemisia vulgaris] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/546227666. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Artemisia vulgaris",
+  "sourceId": "546227666",
+  "photoUrl": "https://www.inaturalist.org/photos/546227666",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/546227666/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/546227666/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 52856,
+  "acceptedScientificName": "Artemisia vulgaris",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/303066752",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 546227666,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546227666/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47605/47604/632790/373844/900983/52855/1123942",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47605,47604,632790,373844,900983,52855,1123942,52856",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 52856,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1123942,
+    "name": "Artemisia vulgaris",
+    "rank": "species",
+    "extinct": false,
+    "id": 52856,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47605,
+      47604,
+      632790,
+      373844,
+      900983,
+      52855,
+      1123942,
+      52856
+    ],
+    "created_at": "2009-08-26T05:27:07+00:00",
+    "default_photo": {
+      "id": 46355424,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Valentin Hamon, some rights reserved (CC BY-NC), uploaded by Valentin Hamon",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46355424/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1365
+      },
+      "flags": [],
+      "attribution_name": "Valentin Hamon",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46355424/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46355424/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 5,
+    "observations_count": 153258,
+    "photos_locked": false,
+    "universal_search_rank": 153258,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Artemisia_vulgaris",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "common mugwort"
+  }
+}

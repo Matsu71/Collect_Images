@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-180008255",
+  "targetId": "inat-taxon-64237",
+  "scientificName": "Phragmites australis",
+  "nameJa": "ヨシ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:13:47+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:13:47+00:00",
+  "files": {
+    "master": "images/phragmites-australis/inat-180008255.jpg",
+    "web": "images/phragmites-australis/inat-180008255.webp",
+    "thumbnail": "images/phragmites-australis/inat-180008255-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 895915,
+    "web": 177122,
+    "thumbnail": 15886
+  },
+  "sha256": {
+    "download": "952fdb225da0b1e47925e0a000ef90ee9599de3247d639830fe221b421ab3260",
+    "master": "50c78c002fdd544753633abdf2761715c4dfb098636b3e998e0b3ccc1d56bf5a",
+    "web": "9900cd483d3614920dfa63efc45d56e2330e7ac26112640ebb3b633c21f02691"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Phragmites australis [Phragmites australis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/180008255. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Phragmites australis",
+  "sourceId": "180008255",
+  "photoUrl": "https://www.inaturalist.org/photos/180008255",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/180008255/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/180008255/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 64237,
+  "acceptedScientificName": "Phragmites australis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/107071766",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 180008255,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/180008255/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47163/47162/47434/773413/773415/64276/64237",
+    "min_species_ancestry": "48460,47126,211194,47125,47163,47162,47434,773413,773415,64276,64237",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 64237,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": true,
+    "native": false,
+    "parent_id": 64237,
+    "name": "Phragmites australis australis",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 556361,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47163,
+      47162,
+      47434,
+      773413,
+      773415,
+      64276,
+      64237,
+      556361
+    ],
+    "provisional": false,
+    "created_at": "2017-08-07T22:33:33+00:00",
+    "default_photo": {
+      "id": 6314550,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Ken Potter, some rights reserved (CC BY-NC), uploaded by Ken Potter",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6314550/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Ken Potter",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6314550/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6314550/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 1,
+    "observations_count": 18051,
+    "photos_locked": false,
+    "universal_search_rank": 18051,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Phragmites_australis",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Common Reed"
+  }
+}

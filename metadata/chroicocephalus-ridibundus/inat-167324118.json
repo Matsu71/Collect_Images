@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-167324118",
+  "targetId": "inat-taxon-144510",
+  "scientificName": "Chroicocephalus ridibundus",
+  "nameJa": "ユリカモメ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:13:21+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:13:21+00:00",
+  "files": {
+    "master": "images/chroicocephalus-ridibundus/inat-167324118.jpg",
+    "web": "images/chroicocephalus-ridibundus/inat-167324118.webp",
+    "thumbnail": "images/chroicocephalus-ridibundus/inat-167324118-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1366
+    ],
+    "master": [
+      2048,
+      1366
+    ],
+    "web": [
+      1400,
+      934
+    ]
+  },
+  "bytes": {
+    "master": 442299,
+    "web": 90508,
+    "thumbnail": 10580
+  },
+  "sha256": {
+    "download": "a658dbc47677690a1dfc780039496f4ea1638432d4bbb0582a4a69788feecf8e",
+    "master": "edcf66e2e3de2dfb9a031aeb123413e09d5cf098a878fb60969f6d5d3e7c4f00",
+    "web": "bb570b1327f94258109b468080f9d1771d7c8b3af80c0b9cf8a7578b56e905e4"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Chroicocephalus ridibundus [Chroicocephalus ridibundus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/167324118. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Chroicocephalus ridibundus",
+  "sourceId": "167324118",
+  "photoUrl": "https://www.inaturalist.org/photos/167324118",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/167324118/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/167324118/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 144510,
+  "acceptedScientificName": "Chroicocephalus ridibundus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/100267753",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.618095238095239,
+  "photoApiEvidence": {
+    "id": 167324118,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1366
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/167324118/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67561/4342/447155/144320",
+    "min_species_ancestry": "48460,1,2,355675,3,67561,4342,447155,144320,144510",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 144510,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 144320,
+    "name": "Chroicocephalus ridibundus",
+    "rank": "species",
+    "extinct": false,
+    "id": 144510,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67561,
+      4342,
+      447155,
+      144320,
+      144510
+    ],
+    "created_at": "2012-08-21T04:13:54+00:00",
+    "default_photo": {
+      "id": 198109587,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Dmitry Dubikovskiy, some rights reserved (CC BY-NC), uploaded by Dmitry Dubikovskiy",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198109587/square.jpg",
+      "original_dimensions": {
+        "height": 933,
+        "width": 1400
+      },
+      "flags": [],
+      "attribution_name": "Dmitry Dubikovskiy",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198109587/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198109587/medium.jpg"
+    },
+    "taxon_changes_count": 3,
+    "taxon_schemes_count": 6,
+    "observations_count": 185505,
+    "photos_locked": false,
+    "universal_search_rank": 185505,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black-headed_gull",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Black-headed Gull"
+  }
+}

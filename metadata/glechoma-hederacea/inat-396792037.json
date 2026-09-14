@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-396792037",
+  "targetId": "inat-taxon-55830",
+  "scientificName": "Glechoma hederacea",
+  "nameJa": "セイヨウカキドオシ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:12:42+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:12:42+00:00",
+  "files": {
+    "master": "images/glechoma-hederacea/inat-396792037.jpg",
+    "web": "images/glechoma-hederacea/inat-396792037.webp",
+    "thumbnail": "images/glechoma-hederacea/inat-396792037-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 730893,
+    "web": 150866,
+    "thumbnail": 12814
+  },
+  "sha256": {
+    "download": "fb8db52fae4c329ce726d4bb6a9308a8995a92396826068ad4613801341cd9f7",
+    "master": "18c684d1c21c3618d6af7e8e54c71222765ce362f574b601fb6ef2c0696a81fe",
+    "web": "e29be84b711b70753c10f3b3cad671eddb85fdd797fa7742bb68b9ec54649620"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Glechoma hederacea [Glechoma hederacea] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/396792037. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Glechoma hederacea",
+  "sourceId": "396792037",
+  "photoUrl": "https://www.inaturalist.org/photos/396792037",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/396792037/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/396792037/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 55830,
+  "acceptedScientificName": "Glechoma hederacea",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/223912853",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 396792037,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396792037/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48151/48623/520502/918917/919180/55831",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48151,48623,520502,918917,919180,55831,55830",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 55830,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 55831,
+    "name": "Glechoma hederacea",
+    "rank": "species",
+    "extinct": false,
+    "id": 55830,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48151,
+      48623,
+      520502,
+      918917,
+      919180,
+      55831,
+      55830
+    ],
+    "provisional": false,
+    "created_at": "2010-02-10T15:31:22+00:00",
+    "default_photo": {
+      "id": 280941528,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) viktorie_kolouchova, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/280941528/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "viktorie_kolouchova",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/280941528/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/280941528/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 5,
+    "observations_count": 211516,
+    "photos_locked": false,
+    "universal_search_rank": 211516,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Glechoma_hederacea",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "ground-ivy"
+  }
+}

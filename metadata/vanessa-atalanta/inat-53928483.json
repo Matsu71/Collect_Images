@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-53928483",
+  "targetId": "inat-taxon-49133",
+  "scientificName": "Vanessa atalanta",
+  "nameJa": "ヨーロッパアカタテハ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:12:59+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:12:59+00:00",
+  "files": {
+    "master": "images/vanessa-atalanta/inat-53928483.jpg",
+    "web": "images/vanessa-atalanta/inat-53928483.webp",
+    "thumbnail": "images/vanessa-atalanta/inat-53928483-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1529
+    ],
+    "master": [
+      2048,
+      1529
+    ],
+    "web": [
+      1400,
+      1045
+    ]
+  },
+  "bytes": {
+    "master": 617761,
+    "web": 186660,
+    "thumbnail": 18168
+  },
+  "sha256": {
+    "download": "438b5d27b123caf021a134afc91b1ddfe3f356a1d15f762c39616731ed1d8003",
+    "master": "06fe97745f2f1db01b9e0577b33fbba782ae2d41f4f64b9af78de04d15eb29f3",
+    "web": "1238bf5b15cad3a137a7547b14ee3da2013a1fafdd133679a81122a2b5b3786e"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Vanessa atalanta [Vanessa atalanta] — Gilles San Martin / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/53928483. Original attribution: (c) Gilles San Martin, some rights reserved (CC BY-SA), uploaded by Gilles San Martin. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Vanessa atalanta",
+  "sourceId": "53928483",
+  "photoUrl": "https://www.inaturalist.org/photos/53928483",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53928483/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53928483/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Gilles San Martin",
+  "originalAttribution": "(c) Gilles San Martin, some rights reserved (CC BY-SA), uploaded by Gilles San Martin",
+  "taxonId": 49133,
+  "acceptedScientificName": "Vanessa atalanta",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.184285714285714,
+  "photoApiEvidence": {
+    "id": 53928483,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Gilles San Martin, some rights reserved (CC BY-SA), uploaded by Gilles San Martin",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53928483/square.jpg",
+    "original_dimensions": {
+      "height": 1529,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Gilles San Martin",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53928483/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53928483/medium.jpg"
+  },
+  "observationTaxon": null
+}

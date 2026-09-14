@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-1179645",
+  "targetId": "inat-taxon-55626",
+  "scientificName": "Pieris rapae",
+  "nameJa": "モンシロチョウ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:13:13+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:13:13+00:00",
+  "files": {
+    "master": "images/pieris-rapae/inat-1179645.jpg",
+    "web": "images/pieris-rapae/inat-1179645.webp",
+    "thumbnail": "images/pieris-rapae/inat-1179645-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1600,
+      1200
+    ],
+    "master": [
+      1600,
+      1200
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 224742,
+    "web": 46860,
+    "thumbnail": 4500
+  },
+  "sha256": {
+    "download": "ccf914bee04caad6882e17f2ef8f525ad6b3ee719f90caaa799b60afb2a813ab",
+    "master": "60d194972574d63e96dc05760e212dccc72d973297211dc714570a48a4df9e80",
+    "web": "efa26f7903ada69b5c8a7c164b2c32ab319a343c1a4abf76e0d04d7d22c557e4"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Pieris rapae [Pieris rapae] — Jon Sullivan / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/1179645. Original attribution: (c) Jon Sullivan, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Pieris rapae",
+  "sourceId": "1179645",
+  "photoUrl": "https://www.inaturalist.org/photos/1179645",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1179645/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1179645/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Jon Sullivan",
+  "originalAttribution": "(c) Jon Sullivan, some rights reserved (CC BY)",
+  "taxonId": 55626,
+  "acceptedScientificName": "Pieris rapae",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/924295",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.714285714285714,
+  "photoApiEvidence": {
+    "id": 1179645,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1600,
+      "height": 1200
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1179645/square.jpg",
+    "attribution": "(c) Jon Sullivan, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47157/47224/48508/209720/321384/475032/55690",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47157,47224,48508,209720,321384,475032,55690,55626",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 55626,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 55690,
+    "name": "Pieris rapae",
+    "rank": "species",
+    "extinct": false,
+    "id": 55626,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47157,
+      47224,
+      48508,
+      209720,
+      321384,
+      475032,
+      55690,
+      55626
+    ],
+    "created_at": "2010-02-08T20:48:36+00:00",
+    "default_photo": {
+      "id": 28420401,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Liu JimFood, some rights reserved (CC BY-NC), uploaded by Liu JimFood",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28420401/square.jpg",
+      "original_dimensions": {
+        "height": 1311,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Liu JimFood",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28420401/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28420401/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 5,
+    "observations_count": 265854,
+    "photos_locked": false,
+    "universal_search_rank": 265854,
+    "flag_counts": {
+      "resolved": 5,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pieris_rapae",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Small White"
+  }
+}

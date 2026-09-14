@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-172110799",
+  "targetId": "inat-taxon-10094",
+  "scientificName": "Junco hyemalis",
+  "nameJa": "ユキヒメドリ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:12:53+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:12:53+00:00",
+  "files": {
+    "master": "images/junco-hyemalis/inat-172110799.jpg",
+    "web": "images/junco-hyemalis/inat-172110799.webp",
+    "thumbnail": "images/junco-hyemalis/inat-172110799-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 889503,
+    "web": 149406,
+    "thumbnail": 12480
+  },
+  "sha256": {
+    "download": "56cb5b400892993f2533ee14a2f5c4f7564e0051083139507058d06e661ca70c",
+    "master": "ea861f5a8b18675db0199192ec13289d4ed9fdb7d74d01eb78f43c56df9ff42e",
+    "web": "9d1a5596c92eee6f8a89754adc3bde7111054d89c39bd6b2f12d75feddbeffb0"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Junco hyemalis [Junco hyemalis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/172110799. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Junco hyemalis",
+  "sourceId": "172110799",
+  "photoUrl": "https://www.inaturalist.org/photos/172110799",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/172110799/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/172110799/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 10094,
+  "acceptedScientificName": "Junco hyemalis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/102901486",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.592380952380953,
+  "photoApiEvidence": {
+    "id": 172110799,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172110799/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/559248/10093",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,559248,10093,10094",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 10094,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 10093,
+    "name": "Junco hyemalis",
+    "rank": "species",
+    "extinct": false,
+    "id": 10094,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      559248,
+      10093,
+      10094
+    ],
+    "provisional": false,
+    "created_at": "2008-03-13T03:03:51+00:00",
+    "default_photo": {
+      "id": 111714701,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC), uploaded by Craig K. Hunt",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111714701/square.jpeg",
+      "original_dimensions": {
+        "height": 1332,
+        "width": 1800
+      },
+      "flags": [],
+      "attribution_name": "Craig K. Hunt",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111714701/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111714701/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 250251,
+    "photos_locked": false,
+    "universal_search_rank": 250251,
+    "flag_counts": {
+      "resolved": 6,
+      "unresolved": 2
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Dark-eyed_junco",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Dark-eyed Junco"
+  }
+}

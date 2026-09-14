@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-151105808",
+  "targetId": "inat-taxon-57278",
+  "scientificName": "Ailanthus altissima",
+  "nameJa": "ニワウルシ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:14:02+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:14:02+00:00",
+  "files": {
+    "master": "images/ailanthus-altissima/inat-151105808.jpg",
+    "web": "images/ailanthus-altissima/inat-151105808.webp",
+    "thumbnail": "images/ailanthus-altissima/inat-151105808-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 970529,
+    "web": 188916,
+    "thumbnail": 21062
+  },
+  "sha256": {
+    "download": "b8866fb157acc6e31fcbe844262d66e3822131c05ff710b09962efb2d3f539b6",
+    "master": "46f2dad95c25631345b27d38a15a88683a3a95595c47111ea1293ffdc3a4d82f",
+    "web": "530b40d9a6abb89b4d6f40e4488b3085f88e8acfa7215826375bccb35a1c04df"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Ailanthus altissima [Ailanthus altissima] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/151105808. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ailanthus altissima",
+  "sourceId": "151105808",
+  "photoUrl": "https://www.inaturalist.org/photos/151105808",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/151105808/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/151105808/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 57278,
+  "acceptedScientificName": "Ailanthus altissima",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/91361855",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 151105808,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/151105808/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47729/57279/57280",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47729,57279,57280,57278",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 57278,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 57280,
+    "name": "Ailanthus altissima",
+    "rank": "species",
+    "extinct": false,
+    "id": 57278,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47729,
+      57279,
+      57280,
+      57278
+    ],
+    "created_at": "2010-03-13T04:56:36+02:00",
+    "default_photo": {
+      "id": 21400202,
+      "license_code": null,
+      "attribution": "(c) Janet Wooten, tüm hakları saklıdır, yükleyen: Janet Wooten",
+      "url": "https://static.inaturalist.org/photos/21400202/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "Janet Wooten",
+      "square_url": "https://static.inaturalist.org/photos/21400202/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/21400202/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 132559,
+    "photos_locked": false,
+    "universal_search_rank": 132559,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ailanthus_altissima",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "tree-of-heaven"
+  }
+}
