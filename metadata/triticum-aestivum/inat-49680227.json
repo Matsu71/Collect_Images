@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-49680227",
+  "targetId": "org-triticum-aestivum",
+  "scientificName": "Triticum aestivum",
+  "nameJa": "パンコムギ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:10:01+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:10:01+00:00",
+  "files": {
+    "master": "images/triticum-aestivum/inat-49680227.jpg",
+    "web": "images/triticum-aestivum/inat-49680227.webp",
+    "thumbnail": "images/triticum-aestivum/inat-49680227-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1353523,
+    "web": 273774,
+    "thumbnail": 21646
+  },
+  "sha256": {
+    "download": "251cee0b7e2423bfa25a3634e393576be25907b803dba82c267caeaa09fca8d0",
+    "master": "4717eb05b499e2319e7e407fb9aeacbc796006b2c2af59671dc6ecfc00b68a64",
+    "web": "24acde200165a78c3559aa03b72bf259c04966be6edcb4236e024af2c0b8e8d7"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Triticum aestivum [Triticum aestivum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/49680227. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Triticum aestivum",
+  "sourceId": "49680227",
+  "photoUrl": "https://www.inaturalist.org/photos/49680227",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/49680227/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/49680227/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 64161,
+  "acceptedScientificName": "Triticum aestivum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/31723772",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 49680227,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/49680227/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47163/47162/47434/514989/709543/1138151/58390",
+    "min_species_ancestry": "48460,47126,211194,47125,47163,47162,47434,514989,709543,1138151,58390,64161",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 64161,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 58390,
+    "name": "Triticum aestivum",
+    "rank": "species",
+    "extinct": false,
+    "id": 64161,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47163,
+      47162,
+      47434,
+      514989,
+      709543,
+      1138151,
+      58390,
+      64161
+    ],
+    "provisional": false,
+    "created_at": "2010-12-10T07:29:49+00:00",
+    "default_photo": {
+      "id": 424620294,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) jackheijnemans, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424620294/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1365
+      },
+      "flags": [],
+      "attribution_name": "jackheijnemans",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424620294/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424620294/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 6,
+    "observations_count": 15336,
+    "photos_locked": false,
+    "universal_search_rank": 15336,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_wheat",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Bread Wheat"
+  }
+}

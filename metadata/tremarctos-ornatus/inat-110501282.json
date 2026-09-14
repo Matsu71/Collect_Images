@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-110501282",
+  "targetId": "org-tremarctos-ornatus",
+  "scientificName": "Tremarctos ornatus",
+  "nameJa": "メガネグマ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:09:49+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:09:49+00:00",
+  "files": {
+    "master": "images/tremarctos-ornatus/inat-110501282.jpg",
+    "web": "images/tremarctos-ornatus/inat-110501282.webp",
+    "thumbnail": "images/tremarctos-ornatus/inat-110501282-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1366
+    ],
+    "master": [
+      2048,
+      1366
+    ],
+    "web": [
+      1400,
+      934
+    ]
+  },
+  "bytes": {
+    "master": 616559,
+    "web": 172252,
+    "thumbnail": 15524
+  },
+  "sha256": {
+    "download": "cd32a0ed4e981821c5bfd3c770c9e9ebded7d5c1667ab7c68533722edd5d2c62",
+    "master": "8bd73631a7b5020e6faa8f5301d05a037ad85895c3431b2c3beb7c15da0703de",
+    "web": "5a4e80d67932a13ac7b0e2cea4fecb63664c949cc1b93fcc03c75ce95d0dde4a"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Tremarctos ornatus [Tremarctos ornatus] — Morten Ross / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/110501282. Original attribution: (c) Morten Ross, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Tremarctos ornatus",
+  "sourceId": "110501282",
+  "photoUrl": "https://www.inaturalist.org/photos/110501282",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110501282/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110501282/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Morten Ross",
+  "originalAttribution": "(c) Morten Ross, some rights reserved (CC BY)",
+  "taxonId": 41657,
+  "acceptedScientificName": "Tremarctos ornatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/68270326",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.618095238095238,
+  "photoApiEvidence": {
+    "id": 110501282,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1366
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110501282/square.jpg",
+    "attribution": "(c) Morten Ross, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/41636/846290/41656",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,41636,846290,41656,41657",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 41657,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 41656,
+    "name": "Tremarctos ornatus",
+    "rank": "species",
+    "extinct": false,
+    "id": 41657,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      41636,
+      846290,
+      41656,
+      41657
+    ],
+    "created_at": "2008-03-19T00:34:55+00:00",
+    "default_photo": {
+      "id": 187383867,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) *snowwhite*, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187383867/square.jpg",
+      "original_dimensions": {
+        "height": 1397,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "*snowwhite*",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187383867/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187383867/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 1904,
+    "photos_locked": false,
+    "universal_search_rank": 1904,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 13082,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Spectacled_bear",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Spectacled Bear",
+    "conservation_status": {
+      "id": 15724,
+      "place_id": null,
+      "source_id": 15286,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "obscured",
+      "iucn": 30
+    }
+  }
+}

@@ -872,4 +872,98 @@ Schizosaccharomyces pombe tsentrosoom [Schizosaccharomyces pombe] — Tiina Tamm
 
 SEM photo of S. mediterranea [Schmidtea mediterranea] — Marcinekenator / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:SEM_photo_of_S._mediterranea.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Sciurus carolinensis [Sciurus carolinensis] — Diliff / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/22144449. Original attribution: (c) Diliff, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
+
+Scleropages formosus [Scleropages formosus] — desertnaturalist / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/288010505. Original attribution: (c) desertnaturalist, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Selaginella moellendorffii [Selaginella moellendorffii] — Jacy Chen / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/177518294. Original attribution: (c) Jacy Chen, some rights reserved (CC BY), uploaded by Jacy Chen. Resized and re-encoded; no subject alteration.
+
+Sepia officinalis [Sepia officinalis] — Charlotte Kirchner / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/520832703. Original attribution: (c) Charlotte Kirchner, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Sequoia sempervirens [Sequoia sempervirens] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/326787967. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Sequoiadendron giganteum [Sequoiadendron giganteum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/319260122. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Setonix brachyurus [Setonix brachyurus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/336250773. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Solanum lycopersicum [Solanum lycopersicum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/7503805. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Solanum tuberosum [Solanum tuberosum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/34777612. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Sorghum bicolor [Sorghum bicolor] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/731194602. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Sphagnum palustre [Sphagnum palustre] — Helen Waterman / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/521217500. Original attribution: (c) Helen Waterman, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Spheniscus demersus [Spheniscus demersus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/108375617. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Sphenodon punctatus [Sphenodon punctatus] — wild_wind / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/117272015. Original attribution: (c) wild_wind, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Sphyrna mokarran [Sphyrna mokarran] — Robin White / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/353767251. Original attribution: (c) Robin White, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Spongia officinalis [Spongia officinalis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/142373123. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Staphylococcus aureus Gram stain [Staphylococcus aureus] — Dr Graham Beards / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Staphylococcus_aureus_Gram_stain.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+1yxb [Streptomyces coelicolor] — Deposition authors: Benach, J., Kuzin, A.P., Forouhar, F., Abashidze, M., Vorobiev, S.M., Rong, X., Acton, T.B. et al.; visualization author: User:Astrojan / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:1yxb.jpg. Original attribution: http://www.rcsb.org/pdb/explore/explore.do?structureId=1yxb. Resized and re-encoded; no subject alteration.
+
+Strigops habroptilus [Strigops habroptilus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/386289202. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Strongylocentrotus purpuratus [Strongylocentrotus purpuratus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/481704873. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Struthio camelus [Struthio camelus] — Andrew Allen / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/55506762. Original attribution: (c) Andrew Allen, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Sula nebouxii [Sula nebouxii] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/467169980. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+MW001-good 022-new [Sulfolobus acidocaldarius] — Ag.archaea / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:MW001-good_022-new.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Suricata suricatta [Suricata suricatta] — Peter Archdale / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/10943972. Original attribution: (c) Peter Archdale, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Sus scrofa [Sus scrofa] — Cullen Hanks / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/34825790. Original attribution: (c) Cullen Hanks, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Brown Discus Symphysodon aequifasciatus [Symphysodon aequifasciatus] — Brian Gratwicke / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Brown_Discus_Symphysodon_aequifasciatus.jpg. Original attribution: Brown Discus Symphysodon aequifasciatus. Resized and re-encoded; no subject alteration.
+
+Syncerus caffer [Syncerus caffer] — Bernard DUPONT / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/97834194. Original attribution: (c) Bernard DUPONT, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
+
+Photosystem 1 - Crystal Structure [Synechococcus elongatus] — Protein Data Bank / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Photosystem_1_-_Crystal_Structure.png. Original attribution: https://www.rcsb.org/pdb/explore/jmol.do?structureId=1jb0&bionumber=1&jmolMode=HTML5. Resized and re-encoded; no subject alteration.
+
+Tachyglossus aculeatus [Tachyglossus aculeatus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/14939394. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Takifugu rubripes [Takifugu rubripes] — Totti / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/60989907. Original attribution: (c) Totti, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
+
+Tapirus indicus [Tapirus indicus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/351378403. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Tapirus terrestris [Tapirus terrestris] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/112194296. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Tenodera sinensis [Tenodera sinensis] — Bill Keim / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/238633702. Original attribution: (c) Bill Keim, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+40S solvent 2XZM [Tetrahymena thermophila] — Fvoigtsh / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:40S_solvent_2XZM.png. Original attribution: Rendering created with Pymol. Resized and re-encoded; no subject alteration.
+
+Fpls-02-00050-g004 [Thalassiosira pseudonana] — Fabio Facchinelli, Andreas P. M. Weber / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Fpls-02-00050-g004.png. Original attribution: doi:10.3389/fpls.2011.00050. Resized and re-encoded; no subject alteration.
+
+Theobroma cacao [Theobroma cacao] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/334888137. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Bacterial RNA-polymerase structure 1HQM [Thermus aquaticus] — litvinanna / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Bacterial_RNA-polymerase_structure_1HQM.png. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Theropithecus gelada [Theropithecus gelada] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/52773829. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Thunnus thynnus [Thunnus thynnus] — Michel Frisch / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/107933283. Original attribution: (c) Michel Frisch, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Torpedo marmorata [Torpedo marmorata] — Juraj Ahel / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/317972298. Original attribution: (c) Juraj Ahel, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Velvet Revolver [Trametes versicolor] — Steve Jurvetson from Menlo Park, USA / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Velvet_Revolver.jpg. Original attribution: Flickr. Resized and re-encoded; no subject alteration.
+
+Tremarctos ornatus [Tremarctos ornatus] — Morten Ross / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/110501282. Original attribution: (c) Morten Ross, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Trichechus manatus [Trichechus manatus] — U.S. Fish and Wildlife Service Headquarters / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/17174106. Original attribution: (c) U.S. Fish and Wildlife Service Headquarters, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
 Trichodesmium interactions with bacteria to acquire iron [Trichodesmium spp.] — Subhajit Basu, Martha Gledhill, Dirk de Beer, S. G. Prabhu Matondkar & Yeala Shaked / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Trichodesmium_interactions_with_bacteria_to_acquire_iron.png. Original attribution: [1]. Resized and re-encoded; no subject alteration.
+
+Trichosurus vulpecula [Trichosurus vulpecula] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/69157927. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Tridacna gigas [Tridacna gigas] — botanygirl / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/2765460. Original attribution: (c) botanygirl, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Triticum aestivum [Triticum aestivum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/49680227. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Mélanosporum 4 [Tuber melanosporum] — Véronique PAGNIER / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:M%C3%A9lanosporum_4.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Tulipa gesneriana [Tulipa gesneriana] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/194244201. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.

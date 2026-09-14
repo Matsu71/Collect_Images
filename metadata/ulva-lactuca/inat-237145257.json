@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-237145257",
+  "targetId": "org-ulva-lactuca",
+  "scientificName": "Ulva lactuca",
+  "nameJa": "アオサ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:10:13+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:10:13+00:00",
+  "files": {
+    "master": "images/ulva-lactuca/inat-237145257.jpg",
+    "web": "images/ulva-lactuca/inat-237145257.webp",
+    "thumbnail": "images/ulva-lactuca/inat-237145257-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1365,
+      2048
+    ],
+    "master": [
+      1365,
+      2048
+    ],
+    "web": [
+      933,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 609312,
+    "web": 187126,
+    "thumbnail": 11706
+  },
+  "sha256": {
+    "download": "dd1dbd1cff295900a585843136414924874eb414337f55c200ed9e5347be47d6",
+    "master": "24f1b1a6816cdc8b2e857e440e036354999d1a0dde3ba053b4bbb100dbe75299",
+    "web": "35578cf86408ca1f113935704b0b991dca06fda1c4f55b9fb79bc283a07280a6"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Ulva lactuca [Ulva lactuca] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/237145257. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ulva lactuca",
+  "sourceId": "237145257",
+  "photoUrl": "https://www.inaturalist.org/photos/237145257",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/237145257/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/237145257/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 67423,
+  "acceptedScientificName": "Ulva lactuca",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/138725353",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.283333333333333,
+  "photoApiEvidence": {
+    "id": 237145257,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237145257/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/50863/51429/54642/54643/54644",
+    "min_species_ancestry": "48460,47126,50863,51429,54642,54643,54644,67423",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 67423,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 54644,
+    "name": "Ulva lactuca",
+    "rank": "species",
+    "extinct": false,
+    "id": 67423,
+    "ancestor_ids": [
+      48460,
+      47126,
+      50863,
+      51429,
+      54642,
+      54643,
+      54644,
+      67423
+    ],
+    "provisional": false,
+    "created_at": "2011-01-18T07:30:09+00:00",
+    "default_photo": {
+      "id": 412792345,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) artzerphotog, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/412792345/square.jpg",
+      "original_dimensions": {
+        "height": 1638,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "artzerphotog",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/412792345/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/412792345/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 18504,
+    "photos_locked": false,
+    "universal_search_rank": 18504,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ulva_lactuca",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Broadleaf Sea Lettuce"
+  }
+}

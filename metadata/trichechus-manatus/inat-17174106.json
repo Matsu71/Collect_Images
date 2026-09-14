@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-17174106",
+  "targetId": "org-trichechus-manatus",
+  "scientificName": "Trichechus manatus",
+  "nameJa": "アメリカマナティー",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:09:50+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:09:50+00:00",
+  "files": {
+    "master": "images/trichechus-manatus/inat-17174106.jpg",
+    "web": "images/trichechus-manatus/inat-17174106.webp",
+    "thumbnail": "images/trichechus-manatus/inat-17174106-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1024,
+      685
+    ],
+    "master": [
+      1024,
+      685
+    ],
+    "web": [
+      1024,
+      685
+    ]
+  },
+  "bytes": {
+    "master": 214495,
+    "web": 111342,
+    "thumbnail": 13816
+  },
+  "sha256": {
+    "download": "c073d8221bb2a4d60656bd23159a16b179ea6bd1d159016743148e0c5a7e290c",
+    "master": "f2f8d03eaedf38c798fc595b4f7937f8f5edf43b289197a735130c833590c92e",
+    "web": "271a7b0e0a1b35ad7e890af9e86a17a1837d4eb6de7ed87dd95f5d0c77974c71"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Trichechus manatus [Trichechus manatus] — U.S. Fish and Wildlife Service Headquarters / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/17174106. Original attribution: (c) U.S. Fish and Wildlife Service Headquarters, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Trichechus manatus",
+  "sourceId": "17174106",
+  "photoUrl": "https://www.inaturalist.org/photos/17174106",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/17174106/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/17174106/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "U.S. Fish and Wildlife Service Headquarters",
+  "originalAttribution": "(c) U.S. Fish and Wildlife Service Headquarters, some rights reserved (CC BY)",
+  "taxonId": 46316,
+  "acceptedScientificName": "Trichechus manatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.978571428571428,
+  "photoApiEvidence": {
+    "id": 17174106,
+    "license_code": "cc-by",
+    "attribution": "(c) U.S. Fish and Wildlife Service Headquarters, some rights reserved (CC BY)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17174106/square.jpg",
+    "original_dimensions": {
+      "height": 685,
+      "width": 1024
+    },
+    "flags": [],
+    "attribution_name": "U.S. Fish and Wildlife Service Headquarters",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17174106/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17174106/medium.jpg"
+  },
+  "observationTaxon": null
+}

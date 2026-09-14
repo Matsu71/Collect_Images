@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-97834194",
+  "targetId": "org-syncerus-caffer",
+  "scientificName": "Syncerus caffer",
+  "nameJa": "アフリカスイギュウ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:09:19+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:09:19+00:00",
+  "files": {
+    "master": "images/syncerus-caffer/inat-97834194.jpg",
+    "web": "images/syncerus-caffer/inat-97834194.webp",
+    "thumbnail": "images/syncerus-caffer/inat-97834194-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1559
+    ],
+    "master": [
+      2048,
+      1559
+    ],
+    "web": [
+      1400,
+      1066
+    ]
+  },
+  "bytes": {
+    "master": 1221868,
+    "web": 244412,
+    "thumbnail": 23592
+  },
+  "sha256": {
+    "download": "539b33f46426008d714f6b94c6afd43c0f5dcb68a28f64e571f4f4c8353e2089",
+    "master": "de141adae9a2f1ee00cf688549b2706398b8673c852dda70aec42b59d62bdfea",
+    "web": "90cb171b413c7f4c0d4c6eef20d5fabc76da94277cd13fa1db3bc1e68704aeb9"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Syncerus caffer [Syncerus caffer] — Bernard DUPONT / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/97834194. Original attribution: (c) Bernard DUPONT, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Syncerus caffer",
+  "sourceId": "97834194",
+  "photoUrl": "https://www.inaturalist.org/photos/97834194",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/97834194/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/97834194/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Bernard DUPONT",
+  "originalAttribution": "(c) Bernard DUPONT, some rights reserved (CC BY-SA)",
+  "taxonId": 42405,
+  "acceptedScientificName": "Syncerus caffer",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.227142857142857,
+  "photoApiEvidence": {
+    "id": 97834194,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Bernard DUPONT, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97834194/square.jpg",
+    "original_dimensions": {
+      "height": 1559,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Bernard DUPONT",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97834194/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97834194/medium.jpg"
+  },
+  "observationTaxon": null
+}

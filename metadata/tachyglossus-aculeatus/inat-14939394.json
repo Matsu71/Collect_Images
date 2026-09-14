@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-14939394",
+  "targetId": "org-tachyglossus-aculeatus",
+  "scientificName": "Tachyglossus aculeatus",
+  "nameJa": "ハリモグラ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:09:23+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:09:23+00:00",
+  "files": {
+    "master": "images/tachyglossus-aculeatus/inat-14939394.jpg",
+    "web": "images/tachyglossus-aculeatus/inat-14939394.webp",
+    "thumbnail": "images/tachyglossus-aculeatus/inat-14939394-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 782415,
+    "web": 171242,
+    "thumbnail": 22900
+  },
+  "sha256": {
+    "download": "2a6ecb33fea2c260f7f578e167eb86a7d7af0c413d34110225a71cfb43e01f6c",
+    "master": "90c09c77328182c3b32ea9f0ad13dc91dca1c03d5421d9cecfd8399b1fd01d88",
+    "web": "849c59d370d149b9e52239b9128a39645367909e7d9f29dcf11aadd043184481"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Tachyglossus aculeatus [Tachyglossus aculeatus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/14939394. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Tachyglossus aculeatus",
+  "sourceId": "14939394",
+  "photoUrl": "https://www.inaturalist.org/photos/14939394",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14939394/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14939394/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 43239,
+  "acceptedScientificName": "Tachyglossus aculeatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/10697020",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.194285714285714,
+  "photoApiEvidence": {
+    "id": 14939394,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14939394/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848316/43233/43237/43238",
+    "min_species_ancestry": "48460,1,2,355675,40151,848316,43233,43237,43238,43239",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43239,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 43238,
+    "name": "Tachyglossus aculeatus",
+    "rank": "species",
+    "extinct": false,
+    "id": 43239,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848316,
+      43233,
+      43237,
+      43238,
+      43239
+    ],
+    "provisional": false,
+    "created_at": "2008-03-19T00:52:33+00:00",
+    "default_photo": {
+      "id": 338769869,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) anitathamm, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338769869/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "anitathamm",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338769869/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338769869/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 24826,
+    "photos_locked": false,
+    "universal_search_rank": 24826,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 12087,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Short-beaked_echidna",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Short-beaked Echidna"
+  }
+}

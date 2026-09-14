@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-386289202",
+  "targetId": "org-strigops-habroptilus",
+  "scientificName": "Strigops habroptilus",
+  "nameJa": "カカポ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:09:02+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:09:02+00:00",
+  "files": {
+    "master": "images/strigops-habroptilus/inat-386289202.jpg",
+    "web": "images/strigops-habroptilus/inat-386289202.webp",
+    "thumbnail": "images/strigops-habroptilus/inat-386289202-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1375
+    ],
+    "master": [
+      2048,
+      1375
+    ],
+    "web": [
+      1400,
+      940
+    ]
+  },
+  "bytes": {
+    "master": 908752,
+    "web": 180960,
+    "thumbnail": 17210
+  },
+  "sha256": {
+    "download": "66939efc6ed3e6443f804fb778acd04e4012071b0eb8dadb734db5a688314c96",
+    "master": "63307682f35ec690d7795c8ca2de6a3bc22b0d0d888b3fd2e35569bd14469680",
+    "web": "3edcb7d1ea9e148436a00fec563a4cf7f4e91eed8bef8909360af79441996188"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Strigops habroptilus [Strigops habroptilus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/386289202. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Strigops habroptilus",
+  "sourceId": "386289202",
+  "photoUrl": "https://www.inaturalist.org/photos/386289202",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/386289202/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/386289202/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 1584019,
+  "acceptedScientificName": "Strigops habroptilus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/218304049",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.964285714285715,
+  "photoApiEvidence": {
+    "id": 386289202,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1375
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/386289202/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/18874/200965/19013",
+    "min_species_ancestry": "48460,1,2,355675,3,18874,200965,19013,1584019",
+    "endemic": true,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 1584019,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 19013,
+    "name": "Strigops habroptilus",
+    "rank": "species",
+    "extinct": false,
+    "id": 1584019,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      18874,
+      200965,
+      19013,
+      1584019
+    ],
+    "created_at": "2024-10-27T13:11:23+00:00",
+    "default_photo": {
+      "id": 592580290,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Jake Osborne, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592580290/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Jake Osborne",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592580290/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592580290/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 0,
+    "observations_count": 73,
+    "photos_locked": false,
+    "universal_search_rank": 73,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kākāpō",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Kākāpō",
+    "conservation_status": {
+      "id": 295317,
+      "place_id": null,
+      "source_id": 18766,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "cr",
+      "status_name": "critically endangered",
+      "geoprivacy": "obscured",
+      "iucn": 50
+    }
+  }
+}
