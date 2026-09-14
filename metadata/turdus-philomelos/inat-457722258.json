@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-457722258",
+  "targetId": "inat-taxon-12748",
+  "scientificName": "Turdus philomelos",
+  "nameJa": "ウタツグミ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:28:06+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:28:06+00:00",
+  "files": {
+    "master": "images/turdus-philomelos/inat-457722258.jpg",
+    "web": "images/turdus-philomelos/inat-457722258.webp",
+    "thumbnail": "images/turdus-philomelos/inat-457722258-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 790055,
+    "web": 171120,
+    "thumbnail": 13192
+  },
+  "sha256": {
+    "download": "be5ff269d5434e6de10f9fb3f1b2a0c7e17c6fc4e3ff61ec54d3f3ac142caf5b",
+    "master": "1874e4eab94146223b755422474463efed85db2f77b4f195bc9b28ec468a18c3",
+    "web": "0437e1f48aeecfec49e208d8d79a13422301962f96a15b4ec41e91be2c1e29a2"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Turdus philomelos [Turdus philomelos] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/457722258. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Turdus philomelos",
+  "sourceId": "457722258",
+  "photoUrl": "https://www.inaturalist.org/photos/457722258",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/457722258/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/457722258/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 12748,
+  "acceptedScientificName": "Turdus philomelos",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/255411955",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 457722258,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457722258/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/15977/12705",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,15977,12705,12748",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 12748,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 12705,
+    "name": "Turdus philomelos",
+    "rank": "species",
+    "extinct": false,
+    "id": 12748,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      15977,
+      12705,
+      12748
+    ],
+    "created_at": "2008-03-13T03:14:00+00:00",
+    "default_photo": {
+      "id": 61267397,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Ximo Galarza, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61267397/square.jpg",
+      "original_dimensions": {
+        "height": 1363,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Ximo Galarza",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61267397/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61267397/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 8,
+    "observations_count": 80885,
+    "photos_locked": false,
+    "universal_search_rank": 80885,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Song_thrush",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Song Thrush"
+  }
+}

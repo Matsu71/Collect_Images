@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-5656249",
+  "targetId": "inat-taxon-48284",
+  "scientificName": "Oniscus asellus",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:30+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:30+00:00",
+  "files": {
+    "master": "images/oniscus-asellus/inat-5656249.jpg",
+    "web": "images/oniscus-asellus/inat-5656249.webp",
+    "thumbnail": "images/oniscus-asellus/inat-5656249-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 850072,
+    "web": 177652,
+    "thumbnail": 16894
+  },
+  "sha256": {
+    "download": "27c056a60ad315bc41eaad7f1f5bde29b62a99b601428808da20c0977ee8a316",
+    "master": "307c73fb666614ebdabc207c6f4f648f43967038c9d5d7981ba09dbd68f5ce4a",
+    "web": "3564eb4f8f99f1af9d931a531331d509d41c1b8de9edb9bc1b64d12a64520a81"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Oniscus asellus [Oniscus asellus] — Katja Schulz / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/5656249. Original attribution: (c) Katja Schulz, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Oniscus asellus",
+  "sourceId": "5656249",
+  "photoUrl": "https://www.inaturalist.org/photos/5656249",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5656249/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5656249/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Katja Schulz",
+  "originalAttribution": "(c) Katja Schulz, some rights reserved (CC BY)",
+  "taxonId": 48284,
+  "acceptedScientificName": "Oniscus asellus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.194285714285714,
+  "photoApiEvidence": {
+    "id": 5656249,
+    "license_code": "cc-by",
+    "attribution": "(c) Katja Schulz, some rights reserved (CC BY)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5656249/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Katja Schulz",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5656249/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5656249/medium.jpg"
+  },
+  "observationTaxon": null
+}

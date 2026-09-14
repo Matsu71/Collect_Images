@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-7749660",
+  "targetId": "inat-taxon-55749",
+  "scientificName": "Veronica serpyllifolia",
+  "nameJa": "テングクワガタ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:28:35+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:28:35+00:00",
+  "files": {
+    "master": "images/veronica-serpyllifolia/inat-7749660.jpg",
+    "web": "images/veronica-serpyllifolia/inat-7749660.webp",
+    "thumbnail": "images/veronica-serpyllifolia/inat-7749660-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1815,
+      2048
+    ],
+    "master": [
+      1815,
+      2048
+    ],
+    "web": [
+      1241,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 696387,
+    "web": 91476,
+    "thumbnail": 7350
+  },
+  "sha256": {
+    "download": "6cd0aac3e2ba20668682a8497e0f1ee8e9a52c8d09c430b302ac7ba682516430",
+    "master": "b5e10a8ffe032c6924f21d869bf52b0820c27e798cf272280302716c49bf1921",
+    "web": "072fb5195160a0c43a0bc96f7d97f9401f59005db1b8666163493f5b00a5505d"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Veronica serpyllifolia [Veronica serpyllifolia] — aarongunnar / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/7749660. Original attribution: (c) aarongunnar, some rights reserved (CC BY), uploaded by aarongunnar. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Veronica serpyllifolia",
+  "sourceId": "7749660",
+  "photoUrl": "https://www.inaturalist.org/photos/7749660",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7749660/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7749660/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "aarongunnar",
+  "originalAttribution": "(c) aarongunnar, some rights reserved (CC BY), uploaded by aarongunnar",
+  "taxonId": 55749,
+  "acceptedScientificName": "Veronica serpyllifolia",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.592857142857143,
+  "photoApiEvidence": {
+    "id": 7749660,
+    "license_code": "cc-by",
+    "attribution": "(c) aarongunnar, some rights reserved (CC BY), uploaded by aarongunnar",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7749660/square.jpg",
+    "original_dimensions": {
+      "height": 2048,
+      "width": 1815
+    },
+    "flags": [],
+    "attribution_name": "aarongunnar",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7749660/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7749660/medium.jpg"
+  },
+  "observationTaxon": null
+}

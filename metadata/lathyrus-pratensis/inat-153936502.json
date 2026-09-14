@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-153936502",
+  "targetId": "inat-taxon-125787",
+  "scientificName": "Lathyrus pratensis",
+  "nameJa": "キバナノレンリソウ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:28:50+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:28:50+00:00",
+  "files": {
+    "master": "images/lathyrus-pratensis/inat-153936502.jpg",
+    "web": "images/lathyrus-pratensis/inat-153936502.webp",
+    "thumbnail": "images/lathyrus-pratensis/inat-153936502-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 361434,
+    "web": 53366,
+    "thumbnail": 5102
+  },
+  "sha256": {
+    "download": "024739b3a8222ac34faaffacbd37457a34e0cfb0666421e81a8adb1e162537e8",
+    "master": "0434bcbcf8e3d1ff2fc02fee5d607dd3abeea38ab304de1c319cebf86725df2f",
+    "web": "cc2468443b92529aa04a601d31685df833ecb709a807a32a094ab7a6370ea47a"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Lathyrus pratensis [Lathyrus pratensis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/153936502. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Lathyrus pratensis",
+  "sourceId": "153936502",
+  "photoUrl": "https://www.inaturalist.org/photos/153936502",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/153936502/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/153936502/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 125787,
+  "acceptedScientificName": "Lathyrus pratensis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/92925909",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 153936502,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/153936502/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47123/47122/507502/633087/50321/1641380",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47123,47122,507502,633087,50321,1641380,125787",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 125787,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1641380,
+    "name": "Lathyrus pratensis",
+    "rank": "species",
+    "extinct": false,
+    "id": 125787,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47123,
+      47122,
+      507502,
+      633087,
+      50321,
+      1641380,
+      125787
+    ],
+    "created_at": "2012-03-09T20:56:45+00:00",
+    "default_photo": {
+      "id": 253778567,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) ocanire, some rights reserved (CC BY-NC), uploaded by ocanire",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253778567/square.jpeg",
+      "original_dimensions": {
+        "height": 2047,
+        "width": 2047
+      },
+      "flags": [],
+      "attribution_name": "ocanire",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253778567/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253778567/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 36298,
+    "photos_locked": false,
+    "universal_search_rank": 36298,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lathyrus_pratensis",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "meadow pea"
+  }
+}

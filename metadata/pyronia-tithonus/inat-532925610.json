@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-532925610",
+  "targetId": "inat-taxon-62429",
+  "scientificName": "Pyronia tithonus",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:56+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:56+00:00",
+  "files": {
+    "master": "images/pyronia-tithonus/inat-532925610.jpg",
+    "web": "images/pyronia-tithonus/inat-532925610.webp",
+    "thumbnail": "images/pyronia-tithonus/inat-532925610-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 555346,
+    "web": 158316,
+    "thumbnail": 12304
+  },
+  "sha256": {
+    "download": "0e54539ea49a742b44c48755e02c18302e1d778d22dd3eb4f2b83d53b99d0a1a",
+    "master": "e67586512abe75964d3b414b89c4e127a69f29d964a3251d7a72e700b8f4ee90",
+    "web": "d782b2c399347bf2de22062ccac224d738b6a3c8c46fbe187fd58b85083c83f0"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Pyronia tithonus [Pyronia tithonus] — uxbridgebirder / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/532925610. Original attribution: (c) uxbridgebirder, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Pyronia tithonus",
+  "sourceId": "532925610",
+  "photoUrl": "https://www.inaturalist.org/photos/532925610",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/532925610/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/532925610/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "uxbridgebirder",
+  "originalAttribution": "(c) uxbridgebirder, some rights reserved (CC BY)",
+  "taxonId": 62429,
+  "acceptedScientificName": "Pyronia tithonus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/295997315",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.527619047619047,
+  "photoApiEvidence": {
+    "id": 532925610,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532925610/square.jpg",
+    "attribution": "(c) uxbridgebirder, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47157/47224/47922/58597/58598/208488/62428",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47157,47224,47922,58597,58598,208488,62428,62429",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 62429,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 62428,
+    "name": "Pyronia tithonus",
+    "rank": "species",
+    "extinct": false,
+    "id": 62429,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47157,
+      47224,
+      47922,
+      58597,
+      58598,
+      208488,
+      62428,
+      62429
+    ],
+    "created_at": "2010-07-22T18:12:49+00:00",
+    "default_photo": {
+      "id": 508718,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Marcello Consolo, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508718/square.jpg",
+      "original_dimensions": {
+        "height": 1463,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Marcello Consolo",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508718/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508718/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 44659,
+    "photos_locked": false,
+    "universal_search_rank": 44659,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Gatekeeper_(butterfly)",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Gatekeeper"
+  }
+}

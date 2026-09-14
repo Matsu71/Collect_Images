@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-305823100",
+  "targetId": "inat-taxon-47751",
+  "scientificName": "Polystichum munitum",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:17+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:17+00:00",
+  "files": {
+    "master": "images/polystichum-munitum/inat-305823100.jpg",
+    "web": "images/polystichum-munitum/inat-305823100.webp",
+    "thumbnail": "images/polystichum-munitum/inat-305823100-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 797652,
+    "web": 188676,
+    "thumbnail": 29540
+  },
+  "sha256": {
+    "download": "e6e2838b833d6b4371ab59bf9eb1538fa057b839fb35c41cf90201ec749ceb30",
+    "master": "9927a5277557cc9a3f69a39f7510981ed0211c480a444ec8c8de78a5afa90b1e",
+    "web": "31b792b30835f652393f1e832fbbd40fbe370e14f2ef61cd0043445d63e99fff"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Polystichum munitum [Polystichum munitum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/305823100. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Polystichum munitum",
+  "sourceId": "305823100",
+  "photoUrl": "https://www.inaturalist.org/photos/305823100",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/305823100/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/305823100/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 47751,
+  "acceptedScientificName": "Polystichum munitum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/175954835",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 305823100,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/305823100/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/121943/764796/47754/961001/47753/870758/47752",
+    "min_species_ancestry": "48460,47126,211194,121943,764796,47754,961001,47753,870758,47752,47751",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 47751,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 47752,
+    "name": "Polystichum munitum",
+    "rank": "species",
+    "extinct": false,
+    "id": 47751,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      121943,
+      764796,
+      47754,
+      961001,
+      47753,
+      870758,
+      47752,
+      47751
+    ],
+    "provisional": false,
+    "created_at": "2008-06-17T22:26:24+00:00",
+    "default_photo": {
+      "id": 412744739,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) mme_renn, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/412744739/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "mme_renn",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/412744739/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/412744739/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 77846,
+    "photos_locked": false,
+    "universal_search_rank": 77846,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 1242,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Polystichum_munitum",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "western sword fern"
+  }
+}

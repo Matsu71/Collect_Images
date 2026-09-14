@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-421308410",
+  "targetId": "inat-taxon-53197",
+  "scientificName": "Rumex crispus",
+  "nameJa": "ナガバギシギシ(広義)",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:09+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:09+00:00",
+  "files": {
+    "master": "images/rumex-crispus/inat-421308410.jpg",
+    "web": "images/rumex-crispus/inat-421308410.webp",
+    "thumbnail": "images/rumex-crispus/inat-421308410-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 556443,
+    "web": 137320,
+    "thumbnail": 8956
+  },
+  "sha256": {
+    "download": "dc8b4b775fb0e452765b13b08477932be0ad6d610cedd1652bc03b4733b6d082",
+    "master": "7f4d266b411544c2b7ae567c2c06a1663fce9bdcdb650400dbd0014a908191e5",
+    "web": "5ee480a8fed62e1176aa466b9064ce9385e95e781503e78477362bf735a5e020"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Rumex crispus [Rumex crispus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/421308410. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Rumex crispus",
+  "sourceId": "421308410",
+  "photoUrl": "https://www.inaturalist.org/photos/421308410",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/421308410/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/421308410/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 53197,
+  "acceptedScientificName": "Rumex crispus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/236789744",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.259047619047617,
+  "photoApiEvidence": {
+    "id": 421308410,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/421308410/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47366/48382/922206/922242/53196/1540581",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47366,48382,922206,922242,53196,1540581,53197",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 53197,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1540581,
+    "name": "Rumex crispus",
+    "rank": "species",
+    "extinct": false,
+    "id": 53197,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47366,
+      48382,
+      922206,
+      922242,
+      53196,
+      1540581,
+      53197
+    ],
+    "created_at": "2009-09-18T19:02:20+00:00",
+    "default_photo": {
+      "id": 447224091,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Joseph Knight, some rights reserved (CC BY-NC), uploaded by Joseph Knight",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447224091/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "Joseph Knight",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447224091/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447224091/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 6,
+    "observations_count": 106596,
+    "photos_locked": false,
+    "universal_search_rank": 106596,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rumex_crispus",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "curled dock"
+  }
+}

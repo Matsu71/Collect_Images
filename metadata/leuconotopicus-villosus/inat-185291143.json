@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-185291143",
+  "targetId": "inat-taxon-1651487",
+  "scientificName": "Leuconotopicus villosus",
+  "nameJa": "セジロアカゲラ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:13+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:13+00:00",
+  "files": {
+    "master": "images/leuconotopicus-villosus/inat-185291143.jpg",
+    "web": "images/leuconotopicus-villosus/inat-185291143.webp",
+    "thumbnail": "images/leuconotopicus-villosus/inat-185291143-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1844
+    ],
+    "master": [
+      2048,
+      1844
+    ],
+    "web": [
+      1400,
+      1261
+    ]
+  },
+  "bytes": {
+    "master": 681787,
+    "web": 175502,
+    "thumbnail": 12930
+  },
+  "sha256": {
+    "download": "dd115d159670596c76990a9c50635357d20a04aa91169b63e2c9ae70e46cc598",
+    "master": "fa480d4695665ee9dfe835d16494f984e083ffbc81439015816ba3e3fcf14830",
+    "web": "a6b2dea80ced7e02e0543733b849a6ca6f7ea25419b6bfb05e65d015ca2ea180"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Leuconotopicus villosus [Leuconotopicus villosus] — David Anderson / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/185291143. Original attribution: (c) David Anderson, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Leuconotopicus villosus",
+  "sourceId": "185291143",
+  "photoUrl": "https://www.inaturalist.org/photos/185291143",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/185291143/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/185291143/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "David Anderson",
+  "originalAttribution": "(c) David Anderson, some rights reserved (CC BY)",
+  "taxonId": 1651487,
+  "acceptedScientificName": "Leuconotopicus villosus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/109889225",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.634285714285714,
+  "photoApiEvidence": {
+    "id": 185291143,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1844
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/185291143/square.jpeg",
+    "attribution": "(c) David Anderson, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/17550/17599/1653299/1653311/1649809",
+    "min_species_ancestry": "48460,1,2,355675,3,17550,17599,1653299,1653311,1649809,1651487",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 1651487,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1649809,
+    "name": "Leuconotopicus villosus",
+    "rank": "species",
+    "extinct": false,
+    "id": 1651487,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      17550,
+      17599,
+      1653299,
+      1653311,
+      1649809,
+      1651487
+    ],
+    "provisional": false,
+    "created_at": "2025-11-03T20:11:22+00:00",
+    "default_photo": {
+      "id": 1275,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Gavan Watson, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1275/square.jpg",
+      "original_dimensions": {
+        "height": 635,
+        "width": 1024
+      },
+      "flags": [],
+      "attribution_name": "Gavan Watson",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1275/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1275/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 0,
+    "observations_count": 81691,
+    "photos_locked": false,
+    "universal_search_rank": 81691,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hairy_woodpecker",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Hairy Woodpecker"
+  }
+}

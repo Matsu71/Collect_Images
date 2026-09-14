@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-680202721",
+  "targetId": "inat-taxon-84954",
+  "scientificName": "Asplenium ruta-muraria",
+  "nameJa": "イチョウシダ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:28:29+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:28:29+00:00",
+  "files": {
+    "master": "images/asplenium-ruta-muraria/inat-680202721.jpg",
+    "web": "images/asplenium-ruta-muraria/inat-680202721.webp",
+    "thumbnail": "images/asplenium-ruta-muraria/inat-680202721-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1542,
+      2048
+    ],
+    "master": [
+      1542,
+      2048
+    ],
+    "web": [
+      1054,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 787729,
+    "web": 170432,
+    "thumbnail": 17842
+  },
+  "sha256": {
+    "download": "ee32d565478995246a7a2aa6017405642462a55530e7c9375740c96faebe161e",
+    "master": "56b7850e9d2de45a75220fe9e4afea0868ace5733edf23ec0dc404cedb6c55da",
+    "web": "b6f7cdfa25ed7e135f68cbd34cfcdc98e879af7ad0690059d4406ad332e4c11f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Asplenium ruta-muraria [Asplenium ruta-muraria] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/680202721. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Asplenium ruta-muraria",
+  "sourceId": "680202721",
+  "photoUrl": "https://www.inaturalist.org/photos/680202721",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/680202721/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/680202721/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 84954,
+  "acceptedScientificName": "Asplenium ruta-muraria",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/372246237",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.536190476190476,
+  "photoApiEvidence": {
+    "id": 680202721,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1542,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/680202721/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/121943/764796/47754/1224540/64662/71992",
+    "min_species_ancestry": "48460,47126,211194,121943,764796,47754,1224540,64662,71992,84954",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 84954,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 71992,
+    "name": "Asplenium ruta-muraria",
+    "rank": "species",
+    "extinct": false,
+    "id": 84954,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      121943,
+      764796,
+      47754,
+      1224540,
+      64662,
+      71992,
+      84954
+    ],
+    "created_at": "2011-07-22T02:50:49+00:00",
+    "default_photo": {
+      "id": 8990088,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) A. Flinn (and M. Finn), some rights reserved (CC BY-NC), uploaded by A. Flinn (and M. Finn)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8990088/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "A. Flinn (and M. Finn)",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8990088/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8990088/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 27132,
+    "photos_locked": false,
+    "universal_search_rank": 27132,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Asplenium_ruta-muraria",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "wall-rue"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-3053969",
+  "targetId": "inat-taxon-144814",
+  "scientificName": "Poecile carolinensis",
+  "nameJa": "カロライナコガラ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:28:42+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:28:42+00:00",
+  "files": {
+    "master": "images/poecile-carolinensis/inat-3053969.jpg",
+    "web": "images/poecile-carolinensis/inat-3053969.webp",
+    "thumbnail": "images/poecile-carolinensis/inat-3053969-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 801553,
+    "web": 130692,
+    "thumbnail": 7246
+  },
+  "sha256": {
+    "download": "2278be5093e3e67097d9bafa0c46a414619dc39e25d05dcde97d84f33b9c96c7",
+    "master": "3606e11750b5e674bf1091b2e0ae732b60e06244ce507d9034cd29a128dfb1fb",
+    "web": "1e3687e1314ad83e96849ed4c2d1df47c038c8bf566ee118276a1c91a37eaebf"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Poecile carolinensis [Poecile carolinensis] — Dan Pancamo / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/3053969. Original attribution: (c) Dan Pancamo, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Poecile carolinensis",
+  "sourceId": "3053969",
+  "photoUrl": "https://www.inaturalist.org/photos/3053969",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3053969/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3053969/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Dan Pancamo",
+  "originalAttribution": "(c) Dan Pancamo, some rights reserved (CC BY-SA)",
+  "taxonId": 144814,
+  "acceptedScientificName": "Poecile carolinensis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.194285714285714,
+  "photoApiEvidence": {
+    "id": 3053969,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Dan Pancamo, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3053969/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Dan Pancamo",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3053969/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3053969/medium.jpg"
+  },
+  "observationTaxon": null
+}
