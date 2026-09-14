@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-99684889",
+  "targetId": "org-lemur-catta",
+  "scientificName": "Lemur catta",
+  "nameJa": "ワオキツネザル",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:02:02+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:02:02+00:00",
+  "files": {
+    "master": "images/lemur-catta/inat-99684889.jpg",
+    "web": "images/lemur-catta/inat-99684889.webp",
+    "thumbnail": "images/lemur-catta/inat-99684889-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1388
+    ],
+    "master": [
+      2048,
+      1388
+    ],
+    "web": [
+      1400,
+      949
+    ]
+  },
+  "bytes": {
+    "master": 901481,
+    "web": 178588,
+    "thumbnail": 12408
+  },
+  "sha256": {
+    "download": "efde0b871003b317351c0cd2c81c41f99f49788206048af210635fc217de8be5",
+    "master": "db74370bbe33d70578631965de6c4e7aa47809ce416358c210c02f94078d0896",
+    "web": "9784a3faa7d1ab34b86b9a7cd9422a9c9f83069283e1365285029bacbad116ca"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Lemur catta [Lemur catta] — George Williams / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/99684889. Original attribution: (c) George Williams, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Lemur catta",
+  "sourceId": "99684889",
+  "photoUrl": "https://www.inaturalist.org/photos/99684889",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/99684889/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/99684889/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "George Williams",
+  "originalAttribution": "(c) George Williams, some rights reserved (CC BY)",
+  "taxonId": 43617,
+  "acceptedScientificName": "Lemur catta",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/62234339",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.982857142857142,
+  "photoApiEvidence": {
+    "id": 99684889,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1388
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/99684889/square.jpg",
+    "attribution": "(c) George Williams, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43367/936382/1369268/467897/43607/43616",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43367,936382,1369268,467897,43607,43616,43617",
+    "endemic": true,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43617,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 43616,
+    "name": "Lemur catta",
+    "rank": "species",
+    "extinct": false,
+    "id": 43617,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43367,
+      936382,
+      1369268,
+      467897,
+      43607,
+      43616,
+      43617
+    ],
+    "created_at": "2008-03-19T00:56:34+00:00",
+    "default_photo": {
+      "id": 25492,
+      "license_code": "cc-by-nd",
+      "attribution": "(c) Tambako The Jaguar, some rights reserved (CC BY-ND)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/25492/square.jpg",
+      "original_dimensions": {
+        "height": 1072,
+        "width": 1430
+      },
+      "flags": [],
+      "attribution_name": "Tambako The Jaguar",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/25492/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/25492/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 3842,
+    "photos_locked": false,
+    "universal_search_rank": 3842,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 14865,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ring-tailed_lemur",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Ring-tailed Lemur",
+    "conservation_status": {
+      "id": 16715,
+      "place_id": null,
+      "source_id": 15286,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "en",
+      "status_name": "endangered",
+      "geoprivacy": "obscured",
+      "iucn": 40
+    }
+  }
+}

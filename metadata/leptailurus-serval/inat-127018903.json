@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-127018903",
+  "targetId": "org-leptailurus-serval",
+  "scientificName": "Leptailurus serval",
+  "nameJa": "サーバル",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:02:13+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:02:13+00:00",
+  "files": {
+    "master": "images/leptailurus-serval/inat-127018903.jpg",
+    "web": "images/leptailurus-serval/inat-127018903.webp",
+    "thumbnail": "images/leptailurus-serval/inat-127018903-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1369
+    ],
+    "master": [
+      2048,
+      1369
+    ],
+    "web": [
+      1400,
+      936
+    ]
+  },
+  "bytes": {
+    "master": 920126,
+    "web": 183796,
+    "thumbnail": 20956
+  },
+  "sha256": {
+    "download": "c37d4419e4e371b56720cbe45b57ab7ff346f5d02083dc105760943584d4b1f6",
+    "master": "99094b5d6f47a2d918b65f9cdc49e558f888e1767fa5996b1385a603a778b2a6",
+    "web": "bc27e716c2ce42221a3b82c86a09ee0b4d673e92ba1e47e4041c9220a4a3e2b9"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 71,
+  "credit": "Leptailurus serval [Leptailurus serval] — Morten Ross / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/127018903. Original attribution: (c) Morten Ross, some rights reserved (CC BY), uploaded by Morten Ross. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Leptailurus serval",
+  "sourceId": "127018903",
+  "photoUrl": "https://www.inaturalist.org/photos/127018903",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/127018903/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/127018903/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Morten Ross",
+  "originalAttribution": "(c) Morten Ross, some rights reserved (CC BY), uploaded by Morten Ross",
+  "taxonId": 42025,
+  "acceptedScientificName": "Leptailurus serval",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 11.955714285714286,
+  "photoApiEvidence": {
+    "id": 127018903,
+    "license_code": "cc-by",
+    "attribution": "(c) Morten Ross, some rights reserved (CC BY), uploaded by Morten Ross",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127018903/square.jpg",
+    "original_dimensions": {
+      "height": 1369,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Morten Ross",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127018903/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127018903/medium.jpg"
+  },
+  "observationTaxon": null
+}

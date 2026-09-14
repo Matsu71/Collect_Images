@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-405618934",
+  "targetId": "org-loxodonta-africana",
+  "scientificName": "Loxodonta africana",
+  "nameJa": "アフリカゾウ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:02:32+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:02:32+00:00",
+  "files": {
+    "master": "images/loxodonta-africana/inat-405618934.jpg",
+    "web": "images/loxodonta-africana/inat-405618934.webp",
+    "thumbnail": "images/loxodonta-africana/inat-405618934-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1366
+    ],
+    "master": [
+      2048,
+      1366
+    ],
+    "web": [
+      1400,
+      934
+    ]
+  },
+  "bytes": {
+    "master": 902421,
+    "web": 209580,
+    "thumbnail": 15970
+  },
+  "sha256": {
+    "download": "0a24900758e642dfc39596e77acf506375c7f4cf879cec19c78ff85baad9d327",
+    "master": "58f835253196f015194f832c0cb5a894dc420a7d68e706c18e5935410926e20f",
+    "web": "052849ebbd35b1749a4f033bef08f37189b67c2ebaa2aa60311ef2eafde006f1"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Loxodonta africana [Loxodonta africana] — Fábio Olmos / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/405618934. Original attribution: (c) Fábio Olmos, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Loxodonta africana",
+  "sourceId": "405618934",
+  "photoUrl": "https://www.inaturalist.org/photos/405618934",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/405618934/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/405618934/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Fábio Olmos",
+  "originalAttribution": "(c) Fábio Olmos, some rights reserved (CC BY)",
+  "taxonId": 43694,
+  "acceptedScientificName": "Loxodonta africana",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/228569750",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.951428571428572,
+  "photoApiEvidence": {
+    "id": 405618934,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1366
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405618934/square.jpg",
+    "attribution": "(c) Fábio Olmos, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848321/43691/43692/43693",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848321,43691,43692,43693,43694",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43694,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 43693,
+    "name": "Loxodonta africana",
+    "rank": "species",
+    "extinct": false,
+    "id": 43694,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848321,
+      43691,
+      43692,
+      43693,
+      43694
+    ],
+    "provisional": false,
+    "created_at": "2008-03-19T00:57:22+00:00",
+    "default_photo": {
+      "id": 93674728,
+      "license_code": "cc-by",
+      "attribution": "(c) dhfischer, some rights reserved (CC BY), uploaded by dhfischer",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/93674728/square.jpg",
+      "original_dimensions": {
+        "height": 533,
+        "width": 800
+      },
+      "flags": [],
+      "attribution_name": "dhfischer",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/93674728/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/93674728/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 4,
+    "observations_count": 30494,
+    "photos_locked": false,
+    "universal_search_rank": 30494,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 3276,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/African_bush_elephant",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "African Savanna Elephant",
+    "conservation_status": {
+      "id": 16771,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "en",
+      "status_name": "endangered",
+      "geoprivacy": "obscured",
+      "iucn": 40
+    }
+  }
+}

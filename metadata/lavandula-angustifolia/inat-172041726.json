@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-172041726",
+  "targetId": "org-lavandula-angustifolia",
+  "scientificName": "Lavandula angustifolia",
+  "nameJa": "ラベンダー",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:01:59+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:01:59+00:00",
+  "files": {
+    "master": "images/lavandula-angustifolia/inat-172041726.jpg",
+    "web": "images/lavandula-angustifolia/inat-172041726.webp",
+    "thumbnail": "images/lavandula-angustifolia/inat-172041726-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1381063,
+    "web": 276596,
+    "thumbnail": 24042
+  },
+  "sha256": {
+    "download": "75013b33f7c52f626a92ead1405d09ab737f2c3a238587631032d06a3d167c96",
+    "master": "19c5e09d8ef131469156e8bc0beb6ea271e54b6d02688ca5bde01a7c18bc34fc",
+    "web": "d5e163ffcdb3044dcc95bd97f15114c7d1e6604502ab415110474ba2847daf08"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Lavandula angustifolia [Lavandula angustifolia] — Naturalista / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/172041726. Original attribution: (c) Naturalista, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Lavandula angustifolia",
+  "sourceId": "172041726",
+  "photoUrl": "https://www.inaturalist.org/photos/172041726",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/172041726/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/172041726/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Naturalista",
+  "originalAttribution": "(c) Naturalista, some rights reserved (CC BY)",
+  "taxonId": 133395,
+  "acceptedScientificName": "Lavandula angustifolia",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/102864254",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.527619047619047,
+  "photoApiEvidence": {
+    "id": 172041726,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172041726/square.jpg",
+    "attribution": "(c) Naturalista, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48151/48623/520502/520501/919153/61905/1680848/1680850",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48151,48623,520502,520501,919153,61905,1680848,1680850,133395",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 133395,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 1680850,
+    "name": "Lavandula angustifolia",
+    "rank": "species",
+    "extinct": false,
+    "id": 133395,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48151,
+      48623,
+      520502,
+      520501,
+      919153,
+      61905,
+      1680848,
+      1680850,
+      133395
+    ],
+    "created_at": "2012-07-09T01:16:03+00:00",
+    "default_photo": {
+      "id": 157057,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) epicnom, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157057/square.jpg",
+      "original_dimensions": {
+        "height": 1371,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "epicnom",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157057/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157057/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 6,
+    "observations_count": 23212,
+    "photos_locked": false,
+    "universal_search_rank": 23212,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lavandula_angustifolia",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Common Lavender"
+  }
+}

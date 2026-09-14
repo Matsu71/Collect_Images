@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-95715136",
+  "targetId": "org-lycaon-pictus",
+  "scientificName": "Lycaon pictus",
+  "nameJa": "リカオン",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:02:40+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:02:40+00:00",
+  "files": {
+    "master": "images/lycaon-pictus/inat-95715136.jpg",
+    "web": "images/lycaon-pictus/inat-95715136.webp",
+    "thumbnail": "images/lycaon-pictus/inat-95715136-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1884,
+      1528
+    ],
+    "master": [
+      1884,
+      1528
+    ],
+    "web": [
+      1400,
+      1135
+    ]
+  },
+  "bytes": {
+    "master": 1039729,
+    "web": 184162,
+    "thumbnail": 24686
+  },
+  "sha256": {
+    "download": "4dac9389c1f1f27acf632a85b7f34f34358af503f1f7d54c3d2d20451a431604",
+    "master": "edcf4f01749362112319c5186d7e6b31019b1d27c07d900fedcf9f5a16ef4737",
+    "web": "9818cfb32cb4e6ec3350086c3e30ffe86adc980a67a6e43d0d2b2c916906334e"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Lycaon pictus [Lycaon pictus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/95715136. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Lycaon pictus",
+  "sourceId": "95715136",
+  "photoUrl": "https://www.inaturalist.org/photos/95715136",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/95715136/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/95715136/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 42093,
+  "acceptedScientificName": "Lycaon pictus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/59881561",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.84952380952381,
+  "photoApiEvidence": {
+    "id": 95715136,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1884,
+      "height": 1528
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95715136/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/42043/42092/42093",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,42043,42092,42093",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 42093,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 42093,
+    "name": "Lycaon pictus pictus",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 711435,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      42043,
+      42092,
+      42093,
+      711435
+    ],
+    "created_at": "2018-05-18T16:01:33+00:00",
+    "default_photo": {
+      "id": 109834510,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Dr David Doolittle, some rights reserved (CC BY-NC), uploaded by Dr David Doolittle",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109834510/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Dr David Doolittle",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109834510/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109834510/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 2262,
+    "photos_locked": false,
+    "universal_search_rank": 2262,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cape_wild_dog",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Cape Wild Dog"
+  }
+}

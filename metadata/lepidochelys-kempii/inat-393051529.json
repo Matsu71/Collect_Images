@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-393051529",
+  "targetId": "org-lepidochelys-kempii",
+  "scientificName": "Lepidochelys kempii",
+  "nameJa": "ケンプヒメウミガメ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:02:06+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:02:06+00:00",
+  "files": {
+    "master": "images/lepidochelys-kempii/inat-393051529.jpg",
+    "web": "images/lepidochelys-kempii/inat-393051529.webp",
+    "thumbnail": "images/lepidochelys-kempii/inat-393051529-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1898830,
+    "web": 534688,
+    "thumbnail": 35224
+  },
+  "sha256": {
+    "download": "ad29716b41532468c63509337a918e1130e0568f94b40693a8718dc9d5e70126",
+    "master": "9389c6b0ce867834e62be704e67fdf30b9b46f430d69dad78bac929f8b591b60",
+    "web": "daedada7b6c16a1bb0a4dc9e5587565a0cca6be18355c1825338fa5e6588a31d"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Lepidochelys kempii [Lepidochelys kempii] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/393051529. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Lepidochelys kempii",
+  "sourceId": "393051529",
+  "photoUrl": "https://www.inaturalist.org/photos/393051529",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/393051529/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/393051529/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 73844,
+  "acceptedScientificName": "Lepidochelys kempii",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": "https://www.inaturalist.org/observations/221922554",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 393051529,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/393051529/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/39532/372234/39657/797541/39669",
+    "min_species_ancestry": "48460,1,2,355675,26036,39532,372234,39657,797541,39669,73844",
+    "endemic": false,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 73844,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 39669,
+    "name": "Lepidochelys kempii",
+    "rank": "species",
+    "extinct": false,
+    "id": 73844,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      39532,
+      372234,
+      39657,
+      797541,
+      39669,
+      73844
+    ],
+    "created_at": "2011-05-13T21:33:01+00:00",
+    "default_photo": {
+      "id": 422850824,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) randy6410, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422850824/square.jpeg",
+      "original_dimensions": {
+        "height": 1284,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "randy6410",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422850824/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422850824/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 1025,
+    "photos_locked": false,
+    "universal_search_rank": 1025,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Kemp's_ridley_sea_turtle",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "Kemp's Ridley Sea Turtle",
+    "conservation_status": {
+      "id": 23224,
+      "place_id": null,
+      "source_id": 26,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "cr",
+      "status_name": "critically endangered",
+      "geoprivacy": "obscured",
+      "iucn": 50
+    }
+  }
+}

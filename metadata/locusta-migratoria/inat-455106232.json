@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-455106232",
+  "targetId": "org-locusta-migratoria",
+  "scientificName": "Locusta migratoria",
+  "nameJa": "トノサマバッタ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:02:25+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:02:25+00:00",
+  "files": {
+    "master": "images/locusta-migratoria/inat-455106232.jpg",
+    "web": "images/locusta-migratoria/inat-455106232.webp",
+    "thumbnail": "images/locusta-migratoria/inat-455106232-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 511358,
+    "web": 124558,
+    "thumbnail": 10790
+  },
+  "sha256": {
+    "download": "290bf80853b6c03671ec54d405eab4a3d6accc7144c2221ccdffc91a4873b38d",
+    "master": "e530055cade916c0e6dbb9fa73cf8b87e00212b4a4bbb4b244fc5e8fa9daec07",
+    "web": "022fa9f9507deaa625082917bc9922f553d2e2709bfc91e8b6e50a6c3298ea88"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Locusta migratoria [Locusta migratoria] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/455106232. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Locusta migratoria",
+  "sourceId": "455106232",
+  "photoUrl": "https://www.inaturalist.org/photos/455106232",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/455106232/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/455106232/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 201627,
+  "acceptedScientificName": "Locusta migratoria",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/254117695",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 455106232,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455106232/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47651/67688/700600/47650/47649/129164/523483/523484/201631",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47651,67688,700600,47650,47649,129164,523483,523484,201631,201627",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 201627,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 201631,
+    "name": "Locusta migratoria",
+    "rank": "species",
+    "extinct": false,
+    "id": 201627,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47651,
+      67688,
+      700600,
+      47650,
+      47649,
+      129164,
+      523483,
+      523484,
+      201631,
+      201627
+    ],
+    "provisional": false,
+    "created_at": "2013-01-11T02:29:14+00:00",
+    "default_photo": {
+      "id": 5185296,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Enrique Baquero, some rights reserved (CC BY-NC), uploaded by Enrique Baquero",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5185296/square.jpg",
+      "original_dimensions": {
+        "height": 683,
+        "width": 1024
+      },
+      "flags": [],
+      "attribution_name": "Enrique Baquero",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5185296/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5185296/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 10256,
+    "photos_locked": false,
+    "universal_search_rank": 10256,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Migratory_locust",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Migratory Locust"
+  }
+}

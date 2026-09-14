@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-161936314",
+  "targetId": "org-lithobates-catesbeianus",
+  "scientificName": "Lithobates catesbeianus",
+  "nameJa": "ウシガエル",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:02:24+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:02:24+00:00",
+  "files": {
+    "master": "images/lithobates-catesbeianus/inat-161936314.jpg",
+    "web": "images/lithobates-catesbeianus/inat-161936314.webp",
+    "thumbnail": "images/lithobates-catesbeianus/inat-161936314-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1386
+    ],
+    "master": [
+      2048,
+      1386
+    ],
+    "web": [
+      1400,
+      947
+    ]
+  },
+  "bytes": {
+    "master": 1189508,
+    "web": 249144,
+    "thumbnail": 32280
+  },
+  "sha256": {
+    "download": "d3efc4fe87e6421ad433dbe1b43f9415b9a5276fca7818a72225448bea426e84",
+    "master": "df7ecdca53692d003e756721c50519d756134682f83fbffc3dac05dc9b8009cf",
+    "web": "e06e106dd1275e3601cad56a4e8c3711fcfd3da59efdedddb9153a5599d7509b"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Lithobates catesbeianus [Lithobates catesbeianus] — Nell Cant / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/161936314. Original attribution: (c) Nell Cant, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Lithobates catesbeianus",
+  "sourceId": "161936314",
+  "photoUrl": "https://www.inaturalist.org/photos/161936314",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/161936314/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/161936314/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Nell Cant",
+  "originalAttribution": "(c) Nell Cant, some rights reserved (CC BY)",
+  "taxonId": 65979,
+  "acceptedScientificName": "Lithobates catesbeianus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Amphibia",
+  "observationUrl": "https://www.inaturalist.org/observations/97376714",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.98,
+  "photoApiEvidence": {
+    "id": 161936314,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1386
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/161936314/square.jpg",
+    "attribution": "(c) Nell Cant, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/20978/20979/25473/60340",
+    "min_species_ancestry": "48460,1,2,355675,20978,20979,25473,60340,65979",
+    "endemic": false,
+    "iconic_taxon_id": 20978,
+    "min_species_taxon_id": 65979,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 60340,
+    "name": "Lithobates catesbeianus",
+    "rank": "species",
+    "extinct": false,
+    "id": 65979,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      20978,
+      20979,
+      25473,
+      60340,
+      65979
+    ],
+    "created_at": "2011-01-05T09:09:23+00:00",
+    "default_photo": {
+      "id": 519633752,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Jag Athwal, some rights reserved (CC BY-NC), uploaded by Jag Athwal",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519633752/square.jpg",
+      "original_dimensions": {
+        "height": 1639,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Jag Athwal",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519633752/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519633752/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 9,
+    "observations_count": 149403,
+    "photos_locked": false,
+    "universal_search_rank": 149403,
+    "flag_counts": {
+      "resolved": 8,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 510,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/American_bullfrog",
+    "iconic_taxon_name": "Amphibia",
+    "preferred_common_name": "American Bullfrog"
+  }
+}

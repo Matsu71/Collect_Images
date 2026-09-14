@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-339428082",
+  "targetId": "org-mandrillus-sphinx",
+  "scientificName": "Mandrillus sphinx",
+  "nameJa": "マンドリル",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:02:58+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:02:58+00:00",
+  "files": {
+    "master": "images/mandrillus-sphinx/inat-339428082.jpg",
+    "web": "images/mandrillus-sphinx/inat-339428082.webp",
+    "thumbnail": "images/mandrillus-sphinx/inat-339428082-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 708662,
+    "web": 142646,
+    "thumbnail": 11616
+  },
+  "sha256": {
+    "download": "4af7e1c36f045237922ccff2953c8b47e852056f79e8021bd2262c158adc69a7",
+    "master": "408879de52f78cbd8b725351dfd1c82bb4003124cc282b4881f463c21b2ad8fa",
+    "web": "8ecb03d68d85cd990fcc6b1e3cef1eff7c7c7e2284fd85b30a77a4eb991797be"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Mandrillus sphinx [Mandrillus sphinx] — Julien Renoult / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/339428082. Original attribution: (c) Julien Renoult, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Mandrillus sphinx",
+  "sourceId": "339428082",
+  "photoUrl": "https://www.inaturalist.org/photos/339428082",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/339428082/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/339428082/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Julien Renoult",
+  "originalAttribution": "(c) Julien Renoult, some rights reserved (CC BY)",
+  "taxonId": 43533,
+  "acceptedScientificName": "Mandrillus sphinx",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/193238048",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.616666666666667,
+  "photoApiEvidence": {
+    "id": 339428082,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/339428082/square.jpeg",
+    "attribution": "(c) Julien Renoult, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43367/786045/936377/936369/43443/479424/846334/43531",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43367,786045,936377,936369,43443,479424,846334,43531,43533",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43533,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 43531,
+    "name": "Mandrillus sphinx",
+    "rank": "species",
+    "extinct": false,
+    "id": 43533,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43367,
+      786045,
+      936377,
+      936369,
+      43443,
+      479424,
+      846334,
+      43531,
+      43533
+    ],
+    "created_at": "2008-03-19T00:55:45+00:00",
+    "default_photo": {
+      "id": 124003329,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) pgtz, some rights reserved (CC BY-NC), uploaded by pgtz",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/124003329/square.jpeg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "pgtz",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/124003329/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/124003329/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 487,
+    "photos_locked": false,
+    "universal_search_rank": 487,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 15559,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mandrill",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Mandrill",
+    "conservation_status": {
+      "id": 16672,
+      "place_id": null,
+      "source_id": 15286,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "obscured",
+      "iucn": 30
+    }
+  }
+}

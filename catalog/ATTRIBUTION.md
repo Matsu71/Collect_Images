@@ -484,6 +484,102 @@ Hydra vulgaris [Hydra vulgaris] — no rights reserved / iNaturalist, CC0 (https
 
 Hydrochoerus hydrochaeris [Hydrochoerus hydrochaeris] — avocat / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/10691626. Original attribution: (c) avocat, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Green treefrog [Hyla cinerea] — Brian Gratwicke / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Green_treefrog.jpg. Original attribution: originally posted to Flickr as Green treefrog. Resized and re-encoded; no subject alteration.
+
 Hylobates lar [Hylobates lar] — Ladislav Král / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/265476979. Original attribution: (c) Ladislav Král, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
+
+Hystrix cristata [Hystrix cristata] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/37451801. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Ichthyophis glutinosus, female with eggs [Ichthyophis glutinosus] — Lajmmoore / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Ichthyophis_glutinosus,_female_with_eggs.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Iguana iguana [Iguana iguana] — Richard Stovall / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/19063248. Original attribution: (c) Richard Stovall, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Indri indri [Indri indri] — Seig / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/50467304. Original attribution: (c) Seig, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Istiophorus platypterus [Istiophorus platypterus] — harrier / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/218996387. Original attribution: (c) harrier, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Isurus oxyrinchus [Isurus oxyrinchus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/50840137. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Ixodes scapularis [Ixodes scapularis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/459361478. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Lama glama [Lama glama] — Gijs Romijn / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/237389937. Original attribution: (c) Gijs Romijn, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Lasius niger [Lasius niger] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/384420372. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Latimeria Shirshov [Latimeria chalumnae] — Rdfr / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Latimeria_Shirshov.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Lavandula angustifolia [Lavandula angustifolia] — Naturalista / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/172041726. Original attribution: (c) Naturalista, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Lemna minor [Lemna minor] — Attila Oláh / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/49914550. Original attribution: (c) Attila Oláh, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Lemur catta [Lemur catta] — George Williams / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/99684889. Original attribution: (c) George Williams, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Shiitakegrowing [Lentinula edodes] — frankenstoen from Portland, Oregon / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Shiitakegrowing.jpg. Original attribution: Shiitake Mushrooms. Resized and re-encoded; no subject alteration.
+
+Lepidochelys kempii [Lepidochelys kempii] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/393051529. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Lepisosteus osseus [Lepisosteus osseus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/60610316. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Leptailurus serval [Leptailurus serval] — Morten Ross / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/127018903. Original attribution: (c) Morten Ross, some rights reserved (CC BY), uploaded by Morten Ross. Resized and re-encoded; no subject alteration.
+
+Leptoptilos crumenifer [Leptoptilos crumenifer] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/338956956. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Limulus polyphemus [Limulus polyphemus] — Elizabeth Green / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/281735049. Original attribution: (c) Elizabeth Green, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Linckia laevigata [Linckia laevigata] — portioid / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/265445111. Original attribution: (c) portioid, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Lissachatina fulica [Lissachatina fulica] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/42273030. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Lithobates catesbeianus [Lithobates catesbeianus] — Nell Cant / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/161936314. Original attribution: (c) Nell Cant, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Litoria caerulea - Darwin NT [Litoria caerulea] — Bidgee / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Litoria_caerulea_-_Darwin_NT.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Locusta migratoria [Locusta migratoria] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/455106232. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Loligo vulgaris [Loligo vulgaris] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/516160360. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Loxodonta africana [Loxodonta africana] — Fábio Olmos / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/405618934. Original attribution: (c) Fábio Olmos, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Lucanus cervus [Lucanus cervus] — Carminda Santos / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/47954195. Original attribution: (c) Carminda Santos, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Lumbricus terrestris [Lumbricus terrestris] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/61104504. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Lutra lutra [Lutra lutra] — Diego González Dopico / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/474812609. Original attribution: (c) Diego González Dopico, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Lycaon pictus [Lycaon pictus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/95715136. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Lynx kitten [Lynx lynx] — taken by Bernard Landgraf / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/3.0/); source: https://commons.wikimedia.org/wiki/File:Lynx_kitten.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Macaca fuscata [Macaca fuscata] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/726216850. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Macaca mulatta [Macaca mulatta] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/440553179. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Macrocheira kaempferi [Macrocheira kaempferi] — Brian Gratwicke / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/84967662. Original attribution: (c) Brian Gratwicke, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+CAS Macrocystis 2 [Macrocystis pyrifera] — EncycloPetey / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:CAS_Macrocystis_2.JPG. Original attribution: I, EncycloPetey. Resized and re-encoded; no subject alteration.
+
+Macropus giganteus [Macropus giganteus] — Shane Walker / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/53221252. Original attribution: (c) Shane Walker, some rights reserved (CC BY), uploaded by Shane Walker. Resized and re-encoded; no subject alteration.
+
+Magnolia grandiflora [Magnolia grandiflora] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/363901946. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Malayopython reticulatus [Malayopython reticulatus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/381376357. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Malus domestica [Malus domestica] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/70739381. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Mandrillus sphinx [Mandrillus sphinx] — Julien Renoult / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/339428082. Original attribution: (c) Julien Renoult, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Manihot esculenta [Manihot esculenta] — 葉子 / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/249495572. Original attribution: no rights reserved, uploaded by 葉子. Resized and re-encoded; no subject alteration.
+
+Manis javanica [Manis javanica] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/617138976. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Manis pentadactyla [Manis pentadactyla] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/327361077. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Marchantia polymorpha [Marchantia polymorpha] — Alex Abair / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/53920757. Original attribution: (c) Alex Abair, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Megaptera novaeangliae [Megaptera novaeangliae] — Ken-ichi Ueda / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/2562747. Original attribution: (c) Ken-ichi Ueda, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Meleagris gallopavo [Meleagris gallopavo] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/110731312. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Meles meles [Meles meles] — caroline legg / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/172054371. Original attribution: (c) caroline legg, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Trichodesmium interactions with bacteria to acquire iron [Trichodesmium spp.] — Subhajit Basu, Martha Gledhill, Dirk de Beer, S. G. Prabhu Matondkar & Yeala Shaked / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Trichodesmium_interactions_with_bacteria_to_acquire_iron.png. Original attribution: [1]. Resized and re-encoded; no subject alteration.

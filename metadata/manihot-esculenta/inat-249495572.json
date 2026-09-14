@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-249495572",
+  "targetId": "org-manihot-esculenta",
+  "scientificName": "Manihot esculenta",
+  "nameJa": "キャッサバ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:03:01+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:03:01+00:00",
+  "files": {
+    "master": "images/manihot-esculenta/inat-249495572.jpg",
+    "web": "images/manihot-esculenta/inat-249495572.webp",
+    "thumbnail": "images/manihot-esculenta/inat-249495572-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 480778,
+    "web": 91670,
+    "thumbnail": 11876
+  },
+  "sha256": {
+    "download": "0f4aebd98afe8a33ab64c780bbb93964bfc8549723b89064e33a55e770564c65",
+    "master": "80a505a0a27446a8437c22206b76bd08408ad07ab1adab061060905003fb962f",
+    "web": "1025843040092943d541efef84c28a12030293ca610fdf1a02c6f2b2e4c6cb7d"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Manihot esculenta [Manihot esculenta] — 葉子 / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/249495572. Original attribution: no rights reserved, uploaded by 葉子. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Manihot esculenta",
+  "sourceId": "249495572",
+  "photoUrl": "https://www.inaturalist.org/photos/249495572",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/249495572/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/249495572/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "葉子",
+  "originalAttribution": "no rights reserved, uploaded by 葉子",
+  "taxonId": 165138,
+  "acceptedScientificName": "Manihot esculenta",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 13.194285714285714,
+  "photoApiEvidence": {
+    "id": 249495572,
+    "license_code": "cc0",
+    "attribution": "no rights reserved, uploaded by 葉子",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249495572/square.jpeg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "葉子",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249495572/square.jpeg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249495572/medium.jpeg"
+  },
+  "observationTaxon": null
+}

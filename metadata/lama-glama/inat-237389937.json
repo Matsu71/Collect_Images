@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-237389937",
+  "targetId": "org-lama-glama",
+  "scientificName": "Lama glama",
+  "nameJa": "リャマ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:01:50+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:01:50+00:00",
+  "files": {
+    "master": "images/lama-glama/inat-237389937.jpg",
+    "web": "images/lama-glama/inat-237389937.webp",
+    "thumbnail": "images/lama-glama/inat-237389937-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1820,
+      2048
+    ],
+    "master": [
+      1820,
+      2048
+    ],
+    "web": [
+      1244,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 641450,
+    "web": 135058,
+    "thumbnail": 8000
+  },
+  "sha256": {
+    "download": "b31326ff8acf9f42fb4dbb288ec4065971e22e38114789c339f0b03ec4ffe8ac",
+    "master": "f73bcea8448206ff4983cb6088a6c1d0a3435e3423564c22d8476c7288940b4f",
+    "web": "0625bf90059150c92f7288b2f9004cb2a32e776b9265ce6887d2a84162ae659a"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Lama glama [Lama glama] — Gijs Romijn / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/237389937. Original attribution: (c) Gijs Romijn, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Lama glama",
+  "sourceId": "237389937",
+  "photoUrl": "https://www.inaturalist.org/photos/237389937",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/237389937/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/237389937/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Gijs Romijn",
+  "originalAttribution": "(c) Gijs Romijn, some rights reserved (CC BY)",
+  "taxonId": 121026,
+  "acceptedScientificName": "Lama glama",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/138857916",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.933333333333333,
+  "photoApiEvidence": {
+    "id": 237389937,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1820,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237389937/square.jpeg",
+    "attribution": "(c) Gijs Romijn, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/925150/42231/1317268/846262/42237",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,152870,925150,42231,1317268,846262,42237,121026",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 121026,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 42237,
+    "name": "Lama glama",
+    "rank": "species",
+    "extinct": false,
+    "id": 121026,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      152870,
+      925150,
+      42231,
+      1317268,
+      846262,
+      42237,
+      121026
+    ],
+    "provisional": false,
+    "created_at": "2011-11-26T23:41:50+00:00",
+    "default_photo": {
+      "id": 51281104,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Mattia, some rights reserved (CC BY-NC), uploaded by Mattia",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51281104/square.jpeg",
+      "original_dimensions": {
+        "height": 1356,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Mattia",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51281104/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51281104/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 6336,
+    "photos_locked": false,
+    "universal_search_rank": 6336,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 12958,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Llama",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Llama"
+  }
+}

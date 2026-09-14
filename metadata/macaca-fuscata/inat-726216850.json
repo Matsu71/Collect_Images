@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-726216850",
+  "targetId": "org-macaca-fuscata",
+  "scientificName": "Macaca fuscata",
+  "nameJa": "ニホンザル",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:02:42+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:02:42+00:00",
+  "files": {
+    "master": "images/macaca-fuscata/inat-726216850.jpg",
+    "web": "images/macaca-fuscata/inat-726216850.webp",
+    "thumbnail": "images/macaca-fuscata/inat-726216850-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 566890,
+    "web": 152980,
+    "thumbnail": 17496
+  },
+  "sha256": {
+    "download": "dfcd4fc9cf93d7325a2137ac5511695fa1e525794cba9c03abaf826abfe38c36",
+    "master": "6bb80716b91475d13ae372b70dcf23ff2ff592832df813ce6139a015fdb3471d",
+    "web": "f7f352841887602f4344c224baad7e31590227e16ba616682ef7b690b9f00a1f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Macaca fuscata [Macaca fuscata] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/726216850. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Macaca fuscata",
+  "sourceId": "726216850",
+  "photoUrl": "https://www.inaturalist.org/photos/726216850",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/726216850/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/726216850/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 43458,
+  "acceptedScientificName": "Macaca fuscata",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/396024758",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 726216850,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/726216850/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43367/786045/936377/936369/43443/479424/846334/43444/43458",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43367,786045,936377,936369,43443,479424,846334,43444,43458",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43458,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 43458,
+    "name": "Macaca fuscata fuscata",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 147702,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43367,
+      786045,
+      936377,
+      936369,
+      43443,
+      479424,
+      846334,
+      43444,
+      43458,
+      147702
+    ],
+    "created_at": "2012-09-08T01:22:59+00:00",
+    "default_photo": {
+      "id": 266478139,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Kaitlyn, some rights reserved (CC BY-NC), uploaded by Kaitlyn",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/266478139/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1408
+      },
+      "flags": [],
+      "attribution_name": "Kaitlyn",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/266478139/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/266478139/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 1890,
+    "photos_locked": false,
+    "universal_search_rank": 1890,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Hondo Macaque"
+  }
+}
