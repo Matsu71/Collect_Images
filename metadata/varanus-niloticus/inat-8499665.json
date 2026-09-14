@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-8499665",
+  "targetId": "org-varanus-niloticus",
+  "scientificName": "Varanus niloticus",
+  "nameJa": "ナイルオオトカゲ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:10:29+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:10:29+00:00",
+  "files": {
+    "master": "images/varanus-niloticus/inat-8499665.jpg",
+    "web": "images/varanus-niloticus/inat-8499665.webp",
+    "thumbnail": "images/varanus-niloticus/inat-8499665-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1107404,
+    "web": 247258,
+    "thumbnail": 31206
+  },
+  "sha256": {
+    "download": "ffc29290d2f3cb17678778308dba71647a036c081cef046386ea0618cf17060c",
+    "master": "7f2b71194b14f519898aa21bc2a65cc254afe85be94f91cc88777e0fdf7df4e9",
+    "web": "b74da135e2d1de7ff2a3234c997e240e753fc9f75d2aefcb7ef75b29d0187735"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Varanus niloticus [Varanus niloticus] — Ben Machado / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/8499665. Original attribution: (c) Ben Machado, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Varanus niloticus",
+  "sourceId": "8499665",
+  "photoUrl": "https://www.inaturalist.org/photos/8499665",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8499665/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8499665/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Ben Machado",
+  "originalAttribution": "(c) Ben Machado, some rights reserved (CC BY)",
+  "taxonId": 71085,
+  "acceptedScientificName": "Varanus niloticus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": "https://www.inaturalist.org/observations/6701125",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.194285714285714,
+  "photoApiEvidence": {
+    "id": 8499665,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8499665/square.jpeg",
+    "attribution": "(c) Ben Machado, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/26172/85552/1563906/39392/39393/1671727",
+    "min_species_ancestry": "48460,1,2,355675,26036,26172,85552,1563906,39392,39393,1671727,71085",
+    "endemic": false,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 71085,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1671727,
+    "name": "Varanus niloticus",
+    "rank": "species",
+    "extinct": false,
+    "id": 71085,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      26172,
+      85552,
+      1563906,
+      39392,
+      39393,
+      1671727,
+      71085
+    ],
+    "created_at": "2011-05-08T15:54:26+00:00",
+    "default_photo": {
+      "id": 144153390,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Bart Wursten, some rights reserved (CC BY-NC), uploaded by Bart Wursten",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/144153390/square.jpg",
+      "original_dimensions": {
+        "height": 1200,
+        "width": 1800
+      },
+      "flags": [],
+      "attribution_name": "Bart Wursten",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/144153390/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/144153390/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 4,
+    "observations_count": 6963,
+    "photos_locked": false,
+    "universal_search_rank": 6963,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 863,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Nile_monitor",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "Nile Monitor"
+  }
+}

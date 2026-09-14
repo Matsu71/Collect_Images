@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-68253999",
+  "targetId": "org-victoria-amazonica",
+  "scientificName": "Victoria amazonica",
+  "nameJa": "オオオニバス",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:10:29+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:10:29+00:00",
+  "files": {
+    "master": "images/victoria-amazonica/inat-68253999.jpg",
+    "web": "images/victoria-amazonica/inat-68253999.webp",
+    "thumbnail": "images/victoria-amazonica/inat-68253999-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1433,
+      1036
+    ],
+    "master": [
+      1433,
+      1036
+    ],
+    "web": [
+      1400,
+      1012
+    ]
+  },
+  "bytes": {
+    "master": 213538,
+    "web": 184638,
+    "thumbnail": 19178
+  },
+  "sha256": {
+    "download": "9efbc3e75ca6b8704cf1cd11d9ab13291e434928ba65dfec9d27f58fb1d47b81",
+    "master": "cf2acc85c6ddabcc705f07a787cfe9aa3bd9adf8311090b0abeaf58453c013eb",
+    "web": "aebac8656554ed3a7a9c3e197be374a938515104cf17fbbe9e5f317f052dd87c"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Victoria amazonica [Victoria amazonica] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/68253999. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Victoria amazonica",
+  "sourceId": "68253999",
+  "photoUrl": "https://www.inaturalist.org/photos/68253999",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/68253999/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/68253999/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 179027,
+  "acceptedScientificName": "Victoria amazonica",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/42986245",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.146666666666668,
+  "photoApiEvidence": {
+    "id": 68253999,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1433,
+      "height": 1036
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/68253999/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/51120/51121/179032",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,51120,51121,179032,179027",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 179027,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 179032,
+    "name": "Victoria amazonica",
+    "rank": "species",
+    "extinct": false,
+    "id": 179027,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      51120,
+      51121,
+      179032,
+      179027
+    ],
+    "provisional": false,
+    "created_at": "2012-10-25T23:16:26+00:00",
+    "default_photo": {
+      "id": 1036591,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Laurel, some rights reserved (CC BY-NC), uploaded by Laurel",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1036591/square.JPG",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Laurel",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1036591/square.JPG",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1036591/medium.JPG"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 1,
+    "observations_count": 1954,
+    "photos_locked": false,
+    "universal_search_rank": 1954,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 20264,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Victoria_amazonica",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Amazon Giant Waterlily"
+  }
+}

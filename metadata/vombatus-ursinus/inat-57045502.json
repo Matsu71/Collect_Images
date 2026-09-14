@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-57045502",
+  "targetId": "org-vombatus-ursinus",
+  "scientificName": "Vombatus ursinus",
+  "nameJa": "ヒメウォンバット",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:10:38+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:10:38+00:00",
+  "files": {
+    "master": "images/vombatus-ursinus/inat-57045502.jpg",
+    "web": "images/vombatus-ursinus/inat-57045502.webp",
+    "thumbnail": "images/vombatus-ursinus/inat-57045502-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1610
+    ],
+    "master": [
+      2048,
+      1610
+    ],
+    "web": [
+      1400,
+      1101
+    ]
+  },
+  "bytes": {
+    "master": 1012196,
+    "web": 204554,
+    "thumbnail": 25786
+  },
+  "sha256": {
+    "download": "aa322310766bb2c361b067524b3fdef7a5b84e175aa37d39d4416925471279ea",
+    "master": "52d35134f0bba44c692c078d32471b8fe0ea72c647d1a2c6f8103938825dc798",
+    "web": "28c4e1808349ab3abbf14064541e1dbbc452ecdf3ef0fad86adcb58e5dfd8e09"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Vombatus ursinus [Vombatus ursinus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/57045502. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Vombatus ursinus",
+  "sourceId": "57045502",
+  "photoUrl": "https://www.inaturalist.org/photos/57045502",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/57045502/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/57045502/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 43009,
+  "acceptedScientificName": "Vombatus ursinus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/36113962",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.633333333333333,
+  "photoApiEvidence": {
+    "id": 57045502,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1610
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57045502/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848319/42711/1539326/43001/43008/43009",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848319,42711,1539326,43001,43008,43009",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43009,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 43009,
+    "name": "Vombatus ursinus tasmaniensis",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 1254424,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848319,
+      42711,
+      1539326,
+      43001,
+      43008,
+      43009,
+      1254424
+    ],
+    "provisional": false,
+    "created_at": "2021-06-15T14:59:39+00:00",
+    "default_photo": {
+      "id": 177338826,
+      "license_code": "cc-by-sa",
+      "attribution": "(c) JJ Harrison, some rights reserved (CC BY-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177338826/square.jpg",
+      "original_dimensions": {
+        "height": 1133,
+        "width": 1700
+      },
+      "flags": [],
+      "attribution_name": "JJ Harrison",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177338826/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177338826/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 0,
+    "observations_count": 1918,
+    "photos_locked": false,
+    "universal_search_rank": 1918,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Tasmanian Wombat"
+  }
+}

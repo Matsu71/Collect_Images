@@ -964,6 +964,70 @@ Tridacna gigas [Tridacna gigas] — botanygirl / iNaturalist, CC-BY (https://cre
 
 Triticum aestivum [Triticum aestivum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/49680227. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Trypanosoma brucei brucei in Mouse Liver Tissue [Trypanosoma brucei] — BereVer001 / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Trypanosoma_brucei_brucei_in_Mouse_Liver_Tissue.png. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Mélanosporum 4 [Tuber melanosporum] — Véronique PAGNIER / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:M%C3%A9lanosporum_4.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Tulipa gesneriana [Tulipa gesneriana] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/194244201. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Tursiops truncatus [Tursiops truncatus] — Punkus / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/341667124. Original attribution: (c) Punkus, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Typhlonectes natans [Typhlonectes natans] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/457137405. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Tyto alba [Tyto alba] — caroline legg / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/165796939. Original attribution: (c) caroline legg, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Ulva lactuca [Ulva lactuca] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/237145257. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Ursus americanus [Ursus americanus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/12192928. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Ursus arctos [Ursus arctos] — Annika Lindqvist / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/9581603. Original attribution: (c) Annika Lindqvist, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Ursus maritimus [Ursus maritimus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/312611076. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Ustilago maydis diploid teleospores 160X [Ustilago maydis] — Ninjatacoshell / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Ustilago_maydis_diploid_teleospores_160X.png. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Vanilla planifolia [Vanilla planifolia] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/358756634. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Varanus komodoensis [Varanus komodoensis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/414069493. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Varanus niloticus [Varanus niloticus] — Ben Machado / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/8499665. Original attribution: (c) Ben Machado, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+TCBS agar plate of Vibrio Cholerae and vibrio parahaemolyticus [Vibrio cholerae] — Chainwit. / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:TCBS_agar_plate_of_Vibrio_Cholerae_and_vibrio_parahaemolyticus.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Victoria amazonica [Victoria amazonica] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/68253999. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Cría de vicuña (Lama vicugna o Vicugna vicugna) en el altiplano de Antofagasta, Chile [Vicugna vicugna] — CARLOS TEIXIDOR CADENAS / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Cr%C3%ADa_de_vicu%C3%B1a_(Lama_vicugna_o_Vicugna_vicugna)_en_el_altiplano_de_Antofagasta,_Chile.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Vitis vinifera [Vitis vinifera] — Andrey Polstianoi / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/197483971. Original attribution: (c) Andrey Polstianoi, some rights reserved (CC BY), uploaded by Andrey Polstianoi. Resized and re-encoded; no subject alteration.
+
+Niveles de gonidias en el embrión [Volvox carteri] — Martinrm1 / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Niveles_de_gonidias_en_el_embri%C3%B3n.png. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Vombatus ursinus [Vombatus ursinus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/57045502. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Vulpes vulpes [Vulpes vulpes] — David Willingham / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/289085807. Original attribution: (c) David Willingham, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Vulpes zerda [Vulpes zerda] — Valentin Moser / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/467833558. Original attribution: (c) Valentin Moser, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Vultur gryphus [Vultur gryphus] — Sebastian Serna Muñoz / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/28100377. Original attribution: (c) Sebastian Serna Muñoz, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Welwitschia mirabilis [Welwitschia mirabilis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/245331450. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Wolffia globosa [Wolffia globosa] — Andrey Zharkikh / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/28423203. Original attribution: (c) Andrey Zharkikh, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Wollemia nobilis [Wollemia nobilis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/694967707. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Xanthoria-parietina-gelbflechte [Xanthoria parietina] — Holger Krisp / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Xanthoria-parietina-gelbflechte.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Xenopus laevis [Xenopus laevis] — Brian Gratwicke / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/226286. Original attribution: (c) Brian Gratwicke, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Xiphias gladius [Xiphias gladius] — Adam J. Searcy / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/9119194. Original attribution: (c) Adam J. Searcy, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Yersinia-pestis-fermentation-jar [Yersinia pestis] — Sean M. Simon / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Yersinia-pestis-fermentation-jar.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Yucca brevifolia [Yucca brevifolia] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/118232717. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Zalophus californianus [Zalophus californianus] — Liam Steele / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/616962195. Original attribution: (c) Liam Steele, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Zea mays [Zea mays] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/608309866. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Zostera marina [Zostera marina] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/155005043. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.

@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-467833558",
+  "targetId": "org-vulpes-zerda",
+  "scientificName": "Vulpes zerda",
+  "nameJa": "フェネック",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:10:43+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:10:43+00:00",
+  "files": {
+    "master": "images/vulpes-zerda/inat-467833558.jpg",
+    "web": "images/vulpes-zerda/inat-467833558.webp",
+    "thumbnail": "images/vulpes-zerda/inat-467833558-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1100961,
+    "web": 218006,
+    "thumbnail": 19146
+  },
+  "sha256": {
+    "download": "4f99f37015b77ed6acf3dec7fca937f69bb75615d62dcfe810f8bbfbaad7ff86",
+    "master": "a451b4c3a41280f4ed7edeed42086bd6f94245d83bedef402f90b51a2352d2fa",
+    "web": "6a8f2587981acd20e208152f9df3e76004428ecee5f41dbd5baf71c20b217e00"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Vulpes zerda [Vulpes zerda] — Valentin Moser / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/467833558. Original attribution: (c) Valentin Moser, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Vulpes zerda",
+  "sourceId": "467833558",
+  "photoUrl": "https://www.inaturalist.org/photos/467833558",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/467833558/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/467833558/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Valentin Moser",
+  "originalAttribution": "(c) Valentin Moser, some rights reserved (CC BY)",
+  "taxonId": 42058,
+  "acceptedScientificName": "Vulpes zerda",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/260501698",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.194285714285714,
+  "photoApiEvidence": {
+    "id": 467833558,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467833558/square.jpeg",
+    "attribution": "(c) Valentin Moser, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/42043/42054",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,42043,42054,42058",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 42058,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 42054,
+    "name": "Vulpes zerda",
+    "rank": "species",
+    "extinct": false,
+    "id": 42058,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      42043,
+      42054,
+      42058
+    ],
+    "created_at": "2008-03-19T00:39:05+00:00",
+    "default_photo": {
+      "id": 178694522,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Tarek Nagah, some rights reserved (CC BY-NC), uploaded by Tarek Nagah",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178694522/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Tarek Nagah",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178694522/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178694522/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 683,
+    "photos_locked": false,
+    "universal_search_rank": 683,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 13117,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Fennec_fox",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Fennec Fox"
+  }
+}

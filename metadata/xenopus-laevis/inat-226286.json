@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-226286",
+  "targetId": "org-xenopus-laevis",
+  "scientificName": "Xenopus laevis",
+  "nameJa": "アフリカツメガエル",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:10:55+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:10:55+00:00",
+  "files": {
+    "master": "images/xenopus-laevis/inat-226286.jpg",
+    "web": "images/xenopus-laevis/inat-226286.webp",
+    "thumbnail": "images/xenopus-laevis/inat-226286-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 296230,
+    "web": 66746,
+    "thumbnail": 5816
+  },
+  "sha256": {
+    "download": "e69733d86bbfd3b69f4f3c19ca383ca484a1503d3a3e55f12077a05475f19ff6",
+    "master": "d454cdc5e62f89f13ebd1cac5026df068d519253da59f2a473d893cf70b23d43",
+    "web": "29a37d2966681fd7e263422984e18f6c090bb2bba2e195f4333ade02996e9a6c"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Xenopus laevis [Xenopus laevis] — Brian Gratwicke / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/226286. Original attribution: (c) Brian Gratwicke, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Xenopus laevis",
+  "sourceId": "226286",
+  "photoUrl": "https://www.inaturalist.org/photos/226286",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/226286/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/226286/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Brian Gratwicke",
+  "originalAttribution": "(c) Brian Gratwicke, some rights reserved (CC BY)",
+  "taxonId": 25457,
+  "acceptedScientificName": "Xenopus laevis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Amphibia",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 11.95,
+  "photoApiEvidence": {
+    "id": 226286,
+    "license_code": "cc-by",
+    "attribution": "(c) Brian Gratwicke, some rights reserved (CC BY)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/226286/square.jpg",
+    "original_dimensions": {
+      "height": 1365,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Brian Gratwicke",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/226286/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/226286/medium.jpg"
+  },
+  "observationTaxon": null
+}

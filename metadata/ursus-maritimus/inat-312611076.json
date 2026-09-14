@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-312611076",
+  "targetId": "org-ursus-maritimus",
+  "scientificName": "Ursus maritimus",
+  "nameJa": "ホッキョクグマ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:10:20+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:10:20+00:00",
+  "files": {
+    "master": "images/ursus-maritimus/inat-312611076.jpg",
+    "web": "images/ursus-maritimus/inat-312611076.webp",
+    "thumbnail": "images/ursus-maritimus/inat-312611076-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1639,
+      1093
+    ],
+    "master": [
+      1639,
+      1093
+    ],
+    "web": [
+      1400,
+      934
+    ]
+  },
+  "bytes": {
+    "master": 389634,
+    "web": 126038,
+    "thumbnail": 7302
+  },
+  "sha256": {
+    "download": "a562a50a0e8521b6d3c3a429b6e2f7ec007b668a4740a7be5bcc0e99b3d5fa3a",
+    "master": "cb841bb32e55a5404f4a00f37fc8de2bc2894ae2d132833342ce438f6a8a63e6",
+    "web": "e386f4c0fc692c624bf88ca51c68e97828ad4b0bc17fb64c3ebda5e31d3a964f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Ursus maritimus [Ursus maritimus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/312611076. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ursus maritimus",
+  "sourceId": "312611076",
+  "photoUrl": "https://www.inaturalist.org/photos/312611076",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/312611076/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/312611076/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 41644,
+  "acceptedScientificName": "Ursus maritimus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/179552115",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.561428571428571,
+  "photoApiEvidence": {
+    "id": 312611076,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1639,
+      "height": 1093
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/312611076/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/41636/846255/41637",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,41636,846255,41637,41644",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 41644,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 41637,
+    "name": "Ursus maritimus",
+    "rank": "species",
+    "extinct": false,
+    "id": 41644,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      41636,
+      846255,
+      41637,
+      41644
+    ],
+    "created_at": "2008-03-19T00:34:48+00:00",
+    "default_photo": {
+      "id": 102785980,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Peter K, some rights reserved (CC BY-NC), uploaded by Peter K",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102785980/square.jpg",
+      "original_dimensions": {
+        "height": 1362,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Peter K",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102785980/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102785980/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 4082,
+    "photos_locked": false,
+    "universal_search_rank": 4082,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 13147,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Polar_bear",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Polar Bear",
+    "conservation_status": {
+      "id": 15719,
+      "place_id": null,
+      "source_id": 15286,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "open",
+      "iucn": 30
+    }
+  }
+}

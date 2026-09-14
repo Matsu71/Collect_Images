@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-289085807",
+  "targetId": "org-vulpes-vulpes",
+  "scientificName": "Vulpes vulpes",
+  "nameJa": "アカギツネ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:10:42+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:10:42+00:00",
+  "files": {
+    "master": "images/vulpes-vulpes/inat-289085807.jpg",
+    "web": "images/vulpes-vulpes/inat-289085807.webp",
+    "thumbnail": "images/vulpes-vulpes/inat-289085807-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1638
+    ],
+    "master": [
+      2048,
+      1638
+    ],
+    "web": [
+      1400,
+      1120
+    ]
+  },
+  "bytes": {
+    "master": 864666,
+    "web": 179182,
+    "thumbnail": 19498
+  },
+  "sha256": {
+    "download": "9a497f76fbfc016a3f9f1fea5cfd1435688dca70980a84f44c45c659664d5855",
+    "master": "661344acbf4f8babd0756ef0a4facb0184574a9e22f6dff4171b2f6257326387",
+    "web": "ffb4f404aa45511d6cb178ae9a218714b44d7ebca30fabf42cfb7d7670bbebe1"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Vulpes vulpes [Vulpes vulpes] — David Willingham / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/289085807. Original attribution: (c) David Willingham, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Vulpes vulpes",
+  "sourceId": "289085807",
+  "photoUrl": "https://www.inaturalist.org/photos/289085807",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/289085807/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/289085807/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "David Willingham",
+  "originalAttribution": "(c) David Willingham, some rights reserved (CC BY)",
+  "taxonId": 42069,
+  "acceptedScientificName": "Vulpes vulpes",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/166915295",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.34,
+  "photoApiEvidence": {
+    "id": 289085807,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1638
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/289085807/square.jpg",
+    "attribution": "(c) David Willingham, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/42043/42054/42069",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,42043,42054,42069",
+    "endemic": true,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 42069,
+    "threatened": true,
+    "rank_level": 5,
+    "introduced": false,
+    "native": true,
+    "parent_id": 42069,
+    "name": "Vulpes vulpes necator",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 143561,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      42043,
+      42054,
+      42069,
+      143561
+    ],
+    "created_at": "2012-08-14T01:28:56+00:00",
+    "default_photo": {
+      "id": 72972338,
+      "license_code": "pd",
+      "attribution": "\nKeith Slausen USFS/PSW, no known copyright restrictions (public domain)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72972338/square.jpg",
+      "original_dimensions": {
+        "height": 740,
+        "width": 856
+      },
+      "flags": [],
+      "attribution_name": "\nKeith Slausen USFS/PSW",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72972338/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72972338/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 142,
+    "photos_locked": false,
+    "universal_search_rank": 142,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Sierra_Nevada_red_fox",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Sierra Nevada Red Fox",
+    "conservation_status": {
+      "id": 140218,
+      "place_id": null,
+      "source_id": null,
+      "user_id": null,
+      "authority": "NatureServe",
+      "status": "g5t1t2",
+      "status_name": "critically imperiled",
+      "geoprivacy": "obscured",
+      "iucn": 50
+    }
+  }
+}

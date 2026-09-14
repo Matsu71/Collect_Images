@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-9119194",
+  "targetId": "org-xiphias-gladius",
+  "scientificName": "Xiphias gladius",
+  "nameJa": "メカジキ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:10:57+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:10:57+00:00",
+  "files": {
+    "master": "images/xiphias-gladius/inat-9119194.jpg",
+    "web": "images/xiphias-gladius/inat-9119194.webp",
+    "thumbnail": "images/xiphias-gladius/inat-9119194-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1993
+    ],
+    "master": [
+      2048,
+      1993
+    ],
+    "web": [
+      1400,
+      1362
+    ]
+  },
+  "bytes": {
+    "master": 1053910,
+    "web": 184598,
+    "thumbnail": 3544
+  },
+  "sha256": {
+    "download": "3f5cf1fc80c710b1956aac83603c65bab86fc16b703b4d725e2e238d92954df0",
+    "master": "daef523acf4a5f9e5e7bd513452a1e7904189bdd87c2055e60e4462233d90465",
+    "web": "8f787c20c87a4a076c6ae59f33dc6bd9fa6d0e8515e5dd0131fdfd976a8ea7d2"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Xiphias gladius [Xiphias gladius] — Adam J. Searcy / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/9119194. Original attribution: (c) Adam J. Searcy, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Xiphias gladius",
+  "sourceId": "9119194",
+  "photoUrl": "https://www.inaturalist.org/photos/9119194",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9119194/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9119194/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Adam J. Searcy",
+  "originalAttribution": "(c) Adam J. Searcy, some rights reserved (CC BY)",
+  "taxonId": 115167,
+  "acceptedScientificName": "Xiphias gladius",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Actinopterygii",
+  "observationUrl": "https://www.inaturalist.org/observations/7097077",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.18047619047619,
+  "photoApiEvidence": {
+    "id": 9119194,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1993
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9119194/square.jpeg",
+    "attribution": "(c) Adam J. Searcy, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/47178/1632273/1303727/1303748/86136/92881",
+    "min_species_ancestry": "48460,1,2,355675,47178,1632273,1303727,1303748,86136,92881,115167",
+    "endemic": false,
+    "iconic_taxon_id": 47178,
+    "min_species_taxon_id": 115167,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 92881,
+    "name": "Xiphias gladius",
+    "rank": "species",
+    "extinct": false,
+    "id": 115167,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      47178,
+      1632273,
+      1303727,
+      1303748,
+      86136,
+      92881,
+      115167
+    ],
+    "created_at": "2011-08-04T09:50:29+00:00",
+    "default_photo": {
+      "id": 11989857,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) FWC Fish and Wildlife Research Institute, some rights reserved (CC BY-NC-ND)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11989857/square.jpg",
+      "original_dimensions": {
+        "height": 568,
+        "width": 784
+      },
+      "flags": [],
+      "attribution_name": "FWC Fish and Wildlife Research Institute",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11989857/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11989857/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 6,
+    "observations_count": 448,
+    "photos_locked": false,
+    "universal_search_rank": 448,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Swordfish",
+    "iconic_taxon_name": "Actinopterygii",
+    "preferred_common_name": "Broadbill Swordfish",
+    "conservation_status": {
+      "id": 44579,
+      "place_id": null,
+      "source_id": 4,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "nt",
+      "status_name": "near threatened",
+      "geoprivacy": null,
+      "iucn": 20
+    }
+  }
+}
