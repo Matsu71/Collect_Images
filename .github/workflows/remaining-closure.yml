@@ -1,0 +1,89 @@
+name: Complete remaining organism image search
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/remaining-closure.yml
+      - closure-requests/**
+permissions:
+  contents: write
+concurrency:
+  group: reviewed-photo-collection
+  cancel-in-progress: false
+jobs:
+  complete:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /curation/
+            /scripts/
+            /tools/
+            /data/
+            /reports/
+            /reviews/
+            /metadata/
+            /reference/metadata/
+            /batches/*/candidates.json
+            /batches/remaining-closure-20260914/
+            /README.md
+            /AGENTS.md
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install 'requests>=2.32,<3' 'Pillow>=11,<13'
+      - name: Search every gap or finalize explicitly reviewed images
+        run: |
+          python -m py_compile curation/remaining_closure.py
+          if [ -f reviews/remaining-closure-20260914.json ]; then
+            git sparse-checkout disable
+            python -u curation/remaining_closure.py adopt
+            python -u curation/finalize_remaining_closure.py --output "$RUNNER_TEMP/remaining-completed-photos"
+          elif [ ! -f batches/remaining-closure-20260914/candidates.json ]; then
+            python -u curation/remaining_closure.py gather
+          else
+            echo 'All-target search is stored. Actual visual adjudication required before adoption.'
+          fi
+      - name: Preserve downloaded files and verifiable evidence
+        if: always()
+        run: |
+          git config user.name 'Collect Images bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add --sparse batches/remaining-closure-20260914 reference/metadata reports/ README.md curation/ tools/ docs/ AGENTS.md
+          if [ -d reference/images ]; then git add reference/images collection; fi
+          if ! git diff --cached --quiet; then
+            git commit -m 'Save complete remaining-target image search and reviewed collection [skip ci]'
+            pushed=false
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push origin HEAD:main; then pushed=true; break; fi
+              sleep $((attempt * 5))
+            done
+            test "$pushed" = true
+          fi
+          if [ -d "$RUNNER_TEMP/remaining-completed-photos" ]; then git rev-parse HEAD > "$RUNNER_TEMP/remaining-completed-photos/source-commit.txt"; fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: remaining-closure-review
+          path: |
+            batches/remaining-closure-20260914/sheets/
+            batches/remaining-closure-20260914/candidates.json
+            batches/remaining-closure-20260914/search-evidence.json
+            batches/remaining-closure-20260914/status.json
+            batches/remaining-closure-20260914/original-gaps.json
+            batches/remaining-closure-20260914/adoption.json
+            reports/remaining-closure-summary.json
+            reports/remaining-closure-outcomes.json
+          retention-days: 7
+      - uses: actions/upload-artifact@v4
+        if: success()
+        with:
+          name: remaining-completed-photos
+          path: ${{ runner.temp }}/remaining-completed-photos/
+          if-no-files-found: ignore
+          retention-days: 7
