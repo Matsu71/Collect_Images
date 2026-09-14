@@ -1,0 +1,65 @@
+name: Fill primary photo gaps 20260914
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/gap-photos-20260914.yml
+      - gap-requests/**
+permissions:
+  contents: write
+concurrency:
+  group: gap-photo-collection-20260914
+  cancel-in-progress: false
+jobs:
+  fill-gaps:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install 'requests>=2.32,<3' 'Pillow>=11,<13'
+      - name: Acquire or adopt according to explicit review
+        run: |
+          python -m py_compile curation/gap_photos_20260914.py
+          if [ -f reviews/gap-20260914.json ]; then
+            python -u curation/gap_photos_20260914.py adopt
+            python -u curation/run_reviewed_build.py
+            python tools/export_collection.py --output "$RUNNER_TEMP/gap-improved-export"
+          elif [ ! -f batches/gaps-20260914/candidates.json ]; then
+            python -u curation/gap_photos_20260914.py gather
+          else
+            echo 'Candidate collection already exists. No repeated downloads or unreviewed promotion.'
+          fi
+      - name: Preserve images, provenance and review state
+        if: always()
+        run: |
+          git config user.name 'Collect Images bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add batches/ reference/ collection/ reports/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Save gap-first licensed photographs and review evidence [skip ci]'
+            success=false
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push origin HEAD:main; then success=true; break; fi
+              sleep $((attempt * 5))
+            done
+            test "$success" = true
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: gap-photo-review-20260914
+          path: |
+            batches/gaps-20260914/sheets/
+            batches/gaps-20260914/candidates.json
+            batches/gaps-20260914/status.json
+            batches/gaps-20260914/results.json
+            batches/gaps-20260914/adoption.json
+            reports/curation-status.json
+            collection/taxa.json
+          retention-days: 7
