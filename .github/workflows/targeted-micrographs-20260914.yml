@@ -1,0 +1,92 @@
+name: Collect targeted microbial photographs
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/targeted-micrographs-20260914.yml]
+permissions:
+  contents: write
+concurrency:
+  group: targeted-micrograph-acquisition
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /curation/
+            /scripts/
+            /data/targets.json
+            /reference/metadata/
+            /batches/targeted-micrographs-20260914/
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install 'requests>=2.32,<3' 'Pillow>=11,<13'
+      - name: Download exact named source files and preserve evidence
+        run: |
+          python - <<'PY'
+          import sys,json,re,pathlib,hashlib,shutil
+          root=pathlib.Path.cwd();sys.path[:0]=[str(root/'scripts'),str(root/'curation')]
+          import collect as core
+          import collect_reference as ref
+          targets={t['id']:t for t in json.loads((root/'data/targets.json').read_text())['records']}
+          requests=[
+            {'targetId':'org-prochlorococcus-marinus','fileTitle':'File:Prochlorococcus marinus 2.jpg','identityEvidence':'https://commons.wikimedia.org/wiki/File:Prochlorococcus_marinus_2.jpg','sourceChanges':'Source already rotated/cropped and green-overlay coloured; retain that provenance.'},
+            {'targetId':'org-candidatus-prometheoarchaeum-syntrophicum','fileTitle':'File:Promethearchaeum syntrophicum.jpg','identityEvidence':'https://doi.org/10.1038/s41586-019-1916-6','sourceChanges':'File renamed from Candidatus Prometheoarchaeum syntrophicum SEM.jpg; latest source says unlabelled higher-resolution version. Do not infer a visible scale bar from stale caption.'}
+          ]
+          batch=root/'batches/targeted-micrographs-20260914';batch.mkdir(parents=True,exist_ok=True)
+          out=root/'targeted-review';out.mkdir(exist_ok=True);records=[]
+          for req in requests:
+            target=targets[req['targetId']]
+            j=core.get(core.COMMONS,{'action':'query','format':'json','formatversion':2,'titles':req['fileTitle'],'redirects':1,'prop':'imageinfo','iiprop':'url|extmetadata|size|mime|sha1','iiurlwidth':2048})
+            pages=j.get('query',{}).get('pages',[])
+            if len(pages)!=1 or not pages[0].get('imageinfo'):raise ValueError('Exact source image missing')
+            page=pages[0];info=page['imageinfo'][0];m=info.get('extmetadata',{});value=lambda k:core.clean(m.get(k,{}).get('value',''))
+            raw_license=value('LicenseUrl').replace('http:','https:')
+            license_url=re.sub(r'/deed\.[A-Za-z_-]+/?$','/',raw_license)
+            if not re.fullmatch(r'https://creativecommons\.org/(licenses/by(?:-sa)?/[234]\.0|publicdomain/zero/1\.0)/?',license_url):raise ValueError('Unapproved image licence')
+            code='cc0' if '/zero/' in license_url else 'cc-by-sa' if '/by-sa/' in license_url else 'cc-by'
+            author=value('Artist')
+            if not author:raise ValueError('Source author missing')
+            if info.get('mime') not in ('image/jpeg','image/png','image/webp'):raise ValueError('Not a photographic file')
+            aid='commons-'+str(page['pageid']);sid=core.slug(target['scientificName']);metadata='reference/metadata/'+sid+'/'+aid+'.json'
+            if (root/metadata).exists():raise ValueError('Existing image cannot be silently reimported')
+            item={'target':target,'page':page,'info':info,'licenseCode':code,'licenseUrl':license_url,'author':author,'imageTitle':value('ObjectName') or page['title'],'originalAttribution':value('Attribution') or value('Credit'),'wikipediaPage':{'title':target['scientificName'],'requestedScientificName':target['scientificName'],'fileTitle':page['title'],'url':None}}
+            ref.collect_image(item)
+            rec=json.loads((root/metadata).read_text());rec.update({'acquisitionBatch':'batches/targeted-micrographs-20260914','selectionBasis':'explicit_file_source_and_taxon_evidence_review','taxonMatch':'explicit_named_source_mapping','sourceIdentityEvidence':req['identityEvidence'],'sourceCaption':value('ImageDescription'),'sourceTitle':page['title'],'sourceLicenceUrlBeforeNormalization':raw_license,'sourceAlreadyProcessedNote':req['sourceChanges'],'sourceApiRetrievedAt':core.NOW()})
+            rec['changes'].append(req['sourceChanges']);core.dump(metadata,rec)
+            filename=sid+'--'+aid+'.jpg';shutil.copy2(root/rec['files']['master'],out/filename)
+            shutil.copy2(root/metadata,out/(sid+'--'+aid+'.json'))
+            records.append({'targetId':target['id'],'scientificName':target['scientificName'],'nameJa':target.get('nameJa',''),'assetId':aid,'metadataPath':metadata,'masterPath':rec['files']['master'],'reviewFile':filename,'masterSha256':rec['sha256']['master'],'dimensions':rec['dimensions']['master'],'licence':code,'licenseUrl':license_url,'author':author,'sourcePage':info['descriptionurl'],'sourceCaption':value('ImageDescription'),'sourceChanges':req['sourceChanges']})
+          report={'generatedAt':core.NOW(),'savedCandidateCount':len(records),'reviewStatus':'pending_individual_visual_review','records':records}
+          core.dump('batches/targeted-micrographs-20260914/acquisition.json',report)
+          (out/'index.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
+          print(json.dumps(report,ensure_ascii=False,indent=2))
+          PY
+      - name: Preserve downloaded photographs and provenance
+        if: always()
+        run: |
+          git config user.name 'Collect Images bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add --sparse reference/images reference/metadata batches/targeted-micrographs-20260914
+          if ! git diff --cached --quiet; then
+            git commit -m 'Save source-verified microbial image files pending actual visual review [skip ci]'
+            pushed=false
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push origin HEAD:main; then pushed=true; break; fi
+              sleep $((attempt * 4))
+            done
+            test "$pushed" = true
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: targeted-micrograph-review
+          path: targeted-review/
+          retention-days: 7
