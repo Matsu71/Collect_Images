@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-247555842",
+  "targetId": "inat-taxon-12937",
+  "scientificName": "Sialia mexicana",
+  "nameJa": "チャカタルリツグミ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:26:11+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:26:11+00:00",
+  "files": {
+    "master": "images/sialia-mexicana/inat-247555842.jpg",
+    "web": "images/sialia-mexicana/inat-247555842.webp",
+    "thumbnail": "images/sialia-mexicana/inat-247555842-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1801,
+      2048
+    ],
+    "master": [
+      1801,
+      2048
+    ],
+    "web": [
+      1231,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 686494,
+    "web": 138042,
+    "thumbnail": 6132
+  },
+  "sha256": {
+    "download": "5dae47565ffb4552c8996a8782e268f52b9e3247d1c1aa24a8c1a18504e24539",
+    "master": "65844997ed618249997f602da7fabee38963a5640d3b4217d9ace8a1e56d3722",
+    "web": "71226c0304d0b769488c9f46998a744ea52d8b585c34a93f3811ba0d25fc7d6a"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Sialia mexicana [Sialia mexicana] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/247555842. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Sialia mexicana",
+  "sourceId": "247555842",
+  "photoUrl": "https://www.inaturalist.org/photos/247555842",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/247555842/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/247555842/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 12937,
+  "acceptedScientificName": "Sialia mexicana",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/144258041",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.906190476190476,
+  "photoApiEvidence": {
+    "id": 247555842,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1801,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/247555842/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/15977/12935",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,15977,12935,12937",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 12937,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 12935,
+    "name": "Sialia mexicana",
+    "rank": "species",
+    "extinct": false,
+    "id": 12937,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      15977,
+      12935,
+      12937
+    ],
+    "provisional": false,
+    "created_at": "2008-03-13T03:14:48+00:00",
+    "default_photo": {
+      "id": 16748149,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) uzun, some rights reserved (CC BY-NC), uploaded by uzun",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16748149/square.jpg",
+      "original_dimensions": {
+        "height": 1429,
+        "width": 1775
+      },
+      "flags": [],
+      "attribution_name": "uzun",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16748149/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16748149/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 72113,
+    "photos_locked": false,
+    "universal_search_rank": 72113,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Western_bluebird",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Western Bluebird"
+  }
+}

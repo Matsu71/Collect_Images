@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-207853431",
+  "targetId": "inat-taxon-51646",
+  "scientificName": "Rubus parviflorus",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:03+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:03+00:00",
+  "files": {
+    "master": "images/rubus-parviflorus/inat-207853431.jpg",
+    "web": "images/rubus-parviflorus/inat-207853431.webp",
+    "thumbnail": "images/rubus-parviflorus/inat-207853431-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2047
+    ],
+    "master": [
+      2048,
+      2047
+    ],
+    "web": [
+      1400,
+      1399
+    ]
+  },
+  "bytes": {
+    "master": 1081420,
+    "web": 239380,
+    "thumbnail": 25138
+  },
+  "sha256": {
+    "download": "1722aa796e6db10ce5b4ec1861c027934d04eb3596462b459f22a331f93cddc0",
+    "master": "7ae93a71d409c4fdb471e6c6d711656141dc0a4a130977eb2283a54736b48718",
+    "web": "701d2dd9b94e55d52d8e9a6334ae8c182c4e34c92767cd88f6d7d28b35c8ec61"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Rubus parviflorus [Rubus parviflorus] — Justin / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/207853431. Original attribution: (c) Justin, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Rubus parviflorus",
+  "sourceId": "207853431",
+  "photoUrl": "https://www.inaturalist.org/photos/207853431",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207853431/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207853431/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Justin",
+  "originalAttribution": "(c) Justin, some rights reserved (CC BY)",
+  "taxonId": 51646,
+  "acceptedScientificName": "Rubus parviflorus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/122742110",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.257619047619047,
+  "photoApiEvidence": {
+    "id": 207853431,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2047
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/207853431/square.jpeg",
+    "attribution": "(c) Justin, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47132/47148/415343/922171/47544/1449400",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47132,47148,415343,922171,47544,1449400,51646",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 51646,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1449400,
+    "name": "Rubus parviflorus",
+    "rank": "species",
+    "extinct": false,
+    "id": 51646,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47132,
+      47148,
+      415343,
+      922171,
+      47544,
+      1449400,
+      51646
+    ],
+    "provisional": false,
+    "created_at": "2009-05-30T05:42:24+00:00",
+    "default_photo": {
+      "id": 508162072,
+      "license_code": null,
+      "attribution": "(c) Diego Codeco, all rights reserved, uploaded by Diego Codeco",
+      "url": "https://static.inaturalist.org/photos/508162072/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "Diego Codeco",
+      "square_url": "https://static.inaturalist.org/photos/508162072/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/508162072/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 2,
+    "observations_count": 69895,
+    "photos_locked": false,
+    "universal_search_rank": 69895,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 1928,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rubus_parviflorus",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "thimbleberry"
+  }
+}

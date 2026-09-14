@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-338236992",
+  "targetId": "inat-taxon-55651",
+  "scientificName": "Autographa gamma",
+  "nameJa": "ガマキンウワバ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:26:11+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:26:11+00:00",
+  "files": {
+    "master": "images/autographa-gamma/inat-338236992.jpg",
+    "web": "images/autographa-gamma/inat-338236992.webp",
+    "thumbnail": "images/autographa-gamma/inat-338236992-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1676
+    ],
+    "master": [
+      2048,
+      1676
+    ],
+    "web": [
+      1400,
+      1146
+    ]
+  },
+  "bytes": {
+    "master": 441996,
+    "web": 88586,
+    "thumbnail": 9342
+  },
+  "sha256": {
+    "download": "1e1834a09241024fc209b0dee8c388e4310e70e7660d53524c4cad7860b068d7",
+    "master": "2a0607851cce5bd0a46a40184dd5d17b12be0eaa04fb7f9840349de5c72efd38",
+    "web": "c0cc4556ae1940b9f3c616457b51a729d0cd8ae9678b292a997e0d21d4cc6d77"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Autographa gamma [Autographa gamma] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/338236992. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Autographa gamma",
+  "sourceId": "338236992",
+  "photoUrl": "https://www.inaturalist.org/photos/338236992",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/338236992/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/338236992/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 55651,
+  "acceptedScientificName": "Autographa gamma",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/192647258",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.727619047619047,
+  "photoApiEvidence": {
+    "id": 338236992,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1676
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338236992/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47157/47607/48670/122455/62792/124044/55652",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47157,47607,48670,122455,62792,124044,55652,55651",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 55651,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 55652,
+    "name": "Autographa gamma",
+    "rank": "species",
+    "extinct": false,
+    "id": 55651,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47157,
+      47607,
+      48670,
+      122455,
+      62792,
+      124044,
+      55652,
+      55651
+    ],
+    "provisional": false,
+    "created_at": "2010-02-08T22:14:51+00:00",
+    "default_photo": {
+      "id": 97764377,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Александр Корепанов, some rights reserved (CC BY-NC), uploaded by Александр Корепанов",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97764377/square.jpg",
+      "original_dimensions": {
+        "height": 1200,
+        "width": 1200
+      },
+      "flags": [],
+      "attribution_name": "Александр Корепанов",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97764377/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97764377/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 61390,
+    "photos_locked": false,
+    "universal_search_rank": 61390,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 31614,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Silver_Y",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Silver Υ"
+  }
+}

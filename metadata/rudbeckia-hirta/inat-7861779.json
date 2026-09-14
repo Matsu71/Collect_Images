@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-7861779",
+  "targetId": "inat-taxon-62741",
+  "scientificName": "Rudbeckia hirta",
+  "nameJa": "アラゲハンゴンソウ(広義)",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:26:07+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:26:07+00:00",
+  "files": {
+    "master": "images/rudbeckia-hirta/inat-7861779.jpg",
+    "web": "images/rudbeckia-hirta/inat-7861779.webp",
+    "thumbnail": "images/rudbeckia-hirta/inat-7861779-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 684432,
+    "web": 130008,
+    "thumbnail": 13242
+  },
+  "sha256": {
+    "download": "7f51d7fe82bda9143ed6fce09818053196c7ee309ae81b7397b181effbb0da6d",
+    "master": "8fcdb59aa4ff8581800ba040e24f532ec1c73e83c26519b8076f38e04210c055",
+    "web": "381ca7f4117274ac05d5972169ec3f512e5b77cd6da1416705a6b5f2dca77e4b"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Rudbeckia hirta [Rudbeckia hirta] — Brady Reed / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/7861779. Original attribution: no rights reserved, uploaded by Brady Reed. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Rudbeckia hirta",
+  "sourceId": "7861779",
+  "photoUrl": "https://www.inaturalist.org/photos/7861779",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7861779/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7861779/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "Brady Reed",
+  "originalAttribution": "no rights reserved, uploaded by Brady Reed",
+  "taxonId": 62741,
+  "acceptedScientificName": "Rudbeckia hirta",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 13.194285714285714,
+  "photoApiEvidence": {
+    "id": 7861779,
+    "license_code": "cc0",
+    "attribution": "no rights reserved, uploaded by Brady Reed",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7861779/square.jpg",
+    "original_dimensions": {
+      "height": 2048,
+      "width": 1536
+    },
+    "flags": [],
+    "attribution_name": "Brady Reed",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7861779/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7861779/medium.jpg"
+  },
+  "observationTaxon": null
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-277949422",
+  "targetId": "inat-taxon-82342",
+  "scientificName": "Lonicera maackii",
+  "nameJa": "ハナヒョウタンボク",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:25:34+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:25:34+00:00",
+  "files": {
+    "master": "images/lonicera-maackii/inat-277949422.jpg",
+    "web": "images/lonicera-maackii/inat-277949422.webp",
+    "thumbnail": "images/lonicera-maackii/inat-277949422-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 944172,
+    "web": 182500,
+    "thumbnail": 24100
+  },
+  "sha256": {
+    "download": "e710455a9ec905438f9f4a8fa0b716482bc57da5d6c570259c34cc26c6322d46",
+    "master": "b3172e0f185fdbf78b1b41e69bc5dea4118749644b832ca0d4b8e0d31a85e4a1",
+    "web": "120ae084223cdacc672d1ce358a6dc6e1b6454dafcaa720ef31257c1a6762ae7"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Lonicera maackii [Lonicera maackii] — Andrew Conboy / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/277949422. Original attribution: (c) Andrew Conboy, some rights reserved (CC BY), uploaded by Andrew Conboy. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Lonicera maackii",
+  "sourceId": "277949422",
+  "photoUrl": "https://www.inaturalist.org/photos/277949422",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277949422/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277949422/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Andrew Conboy",
+  "originalAttribution": "(c) Andrew Conboy, some rights reserved (CC BY), uploaded by Andrew Conboy",
+  "taxonId": 82342,
+  "acceptedScientificName": "Lonicera maackii",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.194285714285714,
+  "photoApiEvidence": {
+    "id": 277949422,
+    "license_code": "cc-by",
+    "attribution": "(c) Andrew Conboy, some rights reserved (CC BY), uploaded by Andrew Conboy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/277949422/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Andrew Conboy",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/277949422/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/277949422/medium.jpg"
+  },
+  "observationTaxon": null
+}

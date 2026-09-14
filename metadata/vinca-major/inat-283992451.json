@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-283992451",
+  "targetId": "inat-taxon-53326",
+  "scientificName": "Vinca major",
+  "nameJa": "ツルニチニチソウ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:26:35+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:26:35+00:00",
+  "files": {
+    "master": "images/vinca-major/inat-283992451.jpg",
+    "web": "images/vinca-major/inat-283992451.webp",
+    "thumbnail": "images/vinca-major/inat-283992451-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 574473,
+    "web": 148004,
+    "thumbnail": 15336
+  },
+  "sha256": {
+    "download": "e6a219ff0e658bff6dc00728c35f1efb0e3485645d1f245ac438926ca24da0a9",
+    "master": "68ea9ea0de1b8ecbc514fa556adc6e66afcd246643ce13774d2082237bd68d0b",
+    "web": "fe377b3dd907465834a31e9b67ba2421a3b5fd029677bd4b1845e637b6aa8ac6"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Vinca major [Vinca major] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/283992451. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Vinca major",
+  "sourceId": "283992451",
+  "photoUrl": "https://www.inaturalist.org/photos/283992451",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/283992451/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/283992451/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 53326,
+  "acceptedScientificName": "Vinca major",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/164151653",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 283992451,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/283992451/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47363/47362/487323/632390/632394/53327",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47363,47362,487323,632390,632394,53327,53326",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 53326,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 53327,
+    "name": "Vinca major",
+    "rank": "species",
+    "extinct": false,
+    "id": 53326,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47363,
+      47362,
+      487323,
+      632390,
+      632394,
+      53327,
+      53326
+    ],
+    "provisional": false,
+    "created_at": "2009-09-24T05:56:29+00:00",
+    "default_photo": {
+      "id": 187076568,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Σάββας Ζαφειρίου (Savvas Zafeiriou), some rights reserved (CC BY-NC), uploaded by Σάββας Ζαφειρίου (Savvas Zafeiriou)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187076568/square.jpeg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Σάββας Ζαφειρίου (Savvas Zafeiriou)",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187076568/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187076568/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 6,
+    "observations_count": 75297,
+    "photos_locked": false,
+    "universal_search_rank": 75297,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Vinca_major",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "greater periwinkle"
+  }
+}

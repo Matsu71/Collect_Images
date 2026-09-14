@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-21293477",
+  "targetId": "inat-taxon-61906",
+  "scientificName": "Helminthotheca echioides",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:25:56+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:25:56+00:00",
+  "files": {
+    "master": "images/helminthotheca-echioides/inat-21293477.jpg",
+    "web": "images/helminthotheca-echioides/inat-21293477.webp",
+    "thumbnail": "images/helminthotheca-echioides/inat-21293477-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 556084,
+    "web": 130466,
+    "thumbnail": 9610
+  },
+  "sha256": {
+    "download": "9e2f4a9e5aae93adc5e85c3f9a6b69d99ef27d7bead2afaa43391bb66cf253dc",
+    "master": "ab51ba91ea2721fc0d836ee644a78b201c9bf1333a0b871327f66c9dcbc6713c",
+    "web": "2d1555050b3a36f544c58914e9c9fdc4c7caa49ab151784fa76dc8758e78ff49"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Helminthotheca echioides [Helminthotheca echioides] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/21293477. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Helminthotheca echioides",
+  "sourceId": "21293477",
+  "photoUrl": "https://www.inaturalist.org/photos/21293477",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21293477/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21293477/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 61906,
+  "acceptedScientificName": "Helminthotheca echioides",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/14331816",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 21293477,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21293477/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47605/47604/447425/359450/558819/61907",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47605,47604,447425,359450,558819,61907,61906",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 61906,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 61907,
+    "name": "Helminthotheca echioides",
+    "rank": "species",
+    "extinct": false,
+    "id": 61906,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47605,
+      47604,
+      447425,
+      359450,
+      558819,
+      61907,
+      61906
+    ],
+    "provisional": false,
+    "created_at": "2010-06-17T01:52:37+00:00",
+    "default_photo": {
+      "id": 308108757,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) mvz-juangonzalezromero, some rights reserved (CC BY-NC), uploaded by mvz-juangonzalezromero",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308108757/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "mvz-juangonzalezromero",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308108757/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308108757/medium.jpeg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 5,
+    "observations_count": 42357,
+    "photos_locked": false,
+    "universal_search_rank": 42357,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 144203,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Helminthotheca_echioides",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "bristly oxtongue"
+  }
+}

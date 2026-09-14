@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-627157595",
+  "targetId": "inat-taxon-9420",
+  "scientificName": "Pipilo maculatus",
+  "nameJa": "ホシワキアカトウヒチョウ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:03+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:03+00:00",
+  "files": {
+    "master": "images/pipilo-maculatus/inat-627157595.jpg",
+    "web": "images/pipilo-maculatus/inat-627157595.webp",
+    "thumbnail": "images/pipilo-maculatus/inat-627157595-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2047
+    ],
+    "master": [
+      2048,
+      2047
+    ],
+    "web": [
+      1400,
+      1399
+    ]
+  },
+  "bytes": {
+    "master": 776321,
+    "web": 163234,
+    "thumbnail": 13776
+  },
+  "sha256": {
+    "download": "9dc809e10c554f327fd2e1e8ca18097cdf83e707cb6a3b3d473a5814dbb663e4",
+    "master": "d81a6b15097bb92947eaf5e3695a223df6a500fbddc2b6e2a5c633b92c76dd72",
+    "web": "2b9199ac708e2904e508a0b2f6f8ad796d766327b0f38d26fa1520d1e87d9636"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Pipilo maculatus [Pipilo maculatus] — Tser / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/627157595. Original attribution: (c) Tser, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Pipilo maculatus",
+  "sourceId": "627157595",
+  "photoUrl": "https://www.inaturalist.org/photos/627157595",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/627157595/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/627157595/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Tser",
+  "originalAttribution": "(c) Tser, some rights reserved (CC BY)",
+  "taxonId": 9420,
+  "acceptedScientificName": "Pipilo maculatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/344224085",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.590952380952381,
+  "photoApiEvidence": {
+    "id": 627157595,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2047
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627157595/square.jpg",
+    "attribution": "(c) Tser, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/559248/9405",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,559248,9405,9420",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 9420,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 9405,
+    "name": "Pipilo maculatus",
+    "rank": "species",
+    "extinct": false,
+    "id": 9420,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      559248,
+      9405,
+      9420
+    ],
+    "created_at": "2008-03-13T03:01:17+00:00",
+    "default_photo": {
+      "id": 30818274,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30818274/square.jpg",
+      "original_dimensions": {
+        "height": 1366,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Greg Lasley",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30818274/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30818274/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 79608,
+    "photos_locked": false,
+    "universal_search_rank": 79608,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Spotted_towhee",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Spotted Towhee"
+  }
+}

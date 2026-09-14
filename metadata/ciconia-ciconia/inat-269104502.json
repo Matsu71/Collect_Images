@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-269104502",
+  "targetId": "inat-taxon-4733",
+  "scientificName": "Ciconia ciconia",
+  "nameJa": "シュバシコウ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:25:47+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:25:47+00:00",
+  "files": {
+    "master": "images/ciconia-ciconia/inat-269104502.jpg",
+    "web": "images/ciconia-ciconia/inat-269104502.webp",
+    "thumbnail": "images/ciconia-ciconia/inat-269104502-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1217016,
+    "web": 189184,
+    "thumbnail": 22086
+  },
+  "sha256": {
+    "download": "edeff52e6d217b53741a5be341191b509f329fa675e2f42c313243324a128a48",
+    "master": "dd926ee288f94e9bd0fa1baf939d518941e467002ed52da1741331ce117305c1",
+    "web": "3d0d4edd2544f209cf4071ac7ae1430a4c05b10bc6464cf2fe057b32f6008c77"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Ciconia ciconia [Ciconia ciconia] — xulescu_g / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/269104502. Original attribution: (c) xulescu_g, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ciconia ciconia",
+  "sourceId": "269104502",
+  "photoUrl": "https://www.inaturalist.org/photos/269104502",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/269104502/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/269104502/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "xulescu_g",
+  "originalAttribution": "(c) xulescu_g, some rights reserved (CC BY-SA)",
+  "taxonId": 4733,
+  "acceptedScientificName": "Ciconia ciconia",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.194285714285714,
+  "photoApiEvidence": {
+    "id": 269104502,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) xulescu_g, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/269104502/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "xulescu_g",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/269104502/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/269104502/medium.jpg"
+  },
+  "observationTaxon": null
+}

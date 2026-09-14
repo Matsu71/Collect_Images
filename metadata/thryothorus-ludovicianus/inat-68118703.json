@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-68118703",
+  "targetId": "inat-taxon-7513",
+  "scientificName": "Thryothorus ludovicianus",
+  "nameJa": "チャバラマユミソサザイ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:25:20+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:25:20+00:00",
+  "files": {
+    "master": "images/thryothorus-ludovicianus/inat-68118703.jpg",
+    "web": "images/thryothorus-ludovicianus/inat-68118703.webp",
+    "thumbnail": "images/thryothorus-ludovicianus/inat-68118703-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1881,
+      1881
+    ],
+    "master": [
+      1881,
+      1881
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 756081,
+    "web": 180010,
+    "thumbnail": 12298
+  },
+  "sha256": {
+    "download": "1fcff69ce6859339945b4dfcf5b885b55913056cee108ce033b5a9efa8375272",
+    "master": "4cfeca8962bb331f9ff23f1b720b3e8fd987d1fa4c80581a36b6010932754c6f",
+    "web": "f68718c7702892f03babe290861bf362786212cc72dfae5e777d869425befda9"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Thryothorus ludovicianus [Thryothorus ludovicianus] — Mark Apgar / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/68118703. Original attribution: (c) Mark Apgar, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Thryothorus ludovicianus",
+  "sourceId": "68118703",
+  "photoUrl": "https://www.inaturalist.org/photos/68118703",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/68118703/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/68118703/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Mark Apgar",
+  "originalAttribution": "(c) Mark Apgar, some rights reserved (CC BY)",
+  "taxonId": 7513,
+  "acceptedScientificName": "Thryothorus ludovicianus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/42898609",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.687142857142858,
+  "photoApiEvidence": {
+    "id": 68118703,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1881,
+      "height": 1881
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/68118703/square.jpg",
+    "attribution": "(c) Mark Apgar, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/15964/7510",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,15964,7510,7513",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 7513,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 7510,
+    "name": "Thryothorus ludovicianus",
+    "rank": "species",
+    "extinct": false,
+    "id": 7513,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      15964,
+      7510,
+      7513
+    ],
+    "created_at": "2008-03-13T02:54:40+00:00",
+    "default_photo": {
+      "id": 461889083,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461889083/square.jpg",
+      "original_dimensions": {
+        "height": 1200,
+        "width": 1500
+      },
+      "flags": [],
+      "attribution_name": "Tom Murray",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461889083/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461889083/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 107819,
+    "photos_locked": false,
+    "universal_search_rank": 107819,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Carolina_wren",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Carolina Wren"
+  }
+}

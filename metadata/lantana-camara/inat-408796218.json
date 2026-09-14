@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-408796218",
+  "targetId": "inat-taxon-50333",
+  "scientificName": "Lantana camara",
+  "nameJa": "ランタナ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:26:00+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:26:00+00:00",
+  "files": {
+    "master": "images/lantana-camara/inat-408796218.jpg",
+    "web": "images/lantana-camara/inat-408796218.webp",
+    "thumbnail": "images/lantana-camara/inat-408796218-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1833870,
+    "web": 508816,
+    "thumbnail": 43382
+  },
+  "sha256": {
+    "download": "66d509efb41969ea8fbec543fb81ddd5cb9f5f6fac1d1f77b907b628dba55726",
+    "master": "c99d4ad4a429f3f6b9884c4fe84012996203c7bcd675dfb1e8adbf5804a276c5",
+    "web": "7155faa37829102a9c29f3341dcbca40bb2ea13970718ccfd03d0381eb993032"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Lantana camara [Lantana camara] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/408796218. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Lantana camara",
+  "sourceId": "408796218",
+  "photoUrl": "https://www.inaturalist.org/photos/408796218",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/408796218/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/408796218/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 50333,
+  "acceptedScientificName": "Lantana camara",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/230241208",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 408796218,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408796218/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48151/49194/936164/50334/1478388",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48151,49194,936164,50334,1478388,50333",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 50333,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1478388,
+    "name": "Lantana camara",
+    "rank": "species",
+    "extinct": false,
+    "id": 50333,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48151,
+      49194,
+      936164,
+      50334,
+      1478388,
+      50333
+    ],
+    "created_at": "2009-03-16T04:29:35+00:00",
+    "default_photo": {
+      "id": 369564698,
+      "license_code": null,
+      "attribution": "(c) Rudy, all rights reserved, uploaded by Rudy",
+      "url": "https://static.inaturalist.org/photos/369564698/square.jpeg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Rudy",
+      "square_url": "https://static.inaturalist.org/photos/369564698/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/369564698/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 6,
+    "observations_count": 99479,
+    "photos_locked": false,
+    "universal_search_rank": 99479,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 2
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lantana_camara",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "common lantana"
+  }
+}

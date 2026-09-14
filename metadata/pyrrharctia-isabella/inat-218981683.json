@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-218981683",
+  "targetId": "inat-taxon-59675",
+  "scientificName": "Pyrrharctia isabella",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:26:23+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:26:23+00:00",
+  "files": {
+    "master": "images/pyrrharctia-isabella/inat-218981683.jpg",
+    "web": "images/pyrrharctia-isabella/inat-218981683.webp",
+    "thumbnail": "images/pyrrharctia-isabella/inat-218981683-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1561
+    ],
+    "master": [
+      2048,
+      1561
+    ],
+    "web": [
+      1400,
+      1067
+    ]
+  },
+  "bytes": {
+    "master": 593154,
+    "web": 112344,
+    "thumbnail": 11996
+  },
+  "sha256": {
+    "download": "5937dcf95b58b6f458cc7cdb6efeafce7e8b79820e0df6f4b0ab78fd74b9ebeb",
+    "master": "9aff14b7a2a4ade6e075bb583958c718e47eee6d4f0c12eb77be1c58782a188f",
+    "web": "d6ee5262c73976af76102f1ca73ff832a9d290f91eda8239deb1491228bc2a7c"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Pyrrharctia isabella [Pyrrharctia isabella] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/218981683. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Pyrrharctia isabella",
+  "sourceId": "218981683",
+  "photoUrl": "https://www.inaturalist.org/photos/218981683",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/218981683/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/218981683/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 59675,
+  "acceptedScientificName": "Pyrrharctia isabella",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/128898510",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.896666666666667,
+  "photoApiEvidence": {
+    "id": 218981683,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1561
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218981683/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47157/47607/121850/47606/82089/123834/59676",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47157,47607,121850,47606,82089,123834,59676,59675",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 59675,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 59676,
+    "name": "Pyrrharctia isabella",
+    "rank": "species",
+    "extinct": false,
+    "id": 59675,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47157,
+      47607,
+      121850,
+      47606,
+      82089,
+      123834,
+      59676,
+      59675
+    ],
+    "provisional": false,
+    "created_at": "2010-04-19T10:18:15+00:00",
+    "default_photo": {
+      "id": 4216233,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Larry Clarfeld, some rights reserved (CC BY-NC), uploaded by Larry Clarfeld",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4216233/square.jpg",
+      "original_dimensions": {
+        "height": 867,
+        "width": 1301
+      },
+      "flags": [],
+      "attribution_name": "Larry Clarfeld",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4216233/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4216233/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 103613,
+    "photos_locked": false,
+    "universal_search_rank": 103613,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 49226,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pyrrharctia_isabella",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Isabella Tiger Moth"
+  }
+}

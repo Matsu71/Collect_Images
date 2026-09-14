@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-127255695",
+  "targetId": "inat-taxon-981",
+  "scientificName": "Phasianus colchicus",
+  "nameJa": "コウライキジ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:26:20+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:26:20+00:00",
+  "files": {
+    "master": "images/phasianus-colchicus/inat-127255695.jpg",
+    "web": "images/phasianus-colchicus/inat-127255695.webp",
+    "thumbnail": "images/phasianus-colchicus/inat-127255695-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 680197,
+    "web": 147010,
+    "thumbnail": 12096
+  },
+  "sha256": {
+    "download": "b0648d6f7015fa86c21f10d806af3e630b126653f60400f23333373bc57460a2",
+    "master": "311d5ce914ad21b1afa62d46d3737a0c42844e3285a02c72c875eedc7f7216b4",
+    "web": "d0aa03dbf9c35bc8e1115b9782f715b0ee0b7501385e06cf3cff65d2f869ecba"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Phasianus colchicus [Phasianus colchicus] — John Krampl / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/127255695. Original attribution: (c) John Krampl, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Phasianus colchicus",
+  "sourceId": "127255695",
+  "photoUrl": "https://www.inaturalist.org/photos/127255695",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/127255695/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/127255695/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "John Krampl",
+  "originalAttribution": "(c) John Krampl, some rights reserved (CC BY)",
+  "taxonId": 981,
+  "acceptedScientificName": "Phasianus colchicus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/77794790",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.95,
+  "photoApiEvidence": {
+    "id": 127255695,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127255695/square.jpeg",
+    "attribution": "(c) John Krampl, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/573/574/980",
+    "min_species_ancestry": "48460,1,2,355675,3,573,574,980,981",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 981,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 980,
+    "name": "Phasianus colchicus",
+    "rank": "species",
+    "extinct": false,
+    "id": 981,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      573,
+      574,
+      980,
+      981
+    ],
+    "created_at": "2008-03-13T02:37:02+00:00",
+    "default_photo": {
+      "id": 176733796,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Frank Lin, some rights reserved (CC BY-NC), uploaded by Frank Lin",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176733796/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Frank Lin",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176733796/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176733796/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 74611,
+    "photos_locked": false,
+    "universal_search_rank": 74611,
+    "flag_counts": {
+      "resolved": 6,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 30224,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_pheasant",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Ring-necked Pheasant"
+  }
+}
