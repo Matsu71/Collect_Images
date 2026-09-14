@@ -3468,6 +3468,8 @@ Prionace glauca [Prionace glauca] — Patrick Doll / iNaturalist, CC BY-SA 4.0 (
 
 Pristis pristis [Pristis pristis] — Simon Fraser University - Communications & Marketing / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/95214734. Original attribution: (c) Simon Fraser University - Communications & Marketing, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Prochlorococcus marinus 2 [Prochlorococcus marinus] — Luke Thompson from Chisholm Lab and Nikki Watson from Whitehead, MIT / Wikimedia Commons, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://commons.wikimedia.org/wiki/File:Prochlorococcus_marinus_2.jpg. Original attribution: extracted (rotated and cropped) from this Commons file. Resized and re-encoded; no subject alteration.
+
 Raccoon in Central Park (35264) [Procyon lotor] — Rhododendrites / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Raccoon_in_Central_Park_(35264).jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Procyon lotor [Procyon lotor] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/38408348. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.

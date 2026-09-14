@@ -16,12 +16,21 @@
   "author": "Luke Thompson from Chisholm Lab and Nikki Watson from Whitehead, MIT",
   "originalAttribution": "extracted (rotated and cropped) from this Commons file",
   "retrievedAt": "2026-09-14T05:02:38+00:00",
-  "origin": "unverified_photo_candidate",
-  "status": "pending_review",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
   "visualReview": {
-    "status": "pending",
-    "recommendedRole": "pending",
-    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual review",
+    "reviewedAt": "2026-09-14",
+    "method": "individual_saved_JPEG_visual_review",
+    "reviewFile": "reviews/targeted-micrographs-20260914.json",
+    "noteJa": "複数の細胞の輪郭と内部の層状構造が明瞭な透過電子顕微鏡像です。電子顕微鏡用の試料の像で、生きた細胞を自然光で写したものではありません。出典側で緑色の重ね着色、回転、トリミングが施されています。通常の肉眼の色・大きさとは異なり、この保存画像にはスケールバーが見えません。元画像由来の加工情報と撮影者の帰属を保持して使用します。",
+    "masterSha256": "3c9ef58a196ce589db42a42ddc1c3030f52cec4bf19ebdafa60c1d9e15360313",
+    "sourceIdentityEvidence": "https://commons.wikimedia.org/wiki/File:Prochlorococcus_marinus_2.jpg",
+    "sourceAlreadyProcessedNote": "Source already rotated/cropped and green-overlay coloured; retain that provenance.",
+    "speciesIdentity": "explicit_source_taxon_mapping_not_independent_reidentification",
+    "fullResolutionInspection": "saved_JPEG_viewed_individually_not_original_source_pixel_audit"
   },
   "rightsReview": {
     "status": "allowed_license_metadata_verified",

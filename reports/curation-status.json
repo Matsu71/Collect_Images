@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T05:10:47+00:00",
+  "generatedAt": "2026-09-14T05:12:59+00:00",
   "targetCount": 1000,
   "chronoearthTargetCount": 532,
   "downloadedTargetCoverage": 991,
@@ -8,17 +8,17 @@
   "uniqueTaxonPhotoPairs": 2471,
   "uniqueDownloadedImageAssets": 2470,
   "duplicateStoredCopies": 4,
-  "visuallyScreenedTaxonPhotoPairs": 2470,
-  "acceptedPhotographs": 2363,
-  "acceptedTaxonCoverage": 983,
-  "primaryCandidatePhotoPairs": 1092,
-  "primaryReadyTaxa": 923,
-  "chronoearthPrimaryReadyTaxa": 468,
+  "visuallyScreenedTaxonPhotoPairs": 2471,
+  "acceptedPhotographs": 2364,
+  "acceptedTaxonCoverage": 984,
+  "primaryCandidatePhotoPairs": 1093,
+  "primaryReadyTaxa": 924,
+  "chronoearthPrimaryReadyTaxa": 469,
   "supplementaryPhotoPairs": 1272,
   "excludedPhotoPairs": 106,
-  "pendingReviewPhotoPairs": 1,
+  "pendingReviewPhotoPairs": 0,
   "acceptedLicenseCounts": {
-    "CC0 1.0": 492,
+    "CC0 1.0": 493,
     "CC BY 4.0": 523,
     "CC BY-SA 4.0": 762,
     "CC BY-SA 3.0": 310,
@@ -29,7 +29,7 @@
     "CC BY 3.0": 44
   },
   "selectedPrimaryLicenseCounts": {
-    "CC0 1.0": 212,
+    "CC0 1.0": 213,
     "CC BY-SA 4.0": 246,
     "CC BY 2.5": 12,
     "CC BY 4.0": 217,
@@ -91,6 +91,12 @@
       "adoptedPhotoPairs": 163,
       "excludedCandidateCount": 73,
       "kind": "round3_actual_visual_review"
+    },
+    {
+      "file": "reviews/targeted-micrographs-20260914.json",
+      "count": 1,
+      "adoptedPhotoPairs": 1,
+      "kind": "individually_viewed_exact_source_micrographs"
     }
   ],
   "limitations": "Primary means composition-screened candidate, not expert re-identification, full-resolution audit, or a warranty of all possible third-party rights. Separate variants, life stages and microscopy are documented.",
@@ -100,5 +106,6 @@
   "licenseCodeToUrlConsistency": "pass",
   "gapBatchAcceptedPhotoPairs": 678,
   "round2AcceptedPhotoPairs": 321,
-  "round3AcceptedPhotoPairs": 163
+  "round3AcceptedPhotoPairs": 163,
+  "targetedMicrographAcceptedPhotoPairs": 1
 }

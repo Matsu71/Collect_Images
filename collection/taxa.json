@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T05:10:20+00:00",
+  "generatedAt": "2026-09-14T05:12:35+00:00",
   "records": [
     {
       "id": "org-acanthaster-planci",
@@ -8683,12 +8683,17 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-research-ce-21-013",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-82895983",
+        "web": "reference/images/prochlorococcus-marinus/commons-82895983.webp",
+        "master": "reference/images/prochlorococcus-marinus/commons-82895983.jpg",
+        "metadata": "collection/metadata/prochlorococcus-marinus--commons-82895983.json",
+        "license": "CC0 1.0",
+        "credit": "Prochlorococcus marinus 2 [Prochlorococcus marinus] — Luke Thompson from Chisholm Lab and Nikki Watson from Whitehead, MIT / Wikimedia Commons, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://commons.wikimedia.org/wiki/File:Prochlorococcus_marinus_2.jpg. Original attribution: extracted (rotated and cropped) from this Commons file. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [],
-      "pendingPhotos": [
-        "collection/metadata/prochlorococcus-marinus--commons-82895983.json"
-      ],
+      "pendingPhotos": [],
       "excludedPhotos": []
     },
     {

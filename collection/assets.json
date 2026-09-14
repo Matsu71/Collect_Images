@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T05:10:20+00:00",
+  "generatedAt": "2026-09-14T05:12:35+00:00",
   "records": [
     {
       "schemaVersion": 1,
@@ -179240,6 +179240,114 @@
       "contextFlags": [],
       "licenseName": "CC BY 4.0",
       "metadataPath": "collection/metadata/pristis-pristis--inat-95214734.json"
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "commons-82895983",
+      "targetId": "org-prochlorococcus-marinus",
+      "scientificName": "Prochlorococcus marinus",
+      "nameJa": "プロクロロコッカス",
+      "collectionTier": "chronoearth",
+      "source": "Wikimedia Commons",
+      "sourceId": "82895983",
+      "imageTitle": "Prochlorococcus marinus 2",
+      "photoUrl": "https://commons.wikimedia.org/wiki/File:Prochlorococcus_marinus_2.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Prochlorococcus_marinus_2.jpg/3840px-Prochlorococcus_marinus_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Prochlorococcus_marinus_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Luke Thompson from Chisholm Lab and Nikki Watson from Whitehead, MIT",
+      "originalAttribution": "extracted (rotated and cropped) from this Commons file",
+      "retrievedAt": "2026-09-14T05:02:38+00:00",
+      "origin": "photograph_visual_screened",
+      "status": "primary_candidate",
+      "visualReview": {
+        "status": "screened",
+        "recommendedRole": "primary",
+        "reviewer": "ChatGPT visual review",
+        "reviewedAt": "2026-09-14",
+        "method": "individual_saved_JPEG_visual_review",
+        "reviewFile": "reviews/targeted-micrographs-20260914.json",
+        "noteJa": "複数の細胞の輪郭と内部の層状構造が明瞭な透過電子顕微鏡像です。電子顕微鏡用の試料の像で、生きた細胞を自然光で写したものではありません。出典側で緑色の重ね着色、回転、トリミングが施されています。通常の肉眼の色・大きさとは異なり、この保存画像にはスケールバーが見えません。元画像由来の加工情報と撮影者の帰属を保持して使用します。",
+        "masterSha256": "3c9ef58a196ce589db42a42ddc1c3030f52cec4bf19ebdafa60c1d9e15360313",
+        "sourceIdentityEvidence": "https://commons.wikimedia.org/wiki/File:Prochlorococcus_marinus_2.jpg",
+        "sourceAlreadyProcessedNote": "Source already rotated/cropped and green-overlay coloured; retain that provenance.",
+        "speciesIdentity": "explicit_source_taxon_mapping_not_independent_reidentification",
+        "fullResolutionInspection": "saved_JPEG_viewed_individually_not_original_source_pixel_audit"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T05:02:38+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "selectionBasis": "explicit_file_source_and_taxon_evidence_review",
+      "taxonMatch": "explicit_named_source_mapping",
+      "wikipediaPage": {
+        "title": "Prochlorococcus marinus",
+        "requestedScientificName": "Prochlorococcus marinus",
+        "fileTitle": "File:Prochlorococcus marinus 2.jpg",
+        "url": null
+      },
+      "files": {
+        "master": "reference/images/prochlorococcus-marinus/commons-82895983.jpg",
+        "web": "reference/images/prochlorococcus-marinus/commons-82895983.webp",
+        "thumbnail": "reference/images/prochlorococcus-marinus/commons-82895983-thumb.webp"
+      },
+      "dimensions": {
+        "sourceDownload": [
+          3840,
+          2868
+        ],
+        "original": [
+          4285,
+          3200
+        ],
+        "master": [
+          2048,
+          1530
+        ],
+        "web": [
+          1400,
+          1046
+        ]
+      },
+      "bytes": {
+        "master": 1125244,
+        "web": 210560,
+        "thumbnail": 18476
+      },
+      "sha256": {
+        "download": "436c8883c45d7a18b6377bad15b539b87a8a9ee6de292ac905d383d6242c6494",
+        "master": "3c9ef58a196ce589db42a42ddc1c3030f52cec4bf19ebdafa60c1d9e15360313",
+        "web": "422f4f584bc48ec68b644268af07bac17331b198fbd9f868510e77673fe9c5b4"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata",
+        "Source already rotated/cropped and green-overlay coloured; retain that provenance."
+      ],
+      "webQuality": 68,
+      "credit": "Prochlorococcus marinus 2 [Prochlorococcus marinus] — Luke Thompson from Chisholm Lab and Nikki Watson from Whitehead, MIT / Wikimedia Commons, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://commons.wikimedia.org/wiki/File:Prochlorococcus_marinus_2.jpg. Original attribution: extracted (rotated and cropped) from this Commons file. Resized and re-encoded; no subject alteration.",
+      "acquisitionBatch": "batches/targeted-micrographs-20260914",
+      "sourceIdentityEvidence": "https://commons.wikimedia.org/wiki/File:Prochlorococcus_marinus_2.jpg",
+      "sourceCaption": "TEM image of Prochlorococcus marinus with overlay green coloring. A globally significant marine cyanobacterium.",
+      "sourceTitle": "File:Prochlorococcus marinus 2.jpg",
+      "sourceLicenceUrlBeforeNormalization": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceAlreadyProcessedNote": "Source already rotated/cropped and green-overlay coloured; retain that provenance.",
+      "sourceApiRetrievedAt": "2026-09-14T05:02:38+00:00",
+      "authorStatus": "source_supplied_not_independently_verified",
+      "rawMetadataPath": "reference/metadata/prochlorococcus-marinus/commons-82895983.json",
+      "collectionSource": "reference",
+      "alternateStoredCopies": [],
+      "sourceTaxonType": "現生生物",
+      "contextFlags": [],
+      "licenseName": "CC0 1.0",
+      "metadataPath": "collection/metadata/prochlorococcus-marinus--commons-82895983.json"
     },
     {
       "schemaVersion": 1,
