@@ -1,0 +1,39 @@
+name: Inspect saved gap photo previews
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/gap-failure-review.yml]
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Export only verified review-preview bytes
+        run: |
+          python - <<'PY'
+          import json,pathlib,hashlib,shutil
+          root=pathlib.Path.cwd();out=root/'failure-review';out.mkdir()
+          candidates=json.loads((root/'batches/gaps-20260914/candidates.json').read_text())['records']
+          failures=json.loads((root/'batches/gaps-20260914/adoption.json').read_text())['failures']
+          wanted={x['number']:x for x in failures};index=[]
+          for c in candidates:
+              if c['number'] not in wanted:continue
+              source=root/c['previewPath'];digest=hashlib.sha256(source.read_bytes()).hexdigest()
+              assert digest==c['previewSha256']
+              filename=f"{c['number']:04d}--{c['assetId']}.jpg"
+              shutil.copy2(source,out/filename)
+              index.append({'number':c['number'],'target':c['target'],'assetId':c['assetId'],'file':filename,'previewSha256':digest,'previewDimensions':c['previewDimensions'],'sourceCaption':c['sourceCaption'],'sourceTitle':c['page']['title'],'sourcePhotoPage':c['info']['descriptionurl'],'licenseCode':c['licenseCode'],'licenseUrl':c['licenseUrl'],'failure':wanted[c['number']]})
+          (out/'index.json').write_text(json.dumps(index,ensure_ascii=False,indent=2)+'\n')
+          assert len(index)==len(failures)
+          print('Exact JPEG previews exported:',len(index))
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: gap-failure-photo-review
+          path: failure-review/
+          if-no-files-found: error
+          retention-days: 7
