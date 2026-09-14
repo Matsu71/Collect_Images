@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-502146628",
+  "targetId": "inat-taxon-8575",
+  "scientificName": "Gymnorhina tibicen",
+  "nameJa": "カササギフエガラス",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:28:55+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:28:55+00:00",
+  "files": {
+    "master": "images/gymnorhina-tibicen/inat-502146628.jpg",
+    "web": "images/gymnorhina-tibicen/inat-502146628.webp",
+    "thumbnail": "images/gymnorhina-tibicen/inat-502146628-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1005950,
+    "web": 248904,
+    "thumbnail": 20896
+  },
+  "sha256": {
+    "download": "53db2e1af00edd5e3ea3a019787ee6960184034ee4a39079d2242bd7bdbc76e9",
+    "master": "3a66b215cc4ad2e9207be5282849e68660c412a5ae9545ca71e2e8761418481c",
+    "web": "25edb1822738c377b87cdccaf43de01f603c2fac16a9cf7fff6d70c9634367cb"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Gymnorhina tibicen [Gymnorhina tibicen] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/502146628. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Gymnorhina tibicen",
+  "sourceId": "502146628",
+  "photoUrl": "https://www.inaturalist.org/photos/502146628",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/502146628/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/502146628/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 8575,
+  "acceptedScientificName": "Gymnorhina tibicen",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/279623832",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 502146628,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502146628/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/71296/8574",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,71296,8574,8575",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 8575,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 8574,
+    "name": "Gymnorhina tibicen",
+    "rank": "species",
+    "extinct": false,
+    "id": 8575,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      71296,
+      8574,
+      8575
+    ],
+    "provisional": false,
+    "created_at": "2008-03-13T02:58:16+00:00",
+    "default_photo": {
+      "id": 50123912,
+      "license_code": "gfdl",
+      "attribution": "(c) fir0002, some rights reserved (GFDL)",
+      "url": "https://static.inaturalist.org/photos/50123912/square.jpg",
+      "original_dimensions": {
+        "height": 1067,
+        "width": 1600
+      },
+      "flags": [],
+      "attribution_name": "fir0002",
+      "square_url": "https://static.inaturalist.org/photos/50123912/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/50123912/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 8,
+    "observations_count": 66132,
+    "photos_locked": false,
+    "universal_search_rank": 66132,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Australian_magpie",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Australian Magpie"
+  }
+}

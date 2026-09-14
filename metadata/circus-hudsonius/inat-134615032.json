@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-134615032",
+  "targetId": "inat-taxon-558446",
+  "scientificName": "Circus hudsonius",
+  "nameJa": "アメリカハイイロチュウヒ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:29:01+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:29:01+00:00",
+  "files": {
+    "master": "images/circus-hudsonius/inat-134615032.jpg",
+    "web": "images/circus-hudsonius/inat-134615032.webp",
+    "thumbnail": "images/circus-hudsonius/inat-134615032-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 237772,
+    "web": 45442,
+    "thumbnail": 4078
+  },
+  "sha256": {
+    "download": "be74762281affac604abcf9d069f4e0c3d069d1c17c9e1a6101a5bea4a8f30af",
+    "master": "1241738ccc4fcf8c21cbaeb10c70e3eb0c58afb21c489d4b6618e2d58c65b49a",
+    "web": "b7ebf9838ac90f1fa44491677d0c9b730c0def782648f100efda797990bb716e"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Circus hudsonius [Circus hudsonius] — Jonathan Eisen / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/134615032. Original attribution: (c) Jonathan Eisen, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Circus hudsonius",
+  "sourceId": "134615032",
+  "photoUrl": "https://www.inaturalist.org/photos/134615032",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/134615032/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/134615032/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Jonathan Eisen",
+  "originalAttribution": "(c) Jonathan Eisen, some rights reserved (CC BY)",
+  "taxonId": 558446,
+  "acceptedScientificName": "Circus hudsonius",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/82040978",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.616666666666667,
+  "photoApiEvidence": {
+    "id": 134615032,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/134615032/square.jpg",
+    "attribution": "(c) Jonathan Eisen, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/71261/5067/1541538/5163",
+    "min_species_ancestry": "48460,1,2,355675,3,71261,5067,1541538,5163,558446",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 558446,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 5163,
+    "name": "Circus hudsonius",
+    "rank": "species",
+    "extinct": false,
+    "id": 558446,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      71261,
+      5067,
+      1541538,
+      5163,
+      558446
+    ],
+    "created_at": "2017-08-29T04:32:40+00:00",
+    "default_photo": {
+      "id": 114355770,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Cin-Ty Lee, some rights reserved (CC BY-NC), uploaded by Cin-Ty Lee",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114355770/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Cin-Ty Lee",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114355770/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114355770/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 2,
+    "observations_count": 60717,
+    "photos_locked": false,
+    "universal_search_rank": 60717,
+    "flag_counts": {
+      "resolved": 4,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 11419,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Northern_harrier",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Northern Harrier"
+  }
+}
