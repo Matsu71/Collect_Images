@@ -14,21 +14,16 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      - name: Pin review snapshot and reconcile source taxa
+      - name: Pin review snapshot and inventory imported source taxa
         run: |
           mkdir -p review-export
           git rev-parse HEAD > review-export/commit.txt
           date -u +%FT%TZ > review-export/exported-at.txt
           python - <<'PY'
-          import json,re,urllib.request,collections,pathlib
-          u='https://chronoearth.pages.dev/js/catalog-data.js'
-          raw=urllib.request.urlopen(u,timeout=60).read().decode()
-          marker='window.CHRONOEARTH_ADDITIONS = '
-          data=json.JSONDecoder().raw_decode(raw.split(marker,1)[1])[0]
-          selected=[e for e in data['events'] if e.get('isExtant') is True and e.get('recordKind')=='organism']
-          byname=collections.defaultdict(list)
-          for e in selected:byname[e.get('scientific','')].append({'id':e.get('organismId'),'name':e.get('name'),'displayEligible':e.get('displayEligible')})
-          report={'sourceUrl':u,'selectedOrganismRecords':len(selected),'uniqueScientificNames':len(byname),'duplicateScientificNames':{k:v for k,v in byname.items() if len(v)>1},'missingScientificNames':[e['id'] for e in selected if not e.get('scientific')],'notDisplayEligible':[e.get('organismId') for e in selected if not e.get('displayEligible')]}
+          import json,collections,pathlib
+          p=pathlib.Path('data/targets.json')
+          data=json.loads(p.read_text());base=[t for t in data['records'] if t.get('collectionTier')=='chronoearth']
+          report={'sourceUrl':data.get('source'),'sourceBlobSha':data.get('sourceBlobSha'),'checkedRepoBlobSha':data.get('checkedRepoBlobSha'),'exactSourceMatchAtImport':data.get('exactSourceMatch'),'importedUniqueChronoEarthTaxa':len(base),'sourceTypeCounts':dict(collections.Counter(t.get('sourceType') for t in base)),'note':'Counts describe the versioned imported/public-service target list, not an assertion that all canonical research records are deployed.'}
           pathlib.Path('review-export/source-count-audit.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
           PY
       - uses: actions/upload-artifact@v4
@@ -41,9 +36,12 @@ jobs:
             catalog/
             reports/status.json
             reports/reference-status.json
+            reports/missing.json
+            reports/results.json
             data/targets.json
             reference/gallery/
             reference/metadata/
             reference/results.json
+            reviews/
             review-export/
           retention-days: 7
