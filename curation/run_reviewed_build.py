@@ -8,6 +8,7 @@ import build_collection as build
 import gap_review_loader
 import round2_photos
 import round3_photos
+import targeted_review_loader
 
 ROOT=Path(__file__).resolve().parents[1]
 DETAIL=ROOT/'reports/detail-sample-review.json'
@@ -53,6 +54,7 @@ def read_reviews():
         round2_photos.apply_decisions(decisions,evidence)
     if not any(item.get('file')==round3_photos.REVIEW for item in evidence):
         round3_photos.apply_decisions(decisions,evidence)
+    targeted_review_loader.apply(ROOT,decisions,evidence)
     return decisions,evidence
 
 def main():
@@ -69,6 +71,7 @@ def main():
     status['gapBatchAcceptedPhotoPairs']=sum(r.get('acquisitionBatch')=='batches/gaps-20260914' for r in records)
     status['round2AcceptedPhotoPairs']=sum(r.get('acquisitionBatch')==round2_photos.BATCH for r in records)
     status['round3AcceptedPhotoPairs']=sum(r.get('acquisitionBatch')==round3_photos.BATCH for r in records)
+    status['targetedMicrographAcceptedPhotoPairs']=sum(r.get('acquisitionBatch')=='batches/targeted-micrographs-20260914' for r in records)
     p.write_text(json.dumps(status,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 
 if __name__=='__main__':main()
