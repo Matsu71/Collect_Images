@@ -1,0 +1,89 @@
+name: Verify remaining image recovery and panels
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/remaining-recovery-review.yml]
+permissions:
+  contents: write
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/
+            /batches/remaining-closure-20260914/
+            /batches/remaining-recovery-20260914/
+            /batches/remaining-panels-20260914/
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install 'requests>=2.32,<3' 'Pillow>=11,<13'
+      - name: Verify same originals and retain new encodings for actual review
+        run: |
+          python - <<'PY'
+          import pathlib,json,sys,hashlib,io,requests
+          from PIL import Image,ImageOps,ImageDraw,ImageFont
+          root=pathlib.Path.cwd();sys.path.insert(0,str(root/'scripts'));import collect as core
+          old=root/'batches/remaining-closure-20260914';cs={r['number']:r for r in json.loads((old/'candidates.json').read_text())['records']}
+          failures=json.loads((old/'restoration.json').read_text())['failures']
+          new=root/'batches/remaining-recovery-20260914';new.mkdir(parents=True,exist_ok=True);records=[]
+          for failure in failures:
+              c=cs[failure['number']]
+              info=core.get(core.COMMONS,{'action':'query','format':'json','formatversion':2,'pageids':c['sourceId'],'prop':'imageinfo','iiprop':'sha1|url|extmetadata'})['query']['pages'][0]['imageinfo'][0]
+              assert info['sha1']==c['sourceOriginalSha1'],'Original changed; independent new selection required'
+              raw=core.get(c['downloadUrl'],binary=True)
+              with Image.open(io.BytesIO(raw)) as im:
+                  im.load();im=ImageOps.exif_transpose(im).convert('RGB');im.thumbnail((1800,1800),Image.Resampling.LANCZOS)
+                  buf=io.BytesIO();im.save(buf,'JPEG',quality=93,optimize=True);body=buf.getvalue()
+              digest=hashlib.sha256(body).hexdigest();identical=digest==c['previewSha256']
+              dest=root/c['previewPath'] if identical else new/f"{c['number']:03d}--{c['assetId']}.jpg"
+              dest.parent.mkdir(parents=True,exist_ok=True);dest.write_bytes(body)
+              records.append({'number':c['number'],'targetId':c['target']['id'],'scientificName':c['target']['scientificName'],'assetId':c['assetId'],'photoUrl':c['photoUrl'],'sourceCaption':c['sourceCaption'],'originalImageSha1':info['sha1'],'originalImageUnchanged':True,'oldPreviewSha256':c['previewSha256'],'newPreviewSha256':digest,'newPreviewPath':str(dest.relative_to(root)),'previewDimensions':list(im.size),'exactPreviousReviewBytes':identical,'reviewStatus':'same_bytes_restored' if identical else 'requires_fresh_visual_review'})
+          (new/'records.json').write_text(json.dumps({'records':records},ensure_ascii=False,indent=2)+'\n')
+          font=ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf',16)
+          for offset in range(0,len(records),12):
+              sheet=Image.new('RGB',(1800,1440),'white');draw=ImageDraw.Draw(sheet)
+              for k,r in enumerate(records[offset:offset+12]):
+                  x=k%4*450;y=k//4*480
+                  with Image.open(root/r['newPreviewPath']) as im:
+                      im.thumbnail((440,390));sheet.paste(im,(x+(450-im.width)//2,y+(390-im.height)//2))
+                  draw.text((x+5,y+396),f"{r['number']} {r['scientificName']}"[:45],font=font,fill='black')
+                  draw.text((x+5,y+424),'SAME BYTES' if r['exactPreviousReviewBytes'] else 'NEW JPEG; SAME ORIGINAL',font=font,fill='black')
+              sheet.save(new/f'sheet-{offset//12+1}.jpg',quality=93)
+          panels=root/'batches/remaining-panels-20260914';panels.mkdir(parents=True,exist_ok=True);pr=[]
+          for number in [55,28,27]:
+              c=cs[number];raw=core.get(c['originalUrl'],binary=True);assert hashlib.sha1(raw).hexdigest()==c['sourceOriginalSha1']
+              with Image.open(io.BytesIO(raw)) as im:
+                  im.load();im=ImageOps.exif_transpose(im).convert('RGB');p=panels/f'{number}-full.jpg';im.save(p,'JPEG',quality=96,optimize=True)
+              pr.append({'candidateNumber':number,'candidate':c,'fullJpegPath':str(p.relative_to(root)),'fullJpegSha256':hashlib.sha256(p.read_bytes()).hexdigest(),'dimensions':list(im.size)})
+          (panels/'source.json').write_text(json.dumps({'records':pr},ensure_ascii=False,indent=2)+'\n')
+          for i,url in enumerate(['https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2018.00306/full','https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2021.706308/full','https://link.springer.com/article/10.5598/imafungus.2011.02.01.12']):
+              try:
+                  response=requests.get(url,headers={'User-Agent':core.UA},timeout=60);response.raise_for_status();(panels/f'rights-{i}.html').write_text(response.text)
+              except Exception as e:(panels/f'rights-{i}-error.txt').write_text(str(e))
+          print('Source originals unchanged:',len(records),'Identical previews recovered:',sum(r['exactPreviousReviewBytes'] for r in records))
+          PY
+      - name: Preserve recovered files and source proof
+        if: always()
+        run: |
+          git config user.name 'Collect Images bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add --sparse batches/remaining-closure-20260914 batches/remaining-recovery-20260914 batches/remaining-panels-20260914
+          if ! git diff --cached --quiet; then
+            git commit -m 'Preserve exact image recovery and newly encoded source-identical previews for review [skip ci]'
+            git pull --rebase origin main && git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: remaining-recovery-and-panels
+          path: |
+            batches/remaining-recovery-20260914/
+            batches/remaining-panels-20260914/
+          retention-days: 7
