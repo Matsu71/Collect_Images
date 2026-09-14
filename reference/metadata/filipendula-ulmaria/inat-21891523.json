@@ -1,0 +1,161 @@
+{
+  "assetId": "inat-21891523",
+  "source": "iNaturalist",
+  "imageTitle": "Filipendula ulmaria",
+  "sourceId": "21891523",
+  "photoUrl": "https://www.inaturalist.org/photos/21891523",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21891523/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21891523/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 63134,
+  "acceptedScientificName": "Filipendula ulmaria",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/14683924",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 21891523,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21891523/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47132/47148/415343/922172/62021",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47132,47148,415343,922172,62021,63134",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 63134,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 62021,
+    "name": "Filipendula ulmaria",
+    "rank": "species",
+    "extinct": false,
+    "id": 63134,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47132,
+      47148,
+      415343,
+      922172,
+      62021,
+      63134
+    ],
+    "created_at": "2010-10-03T19:24:36+00:00",
+    "default_photo": {
+      "id": 51718,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Liisa-Maija Harju, some rights reserved (CC BY-NC-ND)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51718/square.jpg",
+      "original_dimensions": {
+        "height": 1024,
+        "width": 683
+      },
+      "flags": [],
+      "attribution_name": "Liisa-Maija Harju",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51718/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51718/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 65220,
+    "photos_locked": false,
+    "universal_search_rank": 65220,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Filipendula_ulmaria",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Meadowsweet"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21891523/original.jpg",
+  "caption": "Filipendula ulmaria — research_grade_observation",
+  "sourceTitle": "Filipendula ulmaria",
+  "acquiredAt": "2026-09-14T03:50:06+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/filipendula-ulmaria--inat-21891523.jpg",
+  "previewSha256": "38f2faf2c45474b77803d851f517ddd350eda52c587ff6db52e2408c0a05ab50",
+  "sourceDownloadSha256": "3d915bdf8bf17d16a3b17979db3084d2593f49556183236dd39179f56f4e4bb5",
+  "previewDimensions": [
+    1600,
+    1200
+  ],
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-63134",
+  "scientificName": "Filipendula ulmaria",
+  "nameJa": "セイヨウナツユキソウ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/filipendula-ulmaria/inat-21891523.jpg",
+    "web": "reference/images/filipendula-ulmaria/inat-21891523.webp",
+    "thumbnail": "reference/images/filipendula-ulmaria/inat-21891523-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1600,
+      1200
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 497834,
+    "web": 185358,
+    "thumbnail": 24506
+  },
+  "sha256": {
+    "master": "38f2faf2c45474b77803d851f517ddd350eda52c587ff6db52e2408c0a05ab50",
+    "web": "d425ace2d0c49c0e74eb75ced18a66c757421d1df7332769ab15597980977390",
+    "thumbnail": "fbbbd309c44ee861e60c20c768be8a4d23d57301d346bc0e7071bfe86a37673b"
+  },
+  "status": "collected_pending_visual_review",
+  "origin": "photo_candidate",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:50:06+00:00",
+  "savedAt": "2026-09-14T04:31:02+00:00",
+  "visualReview": {
+    "status": "pending"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:50:06+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 82,
+  "credit": "Filipendula ulmaria [Filipendula ulmaria] — no rights reserved / iNaturalist, cc0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/21891523. Resized and re-encoded; no subject alteration."
+}

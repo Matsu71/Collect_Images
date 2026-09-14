@@ -1,0 +1,164 @@
+{
+  "assetId": "inat-47451092",
+  "source": "iNaturalist",
+  "imageTitle": "Vespa crabro",
+  "sourceId": "47451092",
+  "photoUrl": "https://www.inaturalist.org/photos/47451092",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/47451092/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/47451092/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 54327,
+  "acceptedScientificName": "Vespa crabro",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/30373401",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.375714285714286,
+  "photoApiEvidence": {
+    "id": 47451092,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1663,
+      "height": 2016
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47451092/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47201/124417/326777/48740/52747/84738/54328",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47201,124417,326777,48740,52747,84738,54328,54327",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 54327,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 54328,
+    "name": "Vespa crabro",
+    "rank": "species",
+    "extinct": false,
+    "id": 54327,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47201,
+      124417,
+      326777,
+      48740,
+      52747,
+      84738,
+      54328,
+      54327
+    ],
+    "provisional": false,
+    "created_at": "2009-11-28T15:57:42+00:00",
+    "default_photo": {
+      "id": 88741046,
+      "license_code": null,
+      "attribution": "(c) Matthieu Berroneau, all rights reserved",
+      "url": "https://static.inaturalist.org/photos/88741046/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1366
+      },
+      "flags": [],
+      "attribution_name": "Matthieu Berroneau",
+      "square_url": "https://static.inaturalist.org/photos/88741046/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/88741046/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 81446,
+    "photos_locked": false,
+    "universal_search_rank": 81446,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 97131,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_hornet",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "European Hornet"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/47451092/original.jpeg",
+  "caption": "Vespa crabro — research_grade_observation",
+  "sourceTitle": "Vespa crabro",
+  "acquiredAt": "2026-09-14T03:53:14+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/vespa-crabro--inat-47451092.jpg",
+  "previewSha256": "6ac58d805c82439b95dbb43dfbf80fb9de50cee3966c3c1ab7b0f8a9fa49b3f8",
+  "sourceDownloadSha256": "446461be56514fb2bda747965341c3dcda94ebfcefe5a6aa2992579b84441dec",
+  "previewDimensions": [
+    1320,
+    1600
+  ],
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-54327",
+  "scientificName": "Vespa crabro",
+  "nameJa": "モンスズメバチ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/vespa-crabro/inat-47451092.jpg",
+    "web": "reference/images/vespa-crabro/inat-47451092.webp",
+    "thumbnail": "reference/images/vespa-crabro/inat-47451092-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1320,
+      1600
+    ],
+    "web": [
+      1155,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 553615,
+    "web": 180066,
+    "thumbnail": 14590
+  },
+  "sha256": {
+    "master": "6ac58d805c82439b95dbb43dfbf80fb9de50cee3966c3c1ab7b0f8a9fa49b3f8",
+    "web": "a8eb4b2d2c7ef9077ad0dda037b9877e98626526f3eb4a1e79217df60cc9b8a6",
+    "thumbnail": "e5d05a742362a915f600074ce34beddd867d077a3bd5eeee4402897a1ea6db06"
+  },
+  "status": "collected_pending_visual_review",
+  "origin": "photo_candidate",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:53:14+00:00",
+  "savedAt": "2026-09-14T04:32:25+00:00",
+  "visualReview": {
+    "status": "pending"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:53:14+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 79,
+  "credit": "Vespa crabro [Vespa crabro] — no rights reserved / iNaturalist, cc0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/47451092. Resized and re-encoded; no subject alteration."
+}

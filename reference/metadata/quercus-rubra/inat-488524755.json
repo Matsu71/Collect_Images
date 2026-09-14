@@ -1,0 +1,163 @@
+{
+  "assetId": "inat-488524755",
+  "source": "iNaturalist",
+  "imageTitle": "Quercus rubra",
+  "sourceId": "488524755",
+  "photoUrl": "https://www.inaturalist.org/photos/488524755",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/488524755/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/488524755/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 49005,
+  "acceptedScientificName": "Quercus rubra",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/271581359",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 488524755,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488524755/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47853/47852/47851/861029/861036/1549935/1550123",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47853,47852,47851,861029,861036,1549935,1550123,49005",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 49005,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1550123,
+    "name": "Quercus rubra",
+    "rank": "species",
+    "extinct": false,
+    "id": 49005,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47853,
+      47852,
+      47851,
+      861029,
+      861036,
+      1549935,
+      1550123,
+      49005
+    ],
+    "created_at": "2009-01-10T02:20:18+00:00",
+    "default_photo": {
+      "id": 96523422,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) ssimeto, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96523422/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "ssimeto",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96523422/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96523422/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 4,
+    "observations_count": 124387,
+    "photos_locked": false,
+    "universal_search_rank": 124387,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 1822,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Quercus_rubra",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "northern red oak"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/488524755/original.jpg",
+  "caption": "Quercus rubra — research_grade_observation",
+  "sourceTitle": "Quercus rubra",
+  "acquiredAt": "2026-09-14T03:51:48+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/quercus-rubra--inat-488524755.jpg",
+  "previewSha256": "a72a0a75387f94b95d816d254b1702bd3cec0d3ad19bf1b5a1c7ecfd01e83de3",
+  "sourceDownloadSha256": "f4ea02e15850406463185f4e835ec3890ac1652a8688c44fc4912f2c271ed0c5",
+  "previewDimensions": [
+    1200,
+    1600
+  ],
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-49005",
+  "scientificName": "Quercus rubra",
+  "nameJa": "アカガシワ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/quercus-rubra/inat-488524755.jpg",
+    "web": "reference/images/quercus-rubra/inat-488524755.webp",
+    "thumbnail": "reference/images/quercus-rubra/inat-488524755-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1200,
+      1600
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1270154,
+    "web": 571998,
+    "thumbnail": 22804
+  },
+  "sha256": {
+    "master": "a72a0a75387f94b95d816d254b1702bd3cec0d3ad19bf1b5a1c7ecfd01e83de3",
+    "web": "f6ba567dde2178e799072314282e4ffacf8c5be11564d4fe8367205ae73be64e",
+    "thumbnail": "2176e7ecee64bbff1572cfe9100e7b828211e396c4b97711b756d967053e50bc"
+  },
+  "status": "collected_pending_visual_review",
+  "origin": "photo_candidate",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:51:48+00:00",
+  "savedAt": "2026-09-14T04:31:44+00:00",
+  "visualReview": {
+    "status": "pending"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:51:48+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 67,
+  "credit": "Quercus rubra [Quercus rubra] — no rights reserved / iNaturalist, cc0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/488524755. Resized and re-encoded; no subject alteration."
+}

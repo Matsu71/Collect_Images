@@ -1,0 +1,183 @@
+{
+  "assetId": "inat-331772276",
+  "source": "iNaturalist",
+  "imageTitle": "Equus caballus",
+  "sourceId": "331772276",
+  "photoUrl": "https://www.inaturalist.org/photos/331772276",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/331772276/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/331772276/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "作者名未取得（CC0・出典参照）",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 209233,
+  "acceptedScientificName": "Equus caballus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/189402148",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 331772276,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331772276/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/43327/43328/43329",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,43327,43328,43329,209233",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 209233,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 43329,
+    "name": "Equus caballus",
+    "rank": "species",
+    "extinct": false,
+    "id": 209233,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      43327,
+      43328,
+      43329,
+      209233
+    ],
+    "created_at": "2013-03-07T03:01:57+00:00",
+    "default_photo": {
+      "id": 23672580,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) copper, some rights reserved (CC BY-NC), uploaded by copper",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23672580/square.jpeg",
+      "original_dimensions": {
+        "height": 1367,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "copper",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23672580/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23672580/medium.jpeg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 3,
+    "observations_count": 47616,
+    "photos_locked": false,
+    "universal_search_rank": 47616,
+    "flag_counts": {
+      "resolved": 5,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Horse",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Domestic Horse"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/331772276/original.jpeg",
+  "caption": "Equus caballus — research_grade_observation",
+  "sourceTitle": "Equus caballus",
+  "acquiredAt": "2026-09-14T03:44:49+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/equus-caballus--inat-331772276.jpg",
+  "previewSha256": "b3f8060d5704a3151f5bd01409b85cb95649273f07c7cf4a3f17f7f39d3134bd",
+  "sourceDownloadSha256": "b55ae7b9fe8c1bbcefa30d27b4aee12bdb5794372f88c1a0b3c802de6083995b",
+  "previewDimensions": [
+    1600,
+    1200
+  ],
+  "schemaVersion": 1,
+  "targetId": "org-equus-caballus",
+  "scientificName": "Equus caballus",
+  "nameJa": "ウマ",
+  "collectionTier": "chronoearth",
+  "files": {
+    "master": "reference/images/equus-caballus/inat-331772276.jpg",
+    "web": "reference/images/equus-caballus/inat-331772276.webp",
+    "thumbnail": "reference/images/equus-caballus/inat-331772276-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1600,
+      1200
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 732230,
+    "web": 213794,
+    "thumbnail": 22904
+  },
+  "sha256": {
+    "master": "b3f8060d5704a3151f5bd01409b85cb95649273f07c7cf4a3f17f7f39d3134bd",
+    "web": "c0cfe0e744a33619a12a00371814d81c9c799de0116bc86fef6ef76cd8502300",
+    "thumbnail": "6de70a747551254f6a22813d059b4c29f3ca26c0e043b5f6e8624f5c25183c0d"
+  },
+  "status": "supplementary_only",
+  "origin": "photograph_visual_screened",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:44:49+00:00",
+  "savedAt": "2026-09-14T04:28:53+00:00",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "20_image_contact_sheet_and_source_caption_screening",
+    "reviewFile": "reviews/round2-decisions-20260914.json",
+    "snapshotNumber": 65,
+    "previewSha256": "b3f8060d5704a3151f5bd01409b85cb95649273f07c7cf4a3f17f7f39d3134bd",
+    "candidateManifestSha256": "6331ee8219425661f9ed8886ae1658dc0cfb18e450f1b5f8ff3068de3028617d",
+    "noteJa": "水を飲む個体の写真です。頭部を下げ、脚の下部は水中です。",
+    "speciesIdentity": "source_caption_or_exact_taxon_checked_not_expert_reidentification",
+    "fullResolutionInspection": "contact_sheet_review_not_pixel_level_audit"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:44:49+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 67,
+  "credit": "Equus caballus [Equus caballus] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/331772276. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "authorApiValueBeforeNormalization": "no rights reserved",
+  "authorStatus": "not_provided_by_photo_api",
+  "authorNote": "CC0 does not require attribution as a copyright-license condition. The original photo page is retained; a rights notice is not presented as a person name.",
+  "rawMetadataPath": "reference/metadata/equus-caballus/inat-331772276.json",
+  "collectionSource": "reference",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/equus-caballus--inat-331772276.json"
+}

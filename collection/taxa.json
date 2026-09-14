@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T04:25:52+00:00",
+  "generatedAt": "2026-09-14T04:32:40+00:00",
   "records": [
     {
       "id": "org-acanthaster-planci",
@@ -185,6 +185,8 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/agaricus-bisporus--commons-24843662.json",
+        "collection/metadata/agaricus-bisporus--commons-46446900.json",
+        "collection/metadata/agaricus-bisporus--commons-82484721.json",
         "collection/metadata/agaricus-bisporus--commons-82484727.json"
       ],
       "pendingPhotos": [],
@@ -421,8 +423,10 @@
       "supplementaryPhotos": [
         "collection/metadata/amborella-trichopoda--commons-12529866.json",
         "collection/metadata/amborella-trichopoda--commons-3565151.json",
+        "collection/metadata/amborella-trichopoda--commons-6255889.json",
         "collection/metadata/amborella-trichopoda--commons-6255897.json",
-        "collection/metadata/amborella-trichopoda--inat-52298508.json"
+        "collection/metadata/amborella-trichopoda--inat-52298508.json",
+        "collection/metadata/amborella-trichopoda--inat-5235298.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -584,10 +588,18 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-anax-junius",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-22703934",
+        "web": "reference/images/anax-junius/commons-22703934.webp",
+        "master": "reference/images/anax-junius/commons-22703934.jpg",
+        "metadata": "collection/metadata/anax-junius--commons-22703934.json",
+        "license": "CC BY 2.0",
+        "credit": "Anax junius (4734918232) [Anax junius] — David Eickhoff from Pearl City, Hawaii, USA / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Anax_junius_(4734918232).jpg. Original attribution: Anax junius. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/anax-junius--commons-160952278.json",
+        "collection/metadata/anax-junius--commons-22703946.json",
         "collection/metadata/anax-junius--commons-2712858.json",
         "collection/metadata/anax-junius--inat-154883429.json"
       ],
@@ -781,7 +793,8 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
-        "collection/metadata/apteryx-mantelli--commons-179438660.json"
+        "collection/metadata/apteryx-mantelli--commons-179438660.json",
+        "collection/metadata/apteryx-mantelli--commons-79362382.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": [
@@ -948,6 +961,7 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/architeuthis-dux--commons-112339498.json",
         "collection/metadata/architeuthis-dux--commons-14936703.json",
         "collection/metadata/architeuthis-dux--inat-68146399.json"
       ],
@@ -1178,6 +1192,7 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/bacillus-subtilis--commons-16729724.json",
         "collection/metadata/bacillus-subtilis--commons-64133397.json",
         "collection/metadata/bacillus-subtilis--commons-7175271.json",
         "collection/metadata/bacillus-subtilis--commons-84760254.json"
@@ -1217,6 +1232,8 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/balaenoptera-musculus--commons-189541642.json",
+        "collection/metadata/balaenoptera-musculus--commons-189541645.json",
         "collection/metadata/balaenoptera-musculus--inat-615864130.json"
       ],
       "pendingPhotos": [],
@@ -1449,7 +1466,14 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-bombyx-mori",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-10499473",
+        "web": "reference/images/bombyx-mori/commons-10499473.webp",
+        "master": "reference/images/bombyx-mori/commons-10499473.jpg",
+        "metadata": "collection/metadata/bombyx-mori--commons-10499473.json",
+        "license": "CC BY 3.0",
+        "credit": "Silkworm mulberry tree zetarra marugatze arbolean3 [Bombyx mori] — Gorkaazk / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Silkworm_mulberry_tree_zetarra_marugatze_arbolean3.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/bombyx-mori--commons-28523650.json",
@@ -1490,6 +1514,7 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/botrytis-cinerea--commons-133485691.json",
         "collection/metadata/botrytis-cinerea--commons-154440735.json",
         "collection/metadata/botrytis-cinerea--commons-164462014.json",
         "collection/metadata/botrytis-cinerea--commons-166822587.json"
@@ -1578,6 +1603,7 @@
       "supplementaryPhotos": [
         "collection/metadata/breviolum-minutum--commons-107815007.json",
         "collection/metadata/breviolum-minutum--commons-107815009.json",
+        "collection/metadata/breviolum-minutum--commons-107815011.json",
         "collection/metadata/breviolum-minutum--commons-107815012.json"
       ],
       "pendingPhotos": [],
@@ -1804,7 +1830,8 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/camellia-sinensis--commons-89409344.json",
-        "collection/metadata/camellia-sinensis--inat-3431826.json"
+        "collection/metadata/camellia-sinensis--inat-3431826.json",
+        "collection/metadata/camellia-sinensis--inat-449336433.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -1860,12 +1887,21 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-candida-albicans",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-161691252",
+        "web": "reference/images/candida-albicans/commons-161691252.webp",
+        "master": "reference/images/candida-albicans/commons-161691252.jpg",
+        "metadata": "collection/metadata/candida-albicans--commons-161691252.json",
+        "license": "CC BY 4.0",
+        "credit": "Germ tube test (GTT) of Candida albicans-Positive [Candida albicans] — Ajay Kumar Chaurasiya / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Germ_tube_test_(GTT)_of_Candida_albicans-Positive.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/candida-albicans--commons-161691450.json",
         "collection/metadata/candida-albicans--commons-161691604.json",
-        "collection/metadata/candida-albicans--commons-189669565.json"
+        "collection/metadata/candida-albicans--commons-189669565.json",
+        "collection/metadata/candida-albicans--commons-31550572.json",
+        "collection/metadata/candida-albicans--commons-58415247.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -1910,9 +1946,17 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-canis-latrans",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-116322986",
+        "web": "reference/images/canis-latrans/commons-116322986.webp",
+        "master": "reference/images/canis-latrans/commons-116322986.jpg",
+        "metadata": "collection/metadata/canis-latrans--commons-116322986.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Coyote in tall grass [Canis latrans] — Garst, Warren, 1922-2016, photographer / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Coyote_in_tall_grass_-_DPLA_-_e700f54c2d77857d0d14e70227961ff0.jpg. Original attribution: This file was contributed to Wikimedia Commons by Colorado State University Libraries as part of a cooperation project. The donation was facilitated by the Digital Public Library of America . Record in source catalog DPLA identifier: e700f54c2d77857d0d14e70227961ff0. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/canis-latrans--inat-330512607.json",
         "collection/metadata/canis-latrans--inat-63301364.json"
       ],
       "pendingPhotos": [],
@@ -1966,7 +2010,9 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/cannabis-sativa--commons-11437037.json",
+        "collection/metadata/cannabis-sativa--commons-149387151.json",
         "collection/metadata/cannabis-sativa--commons-66310058.json",
+        "collection/metadata/cannabis-sativa--inat-37853509.json",
         "collection/metadata/cannabis-sativa--inat-83313008.json"
       ],
       "pendingPhotos": [],
@@ -2203,6 +2249,7 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/castor-canadensis--commons-151879692.json",
+        "collection/metadata/castor-canadensis--commons-151879693.json",
         "collection/metadata/castor-canadensis--commons-151879697.json"
       ],
       "pendingPhotos": [],
@@ -2516,7 +2563,14 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-chlamydomonas-reinhardtii",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-189731928",
+        "web": "reference/images/chlamydomonas-reinhardtii/commons-189731928.webp",
+        "master": "reference/images/chlamydomonas-reinhardtii/commons-189731928.jpg",
+        "metadata": "collection/metadata/chlamydomonas-reinhardtii--commons-189731928.json",
+        "license": "CC BY 4.0",
+        "credit": "Veac102fS2-TEM of Chlamydomonas reinhardtii cells [Chlamydomonas reinhardtii] — Mohammad Moniruzzaman, Maria P. Erazo-Garcia, Frank O. Aylward / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Veac102fS2-TEM_of_Chlamydomonas_reinhardtii_cells.png. Original attribution: Endogenous giant viruses contribute to intraspecies genomic variability in the model green alga Chlamydomonas reinhardtii . In: Oxford Academic : Virus Evolution , Volume 8, No. 2, veac102; doi:10.1093/ve/veac102 incl. Supplement.. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [],
       "pendingPhotos": [],
@@ -2770,7 +2824,8 @@
       "supplementaryPhotos": [
         "collection/metadata/conraua-goliath--commons-182455358.json",
         "collection/metadata/conraua-goliath--commons-5076693.json",
-        "collection/metadata/conraua-goliath--commons-79359966.json"
+        "collection/metadata/conraua-goliath--commons-79359966.json",
+        "collection/metadata/conraua-goliath--inat-539752953.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": [
@@ -2809,7 +2864,9 @@
       "supplementaryPhotos": [
         "collection/metadata/corallina-officinalis--commons-18609988.json",
         "collection/metadata/corallina-officinalis--commons-57510972.json",
-        "collection/metadata/corallina-officinalis--inat-202533904.json"
+        "collection/metadata/corallina-officinalis--commons-87411324.json",
+        "collection/metadata/corallina-officinalis--inat-202533904.json",
+        "collection/metadata/corallina-officinalis--inat-557724731.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -3214,6 +3271,8 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/danio-rerio--commons-25855505.json",
+        "collection/metadata/danio-rerio--inat-464130719.json",
         "collection/metadata/danio-rerio--inat-537951317.json"
       ],
       "pendingPhotos": [],
@@ -3295,6 +3354,7 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/daubentonia-madagascariensis--commons-154787813.json",
         "collection/metadata/daubentonia-madagascariensis--commons-42890351.json",
         "collection/metadata/daubentonia-madagascariensis--inat-4582836.json"
       ],
@@ -3820,7 +3880,9 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
-        "collection/metadata/equus-caballus--inat-254672607.json"
+        "collection/metadata/equus-caballus--inat-254672607.json",
+        "collection/metadata/equus-caballus--inat-331772276.json",
+        "collection/metadata/equus-caballus--inat-398682693.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -3921,6 +3983,8 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/escherichia-coli--commons-105558134.json",
+        "collection/metadata/escherichia-coli--commons-179842369.json",
         "collection/metadata/escherichia-coli--commons-85459202.json"
       ],
       "pendingPhotos": [],
@@ -3953,12 +4017,21 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-eucalyptus-globulus",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-114979698",
+        "web": "reference/images/eucalyptus-globulus/commons-114979698.webp",
+        "master": "reference/images/eucalyptus-globulus/commons-114979698.jpg",
+        "metadata": "collection/metadata/eucalyptus-globulus--commons-114979698.json",
+        "license": "CC BY 2.0",
+        "credit": "Starr-210503-9565-Eucalyptus globulus-large tree-Crater Rd to Kamehamenui-Maui (51578442906) [Eucalyptus globulus] — Forest and Kim Starr / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Starr-210503-9565-Eucalyptus_globulus-large_tree-Crater_Rd_to_Kamehamenui-Maui_(51578442906).jpg. Original attribution: starr-210503-9565-Eucalyptus_globulus-large_tree-Crater_Rd_to_Kamehamenui-Maui. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/eucalyptus-globulus--commons-114979922.json",
         "collection/metadata/eucalyptus-globulus--commons-174445116.json",
         "collection/metadata/eucalyptus-globulus--commons-6114109.json",
-        "collection/metadata/eucalyptus-globulus--inat-348028899.json"
+        "collection/metadata/eucalyptus-globulus--inat-348028899.json",
+        "collection/metadata/eucalyptus-globulus--inat-674129667.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -4036,7 +4109,14 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-euglena-gracilis",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-47520078",
+        "web": "reference/images/euglena-gracilis/commons-47520078.webp",
+        "master": "reference/images/euglena-gracilis/commons-47520078.jpg",
+        "metadata": "collection/metadata/euglena-gracilis--commons-47520078.json",
+        "license": "CC BY-SA 3.0",
+        "credit": "FieldofEuglena.gracilis [Euglena gracilis] — Ellis O'Neill / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:FieldofEuglena.gracilis.jpg. Original attribution: Microscopy. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/euglena-gracilis--commons-40733918.json",
@@ -4162,7 +4242,14 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-ficus-benghalensis",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-151959466",
+        "web": "reference/images/ficus-benghalensis/commons-151959466.webp",
+        "master": "reference/images/ficus-benghalensis/commons-151959466.jpg",
+        "metadata": "collection/metadata/ficus-benghalensis--commons-151959466.json",
+        "license": "CC BY 4.0",
+        "credit": "Roadside Banyan tree (Ficus benghalensis) at Kothavalasa [Ficus benghalensis] — Adityamadhav83 / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Roadside_Banyan_tree_(Ficus_benghalensis)_at_Kothavalasa.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/ficus-benghalensis--commons-156986538.json",
@@ -4206,7 +4293,9 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/fucus-vesiculosus--commons-100161571.json",
+        "collection/metadata/fucus-vesiculosus--commons-100161572.json",
         "collection/metadata/fucus-vesiculosus--commons-100161574.json",
+        "collection/metadata/fucus-vesiculosus--commons-119636233.json",
         "collection/metadata/fucus-vesiculosus--commons-44276581.json"
       ],
       "pendingPhotos": [],
@@ -4223,6 +4312,7 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/fusarium-oxysporum--commons-145513617.json",
+        "collection/metadata/fusarium-oxysporum--commons-145779836.json",
         "collection/metadata/fusarium-oxysporum--commons-152170540.json",
         "collection/metadata/fusarium-oxysporum--commons-61140436.json"
       ],
@@ -4513,9 +4603,17 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-glycine-max",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-71029543",
+        "web": "reference/images/glycine-max/commons-71029543.webp",
+        "master": "reference/images/glycine-max/commons-71029543.jpg",
+        "metadata": "collection/metadata/glycine-max--commons-71029543.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Glycine max kz02 [Glycine max] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Glycine_max_kz02.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/glycine-max--inat-218164755.json",
         "collection/metadata/glycine-max--inat-28348393.json"
       ],
       "pendingPhotos": [],
@@ -4616,11 +4714,19 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-gossypium-hirsutum",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-9380756",
+        "web": "reference/images/gossypium-hirsutum/commons-9380756.webp",
+        "master": "reference/images/gossypium-hirsutum/commons-9380756.jpg",
+        "metadata": "collection/metadata/gossypium-hirsutum--commons-9380756.json",
+        "license": "CC BY-SA 3.0",
+        "credit": "Cotton plant [Gossypium hirsutum] — ChriKo / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Cotton_plant.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/gossypium-hirsutum--commons-149940168.json",
         "collection/metadata/gossypium-hirsutum--commons-149940169.json",
+        "collection/metadata/gossypium-hirsutum--commons-6131087.json",
         "collection/metadata/gossypium-hirsutum--inat-168584620.json"
       ],
       "pendingPhotos": [],
@@ -4786,6 +4892,7 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/haliotis-rufescens--commons-8912176.json",
         "collection/metadata/haliotis-rufescens--inat-259092301.json"
       ],
       "pendingPhotos": [],
@@ -4844,7 +4951,14 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-helianthus-annuus",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-24001850",
+        "web": "reference/images/helianthus-annuus/commons-24001850.webp",
+        "master": "reference/images/helianthus-annuus/commons-24001850.jpg",
+        "metadata": "collection/metadata/helianthus-annuus--commons-24001850.json",
+        "license": "CC BY 3.0",
+        "credit": "Sunflower - Toulouse - 2012-09-07 [Helianthus annuus] — PierreSelim / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Sunflower_-_Toulouse_-_2012-09-07.jpg. Original attribution: Self-photographed. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/helianthus-annuus--commons-60782305.json",
@@ -4863,7 +4977,9 @@
       "chronoearthEventId": "evt-organism-helicobacter-pylori",
       "primaryPhoto": null,
       "primaryAlternatives": [],
-      "supplementaryPhotos": [],
+      "supplementaryPhotos": [
+        "collection/metadata/helicobacter-pylori--commons-31105634.json"
+      ],
       "pendingPhotos": [],
       "excludedPhotos": []
     },
@@ -4921,6 +5037,7 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/heterocephalus-glaber--commons-22825225.json",
         "collection/metadata/heterocephalus-glaber--inat-176037362.json"
       ],
       "pendingPhotos": [],
@@ -4938,6 +5055,8 @@
       "supplementaryPhotos": [
         "collection/metadata/hevea-brasiliensis--commons-110658085.json",
         "collection/metadata/hevea-brasiliensis--commons-137354785.json",
+        "collection/metadata/hevea-brasiliensis--commons-183978832.json",
+        "collection/metadata/hevea-brasiliensis--inat-204814748.json",
         "collection/metadata/hevea-brasiliensis--inat-60706943.json"
       ],
       "pendingPhotos": [],
@@ -5061,7 +5180,14 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-homarus-americanus",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-45086861",
+        "web": "reference/images/homarus-americanus/commons-45086861.webp",
+        "master": "reference/images/homarus-americanus/commons-45086861.jpg",
+        "metadata": "collection/metadata/homarus-americanus--commons-45086861.json",
+        "license": "CC BY 2.0",
+        "credit": "American lobster, Homarus americanus in Newfoundland, Canada (21173791512) [Homarus americanus] — Derek Keats from Johannesburg, South Africa / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:American_lobster,_Homarus_americanus_in_Newfoundland,_Canada_(21173791512).jpg. Original attribution: American lobster, Homarus americanus in Newfoundland, Canada. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/homarus-americanus--commons-45086853.json",
@@ -5097,7 +5223,10 @@
       "supplementaryPhotos": [
         "collection/metadata/hordeum-vulgare--commons-1674859.json",
         "collection/metadata/hordeum-vulgare--commons-25486048.json",
+        "collection/metadata/hordeum-vulgare--commons-28432568.json",
         "collection/metadata/hordeum-vulgare--commons-47281768.json",
+        "collection/metadata/hordeum-vulgare--commons-47281777.json",
+        "collection/metadata/hordeum-vulgare--inat-12561713.json",
         "collection/metadata/hordeum-vulgare--inat-131047417.json"
       ],
       "pendingPhotos": [],
@@ -5352,6 +5481,7 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/ixodes-scapularis--commons-86047542.json",
         "collection/metadata/ixodes-scapularis--commons-86047544.json",
         "collection/metadata/ixodes-scapularis--commons-86047554.json"
       ],
@@ -5428,6 +5558,7 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/latimeria-chalumnae--commons-113008491.json",
+        "collection/metadata/latimeria-chalumnae--commons-13204681.json",
         "collection/metadata/latimeria-chalumnae--commons-3876785.json"
       ],
       "pendingPhotos": [],
@@ -5824,10 +5955,18 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-lutra-lutra",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-84655852",
+        "web": "reference/images/lutra-lutra/commons-84655852.webp",
+        "master": "reference/images/lutra-lutra/commons-84655852.jpg",
+        "metadata": "collection/metadata/lutra-lutra--commons-84655852.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Inokashira Park Zoo PC053130 [Lutra lutra] — Kestrel / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Inokashira_Park_Zoo_PC053130.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
-        "collection/metadata/lutra-lutra--inat-474812609.json"
+        "collection/metadata/lutra-lutra--inat-474812609.json",
+        "collection/metadata/lutra-lutra--inat-606127323.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -5995,12 +6134,20 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-magnolia-grandiflora",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-4399510",
+        "web": "reference/images/magnolia-grandiflora/commons-4399510.webp",
+        "master": "reference/images/magnolia-grandiflora/commons-4399510.jpg",
+        "metadata": "collection/metadata/magnolia-grandiflora--commons-4399510.json",
+        "license": "CC BY-SA 3.0",
+        "credit": "UCB Magnolia grandiflora habit [Magnolia grandiflora] — EncycloPetey / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:UCB_Magnolia_grandiflora_habit.JPG. Original attribution: I, EncycloPetey. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/magnolia-grandiflora--commons-115664975.json",
         "collection/metadata/magnolia-grandiflora--commons-115664997.json",
         "collection/metadata/magnolia-grandiflora--commons-27938081.json",
+        "collection/metadata/magnolia-grandiflora--inat-323622785.json",
         "collection/metadata/magnolia-grandiflora--inat-363901946.json"
       ],
       "pendingPhotos": [],
@@ -6035,7 +6182,14 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-malus-domestica",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-63890302",
+        "web": "reference/images/malus-domestica/commons-63890302.webp",
+        "master": "reference/images/malus-domestica/commons-63890302.jpg",
+        "metadata": "collection/metadata/malus-domestica--commons-63890302.json",
+        "license": "CC BY 2.0",
+        "credit": "Starr-170923-0281-Malus pumila-Dorsett Golden flowering fruiting habit home orchard-Hawea Pl Olinda-Maui - Flickr - Starr Environmental [Malus domestica] — Forest and Kim Starr / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Starr-170923-0281-Malus_pumila-Dorsett_Golden_flowering_fruiting_habit_home_orchard-Hawea_Pl_Olinda-Maui_-_Flickr_-_Starr_Environmental.jpg. Original attribution: starr-170923-0281-Malus_pumila-Dorsett_Golden_flowering_fruiting_habit_home_orchard-Hawea_Pl_Olinda-Maui. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/malus-domestica--commons-134433342.json",
@@ -6076,7 +6230,9 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/manihot-esculenta--commons-122080580.json",
         "collection/metadata/manihot-esculenta--commons-122080581.json",
+        "collection/metadata/manihot-esculenta--commons-122080585.json",
         "collection/metadata/manihot-esculenta--commons-87643571.json",
         "collection/metadata/manihot-esculenta--inat-249495572.json"
       ],
@@ -6117,7 +6273,10 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/manis-pentadactyla--commons-172909456.json",
-        "collection/metadata/manis-pentadactyla--commons-50399756.json"
+        "collection/metadata/manis-pentadactyla--commons-43123657.json",
+        "collection/metadata/manis-pentadactyla--commons-43123661.json",
+        "collection/metadata/manis-pentadactyla--commons-50399756.json",
+        "collection/metadata/manis-pentadactyla--inat-414923786.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": [
@@ -6340,7 +6499,9 @@
       "chronoearthEventId": "evt-organism-mobula-birostris",
       "primaryPhoto": null,
       "primaryAlternatives": [],
-      "supplementaryPhotos": [],
+      "supplementaryPhotos": [
+        "collection/metadata/mobula-birostris--inat-229709918.json"
+      ],
       "pendingPhotos": [],
       "excludedPhotos": [
         "collection/metadata/mobula-birostris--inat-484502754.json"
@@ -6439,7 +6600,14 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-mus-musculus",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-11516327",
+        "web": "reference/images/mus-musculus/commons-11516327.webp",
+        "master": "reference/images/mus-musculus/commons-11516327.jpg",
+        "metadata": "collection/metadata/mus-musculus--commons-11516327.json",
+        "license": "CC BY-SA 3.0",
+        "credit": "Maus außer Haus [Mus musculus] — 4028mdk09 / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Maus_au%C3%9Fer_Haus.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [],
       "pendingPhotos": [],
@@ -6501,6 +6669,8 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/mustela-nigripes--commons-7984514.json",
+        "collection/metadata/mustela-nigripes--inat-179581105.json",
         "collection/metadata/mustela-nigripes--inat-60607767.json"
       ],
       "pendingPhotos": [],
@@ -6516,6 +6686,7 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/mycobacterium-tuberculosis--commons-113380704.json",
         "collection/metadata/mycobacterium-tuberculosis--commons-118403531.json",
         "collection/metadata/mycobacterium-tuberculosis--commons-125861367.json",
         "collection/metadata/mycobacterium-tuberculosis--commons-179143619.json"
@@ -6575,7 +6746,9 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
-        "collection/metadata/mytilus-edulis--commons-627728.json"
+        "collection/metadata/mytilus-edulis--commons-61448534.json",
+        "collection/metadata/mytilus-edulis--commons-627728.json",
+        "collection/metadata/mytilus-edulis--inat-3904219.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": [
@@ -6677,12 +6850,20 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-nelumbo-nucifera",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-21885112",
+        "web": "reference/images/nelumbo-nucifera/commons-21885112.webp",
+        "master": "reference/images/nelumbo-nucifera/commons-21885112.jpg",
+        "metadata": "collection/metadata/nelumbo-nucifera--commons-21885112.json",
+        "license": "CC BY-SA 3.0",
+        "credit": "Lotus Nelumbo nucifera [Nelumbo nucifera] — Kiensvay / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Lotus_Nelumbo_nucifera.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/nelumbo-nucifera--commons-2655158.json",
         "collection/metadata/nelumbo-nucifera--commons-8142220.json",
-        "collection/metadata/nelumbo-nucifera--inat-293129369.json"
+        "collection/metadata/nelumbo-nucifera--inat-293129369.json",
+        "collection/metadata/nelumbo-nucifera--inat-416361838.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -6816,6 +6997,7 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/noctiluca-scintillans--commons-131386550.json",
+        "collection/metadata/noctiluca-scintillans--commons-131386551.json",
         "collection/metadata/noctiluca-scintillans--commons-148193689.json"
       ],
       "pendingPhotos": [],
@@ -6863,7 +7045,14 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-nymphaea-alba",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "inat-145184519",
+        "web": "reference/images/nymphaea-alba/inat-145184519.webp",
+        "master": "reference/images/nymphaea-alba/inat-145184519.jpg",
+        "metadata": "collection/metadata/nymphaea-alba--inat-145184519.json",
+        "license": "CC0 1.0",
+        "credit": "Nymphaea alba [Nymphaea alba] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/145184519. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/nymphaea-alba--commons-11333622.json",
@@ -6998,7 +7187,9 @@
       "supplementaryPhotos": [
         "collection/metadata/olea-europaea--commons-134433478.json",
         "collection/metadata/olea-europaea--commons-158035837.json",
-        "collection/metadata/olea-europaea--inat-409846471.json"
+        "collection/metadata/olea-europaea--commons-70627732.json",
+        "collection/metadata/olea-europaea--inat-409846471.json",
+        "collection/metadata/olea-europaea--inat-4231186.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -7210,8 +7401,10 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/oryza-sativa--commons-147107216.json",
+        "collection/metadata/oryza-sativa--commons-147107218.json",
         "collection/metadata/oryza-sativa--commons-88656156.json",
         "collection/metadata/oryza-sativa--commons-95182660.json",
+        "collection/metadata/oryza-sativa--inat-198286695.json",
         "collection/metadata/oryza-sativa--inat-463769389.json"
       ],
       "pendingPhotos": [],
@@ -7246,9 +7439,17 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-osphranter-rufus",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-64467893",
+        "web": "reference/images/osphranter-rufus/commons-64467893.webp",
+        "master": "reference/images/osphranter-rufus/commons-64467893.jpg",
+        "metadata": "collection/metadata/osphranter-rufus--commons-64467893.json",
+        "license": "CC BY 2.0",
+        "credit": "RedCenter 20050817 260 (288918804) [Osphranter rufus] — vaka0627 / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:RedCenter_20050817_260_(288918804).jpg. Original attribution: https://www.flickr.com/photos/vaka/288918804/. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/osphranter-rufus--inat-342143057.json",
         "collection/metadata/osphranter-rufus--inat-695512003.json"
       ],
       "pendingPhotos": [],
@@ -7325,8 +7526,17 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-pan-paniscus",
-      "primaryPhoto": null,
-      "primaryAlternatives": [],
+      "primaryPhoto": {
+        "assetId": "commons-25920575",
+        "web": "reference/images/pan-paniscus/commons-25920575.webp",
+        "master": "reference/images/pan-paniscus/commons-25920575.jpg",
+        "metadata": "collection/metadata/pan-paniscus--commons-25920575.json",
+        "license": "CC BY 2.0",
+        "credit": "Leaping Bonobo [Pan paniscus] — Mark Dumont / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Leaping_Bonobo.jpg. Original attribution: Flickr : Leapin' Bonobos. Resized and re-encoded; no subject alteration."
+      },
+      "primaryAlternatives": [
+        "collection/metadata/pan-paniscus--commons-10845927.json"
+      ],
       "supplementaryPhotos": [
         "collection/metadata/pan-paniscus--commons-24155733.json",
         "collection/metadata/pan-paniscus--commons-99170953.json"
@@ -7475,7 +7685,14 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-panthera-uncia",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-124099104",
+        "web": "reference/images/panthera-uncia/commons-124099104.webp",
+        "master": "reference/images/panthera-uncia/commons-124099104.jpg",
+        "metadata": "collection/metadata/panthera-uncia--commons-124099104.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Panthera uncia in ZüriZoo 8780 [Panthera uncia] — Lutz Fischer-Lamprecht / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Panthera_uncia_in_Z%C3%BCriZoo_8780.jpg. Original attribution: Lutz Fischer-Lamprecht. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/panthera-uncia--commons-125381552.json"
@@ -7689,7 +7906,10 @@
         "collection/metadata/petromyzon-marinus--commons-119261357.json",
         "collection/metadata/petromyzon-marinus--commons-1999625.json",
         "collection/metadata/petromyzon-marinus--commons-31870322.json",
-        "collection/metadata/petromyzon-marinus--inat-433632464.json"
+        "collection/metadata/petromyzon-marinus--commons-79248782.json",
+        "collection/metadata/petromyzon-marinus--commons-79248783.json",
+        "collection/metadata/petromyzon-marinus--inat-433632464.json",
+        "collection/metadata/petromyzon-marinus--inat-684351293.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -7723,12 +7943,20 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-phalaenopsis-amabilis",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "inat-236182938",
+        "web": "reference/images/phalaenopsis-amabilis/inat-236182938.webp",
+        "master": "reference/images/phalaenopsis-amabilis/inat-236182938.jpg",
+        "metadata": "collection/metadata/phalaenopsis-amabilis--inat-236182938.json",
+        "license": "CC BY 4.0",
+        "credit": "Phalaenopsis amabilis [Phalaenopsis amabilis] — Forest Botial-Jarvis / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/236182938. Original attribution: (c) Forest Botial-Jarvis, some rights reserved (CC BY). Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/phalaenopsis-amabilis--commons-25274946.json",
         "collection/metadata/phalaenopsis-amabilis--commons-31148955.json",
         "collection/metadata/phalaenopsis-amabilis--commons-31731559.json",
+        "collection/metadata/phalaenopsis-amabilis--commons-76510292.json",
         "collection/metadata/phalaenopsis-amabilis--inat-617943572.json"
       ],
       "pendingPhotos": [],
@@ -7916,7 +8144,9 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
-        "collection/metadata/phytophthora-infestans--commons-15991500.json"
+        "collection/metadata/phytophthora-infestans--commons-15906294.json",
+        "collection/metadata/phytophthora-infestans--commons-15991500.json",
+        "collection/metadata/phytophthora-infestans--commons-47864290.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -8212,9 +8442,17 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-pongo-pygmaeus",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "inat-62662319",
+        "web": "reference/images/pongo-pygmaeus/inat-62662319.webp",
+        "master": "reference/images/pongo-pygmaeus/inat-62662319.jpg",
+        "metadata": "collection/metadata/pongo-pygmaeus--inat-62662319.json",
+        "license": "CC BY 4.0",
+        "credit": "Pongo pygmaeus [Pongo pygmaeus] — Pirataber / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/62662319. Original attribution: (c) Pirataber, some rights reserved (CC BY). Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/pongo-pygmaeus--commons-3913620.json",
         "collection/metadata/pongo-pygmaeus--commons-41696089.json",
         "collection/metadata/pongo-pygmaeus--commons-60527943.json",
         "collection/metadata/pongo-pygmaeus--inat-109597147.json"
@@ -8257,6 +8495,8 @@
         "collection/metadata/porphyra-umbilicalis--commons-5654772.json",
         "collection/metadata/porphyra-umbilicalis--commons-84148707.json",
         "collection/metadata/porphyra-umbilicalis--commons-84149324.json",
+        "collection/metadata/porphyra-umbilicalis--commons-84150018.json",
+        "collection/metadata/porphyra-umbilicalis--inat-160282084.json",
         "collection/metadata/porphyra-umbilicalis--inat-212432.json"
       ],
       "pendingPhotos": [],
@@ -8457,7 +8697,9 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
-        "collection/metadata/pseudonaja-textilis--commons-27543286.json"
+        "collection/metadata/pseudonaja-textilis--commons-27543134.json",
+        "collection/metadata/pseudonaja-textilis--commons-27543286.json",
+        "collection/metadata/pseudonaja-textilis--inat-349632337.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": [
@@ -8515,7 +8757,14 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-pteronura-brasiliensis",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-116350253",
+        "web": "reference/images/pteronura-brasiliensis/commons-116350253.webp",
+        "master": "reference/images/pteronura-brasiliensis/commons-116350253.jpg",
+        "metadata": "collection/metadata/pteronura-brasiliensis--commons-116350253.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Giant otters standing near crocodile [Pteronura brasiliensis] — Garst, Warren, 1922-2016, photographer / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Giant_otters_standing_near_crocodile_-_DPLA_-_e843620961f45ae2841985d10dac6188.jpg. Original attribution: This file was contributed to Wikimedia Commons by Colorado State University Libraries as part of a cooperation project. The donation was facilitated by the Digital Public Library of America . Record in source catalog DPLA identifier: e843620961f45ae2841985d10dac6188. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/pteronura-brasiliensis--commons-81032693.json",
@@ -8600,9 +8849,17 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-puma-concolor",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "inat-471959813",
+        "web": "reference/images/puma-concolor/inat-471959813.webp",
+        "master": "reference/images/puma-concolor/inat-471959813.jpg",
+        "metadata": "collection/metadata/puma-concolor--inat-471959813.json",
+        "license": "CC BY 4.0",
+        "credit": "Puma concolor [Puma concolor] — Jared Shorma / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/471959813. Original attribution: (c) Jared Shorma, some rights reserved (CC BY). Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/puma-concolor--commons-65202412.json",
         "collection/metadata/puma-concolor--commons-90128513.json"
       ],
       "pendingPhotos": [],
@@ -8672,12 +8929,21 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-quercus-robur",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-115518835",
+        "web": "reference/images/quercus-robur/commons-115518835.webp",
+        "master": "reference/images/quercus-robur/commons-115518835.jpg",
+        "metadata": "collection/metadata/quercus-robur--commons-115518835.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Kraków Las Mogilski pomnik przyrody Dąb szypułkowy Quercus robur 1 [Quercus robur] — Janusz Krzyżek (User:Januszk57) / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Krak%C3%B3w_Las_Mogilski_pomnik_przyrody_D%C4%85b_szypu%C5%82kowy_Quercus_robur_1.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/quercus-robur--commons-106138103.json",
         "collection/metadata/quercus-robur--commons-157273168.json",
-        "collection/metadata/quercus-robur--inat-208284649.json"
+        "collection/metadata/quercus-robur--commons-538811.json",
+        "collection/metadata/quercus-robur--inat-208284649.json",
+        "collection/metadata/quercus-robur--inat-216854955.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -8989,8 +9255,10 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/rosa-chinensis--commons-117828639.json",
         "collection/metadata/rosa-chinensis--commons-20527377.json",
         "collection/metadata/rosa-chinensis--commons-20527378.json",
+        "collection/metadata/rosa-chinensis--commons-2285301.json",
         "collection/metadata/rosa-chinensis--commons-817973.json",
         "collection/metadata/rosa-chinensis--inat-698300243.json"
       ],
@@ -9157,6 +9425,9 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/salmo-salar--commons-107864951.json",
+        "collection/metadata/salmo-salar--commons-213448.json",
+        "collection/metadata/salmo-salar--inat-551746998.json",
         "collection/metadata/salmo-salar--inat-608737746.json"
       ],
       "pendingPhotos": [],
@@ -9662,7 +9933,9 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/strigops-habroptilus--commons-175548166.json",
-        "collection/metadata/strigops-habroptilus--inat-386289202.json"
+        "collection/metadata/strigops-habroptilus--commons-74834515.json",
+        "collection/metadata/strigops-habroptilus--inat-386289202.json",
+        "collection/metadata/strigops-habroptilus--inat-412477110.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -10011,13 +10284,22 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-theobroma-cacao",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-6163241",
+        "web": "reference/images/theobroma-cacao/commons-6163241.webp",
+        "master": "reference/images/theobroma-cacao/commons-6163241.jpg",
+        "metadata": "collection/metadata/theobroma-cacao--commons-6163241.json",
+        "license": "CC BY 3.0",
+        "credit": "Starr 070321-6109 Theobroma cacao [Theobroma cacao] — Forest & Kim Starr / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Starr_070321-6109_Theobroma_cacao.jpg. Original attribution: Forest & Kim Starr. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/theobroma-cacao--commons-186812507.json",
         "collection/metadata/theobroma-cacao--commons-6163317.json",
+        "collection/metadata/theobroma-cacao--commons-6163324.json",
         "collection/metadata/theobroma-cacao--commons-9464209.json",
-        "collection/metadata/theobroma-cacao--inat-334888137.json"
+        "collection/metadata/theobroma-cacao--inat-334888137.json",
+        "collection/metadata/theobroma-cacao--inat-627816005.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -10102,10 +10384,18 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-torpedo-marmorata",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "inat-458297067",
+        "web": "reference/images/torpedo-marmorata/inat-458297067.webp",
+        "master": "reference/images/torpedo-marmorata/inat-458297067.jpg",
+        "metadata": "collection/metadata/torpedo-marmorata--inat-458297067.json",
+        "license": "CC BY 4.0",
+        "credit": "Torpedo marmorata [Torpedo marmorata] — Donald Davesne / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/458297067. Original attribution: (c) Donald Davesne, some rights reserved (CC BY). Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/torpedo-marmorata--commons-43626422.json",
+        "collection/metadata/torpedo-marmorata--commons-43626424.json",
         "collection/metadata/torpedo-marmorata--inat-317972298.json"
       ],
       "pendingPhotos": [],
@@ -10118,9 +10408,18 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-toxoplasma-gondii",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-142513554",
+        "web": "reference/images/toxoplasma-gondii/commons-142513554.webp",
+        "master": "reference/images/toxoplasma-gondii/commons-142513554.jpg",
+        "metadata": "collection/metadata/toxoplasma-gondii--commons-142513554.json",
+        "license": "CC BY 4.0",
+        "credit": "Toxoplasma parasites (tachyzoites) in a fibroblast host cell [Toxoplasma gondii] — Morne Arin (Ksena Longrin, previously known as Kseniia Bondarenko) / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Toxoplasma_parasites_(tachyzoites)_in_a_fibroblast_host_cell.png. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
-      "supplementaryPhotos": [],
+      "supplementaryPhotos": [
+        "collection/metadata/toxoplasma-gondii--commons-78700292.json"
+      ],
       "pendingPhotos": [],
       "excludedPhotos": []
     },
@@ -10254,12 +10553,20 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-triticum-aestivum",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-95389745",
+        "web": "reference/images/triticum-aestivum/commons-95389745.webp",
+        "master": "reference/images/triticum-aestivum/commons-95389745.jpg",
+        "metadata": "collection/metadata/triticum-aestivum--commons-95389745.json",
+        "license": "CC BY 2.0",
+        "credit": "Starr-190518-6495-Triticum aestivum-Glenn habit-Hawea Pl Olinda-Maui (48301472212) [Triticum aestivum] — Forest and Kim Starr / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Starr-190518-6495-Triticum_aestivum-Glenn_habit-Hawea_Pl_Olinda-Maui_(48301472212).jpg. Original attribution: starr-190518-6495-Triticum_aestivum-Glenn_habit-Hawea_Pl_Olinda-Maui. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/triticum-aestivum--commons-116937254.json",
         "collection/metadata/triticum-aestivum--commons-146597874.json",
         "collection/metadata/triticum-aestivum--commons-46079948.json",
+        "collection/metadata/triticum-aestivum--inat-382730830.json",
         "collection/metadata/triticum-aestivum--inat-49680227.json"
       ],
       "pendingPhotos": [],
@@ -10337,6 +10644,8 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/tursiops-truncatus--commons-103075055.json",
+        "collection/metadata/tursiops-truncatus--commons-42410917.json",
         "collection/metadata/tursiops-truncatus--commons-45131200.json",
         "collection/metadata/tursiops-truncatus--inat-341667124.json"
       ],
@@ -10398,6 +10707,7 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/ulva-lactuca--commons-18958537.json",
+        "collection/metadata/ulva-lactuca--inat-205982910.json",
         "collection/metadata/ulva-lactuca--inat-237145257.json"
       ],
       "pendingPhotos": [],
@@ -10498,12 +10808,20 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-vanilla-planifolia",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-95390542",
+        "web": "reference/images/vanilla-planifolia/commons-95390542.webp",
+        "master": "reference/images/vanilla-planifolia/commons-95390542.jpg",
+        "metadata": "collection/metadata/vanilla-planifolia--commons-95390542.json",
+        "license": "CC BY 2.0",
+        "credit": "Starr-190527-6589-Vanilla planifolia-vining habit in Koaia-Hawea Pl Olinda-Maui (48301551472) [Vanilla planifolia] — Forest and Kim Starr / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Starr-190527-6589-Vanilla_planifolia-vining_habit_in_Koaia-Hawea_Pl_Olinda-Maui_(48301551472).jpg. Original attribution: starr-190527-6589-Vanilla_planifolia-vining_habit_in_Koaia-Hawea_Pl_Olinda-Maui. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/vanilla-planifolia--commons-156904476.json",
         "collection/metadata/vanilla-planifolia--commons-156904477.json",
-        "collection/metadata/vanilla-planifolia--inat-358756634.json"
+        "collection/metadata/vanilla-planifolia--inat-358756634.json",
+        "collection/metadata/vanilla-planifolia--inat-377305709.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -10563,6 +10881,7 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/vibrio-cholerae--commons-138890853.json",
+        "collection/metadata/vibrio-cholerae--commons-138894810.json",
         "collection/metadata/vibrio-cholerae--commons-95217900.json"
       ],
       "pendingPhotos": [],
@@ -10579,9 +10898,11 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/victoria-amazonica--commons-18229994.json",
+        "collection/metadata/victoria-amazonica--commons-76541256.json",
         "collection/metadata/victoria-amazonica--commons-8155907.json",
         "collection/metadata/victoria-amazonica--commons-9456177.json",
-        "collection/metadata/victoria-amazonica--inat-68253999.json"
+        "collection/metadata/victoria-amazonica--inat-68253999.json",
+        "collection/metadata/victoria-amazonica--inat-68254147.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -10620,6 +10941,8 @@
       "supplementaryPhotos": [
         "collection/metadata/vitis-vinifera--commons-106491824.json",
         "collection/metadata/vitis-vinifera--commons-106491825.json",
+        "collection/metadata/vitis-vinifera--commons-145736871.json",
+        "collection/metadata/vitis-vinifera--commons-72239068.json",
         "collection/metadata/vitis-vinifera--inat-197483971.json"
       ],
       "pendingPhotos": [],
@@ -11033,7 +11356,14 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-97126294",
+        "web": "reference/images/achillea-millefolium/commons-97126294.webp",
+        "master": "reference/images/achillea-millefolium/commons-97126294.jpg",
+        "metadata": "collection/metadata/achillea-millefolium--commons-97126294.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Achillea millefolium Krwawnik pospolity 2020-07-12 03 [Achillea millefolium] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Achillea_millefolium_Krwawnik_pospolity_2020-07-12_03.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/achillea-millefolium--commons-143957639.json",
@@ -11073,11 +11403,19 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "inat-6917258",
+        "web": "reference/images/plantago-lanceolata/inat-6917258.webp",
+        "master": "reference/images/plantago-lanceolata/inat-6917258.jpg",
+        "metadata": "collection/metadata/plantago-lanceolata--inat-6917258.json",
+        "license": "CC0 1.0",
+        "credit": "Plantago lanceolata [Plantago lanceolata] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/6917258. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/plantago-lanceolata--commons-132809186.json",
         "collection/metadata/plantago-lanceolata--commons-132809189.json",
+        "collection/metadata/plantago-lanceolata--commons-147140369.json",
         "collection/metadata/plantago-lanceolata--inat-17471535.json"
       ],
       "pendingPhotos": [],
@@ -11159,11 +11497,19 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-101175741",
+        "web": "reference/images/trifolium-pratense/commons-101175741.webp",
+        "master": "reference/images/trifolium-pratense/commons-101175741.jpg",
+        "metadata": "collection/metadata/trifolium-pratense--commons-101175741.json",
+        "license": "CC BY 4.0",
+        "credit": "Trifolium pratense genus Trifolium [Trifolium pratense] — Apanasevich Maxim / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Trifolium_pratense_genus_Trifolium.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/trifolium-pratense--commons-50430032.json",
         "collection/metadata/trifolium-pratense--commons-50438310.json",
+        "collection/metadata/trifolium-pratense--commons-77966112.json",
         "collection/metadata/trifolium-pratense--inat-53670697.json"
       ],
       "pendingPhotos": [],
@@ -11329,10 +11675,18 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "inat-214416263",
+        "web": "reference/images/cirsium-arvense/inat-214416263.webp",
+        "master": "reference/images/cirsium-arvense/inat-214416263.jpg",
+        "metadata": "collection/metadata/cirsium-arvense--inat-214416263.json",
+        "license": "CC0 1.0",
+        "credit": "Cirsium arvense [Cirsium arvense] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/214416263. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/cirsium-arvense--commons-170690472.json",
+        "collection/metadata/cirsium-arvense--commons-247477.json",
         "collection/metadata/cirsium-arvense--commons-2619189.json",
         "collection/metadata/cirsium-arvense--inat-143113645.json"
       ],
@@ -11366,12 +11720,20 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-70607922",
+        "web": "reference/images/prunella-vulgaris/commons-70607922.webp",
+        "master": "reference/images/prunella-vulgaris/commons-70607922.jpg",
+        "metadata": "collection/metadata/prunella-vulgaris--commons-70607922.json",
+        "license": "CC BY 2.0",
+        "credit": "Starr-061003-0880-Prunella vulgaris-habit-Switchbacks HNP-Maui (24572025510) [Prunella vulgaris] — Forest and Kim Starr / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Starr-061003-0880-Prunella_vulgaris-habit-Switchbacks_HNP-Maui_(24572025510).jpg. Original attribution: starr-061003-0880-Prunella_vulgaris-habit-Switchbacks_HNP-Maui. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/prunella-vulgaris--commons-151611250.json",
         "collection/metadata/prunella-vulgaris--commons-27062399.json",
-        "collection/metadata/prunella-vulgaris--inat-409049067.json"
+        "collection/metadata/prunella-vulgaris--inat-409049067.json",
+        "collection/metadata/prunella-vulgaris--inat-572298068.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -11450,9 +11812,17 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "inat-294297263",
+        "web": "reference/images/cirsium-vulgare/inat-294297263.webp",
+        "master": "reference/images/cirsium-vulgare/inat-294297263.jpg",
+        "metadata": "collection/metadata/cirsium-vulgare--inat-294297263.json",
+        "license": "CC0 1.0",
+        "credit": "Cirsium vulgare [Cirsium vulgare] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/294297263. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/cirsium-vulgare--commons-121027221.json",
         "collection/metadata/cirsium-vulgare--commons-50480267.json",
         "collection/metadata/cirsium-vulgare--commons-50485468.json",
         "collection/metadata/cirsium-vulgare--inat-296056732.json"
@@ -11492,6 +11862,8 @@
       "supplementaryPhotos": [
         "collection/metadata/geranium-robertianum--commons-105217308.json",
         "collection/metadata/geranium-robertianum--commons-71176432.json",
+        "collection/metadata/geranium-robertianum--commons-85214851.json",
+        "collection/metadata/geranium-robertianum--inat-120385164.json",
         "collection/metadata/geranium-robertianum--inat-70283020.json"
       ],
       "pendingPhotos": [],
@@ -11527,10 +11899,18 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-75167041",
+        "web": "reference/images/pinus-strobus/commons-75167041.webp",
+        "master": "reference/images/pinus-strobus/commons-75167041.jpg",
+        "metadata": "collection/metadata/pinus-strobus--commons-75167041.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Pinus strobus Sosna wejmutka 2011-06-23 02 [Pinus strobus] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Pinus_strobus_Sosna_wejmutka_2011-06-23_02.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/pinus-strobus--commons-117709598.json",
+        "collection/metadata/pinus-strobus--commons-75167043.json",
         "collection/metadata/pinus-strobus--commons-77327748.json",
         "collection/metadata/pinus-strobus--inat-638440764.json"
       ],
@@ -11608,10 +11988,18 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-163601180",
+        "web": "reference/images/lamium-purpureum/commons-163601180.webp",
+        "master": "reference/images/lamium-purpureum/commons-163601180.jpg",
+        "metadata": "collection/metadata/lamium-purpureum--commons-163601180.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Lamium purpureum plant [Lamium purpureum] — Arthur Badel / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Lamium_purpureum_plant.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/lamium-purpureum--commons-118325844.json",
+        "collection/metadata/lamium-purpureum--commons-126109094.json",
         "collection/metadata/lamium-purpureum--commons-25796700.json"
       ],
       "pendingPhotos": [],
@@ -11650,7 +12038,9 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/acer-negundo--commons-159868526.json",
+        "collection/metadata/acer-negundo--commons-159868527.json",
         "collection/metadata/acer-negundo--commons-98146340.json",
+        "collection/metadata/acer-negundo--inat-30907600.json",
         "collection/metadata/acer-negundo--inat-486113480.json"
       ],
       "pendingPhotos": [],
@@ -11865,9 +12255,12 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/daucus-carota--commons-276275.json",
         "collection/metadata/daucus-carota--commons-4077304.json",
+        "collection/metadata/daucus-carota--commons-41993977.json",
         "collection/metadata/daucus-carota--commons-61905088.json",
-        "collection/metadata/daucus-carota--inat-539153352.json"
+        "collection/metadata/daucus-carota--inat-539153352.json",
+        "collection/metadata/daucus-carota--inat-708482067.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -12521,6 +12914,8 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/solanum-dulcamara--commons-118752331.json",
+        "collection/metadata/solanum-dulcamara--commons-118752335.json",
         "collection/metadata/solanum-dulcamara--commons-22701038.json",
         "collection/metadata/solanum-dulcamara--commons-32933855.json",
         "collection/metadata/solanum-dulcamara--inat-48149330.json"
@@ -12767,9 +13162,11 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/capsella-bursa-pastoris--commons-127744526.json",
         "collection/metadata/capsella-bursa-pastoris--commons-40816208.json",
         "collection/metadata/capsella-bursa-pastoris--commons-77951487.json",
-        "collection/metadata/capsella-bursa-pastoris--inat-141488669.json"
+        "collection/metadata/capsella-bursa-pastoris--inat-141488669.json",
+        "collection/metadata/capsella-bursa-pastoris--inat-175497435.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -12864,7 +13261,14 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-66302730",
+        "web": "reference/images/cornu-aspersum/commons-66302730.webp",
+        "master": "reference/images/cornu-aspersum/commons-66302730.jpg",
+        "metadata": "collection/metadata/cornu-aspersum--commons-66302730.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Snail negotiating sharp edges IMG 4107 [Cornu aspersum] — JonRichfield / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Snail_negotiating_sharp_edges_IMG_4107.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/cornu-aspersum--commons-121556199.json",
@@ -12881,11 +13285,20 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-62138756",
+        "web": "reference/images/tanacetum-vulgare/commons-62138756.webp",
+        "master": "reference/images/tanacetum-vulgare/commons-62138756.jpg",
+        "metadata": "collection/metadata/tanacetum-vulgare--commons-62138756.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Tanacetum vulgare Viote 02 [Tanacetum vulgare] — Syrio / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Tanacetum_vulgare_Viote_02.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/tanacetum-vulgare--commons-27509982.json",
         "collection/metadata/tanacetum-vulgare--commons-62138755.json",
+        "collection/metadata/tanacetum-vulgare--commons-62138757.json",
+        "collection/metadata/tanacetum-vulgare--inat-250945385.json",
         "collection/metadata/tanacetum-vulgare--inat-550878709.json"
       ],
       "pendingPhotos": [],
@@ -13266,7 +13679,9 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/toxicodendron-radicans--commons-119169091.json",
         "collection/metadata/toxicodendron-radicans--commons-119169092.json",
+        "collection/metadata/toxicodendron-radicans--commons-119169100.json",
         "collection/metadata/toxicodendron-radicans--commons-18705166.json",
         "collection/metadata/toxicodendron-radicans--inat-2237896.json"
       ],
@@ -13432,6 +13847,7 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/acer-platanoides--commons-186683790.json",
         "collection/metadata/acer-platanoides--commons-68493436.json",
         "collection/metadata/acer-platanoides--commons-810277.json",
         "collection/metadata/acer-platanoides--inat-277389111.json"
@@ -13512,12 +13928,21 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-81613331",
+        "web": "reference/images/linaria-vulgaris/commons-81613331.webp",
+        "master": "reference/images/linaria-vulgaris/commons-81613331.jpg",
+        "metadata": "collection/metadata/linaria-vulgaris--commons-81613331.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Lintorskemunn ved Mjøsa 25-08-19 [Linaria vulgaris] — Øyvind Holmstad / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Lintorskemunn_ved_Mj%C3%B8sa_25-08-19.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/linaria-vulgaris--commons-118357176.json",
         "collection/metadata/linaria-vulgaris--commons-159355346.json",
-        "collection/metadata/linaria-vulgaris--inat-542354433.json"
+        "collection/metadata/linaria-vulgaris--commons-73004890.json",
+        "collection/metadata/linaria-vulgaris--inat-542354433.json",
+        "collection/metadata/linaria-vulgaris--inat-714926607.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -13775,7 +14200,10 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/corylus-avellana--commons-139714195.json",
+        "collection/metadata/corylus-avellana--commons-90506999.json",
+        "collection/metadata/corylus-avellana--commons-92955363.json",
         "collection/metadata/corylus-avellana--commons-96581039.json",
+        "collection/metadata/corylus-avellana--inat-125903604.json",
         "collection/metadata/corylus-avellana--inat-31532077.json"
       ],
       "pendingPhotos": [],
@@ -13815,7 +14243,9 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/ilex-aquifolium--commons-112866078.json",
-        "collection/metadata/ilex-aquifolium--commons-78574903.json"
+        "collection/metadata/ilex-aquifolium--commons-6120064.json",
+        "collection/metadata/ilex-aquifolium--commons-78574903.json",
+        "collection/metadata/ilex-aquifolium--inat-463607884.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": [
@@ -13849,11 +14279,21 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
-      "primaryAlternatives": [],
+      "primaryPhoto": {
+        "assetId": "commons-127674443",
+        "web": "reference/images/acer-rubrum/commons-127674443.webp",
+        "master": "reference/images/acer-rubrum/commons-127674443.jpg",
+        "metadata": "collection/metadata/acer-rubrum--commons-127674443.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Acer rubrum [Acer rubrum] — Ayotte, Gilles, 1948- / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Acer_rubrum_15-p.bot-a.rubrum-093.jpg. Original attribution: Bibliothèque de l'Université Laval. Resized and re-encoded; no subject alteration."
+      },
+      "primaryAlternatives": [
+        "collection/metadata/acer-rubrum--commons-127674459.json"
+      ],
       "supplementaryPhotos": [
         "collection/metadata/acer-rubrum--commons-127674513.json",
         "collection/metadata/acer-rubrum--commons-131097233.json",
+        "collection/metadata/acer-rubrum--inat-192076097.json",
         "collection/metadata/acer-rubrum--inat-371065093.json"
       ],
       "pendingPhotos": [],
@@ -13934,7 +14374,10 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/silene-dioica--commons-48975355.json",
+        "collection/metadata/silene-dioica--commons-79278570.json",
+        "collection/metadata/silene-dioica--commons-79278579.json",
         "collection/metadata/silene-dioica--commons-79278582.json",
+        "collection/metadata/silene-dioica--inat-151961402.json",
         "collection/metadata/silene-dioica--inat-214265310.json"
       ],
       "pendingPhotos": [],
@@ -14052,11 +14495,20 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-126003881",
+        "web": "reference/images/vicia-cracca/commons-126003881.webp",
+        "master": "reference/images/vicia-cracca/commons-126003881.jpg",
+        "metadata": "collection/metadata/vicia-cracca--commons-126003881.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Vicia cracca kz04 [Vicia cracca] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Vicia_cracca_kz04.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/vicia-cracca--commons-107541549.json",
         "collection/metadata/vicia-cracca--commons-2893916.json",
+        "collection/metadata/vicia-cracca--commons-59557116.json",
+        "collection/metadata/vicia-cracca--inat-285238583.json",
         "collection/metadata/vicia-cracca--inat-294581107.json"
       ],
       "pendingPhotos": [],
@@ -14285,7 +14737,9 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/thamnophis-sirtalis--commons-139663716.json",
+        "collection/metadata/thamnophis-sirtalis--commons-139663717.json",
         "collection/metadata/thamnophis-sirtalis--commons-139663718.json",
+        "collection/metadata/thamnophis-sirtalis--commons-139663720.json",
         "collection/metadata/thamnophis-sirtalis--inat-62074097.json"
       ],
       "pendingPhotos": [],
@@ -14401,11 +14855,20 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-75300297",
+        "web": "reference/images/vespa-crabro/commons-75300297.webp",
+        "master": "reference/images/vespa-crabro/commons-75300297.jpg",
+        "metadata": "collection/metadata/vespa-crabro--commons-75300297.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Hoornaar op blad [Vespa crabro] — Ge van 't Hoff / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Hoornaar_op_blad.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/vespa-crabro--commons-113325843.json",
         "collection/metadata/vespa-crabro--commons-74677805.json",
-        "collection/metadata/vespa-crabro--inat-24810290.json"
+        "collection/metadata/vespa-crabro--inat-24810290.json",
+        "collection/metadata/vespa-crabro--inat-47451092.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -14635,8 +15098,17 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
-      "primaryAlternatives": [],
+      "primaryPhoto": {
+        "assetId": "commons-61248047",
+        "web": "reference/images/crataegus-monogyna/commons-61248047.webp",
+        "master": "reference/images/crataegus-monogyna/commons-61248047.jpg",
+        "metadata": "collection/metadata/crataegus-monogyna--commons-61248047.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Głógi 01 [Crataegus monogyna] — Niepokój Zbigniew / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:G%C5%82%C3%B3gi_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
+      "primaryAlternatives": [
+        "collection/metadata/crataegus-monogyna--commons-96537318.json"
+      ],
       "supplementaryPhotos": [
         "collection/metadata/crataegus-monogyna--commons-51964793.json",
         "collection/metadata/crataegus-monogyna--commons-98657836.json",
@@ -14672,9 +15144,17 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-113523152",
+        "web": "reference/images/anemonoides-nemorosa/commons-113523152.webp",
+        "master": "reference/images/anemonoides-nemorosa/commons-113523152.jpg",
+        "metadata": "collection/metadata/anemonoides-nemorosa--commons-113523152.json",
+        "license": "CC BY 4.0",
+        "credit": "Zawilec Gajowy, Jaskinia Bajka [Anemonoides nemorosa] — Aneta Pawska / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Zawilec_Gajowy,_Jaskinia_Bajka.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/anemonoides-nemorosa--commons-100620252.json",
         "collection/metadata/anemonoides-nemorosa--commons-108236736.json",
         "collection/metadata/anemonoides-nemorosa--commons-2025450.json",
         "collection/metadata/anemonoides-nemorosa--inat-192142080.json"
@@ -14756,11 +15236,19 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-149753773",
+        "web": "reference/images/melilotus-albus/commons-149753773.webp",
+        "master": "reference/images/melilotus-albus/commons-149753773.jpg",
+        "metadata": "collection/metadata/melilotus-albus--commons-149753773.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Melilotus albus kz10 [Melilotus albus] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Melilotus_albus_kz10.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/melilotus-albus--commons-125706115.json",
         "collection/metadata/melilotus-albus--commons-50121416.json",
+        "collection/metadata/melilotus-albus--commons-77166740.json",
         "collection/metadata/melilotus-albus--inat-147569404.json"
       ],
       "pendingPhotos": [],
@@ -15050,7 +15538,14 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-161944616",
+        "web": "reference/images/rabelera-holostea/commons-161944616.webp",
+        "master": "reference/images/rabelera-holostea/commons-161944616.jpg",
+        "metadata": "collection/metadata/rabelera-holostea--commons-161944616.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Rabelera holostea Gwiazdnica wielkokwiatowa 2021-05-02 Staszów 02 [Rabelera holostea] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Rabelera_holostea_Gwiazdnica_wielkokwiatowa_2021-05-02_Stasz%C3%B3w_02.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/rabelera-holostea--commons-128077170.json",
@@ -15086,9 +15581,17 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "inat-21891523",
+        "web": "reference/images/filipendula-ulmaria/inat-21891523.webp",
+        "master": "reference/images/filipendula-ulmaria/inat-21891523.jpg",
+        "metadata": "collection/metadata/filipendula-ulmaria--inat-21891523.json",
+        "license": "CC0 1.0",
+        "credit": "Filipendula ulmaria [Filipendula ulmaria] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/21891523. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/filipendula-ulmaria--commons-149139009.json",
         "collection/metadata/filipendula-ulmaria--commons-159252157.json",
         "collection/metadata/filipendula-ulmaria--commons-159340931.json",
         "collection/metadata/filipendula-ulmaria--inat-525243233.json"
@@ -15123,11 +15626,19 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-4467978",
+        "web": "reference/images/heracleum-sphondylium/commons-4467978.webp",
+        "master": "reference/images/heracleum-sphondylium/commons-4467978.jpg",
+        "metadata": "collection/metadata/heracleum-sphondylium--commons-4467978.json",
+        "license": "CC BY-SA 3.0",
+        "credit": "HeracleumSphondylium2 [Heracleum sphondylium] — Christian Fischer / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:HeracleumSphondylium2.jpg. Original attribution: Christian Fischer. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/heracleum-sphondylium--commons-158555495.json",
         "collection/metadata/heracleum-sphondylium--commons-77965787.json",
+        "collection/metadata/heracleum-sphondylium--commons-97914419.json",
         "collection/metadata/heracleum-sphondylium--inat-395244167.json"
       ],
       "pendingPhotos": [],
@@ -15163,8 +15674,11 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/robinia-pseudoacacia--commons-123655519.json",
         "collection/metadata/robinia-pseudoacacia--commons-123655523.json",
+        "collection/metadata/robinia-pseudoacacia--commons-125391041.json",
         "collection/metadata/robinia-pseudoacacia--commons-59265209.json",
+        "collection/metadata/robinia-pseudoacacia--inat-173336903.json",
         "collection/metadata/robinia-pseudoacacia--inat-243326704.json"
       ],
       "pendingPhotos": [],
@@ -15243,11 +15757,20 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-49653268",
+        "web": "reference/images/parthenocissus-quinquefolia/commons-49653268.webp",
+        "master": "reference/images/parthenocissus-quinquefolia/commons-49653268.jpg",
+        "metadata": "collection/metadata/parthenocissus-quinquefolia--commons-49653268.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Parthenocissus quinquefolia, habitus, Manie van der Schijff BT, a [Parthenocissus quinquefolia] — JMK / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Parthenocissus_quinquefolia,_habitus,_Manie_van_der_Schijff_BT,_a.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/parthenocissus-quinquefolia--commons-108034026.json",
-        "collection/metadata/parthenocissus-quinquefolia--commons-96026965.json"
+        "collection/metadata/parthenocissus-quinquefolia--commons-88114817.json",
+        "collection/metadata/parthenocissus-quinquefolia--commons-96026965.json",
+        "collection/metadata/parthenocissus-quinquefolia--inat-658400545.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": [
@@ -15261,10 +15784,18 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-150314625",
+        "web": "reference/images/lithobates-clamitans/commons-150314625.webp",
+        "master": "reference/images/lithobates-clamitans/commons-150314625.jpg",
+        "metadata": "collection/metadata/lithobates-clamitans--commons-150314625.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Stanton Lithobates clamitans 2 [Lithobates clamitans] — Rstanton13 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Stanton_Lithobates_clamitans_2.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/lithobates-clamitans--commons-131036481.json",
+        "collection/metadata/lithobates-clamitans--commons-131036520.json",
         "collection/metadata/lithobates-clamitans--commons-150314624.json",
         "collection/metadata/lithobates-clamitans--inat-397330720.json"
       ],
@@ -15323,7 +15854,8 @@
       "supplementaryPhotos": [
         "collection/metadata/rosa-multiflora--commons-118332749.json",
         "collection/metadata/rosa-multiflora--commons-90501378.json",
-        "collection/metadata/rosa-multiflora--inat-252786276.json"
+        "collection/metadata/rosa-multiflora--inat-252786276.json",
+        "collection/metadata/rosa-multiflora--inat-58156841.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -15359,12 +15891,21 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-194348343",
+        "web": "reference/images/lamium-galeobdolon/commons-194348343.webp",
+        "master": "reference/images/lamium-galeobdolon/commons-194348343.jpg",
+        "metadata": "collection/metadata/lamium-galeobdolon--commons-194348343.json",
+        "license": "CC BY 4.0",
+        "credit": "20260614 Lamium galeobdolon 02 [Lamium galeobdolon] — Flocci Nivis / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:20260614_Lamium_galeobdolon_02.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/lamium-galeobdolon--commons-14685890.json",
+        "collection/metadata/lamium-galeobdolon--commons-194348342.json",
         "collection/metadata/lamium-galeobdolon--commons-3983064.json",
-        "collection/metadata/lamium-galeobdolon--inat-134396501.json"
+        "collection/metadata/lamium-galeobdolon--inat-134396501.json",
+        "collection/metadata/lamium-galeobdolon--inat-397782462.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -15403,8 +15944,10 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/fagus-sylvatica--commons-153439262.json",
         "collection/metadata/fagus-sylvatica--commons-59521908.json",
         "collection/metadata/fagus-sylvatica--commons-6910486.json",
+        "collection/metadata/fagus-sylvatica--inat-349506389.json",
         "collection/metadata/fagus-sylvatica--inat-408459425.json"
       ],
       "pendingPhotos": [],
@@ -15522,7 +16065,9 @@
       "supplementaryPhotos": [
         "collection/metadata/lonicera-japonica--commons-194109933.json",
         "collection/metadata/lonicera-japonica--commons-32297970.json",
-        "collection/metadata/lonicera-japonica--inat-165024945.json"
+        "collection/metadata/lonicera-japonica--commons-4093570.json",
+        "collection/metadata/lonicera-japonica--inat-165024945.json",
+        "collection/metadata/lonicera-japonica--inat-62660680.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -15558,8 +16103,11 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/lamium-amplexicaule--commons-139951057.json",
+        "collection/metadata/lamium-amplexicaule--commons-146628652.json",
         "collection/metadata/lamium-amplexicaule--commons-2024346.json",
-        "collection/metadata/lamium-amplexicaule--inat-123471615.json"
+        "collection/metadata/lamium-amplexicaule--commons-81652911.json",
+        "collection/metadata/lamium-amplexicaule--inat-123471615.json",
+        "collection/metadata/lamium-amplexicaule--inat-364749382.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -15600,6 +16148,8 @@
       "supplementaryPhotos": [
         "collection/metadata/reynoutria-japonica--commons-1252652.json",
         "collection/metadata/reynoutria-japonica--commons-127940142.json",
+        "collection/metadata/reynoutria-japonica--commons-91197561.json",
+        "collection/metadata/reynoutria-japonica--inat-24084916.json",
         "collection/metadata/reynoutria-japonica--inat-281726055.json"
       ],
       "pendingPhotos": [],
@@ -15632,11 +16182,20 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-92309487",
+        "web": "reference/images/prunus-serotina/commons-92309487.webp",
+        "master": "reference/images/prunus-serotina/commons-92309487.jpg",
+        "metadata": "collection/metadata/prunus-serotina--commons-92309487.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Prunus serotina habitus, Belgrade [Prunus serotina] — Gmihail at Serbian Wikipedia / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Prunus_serotina_habitus,_Belgrade.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/prunus-serotina--commons-20500703.json",
         "collection/metadata/prunus-serotina--commons-48670254.json",
         "collection/metadata/prunus-serotina--commons-92857806.json",
+        "collection/metadata/prunus-serotina--inat-304275330.json",
         "collection/metadata/prunus-serotina--inat-511639641.json"
       ],
       "pendingPhotos": [],
@@ -15757,8 +16316,17 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
-      "primaryAlternatives": [],
+      "primaryPhoto": {
+        "assetId": "inat-600198419",
+        "web": "reference/images/pseudotsuga-menziesii/inat-600198419.webp",
+        "master": "reference/images/pseudotsuga-menziesii/inat-600198419.jpg",
+        "metadata": "collection/metadata/pseudotsuga-menziesii--inat-600198419.json",
+        "license": "CC0 1.0",
+        "credit": "Pseudotsuga menziesii [Pseudotsuga menziesii] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/600198419. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration."
+      },
+      "primaryAlternatives": [
+        "collection/metadata/pseudotsuga-menziesii--commons-3969879.json"
+      ],
       "supplementaryPhotos": [
         "collection/metadata/pseudotsuga-menziesii--commons-10987943.json",
         "collection/metadata/pseudotsuga-menziesii--commons-18733964.json",
@@ -15888,8 +16456,10 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/impatiens-glandulifera--commons-10476769.json",
+        "collection/metadata/impatiens-glandulifera--commons-75076032.json",
         "collection/metadata/impatiens-glandulifera--commons-77563991.json",
-        "collection/metadata/impatiens-glandulifera--inat-1204644.json"
+        "collection/metadata/impatiens-glandulifera--inat-1204644.json",
+        "collection/metadata/impatiens-glandulifera--inat-97570509.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -16174,12 +16744,21 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-39871426",
+        "web": "reference/images/vaccinium-myrtillus/commons-39871426.webp",
+        "master": "reference/images/vaccinium-myrtillus/commons-39871426.jpg",
+        "metadata": "collection/metadata/vaccinium-myrtillus--commons-39871426.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Vacc myrt kz2 [Vaccinium myrtillus] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Vacc_myrt_kz2.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/vaccinium-myrtillus--commons-148257423.json",
         "collection/metadata/vaccinium-myrtillus--commons-153502378.json",
-        "collection/metadata/vaccinium-myrtillus--inat-470214838.json"
+        "collection/metadata/vaccinium-myrtillus--commons-83688136.json",
+        "collection/metadata/vaccinium-myrtillus--inat-470214838.json",
+        "collection/metadata/vaccinium-myrtillus--inat-602485500.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -16297,7 +16876,14 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-64323211",
+        "web": "reference/images/frangula-alnus/commons-64323211.webp",
+        "master": "reference/images/frangula-alnus/commons-64323211.jpg",
+        "metadata": "collection/metadata/frangula-alnus--commons-64323211.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Frangula alnus sl1 [Frangula alnus] — Stefan.lefnaer / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Frangula_alnus_sl1.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/frangula-alnus--commons-68764627.json",
@@ -16399,9 +16985,17 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "inat-261887162",
+        "web": "reference/images/corthylio-calendula/inat-261887162.webp",
+        "master": "reference/images/corthylio-calendula/inat-261887162.jpg",
+        "metadata": "collection/metadata/corthylio-calendula--inat-261887162.json",
+        "license": "CC BY 4.0",
+        "credit": "Corthylio calendula [Corthylio calendula] — Bill Levine / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/261887162. Original attribution: (c) Bill Levine, some rights reserved (CC BY). Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/corthylio-calendula--commons-125822392.json",
         "collection/metadata/corthylio-calendula--commons-69010727.json",
         "collection/metadata/corthylio-calendula--inat-195111046.json"
       ],
@@ -16546,7 +17140,9 @@
       "supplementaryPhotos": [
         "collection/metadata/clematis-vitalba--commons-114827389.json",
         "collection/metadata/clematis-vitalba--commons-114827393.json",
-        "collection/metadata/clematis-vitalba--inat-218591388.json"
+        "collection/metadata/clematis-vitalba--commons-81718445.json",
+        "collection/metadata/clematis-vitalba--inat-218591388.json",
+        "collection/metadata/clematis-vitalba--inat-96452735.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -16601,11 +17197,20 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-121108958",
+        "web": "reference/images/rhagonycha-fulva/commons-121108958.webp",
+        "master": "reference/images/rhagonycha-fulva/commons-121108958.jpg",
+        "metadata": "collection/metadata/rhagonycha-fulva--commons-121108958.json",
+        "license": "CC BY-SA 3.0",
+        "credit": "Roter Weichkäfer - 2626 [Rhagonycha fulva] — Amada44 / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Roter_Weichk%C3%A4fer_-_2626.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/rhagonycha-fulva--commons-11149163.json",
         "collection/metadata/rhagonycha-fulva--commons-131963206.json",
-        "collection/metadata/rhagonycha-fulva--commons-21037817.json"
+        "collection/metadata/rhagonycha-fulva--commons-21037817.json",
+        "collection/metadata/rhagonycha-fulva--inat-135858283.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": [
@@ -16665,12 +17270,20 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-163097635",
+        "web": "reference/images/quercus-rubra/commons-163097635.webp",
+        "master": "reference/images/quercus-rubra/commons-163097635.jpg",
+        "metadata": "collection/metadata/quercus-rubra--commons-163097635.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Червен дъб 21 [Quercus rubra] — Utar Sigmal / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:%D0%A7%D0%B5%D1%80%D0%B2%D0%B5%D0%BD_%D0%B4%D1%8A%D0%B1_21.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/quercus-rubra--commons-10301936.json",
         "collection/metadata/quercus-rubra--commons-163097629.json",
-        "collection/metadata/quercus-rubra--inat-11304773.json"
+        "collection/metadata/quercus-rubra--inat-11304773.json",
+        "collection/metadata/quercus-rubra--inat-488524755.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -16706,11 +17319,20 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-30126713",
+        "web": "reference/images/erythronium-americanum/commons-30126713.webp",
+        "master": "reference/images/erythronium-americanum/commons-30126713.jpg",
+        "metadata": "collection/metadata/erythronium-americanum--commons-30126713.json",
+        "license": "CC BY-SA 3.0",
+        "credit": "Erythronium americanum - Trout Lily [Erythronium americanum] — Fritzflohrreynolds / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Erythronium_americanum_-_Trout_Lily.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/erythronium-americanum--commons-55313775.json",
         "collection/metadata/erythronium-americanum--commons-78588866.json",
+        "collection/metadata/erythronium-americanum--commons-97348636.json",
+        "collection/metadata/erythronium-americanum--inat-20351914.json",
         "collection/metadata/erythronium-americanum--inat-495479600.json"
       ],
       "pendingPhotos": [],
@@ -16743,11 +17365,19 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-3190154",
+        "web": "reference/images/silene-vulgaris/commons-3190154.webp",
+        "master": "reference/images/silene-vulgaris/commons-3190154.jpg",
+        "metadata": "collection/metadata/silene-vulgaris--commons-3190154.json",
+        "license": "CC BY-SA 3.0",
+        "credit": "SileneVulgaris-plant-hr [Silene vulgaris] — TeunSpaans at Dutch Wikipedia / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); source: https://commons.wikimedia.org/wiki/File:SileneVulgaris-plant-hr.jpg. Original attribution: TeunSpaans. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/silene-vulgaris--commons-137918126.json",
         "collection/metadata/silene-vulgaris--commons-151640990.json",
+        "collection/metadata/silene-vulgaris--commons-72944233.json",
         "collection/metadata/silene-vulgaris--inat-205184880.json"
       ],
       "pendingPhotos": [],
@@ -16820,11 +17450,20 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-69068218",
+        "web": "reference/images/convallaria-majalis/commons-69068218.webp",
+        "master": "reference/images/convallaria-majalis/commons-69068218.jpg",
+        "metadata": "collection/metadata/convallaria-majalis--commons-69068218.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "2018-05-13 (168) Convallaria majalis (lily-of-the-valley) at Bichlhäusl in Frankenfels, Austria [Convallaria majalis] — GT1976 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:2018-05-13_(168)_Convallaria_majalis_(lily-of-the-valley)_at_Bichlh%C3%A4usl_in_Frankenfels,_Austria.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/convallaria-majalis--commons-118806658.json",
         "collection/metadata/convallaria-majalis--commons-50783708.json",
+        "collection/metadata/convallaria-majalis--commons-56415291.json",
+        "collection/metadata/convallaria-majalis--inat-150903232.json",
         "collection/metadata/convallaria-majalis--inat-390086547.json"
       ],
       "pendingPhotos": [],
@@ -17027,10 +17666,18 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-31330514",
+        "web": "reference/images/claytonia-virginica/commons-31330514.webp",
+        "master": "reference/images/claytonia-virginica/commons-31330514.jpg",
+        "metadata": "collection/metadata/claytonia-virginica--commons-31330514.json",
+        "license": "CC BY-SA 3.0",
+        "credit": "Claytonia virginica - Spring Beauty 2 [Claytonia virginica] — Fritzflohrreynolds / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Claytonia_virginica_-_Spring_Beauty_2.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
-        "collection/metadata/claytonia-virginica--inat-123124369.json"
+        "collection/metadata/claytonia-virginica--inat-123124369.json",
+        "collection/metadata/claytonia-virginica--inat-14566131.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -17062,12 +17709,22 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
-      "primaryAlternatives": [],
+      "primaryPhoto": {
+        "assetId": "commons-125930752",
+        "web": "reference/images/cytisus-scoparius/commons-125930752.webp",
+        "master": "reference/images/cytisus-scoparius/commons-125930752.jpg",
+        "metadata": "collection/metadata/cytisus-scoparius--commons-125930752.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Cytisus scoparius Żarnowiec miotlasty 2021-06-27 01 [Cytisus scoparius] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Cytisus_scoparius_%C5%BBarnowiec_miotlasty_2021-06-27_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
+      "primaryAlternatives": [
+        "collection/metadata/cytisus-scoparius--commons-123148834.json"
+      ],
       "supplementaryPhotos": [
         "collection/metadata/cytisus-scoparius--commons-115615814.json",
         "collection/metadata/cytisus-scoparius--commons-20095202.json",
-        "collection/metadata/cytisus-scoparius--inat-277778244.json"
+        "collection/metadata/cytisus-scoparius--inat-277778244.json",
+        "collection/metadata/cytisus-scoparius--inat-342706436.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -17099,11 +17756,20 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-92029071",
+        "web": "reference/images/rubus-idaeus/commons-92029071.webp",
+        "master": "reference/images/rubus-idaeus/commons-92029071.jpg",
+        "metadata": "collection/metadata/rubus-idaeus--commons-92029071.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Rubus idaeus kz07 [Rubus idaeus] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Rubus_idaeus_kz07.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/rubus-idaeus--commons-58820031.json",
+        "collection/metadata/rubus-idaeus--commons-92029070.json",
         "collection/metadata/rubus-idaeus--commons-97402512.json",
+        "collection/metadata/rubus-idaeus--inat-23207632.json",
         "collection/metadata/rubus-idaeus--inat-358785151.json"
       ],
       "pendingPhotos": [],
@@ -17226,6 +17892,7 @@
       "supplementaryPhotos": [
         "collection/metadata/acer-campestre--commons-137917954.json",
         "collection/metadata/acer-campestre--commons-25967918.json",
+        "collection/metadata/acer-campestre--commons-75676077.json",
         "collection/metadata/acer-campestre--inat-10778.json"
       ],
       "pendingPhotos": [],
@@ -17345,11 +18012,19 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-6159233",
+        "web": "reference/images/buddleja-davidii/commons-6159233.webp",
+        "master": "reference/images/buddleja-davidii/commons-6159233.jpg",
+        "metadata": "collection/metadata/buddleja-davidii--commons-6159233.json",
+        "license": "CC BY 3.0",
+        "credit": "Starr 060221-6006 Buddleja davidii [Buddleja davidii] — Forest & Kim Starr / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Starr_060221-6006_Buddleja_davidii.jpg. Original attribution: Forest & Kim Starr. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/buddleja-davidii--commons-2448125.json",
         "collection/metadata/buddleja-davidii--commons-52177793.json",
+        "collection/metadata/buddleja-davidii--inat-156477996.json",
         "collection/metadata/buddleja-davidii--inat-211806705.json"
       ],
       "pendingPhotos": [],
@@ -17387,6 +18062,7 @@
       "supplementaryPhotos": [
         "collection/metadata/malva-sylvestris--commons-3349491.json",
         "collection/metadata/malva-sylvestris--commons-69244061.json",
+        "collection/metadata/malva-sylvestris--commons-99729461.json",
         "collection/metadata/malva-sylvestris--inat-608220986.json"
       ],
       "pendingPhotos": [],
@@ -17596,6 +18272,9 @@
       "supplementaryPhotos": [
         "collection/metadata/sassafras-albidum--commons-10501137.json",
         "collection/metadata/sassafras-albidum--commons-117888218.json",
+        "collection/metadata/sassafras-albidum--commons-61024664.json",
+        "collection/metadata/sassafras-albidum--commons-61167557.json",
+        "collection/metadata/sassafras-albidum--inat-236807606.json",
         "collection/metadata/sassafras-albidum--inat-475391379.json"
       ],
       "pendingPhotos": [],
@@ -17680,8 +18359,10 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/fraxinus-excelsior--commons-127546541.json",
+        "collection/metadata/fraxinus-excelsior--commons-158154185.json",
         "collection/metadata/fraxinus-excelsior--commons-762825.json",
-        "collection/metadata/fraxinus-excelsior--inat-117458227.json"
+        "collection/metadata/fraxinus-excelsior--inat-117458227.json",
+        "collection/metadata/fraxinus-excelsior--inat-726980319.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -17716,8 +18397,17 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
-      "primaryAlternatives": [],
+      "primaryPhoto": {
+        "assetId": "inat-501693687",
+        "web": "reference/images/betula-pendula/inat-501693687.webp",
+        "master": "reference/images/betula-pendula/inat-501693687.jpg",
+        "metadata": "collection/metadata/betula-pendula--inat-501693687.json",
+        "license": "CC0 1.0",
+        "credit": "Betula pendula [Betula pendula] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/501693687. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration."
+      },
+      "primaryAlternatives": [
+        "collection/metadata/betula-pendula--commons-85697623.json"
+      ],
       "supplementaryPhotos": [
         "collection/metadata/betula-pendula--commons-125436980.json",
         "collection/metadata/betula-pendula--commons-5986991.json",
@@ -17753,12 +18443,21 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-47471511",
+        "web": "reference/images/vicia-sepium/commons-47471511.webp",
+        "master": "reference/images/vicia-sepium/commons-47471511.jpg",
+        "metadata": "collection/metadata/vicia-sepium--commons-47471511.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Vicia sepium kz2 [Vicia sepium] — Krzysztof ZIarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Vicia_sepium_kz2.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/vicia-sepium--commons-128182078.json",
         "collection/metadata/vicia-sepium--commons-26700484.json",
-        "collection/metadata/vicia-sepium--inat-18515325.json"
+        "collection/metadata/vicia-sepium--commons-47471510.json",
+        "collection/metadata/vicia-sepium--inat-18515325.json",
+        "collection/metadata/vicia-sepium--inat-664045653.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -17836,11 +18535,19 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-43986396",
+        "web": "reference/images/arum-maculatum/commons-43986396.webp",
+        "master": "reference/images/arum-maculatum/commons-43986396.jpg",
+        "metadata": "collection/metadata/arum-maculatum--commons-43986396.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Arum maculatum plants [Arum maculatum] — MurielBendel / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Arum_maculatum_plants.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/arum-maculatum--commons-164495486.json",
         "collection/metadata/arum-maculatum--commons-176960046.json",
+        "collection/metadata/arum-maculatum--commons-186135362.json",
         "collection/metadata/arum-maculatum--inat-352206849.json"
       ],
       "pendingPhotos": [],
@@ -18046,7 +18753,9 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/ageratina-altissima--commons-141516905.json",
-        "collection/metadata/ageratina-altissima--commons-91332724.json"
+        "collection/metadata/ageratina-altissima--commons-141516906.json",
+        "collection/metadata/ageratina-altissima--commons-91332724.json",
+        "collection/metadata/ageratina-altissima--inat-597818729.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": [
@@ -18083,12 +18792,21 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-114810948",
+        "web": "reference/images/stachys-sylvatica/commons-114810948.webp",
+        "master": "reference/images/stachys-sylvatica/commons-114810948.jpg",
+        "metadata": "collection/metadata/stachys-sylvatica--commons-114810948.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Stachys sylvatica Habitus [Stachys sylvatica] — Daniel Ballmer / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Stachys_sylvatica_Habitus.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/stachys-sylvatica--commons-26756620.json",
+        "collection/metadata/stachys-sylvatica--commons-66393717.json",
         "collection/metadata/stachys-sylvatica--commons-69982355.json",
-        "collection/metadata/stachys-sylvatica--inat-25239458.json"
+        "collection/metadata/stachys-sylvatica--inat-25239458.json",
+        "collection/metadata/stachys-sylvatica--inat-32526876.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -18207,11 +18925,20 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "inat-529041716",
+        "web": "reference/images/hesperis-matronalis/inat-529041716.webp",
+        "master": "reference/images/hesperis-matronalis/inat-529041716.jpg",
+        "metadata": "collection/metadata/hesperis-matronalis--inat-529041716.json",
+        "license": "CC0 1.0",
+        "credit": "Hesperis matronalis [Hesperis matronalis] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/529041716. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/hesperis-matronalis--commons-119618888.json",
         "collection/metadata/hesperis-matronalis--commons-166666023.json",
+        "collection/metadata/hesperis-matronalis--commons-194822134.json",
+        "collection/metadata/hesperis-matronalis--commons-68400066.json",
         "collection/metadata/hesperis-matronalis--inat-133600.json"
       ],
       "pendingPhotos": [],
@@ -18250,9 +18977,11 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/rhamnus-cathartica--commons-46701737.json",
         "collection/metadata/rhamnus-cathartica--commons-68503331.json",
         "collection/metadata/rhamnus-cathartica--commons-92026319.json",
-        "collection/metadata/rhamnus-cathartica--inat-341888418.json"
+        "collection/metadata/rhamnus-cathartica--inat-341888418.json",
+        "collection/metadata/rhamnus-cathartica--inat-41076543.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -18264,9 +18993,17 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "inat-299323705",
+        "web": "reference/images/atalopedes-huron/inat-299323705.webp",
+        "master": "reference/images/atalopedes-huron/inat-299323705.jpg",
+        "metadata": "collection/metadata/atalopedes-huron--inat-299323705.json",
+        "license": "CC0 1.0",
+        "credit": "Atalopedes huron [Atalopedes huron] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/299323705. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/atalopedes-huron--inat-268592421.json",
         "collection/metadata/atalopedes-huron--inat-440740793.json"
       ],
       "pendingPhotos": [],
@@ -18319,9 +19056,17 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-18930959",
+        "web": "reference/images/allium-ursinum/commons-18930959.webp",
+        "master": "reference/images/allium-ursinum/commons-18930959.jpg",
+        "metadata": "collection/metadata/allium-ursinum--commons-18930959.json",
+        "license": "CC BY-SA 3.0",
+        "credit": "Deggenhausertal-1554 [Allium ursinum] — Dietrich Krieger / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Deggenhausertal-1554.jpg. Original attribution: Dietrich Krieger. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/allium-ursinum--commons-18930921.json",
         "collection/metadata/allium-ursinum--commons-32928912.json",
         "collection/metadata/allium-ursinum--commons-99389237.json",
         "collection/metadata/allium-ursinum--inat-10674.json"
@@ -18396,12 +19141,20 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-70599472",
+        "web": "reference/images/ricinus-communis/commons-70599472.webp",
+        "master": "reference/images/ricinus-communis/commons-70599472.jpg",
+        "metadata": "collection/metadata/ricinus-communis--commons-70599472.json",
+        "license": "CC BY 2.0",
+        "credit": "Starr-060416-7679-Ricinus communis-habit-Paia-Maui (24494080439) [Ricinus communis] — Forest and Kim Starr / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Starr-060416-7679-Ricinus_communis-habit-Paia-Maui_(24494080439).jpg. Original attribution: starr-060416-7679-Ricinus_communis-habit-Paia-Maui. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/ricinus-communis--commons-146794829.json",
         "collection/metadata/ricinus-communis--commons-24616232.json",
-        "collection/metadata/ricinus-communis--inat-353863633.json"
+        "collection/metadata/ricinus-communis--inat-353863633.json",
+        "collection/metadata/ricinus-communis--inat-92378745.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -18439,6 +19192,7 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/pentaglottis-sempervirens--commons-103076414.json",
+        "collection/metadata/pentaglottis-sempervirens--commons-125388562.json",
         "collection/metadata/pentaglottis-sempervirens--commons-172033.json",
         "collection/metadata/pentaglottis-sempervirens--inat-350026086.json"
       ],
@@ -18643,7 +19397,14 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-79822453",
+        "web": "reference/images/conium-maculatum/commons-79822453.webp",
+        "master": "reference/images/conium-maculatum/commons-79822453.jpg",
+        "metadata": "collection/metadata/conium-maculatum--commons-79822453.json",
+        "license": "CC BY-SA 3.0",
+        "credit": "Conium maculatum plant (08) [Conium maculatum] — Julia Kruse / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Conium_maculatum_plant_(08).jpg. Original attribution: https://species-id.net/openmedia/File:Conium_maculatum_JuliaKruse.jpg. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/conium-maculatum--commons-86977567.json",
@@ -18723,10 +19484,19 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-64371524",
+        "web": "reference/images/solanum-nigrum/commons-64371524.webp",
+        "master": "reference/images/solanum-nigrum/commons-64371524.jpg",
+        "metadata": "collection/metadata/solanum-nigrum--commons-64371524.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Solanum nigrum Psianka czarna 2015-08-30 01 [Solanum nigrum] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Solanum_nigrum_Psianka_czarna_2015-08-30_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/solanum-nigrum--commons-64371521.json",
+        "collection/metadata/solanum-nigrum--commons-75938310.json",
+        "collection/metadata/solanum-nigrum--inat-211465820.json",
         "collection/metadata/solanum-nigrum--inat-31017497.json"
       ],
       "pendingPhotos": [],
@@ -19224,12 +19994,21 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-2925568",
+        "web": "reference/images/trifolium-arvense/commons-2925568.webp",
+        "master": "reference/images/trifolium-arvense/commons-2925568.jpg",
+        "metadata": "collection/metadata/trifolium-arvense--commons-2925568.json",
+        "license": "CC BY-SA 3.0",
+        "credit": "Trifolium arvense habit [Trifolium arvense] — User:Carstor / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); source: https://commons.wikimedia.org/wiki/File:Trifolium_arvense_habit.jpg. Original attribution: Self-photographed. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/trifolium-arvense--commons-3821590.json",
         "collection/metadata/trifolium-arvense--commons-85729085.json",
         "collection/metadata/trifolium-arvense--commons-9984515.json",
-        "collection/metadata/trifolium-arvense--inat-208289064.json"
+        "collection/metadata/trifolium-arvense--inat-208289064.json",
+        "collection/metadata/trifolium-arvense--inat-566202386.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -19267,7 +20046,9 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/mycelis-muralis--commons-127893328.json",
+        "collection/metadata/mycelis-muralis--commons-43285627.json",
         "collection/metadata/mycelis-muralis--commons-43285703.json",
+        "collection/metadata/mycelis-muralis--inat-300495871.json",
         "collection/metadata/mycelis-muralis--inat-526632405.json"
       ],
       "pendingPhotos": [],
@@ -19430,12 +20211,21 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-10562153",
+        "web": "reference/images/rubus-parviflorus/commons-10562153.webp",
+        "master": "reference/images/rubus-parviflorus/commons-10562153.jpg",
+        "metadata": "collection/metadata/rubus-parviflorus--commons-10562153.json",
+        "license": "CC BY-SA 3.0",
+        "credit": "Rubus parviflorus Valkovatukka Nutkahallon C DSC03153 [Rubus parviflorus] — Anneli Salo / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Rubus_parviflorus_Valkovatukka_Nutkahallon_C_DSC03153.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/rubus-parviflorus--commons-10830270.json",
         "collection/metadata/rubus-parviflorus--commons-6604673.json",
         "collection/metadata/rubus-parviflorus--commons-92593068.json",
-        "collection/metadata/rubus-parviflorus--inat-207853431.json"
+        "collection/metadata/rubus-parviflorus--inat-207853431.json",
+        "collection/metadata/rubus-parviflorus--inat-288373507.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -19467,9 +20257,17 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-105933062",
+        "web": "reference/images/cornus-sericea/commons-105933062.webp",
+        "master": "reference/images/cornus-sericea/commons-105933062.jpg",
+        "metadata": "collection/metadata/cornus-sericea--commons-105933062.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Cornus sericea shrub (06) [Cornus sericea] — Andrea Moro / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Cornus_sericea_shrub_(06).jpg. Original attribution: http://dryades.units.it/scuole/index.php?procedure=taxon_page&id=20314&num=5756 http://dryades.units.it/dryades/plants/foto/TS147118.jpg. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/cornus-sericea--commons-105933726.json",
         "collection/metadata/cornus-sericea--commons-164359283.json",
         "collection/metadata/cornus-sericea--commons-18479080.json",
         "collection/metadata/cornus-sericea--inat-17856122.json"
@@ -19766,8 +20564,10 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/cephalanthus-occidentalis--commons-100045215.json",
+        "collection/metadata/cephalanthus-occidentalis--commons-106152009.json",
         "collection/metadata/cephalanthus-occidentalis--commons-92468888.json",
-        "collection/metadata/cephalanthus-occidentalis--inat-679712269.json"
+        "collection/metadata/cephalanthus-occidentalis--inat-679712269.json",
+        "collection/metadata/cephalanthus-occidentalis--inat-86076649.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -19974,12 +20774,20 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-99290207",
+        "web": "reference/images/knautia-arvensis/commons-99290207.webp",
+        "master": "reference/images/knautia-arvensis/commons-99290207.jpg",
+        "metadata": "collection/metadata/knautia-arvensis--commons-99290207.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Knautia arvensis Świerzbnica polna 2020-06-29 01 [Knautia arvensis] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Knautia_arvensis_%C5%9Awierzbnica_polna_2020-06-29_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/knautia-arvensis--commons-113362553.json",
         "collection/metadata/knautia-arvensis--commons-99290205.json",
-        "collection/metadata/knautia-arvensis--inat-321879094.json"
+        "collection/metadata/knautia-arvensis--inat-321879094.json",
+        "collection/metadata/knautia-arvensis--inat-411893255.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -20097,11 +20905,20 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-738421",
+        "web": "reference/images/gaultheria-procumbens/commons-738421.webp",
+        "master": "reference/images/gaultheria-procumbens/commons-738421.jpg",
+        "metadata": "collection/metadata/gaultheria-procumbens--commons-738421.json",
+        "license": "CC BY-SA 3.0",
+        "credit": "Gaultheria-procumbens-habit [Gaultheria procumbens] — Sten Porse / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); source: https://commons.wikimedia.org/wiki/File:Gaultheria-procumbens-habit.JPG. Original attribution: Own photo, taken in Jutland.. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/gaultheria-procumbens--commons-100327744.json",
         "collection/metadata/gaultheria-procumbens--commons-100327746.json",
+        "collection/metadata/gaultheria-procumbens--commons-110680246.json",
+        "collection/metadata/gaultheria-procumbens--inat-252435794.json",
         "collection/metadata/gaultheria-procumbens--inat-563457048.json"
       ],
       "pendingPhotos": [],
@@ -20181,11 +20998,19 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-80141909",
+        "web": "reference/images/humulus-lupulus/commons-80141909.webp",
+        "master": "reference/images/humulus-lupulus/commons-80141909.jpg",
+        "metadata": "collection/metadata/humulus-lupulus--commons-80141909.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Humle 02-07-19 [Humulus lupulus] — Øyvind Holmstad / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Humle_02-07-19.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/humulus-lupulus--commons-579688.json",
         "collection/metadata/humulus-lupulus--commons-95568194.json",
+        "collection/metadata/humulus-lupulus--inat-550764856.json",
         "collection/metadata/humulus-lupulus--inat-723112208.json"
       ],
       "pendingPhotos": [],
@@ -20218,9 +21043,17 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "inat-165477289",
+        "web": "reference/images/typha-latifolia/inat-165477289.webp",
+        "master": "reference/images/typha-latifolia/inat-165477289.jpg",
+        "metadata": "collection/metadata/typha-latifolia--inat-165477289.json",
+        "license": "CC0 1.0",
+        "credit": "Typha latifolia [Typha latifolia] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/165477289. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/typha-latifolia--commons-73262204.json",
         "collection/metadata/typha-latifolia--commons-75305132.json",
         "collection/metadata/typha-latifolia--commons-99739581.json",
         "collection/metadata/typha-latifolia--inat-728718470.json"
@@ -20301,11 +21134,20 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-931665",
+        "web": "reference/images/veronica-serpyllifolia/commons-931665.webp",
+        "master": "reference/images/veronica-serpyllifolia/commons-931665.jpg",
+        "metadata": "collection/metadata/veronica-serpyllifolia--commons-931665.json",
+        "license": "CC BY-SA 3.0",
+        "credit": "Tijmereprijs plant (Veronica serpyllifolia) [Veronica serpyllifolia] — Rasbak / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); source: https://commons.wikimedia.org/wiki/File:Tijmereprijs_plant_(Veronica_serpyllifolia).jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/veronica-serpyllifolia--commons-3982757.json",
+        "collection/metadata/veronica-serpyllifolia--commons-68619545.json",
         "collection/metadata/veronica-serpyllifolia--commons-98869988.json",
+        "collection/metadata/veronica-serpyllifolia--inat-154416654.json",
         "collection/metadata/veronica-serpyllifolia--inat-7749660.json"
       ],
       "pendingPhotos": [],
@@ -20515,9 +21357,11 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/medicago-sativa--commons-179877173.json",
         "collection/metadata/medicago-sativa--commons-73352253.json",
         "collection/metadata/medicago-sativa--commons-95668354.json",
-        "collection/metadata/medicago-sativa--inat-135574.json"
+        "collection/metadata/medicago-sativa--inat-135574.json",
+        "collection/metadata/medicago-sativa--inat-45020051.json"
       ],
       "pendingPhotos": [],
       "excludedPhotos": []
@@ -20598,7 +21442,9 @@
       "primaryPhoto": null,
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/celastrus-orbiculatus--commons-41935053.json",
         "collection/metadata/celastrus-orbiculatus--commons-63722880.json",
+        "collection/metadata/celastrus-orbiculatus--inat-329088927.json",
         "collection/metadata/celastrus-orbiculatus--inat-46253725.json"
       ],
       "pendingPhotos": [],

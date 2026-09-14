@@ -1,0 +1,161 @@
+{
+  "assetId": "inat-664045653",
+  "source": "iNaturalist",
+  "imageTitle": "Vicia sepium",
+  "sourceId": "664045653",
+  "photoUrl": "https://www.inaturalist.org/photos/664045653",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/664045653/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/664045653/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 127345,
+  "acceptedScientificName": "Vicia sepium",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/363768152",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.536190476190476,
+  "photoApiEvidence": {
+    "id": 664045653,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1542,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/664045653/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47123/47122/507502/633087/52472",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47123,47122,507502,633087,52472,127345",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 127345,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 52472,
+    "name": "Vicia sepium",
+    "rank": "species",
+    "extinct": false,
+    "id": 127345,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47123,
+      47122,
+      507502,
+      633087,
+      52472,
+      127345
+    ],
+    "created_at": "2012-04-22T12:22:37+00:00",
+    "default_photo": {
+      "id": 18515325,
+      "license_code": "cc-by",
+      "attribution": "(c) Nasser Halaweh, some rights reserved (CC BY), uploaded by Nasser Halaweh",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18515325/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "Nasser Halaweh",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18515325/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18515325/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 46426,
+    "photos_locked": false,
+    "universal_search_rank": 46426,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 22049,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Vicia_sepium",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Bush Vetch"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/664045653/original.jpg",
+  "caption": "Vicia sepium — research_grade_observation",
+  "sourceTitle": "Vicia sepium",
+  "acquiredAt": "2026-09-14T03:53:20+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/vicia-sepium--inat-664045653.jpg",
+  "previewSha256": "e6f34aefd4da06ec4b74f2f4f79df2e338ffc1e750eb44221342970988e20df2",
+  "sourceDownloadSha256": "230e32001960bc34016f15f5e0d49ee7f81328ce6c57a73568ea0c3cbda9f3f1",
+  "previewDimensions": [
+    1205,
+    1600
+  ],
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-127345",
+  "scientificName": "Vicia sepium",
+  "nameJa": "イブキノエンドウ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/vicia-sepium/inat-664045653.jpg",
+    "web": "reference/images/vicia-sepium/inat-664045653.webp",
+    "thumbnail": "reference/images/vicia-sepium/inat-664045653-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1205,
+      1600
+    ],
+    "web": [
+      1054,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 341971,
+    "web": 123036,
+    "thumbnail": 9880
+  },
+  "sha256": {
+    "master": "e6f34aefd4da06ec4b74f2f4f79df2e338ffc1e750eb44221342970988e20df2",
+    "web": "910fdf5514c1f6834717452281dc600703df0b6abe2be81cf60c45f01eaa5489",
+    "thumbnail": "3fa34acf29c9ab63afab52e578dcbac479d2e4d9f03fd72e9c4e82c95e24036d"
+  },
+  "status": "collected_pending_visual_review",
+  "origin": "photo_candidate",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:53:20+00:00",
+  "savedAt": "2026-09-14T04:32:27+00:00",
+  "visualReview": {
+    "status": "pending"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:53:20+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 85,
+  "credit": "Vicia sepium [Vicia sepium] — no rights reserved / iNaturalist, cc0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/664045653. Resized and re-encoded; no subject alteration."
+}

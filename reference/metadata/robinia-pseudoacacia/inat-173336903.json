@@ -1,0 +1,161 @@
+{
+  "assetId": "inat-173336903",
+  "source": "iNaturalist",
+  "imageTitle": "Robinia pseudoacacia",
+  "sourceId": "173336903",
+  "photoUrl": "https://www.inaturalist.org/photos/173336903",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173336903/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173336903/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Sandy Wolkenberg",
+  "originalAttribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY)",
+  "taxonId": 56088,
+  "acceptedScientificName": "Robinia pseudoacacia",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/103550894",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.194285714285714,
+  "photoApiEvidence": {
+    "id": 173336903,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/173336903/square.jpg",
+    "attribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47123/47122/507502/746912/56089",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47123,47122,507502,746912,56089,56088",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 56088,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 56089,
+    "name": "Robinia pseudoacacia",
+    "rank": "species",
+    "extinct": false,
+    "id": 56088,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47123,
+      47122,
+      507502,
+      746912,
+      56089,
+      56088
+    ],
+    "created_at": "2010-02-17T08:28:47+00:00",
+    "default_photo": {
+      "id": 37431398,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Eric Koberle, some rights reserved (CC BY-NC), uploaded by Eric Koberle",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37431398/square.jpeg",
+      "original_dimensions": {
+        "height": 1366,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Eric Koberle",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37431398/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37431398/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 8,
+    "observations_count": 139228,
+    "photos_locked": false,
+    "universal_search_rank": 139228,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 130363,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Robinia_pseudoacacia",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "black locust"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173336903/original.jpg",
+  "caption": "Robinia pseudoacacia — research_grade_observation",
+  "sourceTitle": "Robinia pseudoacacia",
+  "acquiredAt": "2026-09-14T03:52:11+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/robinia-pseudoacacia--inat-173336903.jpg",
+  "previewSha256": "64d8f887dab523e7af3aee44f23621580a99d9fba06d056b4a3a4d276da38081",
+  "sourceDownloadSha256": "254fec45b919e27600a2541f3faa5cf288b10c17f7b53e668065280577401daf",
+  "previewDimensions": [
+    1200,
+    1600
+  ],
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-56088",
+  "scientificName": "Robinia pseudoacacia",
+  "nameJa": "ニセアカシア",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/robinia-pseudoacacia/inat-173336903.jpg",
+    "web": "reference/images/robinia-pseudoacacia/inat-173336903.webp",
+    "thumbnail": "reference/images/robinia-pseudoacacia/inat-173336903-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1200,
+      1600
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 316049,
+    "web": 81744,
+    "thumbnail": 6844
+  },
+  "sha256": {
+    "master": "64d8f887dab523e7af3aee44f23621580a99d9fba06d056b4a3a4d276da38081",
+    "web": "6600ff5273457d0af1ca399f71f8b3106294b41a248140f07b8bf8ae4755dc77",
+    "thumbnail": "26c1fe413184575efa8864f46c69ac1197fcdb807e3f9a0d055e3e61ff9d298a"
+  },
+  "status": "collected_pending_visual_review",
+  "origin": "photo_candidate",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:52:11+00:00",
+  "savedAt": "2026-09-14T04:31:51+00:00",
+  "visualReview": {
+    "status": "pending"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:52:11+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 85,
+  "credit": "Robinia pseudoacacia [Robinia pseudoacacia] — Sandy Wolkenberg / iNaturalist, cc-by (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/173336903. Resized and re-encoded; no subject alteration."
+}

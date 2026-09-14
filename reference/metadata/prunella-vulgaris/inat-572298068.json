@@ -1,0 +1,162 @@
+{
+  "assetId": "inat-572298068",
+  "source": "iNaturalist",
+  "imageTitle": "Prunella vulgaris",
+  "sourceId": "572298068",
+  "photoUrl": "https://www.inaturalist.org/photos/572298068",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/572298068/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/572298068/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 52764,
+  "acceptedScientificName": "Prunella vulgaris",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/316745803",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 572298068,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/572298068/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48151/48623/520502/918917/919181/52765/52764",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48151,48623,520502,918917,919181,52765,52764",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 52764,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": true,
+    "parent_id": 52764,
+    "name": "Prunella vulgaris asiatica",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 367463,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48151,
+      48623,
+      520502,
+      918917,
+      919181,
+      52765,
+      52764,
+      367463
+    ],
+    "created_at": "2014-09-06T00:36:31+00:00",
+    "default_photo": {
+      "id": 572298068,
+      "license_code": "cc0",
+      "attribution": "no rights reserved, uploaded by 葉子",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/572298068/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "葉子",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/572298068/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/572298068/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 1,
+    "observations_count": 568,
+    "photos_locked": false,
+    "universal_search_rank": 568,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Plantae"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/572298068/original.jpg",
+  "caption": "Prunella vulgaris — research_grade_observation",
+  "sourceTitle": "Prunella vulgaris",
+  "acquiredAt": "2026-09-14T03:51:38+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/prunella-vulgaris--inat-572298068.jpg",
+  "previewSha256": "b2b4a3f14bcdbf1499ac7158c7c50116219c6510e3bf50744e2ed5670a572313",
+  "sourceDownloadSha256": "a4332ddaeb405e539bd95eb70336731a7c84641b881bad62cdd6745280e97acb",
+  "previewDimensions": [
+    1600,
+    1200
+  ],
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-52764",
+  "scientificName": "Prunella vulgaris",
+  "nameJa": "セイヨウウツボグサ(広義)",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/prunella-vulgaris/inat-572298068.jpg",
+    "web": "reference/images/prunella-vulgaris/inat-572298068.webp",
+    "thumbnail": "reference/images/prunella-vulgaris/inat-572298068-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1600,
+      1200
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 224279,
+    "web": 51286,
+    "thumbnail": 5584
+  },
+  "sha256": {
+    "master": "b2b4a3f14bcdbf1499ac7158c7c50116219c6510e3bf50744e2ed5670a572313",
+    "web": "734af1393ebd1882998c153d58c906698017d0749a0c160b5817e888931b7ba2",
+    "thumbnail": "1032f1b4b952ed9885688575f582156c0c272830e88d71d047198624c4141452"
+  },
+  "status": "collected_pending_visual_review",
+  "origin": "photo_candidate",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:51:38+00:00",
+  "savedAt": "2026-09-14T04:31:37+00:00",
+  "visualReview": {
+    "status": "pending"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:51:38+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 85,
+  "credit": "Prunella vulgaris [Prunella vulgaris] — no rights reserved / iNaturalist, cc0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/572298068. Resized and re-encoded; no subject alteration."
+}

@@ -1,0 +1,160 @@
+{
+  "assetId": "inat-550764856",
+  "source": "iNaturalist",
+  "imageTitle": "Humulus lupulus",
+  "sourceId": "550764856",
+  "photoUrl": "https://www.inaturalist.org/photos/550764856",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/550764856/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/550764856/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 53779,
+  "acceptedScientificName": "Humulus lupulus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/305462128",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 550764856,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550764856/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47132/53781/53782/1603987",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47132,53781,53782,1603987,53779",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 53779,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1603987,
+    "name": "Humulus lupulus",
+    "rank": "species",
+    "extinct": false,
+    "id": 53779,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47132,
+      53781,
+      53782,
+      1603987,
+      53779
+    ],
+    "created_at": "2009-10-28T16:16:14+00:00",
+    "default_photo": {
+      "id": 16500,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Ferran Turmo Gort, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16500/square.jpg",
+      "original_dimensions": {
+        "height": 960,
+        "width": 1280
+      },
+      "flags": [],
+      "attribution_name": "Ferran Turmo Gort",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16500/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16500/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 5,
+    "observations_count": 44337,
+    "photos_locked": false,
+    "universal_search_rank": 44337,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 128212,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Humulus_lupulus",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "common hops"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/550764856/original.jpg",
+  "caption": "Humulus lupulus — research_grade_observation",
+  "sourceTitle": "Humulus lupulus",
+  "acquiredAt": "2026-09-14T03:50:36+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/humulus-lupulus--inat-550764856.jpg",
+  "previewSha256": "487b31b87bf9ad31f4b659300acc4da71e36476ce3b7c3f272256fc1c15a4731",
+  "sourceDownloadSha256": "3b9f875c2054a39f91b52160cf6619fbe8b3133c2da94cea690d5a7e4f933861",
+  "previewDimensions": [
+    1200,
+    1600
+  ],
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-53779",
+  "scientificName": "Humulus lupulus",
+  "nameJa": "カラハナソウ(広義)",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/humulus-lupulus/inat-550764856.jpg",
+    "web": "reference/images/humulus-lupulus/inat-550764856.webp",
+    "thumbnail": "reference/images/humulus-lupulus/inat-550764856-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1200,
+      1600
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 512016,
+    "web": 188592,
+    "thumbnail": 18138
+  },
+  "sha256": {
+    "master": "487b31b87bf9ad31f4b659300acc4da71e36476ce3b7c3f272256fc1c15a4731",
+    "web": "410639decd6a85d302023d2a2823e74ced0d4b8d6240d86af1b217fc8191f9b7",
+    "thumbnail": "084dd0ad608d37cc8c8fbfe2fc8e7c37bdfa5e1bf96ab3f6a30108f9614835e2"
+  },
+  "status": "collected_pending_visual_review",
+  "origin": "photo_candidate",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:50:36+00:00",
+  "savedAt": "2026-09-14T04:31:15+00:00",
+  "visualReview": {
+    "status": "pending"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:50:36+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 82,
+  "credit": "Humulus lupulus [Humulus lupulus] — no rights reserved / iNaturalist, cc0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/550764856. Resized and re-encoded; no subject alteration."
+}

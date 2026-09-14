@@ -1,0 +1,180 @@
+{
+  "assetId": "inat-600198419",
+  "source": "iNaturalist",
+  "imageTitle": "Pseudotsuga menziesii",
+  "sourceId": "600198419",
+  "photoUrl": "https://www.inaturalist.org/photos/600198419",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/600198419/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/600198419/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "作者名未取得（CC0・出典参照）",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 48256,
+  "acceptedScientificName": "Pseudotsuga menziesii",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/330923626",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 600198419,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/600198419/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/136329/47375/47562/1456301/48257",
+    "min_species_ancestry": "48460,47126,211194,136329,47375,47562,1456301,48257,48256",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 48256,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 48257,
+    "name": "Pseudotsuga menziesii",
+    "rank": "species",
+    "extinct": false,
+    "id": 48256,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      136329,
+      47375,
+      47562,
+      1456301,
+      48257,
+      48256
+    ],
+    "created_at": "2008-08-29T16:29:31+00:00",
+    "default_photo": {
+      "id": 140217013,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Tracy S., some rights reserved (CC BY-NC), uploaded by Tracy S.",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140217013/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "Tracy S.",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140217013/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140217013/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 8,
+    "observations_count": 90172,
+    "photos_locked": false,
+    "universal_search_rank": 90172,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Douglas_fir",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Douglas-fir"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/600198419/original.jpg",
+  "caption": "Pseudotsuga menziesii — research_grade_observation",
+  "sourceTitle": "Pseudotsuga menziesii",
+  "acquiredAt": "2026-09-14T03:51:43+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/pseudotsuga-menziesii--inat-600198419.jpg",
+  "previewSha256": "2271277d35a8b322d1504db2e9b1fc2ea44aae5fb8784c902eea2b5949fd18bf",
+  "sourceDownloadSha256": "24bbcfcf6d5863d56a5f07f16d7ce970c69145716d7564556d8397950fa2e1a8",
+  "previewDimensions": [
+    1200,
+    1600
+  ],
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-48256",
+  "scientificName": "Pseudotsuga menziesii",
+  "nameJa": "ベイマツ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/pseudotsuga-menziesii/inat-600198419.jpg",
+    "web": "reference/images/pseudotsuga-menziesii/inat-600198419.webp",
+    "thumbnail": "reference/images/pseudotsuga-menziesii/inat-600198419-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1200,
+      1600
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 728145,
+    "web": 234708,
+    "thumbnail": 13100
+  },
+  "sha256": {
+    "master": "2271277d35a8b322d1504db2e9b1fc2ea44aae5fb8784c902eea2b5949fd18bf",
+    "web": "ff92bd9f9a11748889307c542f3b508bf908745ad352b44d43917600dd2b27e1",
+    "thumbnail": "25f962ea3d75d1866b8ecde2a9b1e7a9f88f62f2632cb38eb4bfa9064775713a"
+  },
+  "status": "primary_candidate",
+  "origin": "photograph_visual_screened",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:51:43+00:00",
+  "savedAt": "2026-09-14T04:31:43+00:00",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "20_image_contact_sheet_and_source_caption_screening",
+    "reviewFile": "reviews/round2-decisions-20260914.json",
+    "snapshotNumber": 417,
+    "previewSha256": "2271277d35a8b322d1504db2e9b1fc2ea44aae5fb8784c902eea2b5949fd18bf",
+    "candidateManifestSha256": "6331ee8219425661f9ed8886ae1658dc0cfb18e450f1b5f8ff3068de3028617d",
+    "noteJa": "円錐形の樹冠と幹が分かります。道路沿いの植栽です。",
+    "speciesIdentity": "source_caption_or_exact_taxon_checked_not_expert_reidentification",
+    "fullResolutionInspection": "contact_sheet_review_not_pixel_level_audit"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:51:43+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 67,
+  "credit": "Pseudotsuga menziesii [Pseudotsuga menziesii] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/600198419. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "authorApiValueBeforeNormalization": "no rights reserved",
+  "authorStatus": "not_provided_by_photo_api",
+  "authorNote": "CC0 does not require attribution as a copyright-license condition. The original photo page is retained; a rights notice is not presented as a person name.",
+  "rawMetadataPath": "reference/metadata/pseudotsuga-menziesii/inat-600198419.json",
+  "collectionSource": "reference",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/pseudotsuga-menziesii--inat-600198419.json"
+}

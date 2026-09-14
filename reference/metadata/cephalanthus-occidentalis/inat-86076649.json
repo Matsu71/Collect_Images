@@ -1,0 +1,161 @@
+{
+  "assetId": "inat-86076649",
+  "source": "iNaturalist",
+  "imageTitle": "Cephalanthus occidentalis",
+  "sourceId": "86076649",
+  "photoUrl": "https://www.inaturalist.org/photos/86076649",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/86076649/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/86076649/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 52763,
+  "acceptedScientificName": "Cephalanthus occidentalis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/54107538",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 86076649,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/86076649/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47363/47693/788062/777272/52728",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47363,47693,788062,777272,52728,52763",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 52763,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 52728,
+    "name": "Cephalanthus occidentalis",
+    "rank": "species",
+    "extinct": false,
+    "id": 52763,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47363,
+      47693,
+      788062,
+      777272,
+      52728,
+      52763
+    ],
+    "provisional": false,
+    "created_at": "2009-08-23T21:27:18+00:00",
+    "default_photo": {
+      "id": 679712269,
+      "license_code": "cc-by",
+      "attribution": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/679712269/square.jpg",
+      "original_dimensions": {
+        "height": 960,
+        "width": 1280
+      },
+      "flags": [],
+      "attribution_name": "Michael J. Papay",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/679712269/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/679712269/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 4,
+    "observations_count": 76226,
+    "photos_locked": false,
+    "universal_search_rank": 76226,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cephalanthus_occidentalis",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "buttonbush"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/86076649/original.jpeg",
+  "caption": "Cephalanthus occidentalis — research_grade_observation",
+  "sourceTitle": "Cephalanthus occidentalis",
+  "acquiredAt": "2026-09-14T03:49:09+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/cephalanthus-occidentalis--inat-86076649.jpg",
+  "previewSha256": "b3151313c2276787766857c6e43d3cb8dc5e9e5d3cfeb3d24af573d48871bde5",
+  "sourceDownloadSha256": "8952027c920127654ee221ec855879bba8c532abf1eab12d85f4b70f89e41367",
+  "previewDimensions": [
+    1200,
+    1600
+  ],
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-52763",
+  "scientificName": "Cephalanthus occidentalis",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/cephalanthus-occidentalis/inat-86076649.jpg",
+    "web": "reference/images/cephalanthus-occidentalis/inat-86076649.webp",
+    "thumbnail": "reference/images/cephalanthus-occidentalis/inat-86076649-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1200,
+      1600
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 982753,
+    "web": 366478,
+    "thumbnail": 24786
+  },
+  "sha256": {
+    "master": "b3151313c2276787766857c6e43d3cb8dc5e9e5d3cfeb3d24af573d48871bde5",
+    "web": "38a746658ecec2f548d5fd0773a797df5528f43fca33ad986241849672883994",
+    "thumbnail": "1562339c896ffd81c231e35262080ed488e9176aba3723b0d008f757fca019e2"
+  },
+  "status": "collected_pending_visual_review",
+  "origin": "photo_candidate",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:49:09+00:00",
+  "savedAt": "2026-09-14T04:30:27+00:00",
+  "visualReview": {
+    "status": "pending"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:49:09+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 67,
+  "credit": "Cephalanthus occidentalis [Cephalanthus occidentalis] — no rights reserved / iNaturalist, cc0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/86076649. Resized and re-encoded; no subject alteration."
+}

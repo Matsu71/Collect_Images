@@ -1,0 +1,183 @@
+{
+  "assetId": "inat-471959813",
+  "source": "iNaturalist",
+  "imageTitle": "Puma concolor",
+  "sourceId": "471959813",
+  "photoUrl": "https://www.inaturalist.org/photos/471959813",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/471959813/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/471959813/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Jared Shorma",
+  "originalAttribution": "(c) Jared Shorma, some rights reserved (CC BY)",
+  "taxonId": 42007,
+  "acceptedScientificName": "Puma concolor",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/262783318",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.194285714285714,
+  "photoApiEvidence": {
+    "id": 471959813,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471959813/square.jpeg",
+    "attribution": "(c) Jared Shorma, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/41944/846179/42006/42007",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,41944,846179,42006,42007",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 42007,
+    "threatened": true,
+    "rank_level": 5,
+    "introduced": false,
+    "native": true,
+    "parent_id": 42007,
+    "name": "Puma concolor couguar",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 143589,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      41944,
+      846179,
+      42006,
+      42007,
+      143589
+    ],
+    "created_at": "2012-08-14T18:28:21+00:00",
+    "default_photo": {
+      "id": 128892645,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) greyloch, some rights reserved (CC BY-NC-ND)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/128892645/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "greyloch",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/128892645/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/128892645/medium.jpg"
+    },
+    "taxon_changes_count": 4,
+    "taxon_schemes_count": 3,
+    "observations_count": 995,
+    "photos_locked": false,
+    "universal_search_rank": 995,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/North_American_cougar",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "North American Mountain Lion"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/471959813/original.jpeg",
+  "caption": "Puma concolor — research_grade_observation",
+  "sourceTitle": "Puma concolor",
+  "acquiredAt": "2026-09-14T03:47:21+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/puma-concolor--inat-471959813.jpg",
+  "previewSha256": "88b54e3fa324a0d0551117d2fb2756a4113e4966c967171c26f7b446eb63a563",
+  "sourceDownloadSha256": "be46747aec82916a69dcbf4c3917278cf1ee2ad14942bbbefd99d861bf6f5968",
+  "previewDimensions": [
+    1600,
+    1200
+  ],
+  "schemaVersion": 1,
+  "targetId": "org-puma-concolor",
+  "scientificName": "Puma concolor",
+  "nameJa": "ピューマ",
+  "collectionTier": "chronoearth",
+  "files": {
+    "master": "reference/images/puma-concolor/inat-471959813.jpg",
+    "web": "reference/images/puma-concolor/inat-471959813.webp",
+    "thumbnail": "reference/images/puma-concolor/inat-471959813-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1600,
+      1200
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 489215,
+    "web": 158676,
+    "thumbnail": 14746
+  },
+  "sha256": {
+    "master": "88b54e3fa324a0d0551117d2fb2756a4113e4966c967171c26f7b446eb63a563",
+    "web": "e6be955e5625e984baea926eb55d7c46e4cf330cc397234de1603b202558b7ef",
+    "thumbnail": "e864616c8c5dd2b4997c0e2263479da3e5d19b11c90901c7053bda0b2d42c573"
+  },
+  "status": "primary_candidate",
+  "origin": "photograph_visual_screened",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:47:21+00:00",
+  "savedAt": "2026-09-14T04:29:41+00:00",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "20_image_contact_sheet_and_source_caption_screening",
+    "reviewFile": "reviews/round2-decisions-20260914.json",
+    "snapshotNumber": 196,
+    "previewSha256": "88b54e3fa324a0d0551117d2fb2756a4113e4966c967171c26f7b446eb63a563",
+    "candidateManifestSha256": "6331ee8219425661f9ed8886ae1658dc0cfb18e450f1b5f8ff3068de3028617d",
+    "noteJa": "移動中の頭部、胴体、脚と長い尾の輪郭が明瞭です。飼育施設での撮影です。",
+    "speciesIdentity": "source_caption_or_exact_taxon_checked_not_expert_reidentification",
+    "fullResolutionInspection": "contact_sheet_review_not_pixel_level_audit"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:47:21+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 82,
+  "credit": "Puma concolor [Puma concolor] — Jared Shorma / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/471959813. Original attribution: (c) Jared Shorma, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "authorStatus": "source_supplied_not_independently_verified",
+  "rawMetadataPath": "reference/metadata/puma-concolor/inat-471959813.json",
+  "collectionSource": "reference",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/puma-concolor--inat-471959813.json"
+}

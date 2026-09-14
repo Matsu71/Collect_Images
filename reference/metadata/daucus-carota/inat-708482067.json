@@ -1,0 +1,162 @@
+{
+  "assetId": "inat-708482067",
+  "source": "iNaturalist",
+  "imageTitle": "Daucus carota",
+  "sourceId": "708482067",
+  "photoUrl": "https://www.inaturalist.org/photos/708482067",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/708482067/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/708482067/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "zebedeugalinha",
+  "originalAttribution": "(c) zebedeugalinha, some rights reserved (CC BY)",
+  "taxonId": 76610,
+  "acceptedScientificName": "Daucus carota",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/386927585",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.222380952380953,
+  "photoApiEvidence": {
+    "id": 708482067,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1789,
+      "height": 1999
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/708482067/square.jpg",
+    "attribution": "(c) zebedeugalinha, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48700/48699/790553/790591/1043617/56727",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48700,48699,790553,790591,1043617,56727,76610",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 76610,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 56727,
+    "name": "Daucus carota",
+    "rank": "species",
+    "extinct": false,
+    "id": 76610,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48700,
+      48699,
+      790553,
+      790591,
+      1043617,
+      56727,
+      76610
+    ],
+    "created_at": "2011-05-13T21:39:59+00:00",
+    "default_photo": {
+      "id": 7663971,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Nancy Phillips, some rights reserved (CC BY-NC), uploaded by Nancy Phillips",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7663971/square.jpeg",
+      "original_dimensions": {
+        "height": 1766,
+        "width": 1860
+      },
+      "flags": [],
+      "attribution_name": "Nancy Phillips",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7663971/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7663971/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 6,
+    "observations_count": 217764,
+    "photos_locked": false,
+    "universal_search_rank": 217764,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Daucus_carota",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "wild carrot"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/708482067/original.jpg",
+  "caption": "Daucus carota — research_grade_observation",
+  "sourceTitle": "Daucus carota",
+  "acquiredAt": "2026-09-14T03:49:55+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/daucus-carota--inat-708482067.jpg",
+  "previewSha256": "d1d1699c3cc9ccbb3e25f7f8b2a99ed543561761d185514e3da2c25410a969b0",
+  "sourceDownloadSha256": "dbd0508d3b01694a04c1f5a6e73e041ca0ca142e93b3e0dd3d002d9064cb0d17",
+  "previewDimensions": [
+    1432,
+    1600
+  ],
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-76610",
+  "scientificName": "Daucus carota",
+  "nameJa": "ノラニンジン",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/daucus-carota/inat-708482067.jpg",
+    "web": "reference/images/daucus-carota/inat-708482067.webp",
+    "thumbnail": "reference/images/daucus-carota/inat-708482067-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1432,
+      1600
+    ],
+    "web": [
+      1253,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1101497,
+    "web": 397560,
+    "thumbnail": 26720
+  },
+  "sha256": {
+    "master": "d1d1699c3cc9ccbb3e25f7f8b2a99ed543561761d185514e3da2c25410a969b0",
+    "web": "499d72c90decb7592276f821955789fc71a6b9d422e800a01332cbc93565a048",
+    "thumbnail": "730d3784a73212a78ab73dd2016ecc7f4371fea60dba17d8fa0950c78e777b1e"
+  },
+  "status": "collected_pending_visual_review",
+  "origin": "photo_candidate",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:49:55+00:00",
+  "savedAt": "2026-09-14T04:30:54+00:00",
+  "visualReview": {
+    "status": "pending"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:49:55+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 67,
+  "credit": "Daucus carota [Daucus carota] — zebedeugalinha / iNaturalist, cc-by (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/708482067. Resized and re-encoded; no subject alteration."
+}

@@ -1,0 +1,181 @@
+{
+  "assetId": "inat-398682693",
+  "source": "iNaturalist",
+  "imageTitle": "Equus caballus",
+  "sourceId": "398682693",
+  "photoUrl": "https://www.inaturalist.org/photos/398682693",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/398682693/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/398682693/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Valentín Alfano",
+  "originalAttribution": "(c) Valentín Alfano, some rights reserved (CC BY)",
+  "taxonId": 209233,
+  "acceptedScientificName": "Equus caballus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/224912026",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.862380952380953,
+  "photoApiEvidence": {
+    "id": 398682693,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1537
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/398682693/square.jpg",
+    "attribution": "(c) Valentín Alfano, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/43327/43328/43329",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,43327,43328,43329,209233",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 209233,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 43329,
+    "name": "Equus caballus",
+    "rank": "species",
+    "extinct": false,
+    "id": 209233,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      43327,
+      43328,
+      43329,
+      209233
+    ],
+    "created_at": "2013-03-07T03:01:57+00:00",
+    "default_photo": {
+      "id": 23672580,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) copper, some rights reserved (CC BY-NC), uploaded by copper",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23672580/square.jpeg",
+      "original_dimensions": {
+        "height": 1367,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "copper",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23672580/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23672580/medium.jpeg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 3,
+    "observations_count": 47616,
+    "photos_locked": false,
+    "universal_search_rank": 47616,
+    "flag_counts": {
+      "resolved": 5,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Horse",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Domestic Horse"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/398682693/original.jpg",
+  "caption": "Equus caballus — research_grade_observation",
+  "sourceTitle": "Equus caballus",
+  "acquiredAt": "2026-09-14T03:44:49+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/equus-caballus--inat-398682693.jpg",
+  "previewSha256": "dd4f493ec6f65d39377df1a297294b960fa433b3f2bdb5d152af1a9bda85a2e8",
+  "sourceDownloadSha256": "5456a041af73f0b7a874ef276c5f28911f76c5c48d29a16b6ed29a60e0fa3b99",
+  "previewDimensions": [
+    1600,
+    1201
+  ],
+  "schemaVersion": 1,
+  "targetId": "org-equus-caballus",
+  "scientificName": "Equus caballus",
+  "nameJa": "ウマ",
+  "collectionTier": "chronoearth",
+  "files": {
+    "master": "reference/images/equus-caballus/inat-398682693.jpg",
+    "web": "reference/images/equus-caballus/inat-398682693.webp",
+    "thumbnail": "reference/images/equus-caballus/inat-398682693-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1600,
+      1201
+    ],
+    "web": [
+      1400,
+      1051
+    ]
+  },
+  "bytes": {
+    "master": 536949,
+    "web": 168698,
+    "thumbnail": 11790
+  },
+  "sha256": {
+    "master": "dd4f493ec6f65d39377df1a297294b960fa433b3f2bdb5d152af1a9bda85a2e8",
+    "web": "bc23df9223aca61782bac4a4b96dcffded482ab74ceebcb464f3367fac496467",
+    "thumbnail": "167b3652ef0a2c6234f167a6a8089888c6d8405ba6a6d968300f2a33e85efe6f"
+  },
+  "status": "supplementary_only",
+  "origin": "photograph_visual_screened",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:44:49+00:00",
+  "savedAt": "2026-09-14T04:28:51+00:00",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "20_image_contact_sheet_and_source_caption_screening",
+    "reviewFile": "reviews/round2-decisions-20260914.json",
+    "snapshotNumber": 64,
+    "previewSha256": "dd4f493ec6f65d39377df1a297294b960fa433b3f2bdb5d152af1a9bda85a2e8",
+    "candidateManifestSha256": "6331ee8219425661f9ed8886ae1658dc0cfb18e450f1b5f8ff3068de3028617d",
+    "noteJa": "後肢で立ち上がる2頭の行動写真です。通常の立位の体型とは区別します。",
+    "speciesIdentity": "source_caption_or_exact_taxon_checked_not_expert_reidentification",
+    "fullResolutionInspection": "contact_sheet_review_not_pixel_level_audit"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:44:49+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 79,
+  "credit": "Equus caballus [Equus caballus] — Valentín Alfano / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/398682693. Original attribution: (c) Valentín Alfano, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "authorStatus": "source_supplied_not_independently_verified",
+  "rawMetadataPath": "reference/metadata/equus-caballus/inat-398682693.json",
+  "collectionSource": "reference",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/equus-caballus--inat-398682693.json"
+}

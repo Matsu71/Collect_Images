@@ -1,0 +1,160 @@
+{
+  "assetId": "inat-30907600",
+  "source": "iNaturalist",
+  "imageTitle": "Acer negundo",
+  "sourceId": "30907600",
+  "photoUrl": "https://www.inaturalist.org/photos/30907600",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30907600/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30907600/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Jody Shugart",
+  "originalAttribution": "(c) Jody Shugart, some rights reserved (CC BY)",
+  "taxonId": 47726,
+  "acceptedScientificName": "Acer negundo",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/20022859",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.194285714285714,
+  "photoApiEvidence": {
+    "id": 30907600,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30907600/square.jpg",
+    "attribution": "(c) Jody Shugart, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47729/58321/47727/1466297",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47729,58321,47727,1466297,47726",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 47726,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1466297,
+    "name": "Acer negundo",
+    "rank": "species",
+    "extinct": false,
+    "id": 47726,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47729,
+      58321,
+      47727,
+      1466297,
+      47726
+    ],
+    "created_at": "2008-06-17T02:42:53+00:00",
+    "default_photo": {
+      "id": 486113480,
+      "license_code": "cc-by",
+      "attribution": "(c) Jay Pruett, some rights reserved (CC BY), uploaded by Jay Pruett",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486113480/square.jpg",
+      "original_dimensions": {
+        "height": 1367,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Jay Pruett",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486113480/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486113480/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 6,
+    "observations_count": 195152,
+    "photos_locked": false,
+    "universal_search_rank": 195152,
+    "flag_counts": {
+      "resolved": 5,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Acer_negundo",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "box elder"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30907600/original.jpg",
+  "caption": "Acer negundo — research_grade_observation",
+  "sourceTitle": "Acer negundo",
+  "acquiredAt": "2026-09-14T03:48:21+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/acer-negundo--inat-30907600.jpg",
+  "previewSha256": "e0fd6654a8bfd79eabf4b2bd30b15df751b72d67ee8aec2a6c66d49065617d99",
+  "sourceDownloadSha256": "498151e943f1748d6c343b5fb152d10566af307eab580a0f597d1b33abb01bf6",
+  "previewDimensions": [
+    1600,
+    1200
+  ],
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-47726",
+  "scientificName": "Acer negundo",
+  "nameJa": "トネリコバノカエデ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/acer-negundo/inat-30907600.jpg",
+    "web": "reference/images/acer-negundo/inat-30907600.webp",
+    "thumbnail": "reference/images/acer-negundo/inat-30907600-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1600,
+      1200
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1069147,
+    "web": 450756,
+    "thumbnail": 33688
+  },
+  "sha256": {
+    "master": "e0fd6654a8bfd79eabf4b2bd30b15df751b72d67ee8aec2a6c66d49065617d99",
+    "web": "ac6efc0ce864f324bf37f28155ac32ad9aea793b96fc89a5a8d130993f06c070",
+    "thumbnail": "897913714ef9fa3a2eae4eeb924216496cf8c3be8a0e00c1934ccc2ea9a4f823"
+  },
+  "status": "collected_pending_visual_review",
+  "origin": "photo_candidate",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:48:21+00:00",
+  "savedAt": "2026-09-14T04:30:08+00:00",
+  "visualReview": {
+    "status": "pending"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:48:21+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 67,
+  "credit": "Acer negundo [Acer negundo] — Jody Shugart / iNaturalist, cc-by (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/30907600. Resized and re-encoded; no subject alteration."
+}

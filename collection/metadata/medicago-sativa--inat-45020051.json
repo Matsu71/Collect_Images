@@ -1,0 +1,183 @@
+{
+  "assetId": "inat-45020051",
+  "source": "iNaturalist",
+  "imageTitle": "Medicago sativa",
+  "sourceId": "45020051",
+  "photoUrl": "https://www.inaturalist.org/photos/45020051",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/45020051/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/45020051/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Duarte Frade",
+  "originalAttribution": "(c) Duarte Frade, some rights reserved (CC BY)",
+  "taxonId": 57057,
+  "acceptedScientificName": "Medicago sativa",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/28864335",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.527619047619047,
+  "photoApiEvidence": {
+    "id": 45020051,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45020051/square.jpeg",
+    "attribution": "(c) Duarte Frade, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47123/47122/507502/512504/53152/1092874/1092912/1093263",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47123,47122,507502,512504,53152,1092874,1092912,1093263,57057",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 57057,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1093263,
+    "name": "Medicago sativa",
+    "rank": "species",
+    "extinct": false,
+    "id": 57057,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47123,
+      47122,
+      507502,
+      512504,
+      53152,
+      1092874,
+      1092912,
+      1093263,
+      57057
+    ],
+    "provisional": false,
+    "created_at": "2010-03-13T00:24:40+00:00",
+    "default_photo": {
+      "id": 266978825,
+      "license_code": null,
+      "attribution": "(c) Geronimus Karbaum, all rights reserved, uploaded by Geronimus Karbaum",
+      "url": "https://static.inaturalist.org/photos/266978825/square.jpeg",
+      "original_dimensions": {
+        "height": 1280,
+        "width": 1280
+      },
+      "flags": [],
+      "attribution_name": "Geronimus Karbaum",
+      "square_url": "https://static.inaturalist.org/photos/266978825/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/266978825/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 6,
+    "observations_count": 74301,
+    "photos_locked": false,
+    "universal_search_rank": 74301,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Alfalfa",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Alfalfa"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/45020051/original.jpeg",
+  "caption": "Medicago sativa — research_grade_observation",
+  "sourceTitle": "Medicago sativa",
+  "acquiredAt": "2026-09-14T03:51:13+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/medicago-sativa--inat-45020051.jpg",
+  "previewSha256": "61246e4585b302689aaf56441405d2c30b5a79b82ca0983b94663c44972c5949",
+  "sourceDownloadSha256": "30bf9ecd9d36dab333b608d45220d4152db0609f2b0c807f0d02f6b7f87fad89",
+  "previewDimensions": [
+    1600,
+    1200
+  ],
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-57057",
+  "scientificName": "Medicago sativa",
+  "nameJa": "ムラサキウマゴヤシ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/medicago-sativa/inat-45020051.jpg",
+    "web": "reference/images/medicago-sativa/inat-45020051.webp",
+    "thumbnail": "reference/images/medicago-sativa/inat-45020051-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1600,
+      1200
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 826323,
+    "web": 274740,
+    "thumbnail": 27362
+  },
+  "sha256": {
+    "master": "61246e4585b302689aaf56441405d2c30b5a79b82ca0983b94663c44972c5949",
+    "web": "d922e37fc58451bfb332614a023d22b5d29f371a3b4ef3e69d46a7cd46343e6e",
+    "thumbnail": "65b9dac1207d864da4b16e13d703ad64e2681802ab30f33d0c448d8180793949"
+  },
+  "status": "supplementary_only",
+  "origin": "photograph_visual_screened",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:51:13+00:00",
+  "savedAt": "2026-09-14T04:31:26+00:00",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "20_image_contact_sheet_and_source_caption_screening",
+    "reviewFile": "reviews/round2-decisions-20260914.json",
+    "snapshotNumber": 391,
+    "previewSha256": "61246e4585b302689aaf56441405d2c30b5a79b82ca0983b94663c44972c5949",
+    "candidateManifestSha256": "6331ee8219425661f9ed8886ae1658dc0cfb18e450f1b5f8ff3068de3028617d",
+    "noteJa": "部分・生態等の補足写真。",
+    "speciesIdentity": "source_caption_or_exact_taxon_checked_not_expert_reidentification",
+    "fullResolutionInspection": "contact_sheet_review_not_pixel_level_audit"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:51:13+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 67,
+  "credit": "Medicago sativa [Medicago sativa] — Duarte Frade / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/45020051. Original attribution: (c) Duarte Frade, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "authorStatus": "source_supplied_not_independently_verified",
+  "rawMetadataPath": "reference/metadata/medicago-sativa/inat-45020051.json",
+  "collectionSource": "reference",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/medicago-sativa--inat-45020051.json"
+}

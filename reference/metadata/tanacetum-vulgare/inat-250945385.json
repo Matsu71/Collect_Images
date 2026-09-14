@@ -1,0 +1,162 @@
+{
+  "assetId": "inat-250945385",
+  "source": "iNaturalist",
+  "imageTitle": "Tanacetum vulgare",
+  "sourceId": "250945385",
+  "photoUrl": "https://www.inaturalist.org/photos/250945385",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/250945385/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/250945385/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 55971,
+  "acceptedScientificName": "Tanacetum vulgare",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/146018963",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.979047619047619,
+  "photoApiEvidence": {
+    "id": 250945385,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1152
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/250945385/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47605/47604/632790/373844/900982/54521",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47605,47604,632790,373844,900982,54521,55971",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 55971,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 54521,
+    "name": "Tanacetum vulgare",
+    "rank": "species",
+    "extinct": false,
+    "id": 55971,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47605,
+      47604,
+      632790,
+      373844,
+      900982,
+      54521,
+      55971
+    ],
+    "created_at": "2010-02-12T12:39:06+00:00",
+    "default_photo": {
+      "id": 45581182,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Robert D Stevenson, some rights reserved (CC BY-NC), uploaded by Robert D Stevenson",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45581182/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1374
+      },
+      "flags": [],
+      "attribution_name": "Robert D Stevenson",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45581182/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45581182/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 5,
+    "observations_count": 123691,
+    "photos_locked": false,
+    "universal_search_rank": 123691,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Tansy",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "tansy"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/250945385/original.jpeg",
+  "caption": "Tanacetum vulgare — research_grade_observation",
+  "sourceTitle": "Tanacetum vulgare",
+  "acquiredAt": "2026-09-14T03:52:42+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/tanacetum-vulgare--inat-250945385.jpg",
+  "previewSha256": "1bbaa2f587be7f22013597b5df6b0ad759839e7e89d23c1c246cc13fcfe74d71",
+  "sourceDownloadSha256": "ddd9b5bbd01860bebfc134495d2034bd06481e23549d7bd51cf58be286c0a7dd",
+  "previewDimensions": [
+    1600,
+    900
+  ],
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-55971",
+  "scientificName": "Tanacetum vulgare",
+  "nameJa": "ヨモギギク",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/tanacetum-vulgare/inat-250945385.jpg",
+    "web": "reference/images/tanacetum-vulgare/inat-250945385.webp",
+    "thumbnail": "reference/images/tanacetum-vulgare/inat-250945385-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1600,
+      900
+    ],
+    "web": [
+      1400,
+      788
+    ]
+  },
+  "bytes": {
+    "master": 300294,
+    "web": 108934,
+    "thumbnail": 14134
+  },
+  "sha256": {
+    "master": "1bbaa2f587be7f22013597b5df6b0ad759839e7e89d23c1c246cc13fcfe74d71",
+    "web": "7ed1af017909c16b2f5fe0ba1328f279b89a681a4a41bf385e2aae91bf9a78c1",
+    "thumbnail": "0cf8607cb53f7c3c85f27ba0245cebacbf969006aedb4bd329a72a351b0940f2"
+  },
+  "status": "collected_pending_visual_review",
+  "origin": "photo_candidate",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:52:42+00:00",
+  "savedAt": "2026-09-14T04:32:11+00:00",
+  "visualReview": {
+    "status": "pending"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:52:42+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 85,
+  "credit": "Tanacetum vulgare [Tanacetum vulgare] — no rights reserved / iNaturalist, cc0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/250945385. Resized and re-encoded; no subject alteration."
+}

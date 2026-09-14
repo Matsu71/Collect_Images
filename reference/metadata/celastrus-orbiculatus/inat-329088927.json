@@ -1,0 +1,159 @@
+{
+  "assetId": "inat-329088927",
+  "source": "iNaturalist",
+  "imageTitle": "Celastrus orbiculatus",
+  "sourceId": "329088927",
+  "photoUrl": "https://www.inaturalist.org/photos/329088927",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/329088927/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/329088927/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 64540,
+  "acceptedScientificName": "Celastrus orbiculatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/188089154",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 329088927,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/329088927/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47540/47539/64539",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47540,47539,64539,64540",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 64540,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 64539,
+    "name": "Celastrus orbiculatus",
+    "rank": "species",
+    "extinct": false,
+    "id": 64540,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47540,
+      47539,
+      64539,
+      64540
+    ],
+    "provisional": false,
+    "created_at": "2010-12-22T00:18:14+00:00",
+    "default_photo": {
+      "id": 59337841,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Jeff Skrentny, some rights reserved (CC BY-NC), uploaded by Jeff Skrentny",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59337841/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "Jeff Skrentny",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59337841/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59337841/medium.jpg"
+    },
+    "taxon_changes_count": 3,
+    "taxon_schemes_count": 4,
+    "observations_count": 72876,
+    "photos_locked": false,
+    "universal_search_rank": 72876,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Celastrus_orbiculatus",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Asian bittersweet"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/329088927/original.jpg",
+  "caption": "Celastrus orbiculatus — research_grade_observation",
+  "sourceTitle": "Celastrus orbiculatus",
+  "acquiredAt": "2026-09-14T03:49:07+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/celastrus-orbiculatus--inat-329088927.jpg",
+  "previewSha256": "1dfeb9074db546cc68989d487c4c34feb5f5bdefc36348025cc1b2d09961686a",
+  "sourceDownloadSha256": "8961cb98e3f9a461e343f4826e5f9407c3c986a44dfee0356d172123aef59340",
+  "previewDimensions": [
+    1200,
+    1600
+  ],
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-64540",
+  "scientificName": "Celastrus orbiculatus",
+  "nameJa": "ツルウメモドキ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/celastrus-orbiculatus/inat-329088927.jpg",
+    "web": "reference/images/celastrus-orbiculatus/inat-329088927.webp",
+    "thumbnail": "reference/images/celastrus-orbiculatus/inat-329088927-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1200,
+      1600
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 883605,
+    "web": 299714,
+    "thumbnail": 21630
+  },
+  "sha256": {
+    "master": "1dfeb9074db546cc68989d487c4c34feb5f5bdefc36348025cc1b2d09961686a",
+    "web": "82b16920ba986cf9ce2a41b059aa489751a0c5971a9ef91eb96ec252ee563886",
+    "thumbnail": "b94eb238f4117d1d2720af1886ac238a0becf0609d0c33d9bedc1974db048c0f"
+  },
+  "status": "collected_pending_visual_review",
+  "origin": "photo_candidate",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:49:07+00:00",
+  "savedAt": "2026-09-14T04:30:25+00:00",
+  "visualReview": {
+    "status": "pending"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:49:07+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 67,
+  "credit": "Celastrus orbiculatus [Celastrus orbiculatus] — no rights reserved / iNaturalist, cc0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/329088927. Resized and re-encoded; no subject alteration."
+}

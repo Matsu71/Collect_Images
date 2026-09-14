@@ -1,0 +1,163 @@
+{
+  "assetId": "inat-566202386",
+  "source": "iNaturalist",
+  "imageTitle": "Trifolium arvense",
+  "sourceId": "566202386",
+  "photoUrl": "https://www.inaturalist.org/photos/566202386",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/566202386/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/566202386/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Thomas Mesaglio",
+  "originalAttribution": "(c) Thomas Mesaglio, some rights reserved (CC BY)",
+  "taxonId": 79408,
+  "acceptedScientificName": "Trifolium arvense",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/313532096",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.527619047619047,
+  "photoApiEvidence": {
+    "id": 566202386,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/566202386/square.jpg",
+    "attribution": "(c) Thomas Mesaglio, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47123/47122/507502/512504/51876/967289/1582389",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47123,47122,507502,512504,51876,967289,1582389,79408",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 79408,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1582389,
+    "name": "Trifolium arvense",
+    "rank": "species",
+    "extinct": false,
+    "id": 79408,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47123,
+      47122,
+      507502,
+      512504,
+      51876,
+      967289,
+      1582389,
+      79408
+    ],
+    "created_at": "2011-05-13T21:47:20+00:00",
+    "default_photo": {
+      "id": 143409110,
+      "license_code": null,
+      "attribution": "(c) Andrew Darcy, all rights reserved, uploaded by Andrew Darcy",
+      "url": "https://static.inaturalist.org/photos/143409110/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "Andrew Darcy",
+      "square_url": "https://static.inaturalist.org/photos/143409110/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/143409110/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 5,
+    "observations_count": 45302,
+    "photos_locked": false,
+    "universal_search_rank": 45302,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Trifolium_arvense",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "rabbitfoot clover"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/566202386/original.jpg",
+  "caption": "Trifolium arvense — research_grade_observation",
+  "sourceTitle": "Trifolium arvense",
+  "acquiredAt": "2026-09-14T03:52:55+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/trifolium-arvense--inat-566202386.jpg",
+  "previewSha256": "72a627f4602f3b79944de4b3f171e541ee973909fffca8c8f34763527519b3f6",
+  "sourceDownloadSha256": "3caa74784fda050ea004f989d0e9d91e8bfc1e28f7446de07cb55145630d8411",
+  "previewDimensions": [
+    1600,
+    1200
+  ],
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-79408",
+  "scientificName": "Trifolium arvense",
+  "nameJa": "シャグマツメクサ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/trifolium-arvense/inat-566202386.jpg",
+    "web": "reference/images/trifolium-arvense/inat-566202386.webp",
+    "thumbnail": "reference/images/trifolium-arvense/inat-566202386-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1600,
+      1200
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 257615,
+    "web": 86426,
+    "thumbnail": 7182
+  },
+  "sha256": {
+    "master": "72a627f4602f3b79944de4b3f171e541ee973909fffca8c8f34763527519b3f6",
+    "web": "1fe98c57efe4346bac1f8460c6a65ad51ece57be41bd0110491e32eaf864f691",
+    "thumbnail": "d443bfff72b706c8a50b42948384a9f56109de9857c0a8faae21530ebf405d6b"
+  },
+  "status": "collected_pending_visual_review",
+  "origin": "photo_candidate",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:52:55+00:00",
+  "savedAt": "2026-09-14T04:32:15+00:00",
+  "visualReview": {
+    "status": "pending"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:52:55+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 85,
+  "credit": "Trifolium arvense [Trifolium arvense] — Thomas Mesaglio / iNaturalist, cc-by (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/566202386. Resized and re-encoded; no subject alteration."
+}

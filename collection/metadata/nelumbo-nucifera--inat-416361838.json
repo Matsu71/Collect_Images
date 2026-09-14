@@ -1,0 +1,178 @@
+{
+  "assetId": "inat-416361838",
+  "source": "iNaturalist",
+  "imageTitle": "Nelumbo nucifera",
+  "sourceId": "416361838",
+  "photoUrl": "https://www.inaturalist.org/photos/416361838",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/416361838/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/416361838/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "mikami-kun",
+  "originalAttribution": "(c) mikami-kun, some rights reserved (CC BY)",
+  "taxonId": 82814,
+  "acceptedScientificName": "Nelumbo nucifera",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/234227665",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.259047619047618,
+  "photoApiEvidence": {
+    "id": 416361838,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/416361838/square.jpeg",
+    "attribution": "(c) mikami-kun, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/64516/71577/82815",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,64516,71577,82815,82814",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 82814,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 82815,
+    "name": "Nelumbo nucifera",
+    "rank": "species",
+    "extinct": false,
+    "id": 82814,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      64516,
+      71577,
+      82815,
+      82814
+    ],
+    "provisional": false,
+    "created_at": "2011-06-13T03:13:01+00:00",
+    "default_photo": {
+      "id": 116385724,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Inessa, some rights reserved (CC BY-NC), uploaded by Inessa",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116385724/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Inessa",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116385724/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116385724/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 2,
+    "observations_count": 12775,
+    "photos_locked": false,
+    "universal_search_rank": 12775,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nelumbo_nucifera",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Sacred Lotus"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/416361838/original.jpeg",
+  "caption": "Nelumbo nucifera — research_grade_observation",
+  "sourceTitle": "Nelumbo nucifera",
+  "acquiredAt": "2026-09-14T03:46:26+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/nelumbo-nucifera--inat-416361838.jpg",
+  "previewSha256": "a9cfdf91dec8be93db8b6280cf69f5299bcea41c7d7d365c8b89423111235c10",
+  "sourceDownloadSha256": "aebec7f60c5a6630c28c5966692af361477c33cd7f566d20edca0f9b00afb33a",
+  "previewDimensions": [
+    1600,
+    1600
+  ],
+  "schemaVersion": 1,
+  "targetId": "org-nelumbo-nucifera",
+  "scientificName": "Nelumbo nucifera",
+  "nameJa": "ハス",
+  "collectionTier": "chronoearth",
+  "files": {
+    "master": "reference/images/nelumbo-nucifera/inat-416361838.jpg",
+    "web": "reference/images/nelumbo-nucifera/inat-416361838.webp",
+    "thumbnail": "reference/images/nelumbo-nucifera/inat-416361838-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1600,
+      1600
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 432672,
+    "web": 103646,
+    "thumbnail": 8698
+  },
+  "sha256": {
+    "master": "a9cfdf91dec8be93db8b6280cf69f5299bcea41c7d7d365c8b89423111235c10",
+    "web": "5fd5123e28785ec9f33687370a5b9bf5adbc2144fd68d1d2ce636c86c02d1fd3",
+    "thumbnail": "82b73c6086e1d344e21a924220172992d33929d81998f60dc053779240aa0655"
+  },
+  "status": "supplementary_only",
+  "origin": "photograph_visual_screened",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:46:26+00:00",
+  "savedAt": "2026-09-14T04:29:21+00:00",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "20_image_contact_sheet_and_source_caption_screening",
+    "reviewFile": "reviews/round2-decisions-20260914.json",
+    "snapshotNumber": 151,
+    "previewSha256": "a9cfdf91dec8be93db8b6280cf69f5299bcea41c7d7d365c8b89423111235c10",
+    "candidateManifestSha256": "6331ee8219425661f9ed8886ae1658dc0cfb18e450f1b5f8ff3068de3028617d",
+    "noteJa": "部分・生態等の補足写真。",
+    "speciesIdentity": "source_caption_or_exact_taxon_checked_not_expert_reidentification",
+    "fullResolutionInspection": "contact_sheet_review_not_pixel_level_audit"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:46:26+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 85,
+  "credit": "Nelumbo nucifera [Nelumbo nucifera] — mikami-kun / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/416361838. Original attribution: (c) mikami-kun, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "authorStatus": "source_supplied_not_independently_verified",
+  "rawMetadataPath": "reference/metadata/nelumbo-nucifera/inat-416361838.json",
+  "collectionSource": "reference",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生植物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/nelumbo-nucifera--inat-416361838.json"
+}

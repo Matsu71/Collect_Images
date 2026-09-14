@@ -1,0 +1,181 @@
+{
+  "assetId": "inat-41076543",
+  "source": "iNaturalist",
+  "imageTitle": "Rhamnus cathartica",
+  "sourceId": "41076543",
+  "photoUrl": "https://www.inaturalist.org/photos/41076543",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41076543/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41076543/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "作者名未取得（CC0・出典参照）",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 54811,
+  "acceptedScientificName": "Rhamnus cathartica",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/26452197",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 41076543,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41076543/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47132/49041/1256740/54812",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47132,49041,1256740,54812,54811",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 54811,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 54812,
+    "name": "Rhamnus cathartica",
+    "rank": "species",
+    "extinct": false,
+    "id": 54811,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47132,
+      49041,
+      1256740,
+      54812,
+      54811
+    ],
+    "created_at": "2009-12-28T05:32:12+00:00",
+    "default_photo": {
+      "id": 341888418,
+      "license_code": "cc-by",
+      "attribution": "(c) Robert Flogaus-Faust, some rights reserved (CC BY)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341888418/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Robert Flogaus-Faust",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341888418/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341888418/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 4,
+    "observations_count": 81873,
+    "photos_locked": false,
+    "universal_search_rank": 81873,
+    "flag_counts": {
+      "resolved": 4,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rhamnus_cathartica",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "common buckthorn"
+  },
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41076543/original.jpg",
+  "caption": "Rhamnus cathartica — research_grade_observation",
+  "sourceTitle": "Rhamnus cathartica",
+  "acquiredAt": "2026-09-14T03:52:04+00:00",
+  "identityBasis": "iNaturalist_exact_taxon_photo_or_research_grade_observation",
+  "previewPath": "batches/gaps-round2-20260914/previews/rhamnus-cathartica--inat-41076543.jpg",
+  "previewSha256": "728ad56c638cea5265521b698d04acf85120c5fda2e3372d593dd36df0fa9714",
+  "sourceDownloadSha256": "7cb46130288df492891d952651d57982e307bf751d9e39d045e5d0d6ba6345a4",
+  "previewDimensions": [
+    1200,
+    1600
+  ],
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-54811",
+  "scientificName": "Rhamnus cathartica",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/rhamnus-cathartica/inat-41076543.jpg",
+    "web": "reference/images/rhamnus-cathartica/inat-41076543.webp",
+    "thumbnail": "reference/images/rhamnus-cathartica/inat-41076543-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1200,
+      1600
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 529595,
+    "web": 182114,
+    "thumbnail": 16936
+  },
+  "sha256": {
+    "master": "728ad56c638cea5265521b698d04acf85120c5fda2e3372d593dd36df0fa9714",
+    "web": "ec2ecb3774918d37b194a7cf3d5d7919ba699c5bba11cfc5c915747188736393",
+    "thumbnail": "990f02163bd1215de0b159f3424e07605e9fa8f039429d10eab699755febae7b"
+  },
+  "status": "supplementary_only",
+  "origin": "photograph_visual_screened",
+  "acquisitionBatch": "batches/gaps-round2-20260914",
+  "retrievedAt": "2026-09-14T03:52:04+00:00",
+  "savedAt": "2026-09-14T04:31:48+00:00",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "20_image_contact_sheet_and_source_caption_screening",
+    "reviewFile": "reviews/round2-decisions-20260914.json",
+    "snapshotNumber": 431,
+    "previewSha256": "728ad56c638cea5265521b698d04acf85120c5fda2e3372d593dd36df0fa9714",
+    "candidateManifestSha256": "6331ee8219425661f9ed8886ae1658dc0cfb18e450f1b5f8ff3068de3028617d",
+    "noteJa": "部分・生態等の補足写真。",
+    "speciesIdentity": "source_caption_or_exact_taxon_checked_not_expert_reidentification",
+    "fullResolutionInspection": "contact_sheet_review_not_pixel_level_audit"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T03:52:04+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact downloaded and visually screened proportional JPEG derivative, not original source bytes",
+    "WebP/thumbnail re-encoding and proportional downsize; no crop",
+    "No generated content or subject alteration"
+  ],
+  "webQuality": 82,
+  "credit": "Rhamnus cathartica [Rhamnus cathartica] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/41076543. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "authorApiValueBeforeNormalization": "no rights reserved",
+  "authorStatus": "not_provided_by_photo_api",
+  "authorNote": "CC0 does not require attribution as a copyright-license condition. The original photo page is retained; a rights notice is not presented as a person name.",
+  "rawMetadataPath": "reference/metadata/rhamnus-cathartica/inat-41076543.json",
+  "collectionSource": "reference",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/rhamnus-cathartica--inat-41076543.json"
+}
