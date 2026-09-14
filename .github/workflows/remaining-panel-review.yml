@@ -1,0 +1,64 @@
+name: Inspect remaining microscopic figure panels
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/remaining-panel-review.yml]
+permissions:
+  contents: write
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/
+            /batches/remaining-closure-20260914/candidates.json
+            /batches/remaining-panels-20260914/
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install 'requests>=2.32,<3' 'Pillow>=11,<13'
+      - name: Save full source figures for individual review
+        run: |
+          python - <<'PY'
+          import pathlib,json,sys,hashlib,io,requests
+          from PIL import Image,ImageOps
+          root=pathlib.Path.cwd();sys.path.insert(0,str(root/'scripts'));import collect as core
+          cs={r['number']:r for r in json.loads((root/'batches/remaining-closure-20260914/candidates.json').read_text())['records']}
+          folder=root/'batches/remaining-panels-20260914';folder.mkdir(parents=True,exist_ok=True);records=[]
+          for n in [55,28,27]:
+              c=cs[n];raw=core.get(c['originalUrl'],binary=True)
+              if hashlib.sha1(raw).hexdigest()!=c['sourceOriginalSha1']:raise ValueError('Original figure changed')
+              with Image.open(io.BytesIO(raw)) as im:
+                  im.load();im=ImageOps.exif_transpose(im).convert('RGB');size=list(im.size)
+                  path=folder/(str(n)+'-full.jpg');im.save(path,'JPEG',quality=96,optimize=True)
+              records.append({'candidateNumber':n,'candidate':c,'originalDownloadedSha256':hashlib.sha256(raw).hexdigest(),'fullJpegPath':str(path.relative_to(root)),'fullJpegSha256':hashlib.sha256(path.read_bytes()).hexdigest(),'dimensions':size,'reviewStatus':'pending_individual_panel_selection'})
+          article_urls=['https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2018.00306/full','https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2021.706308/full','https://link.springer.com/article/10.5598/imafungus.2011.02.01.12']
+          for i,url in enumerate(article_urls):
+              try:
+                  response=requests.get(url,headers={'User-Agent':core.UA},timeout=60);response.raise_for_status()
+                  (folder/f'source-rights-{i}.html').write_text(response.text,encoding='utf-8')
+              except Exception as e:(folder/f'source-rights-{i}-error.txt').write_text(str(e))
+          (folder/'source.json').write_text(json.dumps({'records':records,'rightsEvidenceURLs':article_urls},ensure_ascii=False,indent=2)+'\n')
+          PY
+      - name: Save source figures without marking them adopted
+        if: always()
+        run: |
+          git config user.name 'Collect Images bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add --sparse batches/remaining-panels-20260914
+          if ! git diff --cached --quiet; then
+            git commit -m 'Save complete research figures and rights evidence for exact panel review [skip ci]'
+            git pull --rebase origin main && git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: remaining-panels-review
+          path: batches/remaining-panels-20260914/
+          retention-days: 7
