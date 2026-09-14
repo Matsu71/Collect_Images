@@ -1,0 +1,2489 @@
+[
+  {
+    "targetId": "org-amborella-trichopoda",
+    "scientificName": "Amborella trichopoda",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Amborella trichopoda\" (habit OR habitus OR whole OR tree OR plant) -flower -leaf -fruit -herbarium filetype:bitmap",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 8,
+        "eligibleCandidates": 8,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Amborella trichopoda\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 24,
+        "eligibleCandidates": 24,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Amborella trichopoda",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 4,
+        "eligibleCandidates": 4,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Habitus of Amborella trichopoda",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 17,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-agaricus-bisporus",
+    "scientificName": "Agaricus bisporus",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Agaricus bisporus\" (habit OR habitus OR whole OR tree OR plant) -flower -leaf -fruit -herbarium filetype:bitmap",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 15,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 14,
+          "not_static_photo_format": 1
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Agaricus bisporus\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 14,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 29,
+          "public_domain_notice_without_accepted_basis": 1,
+          "unusable_resolution_or_aspect": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Agaricus bisporus",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 55,
+        "eligibleCandidates": 12,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 34,
+          "author_not_provided": 1,
+          "not_static_photo_format": 2,
+          "public_domain_notice_without_accepted_basis": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Habitus of Agaricus bisporus",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 11,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-botrytis-cinerea",
+    "scientificName": "Botrytis cinerea",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Botrytis cinerea\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Botrytis cinerea\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 38,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 6,
+          "unusable_resolution_or_aspect": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Botrytis cinerea",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 68,
+        "eligibleCandidates": 37,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 5,
+          "not_static_photo_format": 7,
+          "unusable_resolution_or_aspect": 1
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 38,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-breviolum-minutum",
+    "scientificName": "Breviolum minutum",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Breviolum minutum\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Breviolum minutum\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 11,
+        "eligibleCandidates": 11,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Breviolum minutum",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 4,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-architeuthis-dux",
+    "scientificName": "Architeuthis dux",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Architeuthis dux\" (living OR alive OR swimming OR walking OR standing OR zoo) filetype:bitmap -model -taxidermy -skeleton",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Architeuthis dux\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 23,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 17,
+          "not_static_photo_format": 1,
+          "public_domain_notice_without_accepted_basis": 4
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Architeuthis dux",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 72,
+        "eligibleCandidates": 27,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 12,
+          "public_domain_notice_without_accepted_basis": 10,
+          "not_static_photo_format": 1
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 22,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-candidatus-thiomargarita-magnifica",
+    "scientificName": "Candidatus Thiomargarita magnifica",
+    "attempts": [
+      {
+        "route": "verified_exact_source_file_leads",
+        "request": {
+          "titles": "File:Morphology and ultrastructure of Ca. T. magnifica.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 1
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Thiomargarita magnifica\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Thiomargarita magnifica\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Candidatus Thiomargarita magnifica",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 0,
+    "savedPreviews": 0,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-conraua-goliath",
+    "scientificName": "Conraua goliath",
+    "attempts": [
+      {
+        "route": "verified_exact_source_file_leads",
+        "request": {
+          "titles": "File:Conraua goliath.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Conraua goliath\" (living OR alive OR swimming OR walking OR standing OR zoo) filetype:bitmap -model -taxidermy -skeleton",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Conraua goliath\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 8,
+        "eligibleCandidates": 3,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 4,
+          "obvious_diagram_or_non_subject_title": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Conraua goliath",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 13,
+        "eligibleCandidates": 8,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 3,
+          "obvious_diagram_or_non_subject_title": 1,
+          "not_static_photo_format": 1
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 3,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-camellia-sinensis",
+    "scientificName": "Camellia sinensis",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Camellia sinensis\" (habit OR habitus OR whole OR tree OR plant) -flower -leaf -fruit -herbarium filetype:bitmap",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "obvious_diagram_or_non_subject_title": 1,
+          "no_target_identity_evidence": 44
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Camellia sinensis\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 43
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Camellia sinensis",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 100,
+        "eligibleCandidates": 37,
+        "rejectionCounts": {
+          "author_not_provided": 4,
+          "no_target_identity_evidence": 9
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Habitus of Camellia sinensis",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 36,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-cannabis-sativa",
+    "scientificName": "Cannabis sativa",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Cannabis sativa\" (habit OR habitus OR whole OR tree OR plant) -flower -leaf -fruit -herbarium filetype:bitmap",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 10,
+        "rejectionCounts": {
+          "author_not_provided": 1,
+          "no_target_identity_evidence": 28,
+          "public_domain_notice_without_accepted_basis": 4,
+          "not_static_photo_format": 2
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Cannabis sativa\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 11,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 29,
+          "not_static_photo_format": 5
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Cannabis sativa",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 100,
+        "eligibleCandidates": 31,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 19
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Habitus of Cannabis sativa",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 38,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-daubentonia-madagascariensis",
+    "scientificName": "Daubentonia madagascariensis",
+    "attempts": [
+      {
+        "route": "verified_exact_source_file_leads",
+        "request": {
+          "titles": "File:Aye-aye.jpg|File:Daubentonia madagascariensis.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Daubentonia madagascariensis\" (living OR alive OR swimming OR walking OR standing OR zoo) filetype:bitmap -model -taxidermy -skeleton",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 6,
+        "eligibleCandidates": 4,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 2
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Daubentonia madagascariensis\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 32,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 9,
+          "not_static_photo_format": 1,
+          "obvious_diagram_or_non_subject_title": 3
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Daubentonia madagascariensis",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 24,
+        "eligibleCandidates": 16,
+        "rejectionCounts": {
+          "not_static_photo_format": 1,
+          "no_target_identity_evidence": 7
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 30,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-emiliania-huxleyi",
+    "scientificName": "Emiliania huxleyi",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Emiliania huxleyi\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Emiliania huxleyi\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 41,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 4
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Emiliania huxleyi",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 34,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-corallina-officinalis",
+    "scientificName": "Corallina officinalis",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Corallina officinalis\" (habit OR habitus OR whole OR tree OR plant) -flower -leaf -fruit -herbarium filetype:bitmap",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 5,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {
+          "not_an_allowed_reuse_license": 2,
+          "public_domain_notice_without_accepted_basis": 2
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Corallina officinalis\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 19,
+        "eligibleCandidates": 15,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 3,
+          "public_domain_notice_without_accepted_basis": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Corallina officinalis",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 39,
+        "eligibleCandidates": 20,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 6,
+          "no_target_identity_evidence": 10,
+          "not_an_allowed_reuse_license": 3
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Habitus of Corallina officinalis",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 17,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-fusarium-oxysporum",
+    "scientificName": "Fusarium oxysporum",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Fusarium oxysporum\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Fusarium oxysporum\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 26,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 1,
+          "no_target_identity_evidence": 17,
+          "not_an_allowed_reuse_license": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Fusarium oxysporum",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 20,
+        "eligibleCandidates": 8,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 1,
+          "no_target_identity_evidence": 10,
+          "not_static_photo_format": 1
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 18,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-helicobacter-pylori",
+    "scientificName": "Helicobacter pylori",
+    "attempts": [
+      {
+        "route": "verified_exact_source_file_leads",
+        "request": {
+          "titles": "File:Helicobacter pylori.jpg|File:Helicobacter pylori2.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "unusable_resolution_or_aspect": 2
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Helicobacter pylori\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Helicobacter pylori\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 31,
+        "rejectionCounts": {
+          "unusable_resolution_or_aspect": 4,
+          "no_target_identity_evidence": 10
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Helicobacter pylori",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 48,
+        "eligibleCandidates": 8,
+        "rejectionCounts": {
+          "unusable_resolution_or_aspect": 2,
+          "obvious_diagram_or_non_subject_title": 6,
+          "no_target_identity_evidence": 13,
+          "not_static_photo_format": 19
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 30,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-fucus-vesiculosus",
+    "scientificName": "Fucus vesiculosus",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Fucus vesiculosus\" (habit OR habitus OR whole OR tree OR plant) -flower -leaf -fruit -herbarium filetype:bitmap",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 44,
+        "eligibleCandidates": 21,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 12,
+          "public_domain_notice_without_accepted_basis": 9,
+          "not_an_allowed_reuse_license": 2
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Fucus vesiculosus\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 29,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 14,
+          "not_static_photo_format": 1,
+          "unusable_resolution_or_aspect": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Fucus vesiculosus",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 100,
+        "eligibleCandidates": 42,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 7,
+          "unusable_resolution_or_aspect": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Habitus of Fucus vesiculosus",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 76,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-heterocephalus-glaber",
+    "scientificName": "Heterocephalus glaber",
+    "attempts": [
+      {
+        "route": "verified_exact_source_file_leads",
+        "request": {
+          "titles": "File:Heterocephalus glaber.jpg|File:Nacktmull.jpg|File:Naked mole rat.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 3,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Heterocephalus glaber\" (living OR alive OR swimming OR walking OR standing OR zoo) filetype:bitmap -model -taxidermy -skeleton",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 23,
+        "eligibleCandidates": 5,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 18
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Heterocephalus glaber\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 33,
+        "eligibleCandidates": 12,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 21
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Heterocephalus glaber",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {
+          "unusable_resolution_or_aspect": 1
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 7,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-homo-sapiens",
+    "scientificName": "Homo sapiens",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Homo sapiens\" (living OR alive OR swimming OR walking OR standing OR zoo) filetype:bitmap -model -taxidermy -skeleton",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 25,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 20
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Homo sapiens\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 43
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Homo sapiens",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 88,
+        "eligibleCandidates": 5,
+        "rejectionCounts": {
+          "not_static_photo_format": 19,
+          "obvious_diagram_or_non_subject_title": 2,
+          "no_target_identity_evidence": 24
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 27,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-hevea-brasiliensis",
+    "scientificName": "Hevea brasiliensis",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Hevea brasiliensis\" (habit OR habitus OR whole OR tree OR plant) -flower -leaf -fruit -herbarium filetype:bitmap",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 17,
+          "not_an_allowed_reuse_license": 10,
+          "not_static_photo_format": 1,
+          "public_domain_notice_without_accepted_basis": 11,
+          "author_not_provided": 4
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Hevea brasiliensis\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 3,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 41,
+          "public_domain_notice_without_accepted_basis": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Hevea brasiliensis",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 46,
+        "eligibleCandidates": 11,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 35
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Habitus of Hevea brasiliensis",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 11,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-ichthyophis-glutinosus",
+    "scientificName": "Ichthyophis glutinosus",
+    "attempts": [
+      {
+        "route": "verified_exact_source_file_leads",
+        "request": {
+          "titles": "File:Ichthyophis glutinosus.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Ichthyophis glutinosus\" (living OR alive OR swimming OR walking OR standing OR zoo) filetype:bitmap -model -taxidermy -skeleton",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Ichthyophis glutinosus\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 4,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 2
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Ichthyophis glutinosus",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 9,
+        "eligibleCandidates": 3,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 4,
+          "public_domain_notice_without_accepted_basis": 2
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 1,
+    "savedPreviews": 1,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-hordeum-vulgare",
+    "scientificName": "Hordeum vulgare",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Hordeum vulgare\" (habit OR habitus OR whole OR tree OR plant) -flower -leaf -fruit -herbarium filetype:bitmap",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 10,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 2,
+          "no_target_identity_evidence": 32,
+          "obvious_diagram_or_non_subject_title": 1
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Hordeum vulgare\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 13,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 31,
+          "not_static_photo_format": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Hordeum vulgare",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 100,
+        "eligibleCandidates": 14,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 33,
+          "not_static_photo_format": 2,
+          "unusable_resolution_or_aspect": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Habitus of Hordeum vulgare",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 23,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-lactobacillus-delbrueckii-subsp-bulgaricus",
+    "scientificName": "Lactobacillus delbrueckii subsp. bulgaricus",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Lactobacillus bulgaricus\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Lactobacillus bulgaricus\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 26,
+        "eligibleCandidates": 5,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 19,
+          "unusable_resolution_or_aspect": 2
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Lactobacillus delbrueckii subsp. bulgaricus",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 2,
+    "savedPreviews": 2,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-istiophorus-platypterus",
+    "scientificName": "Istiophorus platypterus",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Istiophorus platypterus\" (living OR alive OR swimming OR walking OR standing OR zoo) filetype:bitmap -model -taxidermy -skeleton",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Istiophorus platypterus\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 24,
+        "eligibleCandidates": 5,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 9,
+          "not_an_allowed_reuse_license": 1,
+          "public_domain_notice_without_accepted_basis": 8,
+          "unusable_resolution_or_aspect": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Istiophorus platypterus",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 17,
+        "eligibleCandidates": 7,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 9,
+          "not_an_allowed_reuse_license": 1
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 2,
+    "savedPreviews": 2,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-nostoc-punctiforme",
+    "scientificName": "Nostoc punctiforme",
+    "attempts": [
+      {
+        "route": "verified_exact_source_file_leads",
+        "request": {
+          "titles": "File:Nostoc punctiforme.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Nostoc punctiforme\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Nostoc punctiforme\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Nostoc punctiforme",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 0,
+    "savedPreviews": 0,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-penicillium-rubens",
+    "scientificName": "Penicillium rubens",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Penicillium rubens\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Penicillium rubens\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Penicillium rubens",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 0,
+    "savedPreviews": 0,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-mycobacterium-tuberculosis",
+    "scientificName": "Mycobacterium tuberculosis",
+    "attempts": [
+      {
+        "route": "verified_exact_source_file_leads",
+        "request": {
+          "titles": "File:Mycobacterium tuberculosis.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Mycobacterium tuberculosis\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Mycobacterium tuberculosis\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 37,
+        "rejectionCounts": {
+          "author_not_provided": 2,
+          "no_target_identity_evidence": 6
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Mycobacterium tuberculosis",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 62,
+        "eligibleCandidates": 35,
+        "rejectionCounts": {
+          "author_not_provided": 3,
+          "not_static_photo_format": 5,
+          "no_target_identity_evidence": 7
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 42,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-manihot-esculenta",
+    "scientificName": "Manihot esculenta",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Manihot esculenta\" (habit OR habitus OR whole OR tree OR plant) -flower -leaf -fruit -herbarium filetype:bitmap",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 3,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 42
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Manihot esculenta\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 10,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 35
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Manihot esculenta",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 100,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 46,
+          "public_domain_notice_without_accepted_basis": 2
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Habitus of Manihot esculenta",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 6,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-rhizobium-leguminosarum",
+    "scientificName": "Rhizobium leguminosarum",
+    "attempts": [
+      {
+        "route": "verified_exact_source_file_leads",
+        "request": {
+          "titles": "File:Rhizobium leguminosarum.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Rhizobium leguminosarum\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Rhizobium leguminosarum\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 6,
+        "eligibleCandidates": 4,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1,
+          "not_static_photo_format": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Rhizobium leguminosarum",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 3,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1,
+          "not_static_photo_format": 1
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 0,
+    "savedPreviews": 0,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-petromyzon-marinus",
+    "scientificName": "Petromyzon marinus",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Petromyzon marinus\" (living OR alive OR swimming OR walking OR standing OR zoo) filetype:bitmap -model -taxidermy -skeleton",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Petromyzon marinus\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 20,
+        "rejectionCounts": {
+          "author_not_provided": 1,
+          "no_target_identity_evidence": 14,
+          "government_work_basis_not_corrobated": 1,
+          "public_domain_notice_without_accepted_basis": 8,
+          "obvious_diagram_or_non_subject_title": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Petromyzon marinus",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 59,
+        "eligibleCandidates": 26,
+        "rejectionCounts": {
+          "not_static_photo_format": 6,
+          "no_target_identity_evidence": 15,
+          "public_domain_notice_without_accepted_basis": 3
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 28,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-salmonella-enterica",
+    "scientificName": "Salmonella enterica",
+    "attempts": [
+      {
+        "route": "verified_exact_source_file_leads",
+        "request": {
+          "titles": "File:SalmonellaNIAID.jpg|File:Salmonella typhimurium.png",
+          "redirects": 1
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Salmonella enterica serovar Typhimurium\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Salmonella enterica serovar Typhimurium\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 3,
+        "eligibleCandidates": 3,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Salmonella enterica",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 15,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 6,
+          "not_static_photo_format": 7
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 4,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-phytophthora-infestans",
+    "scientificName": "Phytophthora infestans",
+    "attempts": [
+      {
+        "route": "verified_exact_source_file_leads",
+        "request": {
+          "titles": "File:Phytophthora infestans sporangia.jpg|File:Phytophthora infestans.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Phytophthora infestans\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 1
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Phytophthora infestans\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 23,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 15,
+          "unusable_resolution_or_aspect": 1,
+          "public_domain_notice_without_accepted_basis": 3,
+          "not_an_allowed_reuse_license": 3
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Phytophthora infestans",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 8,
+        "rejectionCounts": {
+          "unusable_resolution_or_aspect": 1,
+          "no_target_identity_evidence": 12,
+          "public_domain_notice_without_accepted_basis": 4,
+          "not_static_photo_format": 4,
+          "obvious_diagram_or_non_subject_title": 1
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 16,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-sulfolobus-acidocaldarius",
+    "scientificName": "Sulfolobus acidocaldarius",
+    "attempts": [
+      {
+        "route": "verified_exact_source_file_leads",
+        "request": {
+          "titles": "File:Sulfolobus acidocaldarius.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Sulfolobus acidocaldarius\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Sulfolobus acidocaldarius\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Sulfolobus acidocaldarius",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 0,
+    "savedPreviews": 0,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-thermus-aquaticus",
+    "scientificName": "Thermus aquaticus",
+    "attempts": [
+      {
+        "route": "verified_exact_source_file_leads",
+        "request": {
+          "titles": "File:Thermus aquaticus.JPG|File:Thermus aquaticus .JPG",
+          "redirects": 1
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "author_not_provided": 1
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Thermus aquaticus\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Thermus aquaticus\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 3,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "author_not_provided": 1,
+          "not_an_allowed_reuse_license": 1,
+          "obvious_diagram_or_non_subject_title": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Thermus aquaticus",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "author_not_provided": 1,
+          "not_an_allowed_reuse_license": 1
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 0,
+    "savedPreviews": 0,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-trichodesmium-erythraeum",
+    "scientificName": "Trichodesmium erythraeum",
+    "attempts": [
+      {
+        "route": "verified_exact_source_file_leads",
+        "request": {
+          "titles": "File:Trichodesmium erythraeum.jpg|File:Trichodesmium erythraeum.jpeg",
+          "redirects": 1
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Trichodesmium erythraeum\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Trichodesmium erythraeum\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Trichodesmium erythraeum",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 0,
+    "savedPreviews": 0,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-vibrio-cholerae",
+    "scientificName": "Vibrio cholerae",
+    "attempts": [
+      {
+        "route": "verified_exact_source_file_leads",
+        "request": {
+          "titles": "File:Vibrio cholerae.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Vibrio cholerae\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Vibrio cholerae\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 34,
+        "eligibleCandidates": 13,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 17,
+          "author_not_provided": 2,
+          "obvious_diagram_or_non_subject_title": 2
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Vibrio cholerae",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 25,
+        "eligibleCandidates": 12,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 10,
+          "obvious_diagram_or_non_subject_title": 1,
+          "author_not_provided": 1,
+          "not_static_photo_format": 1
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 5,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-vitis-vinifera",
+    "scientificName": "Vitis vinifera",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Vitis vinifera\" (habit OR habitus OR whole OR tree OR plant) -flower -leaf -fruit -herbarium filetype:bitmap",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 9,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 1,
+          "no_target_identity_evidence": 34,
+          "author_not_provided": 1
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Vitis vinifera\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 8,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 37
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Vitis vinifera",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 100,
+        "eligibleCandidates": 14,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 36
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Habitus of Vitis vinifera",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 22,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-ulva-lactuca",
+    "scientificName": "Ulva lactuca",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Ulva lactuca\" (habit OR habitus OR whole OR tree OR plant) -flower -leaf -fruit -herbarium filetype:bitmap",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 34,
+        "eligibleCandidates": 21,
+        "rejectionCounts": {
+          "author_not_provided": 1,
+          "public_domain_notice_without_accepted_basis": 3,
+          "no_target_identity_evidence": 7,
+          "not_an_allowed_reuse_license": 2
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Ulva lactuca\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 42,
+        "eligibleCandidates": 26,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 14,
+          "public_domain_notice_without_accepted_basis": 1,
+          "not_an_allowed_reuse_license": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Ulva lactuca",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 77,
+        "eligibleCandidates": 29,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 16,
+          "public_domain_notice_without_accepted_basis": 3,
+          "not_an_allowed_reuse_license": 1,
+          "not_static_photo_format": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Habitus of Ulva lactuca",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 43,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "inat-taxon-54763",
+    "scientificName": "Acer platanoides",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Acer platanoides\" (habit OR habitus OR whole OR tree OR plant) -flower -leaf -fruit -herbarium filetype:bitmap",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 21,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 22,
+          "not_an_allowed_reuse_license": 1,
+          "public_domain_notice_without_accepted_basis": 1
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Acer platanoides\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 31,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 14
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Acer platanoides",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 68,
+        "eligibleCandidates": 34,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 14,
+          "not_static_photo_format": 2
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Habitus of Acer platanoides",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 72,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "inat-taxon-78882",
+    "scientificName": "Rosa multiflora",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Rosa multiflora\" (habit OR habitus OR whole OR tree OR plant) -flower -leaf -fruit -herbarium filetype:bitmap",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 31,
+        "eligibleCandidates": 7,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 22,
+          "not_an_allowed_reuse_license": 2
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Rosa multiflora\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 29,
+        "rejectionCounts": {
+          "author_not_provided": 1,
+          "no_target_identity_evidence": 15
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Rosa multiflora",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 100,
+        "eligibleCandidates": 6,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 44
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Habitus of Rosa multiflora",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 28,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-yersinia-pestis",
+    "scientificName": "Yersinia pestis",
+    "attempts": [
+      {
+        "route": "verified_exact_source_file_leads",
+        "request": {
+          "titles": "File:Yersinia pestis.jpg|File:Yersinia pestis Bacteria.jpg|File:Yersinia pestis wayson.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 3,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {
+          "explicit_institution_credit_not_found_in_caption": 1
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Yersinia pestis\" (micrograph OR microscopy OR SEM OR TEM OR cells OR conidia OR sporangia) filetype:bitmap -protein -structure -diagram -agar",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Yersinia pestis\" filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 7,
+        "rejectionCounts": {
+          "explicit_institution_credit_not_found_in_caption": 1,
+          "public_domain_notice_without_accepted_basis": 1,
+          "no_target_identity_evidence": 32,
+          "author_not_provided": 2,
+          "unusable_resolution_or_aspect": 2
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Yersinia pestis",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 27,
+        "eligibleCandidates": 9,
+        "rejectionCounts": {
+          "explicit_institution_credit_not_found_in_caption": 1,
+          "public_domain_notice_without_accepted_basis": 1,
+          "author_not_provided": 2,
+          "unusable_resolution_or_aspect": 2,
+          "not_static_photo_format": 9,
+          "no_target_identity_evidence": 3
+        }
+      }
+    ],
+    "eligibleUniqueCandidates": 7,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "inat-taxon-64540",
+    "scientificName": "Celastrus orbiculatus",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Celastrus orbiculatus\" (habit OR habitus OR whole OR tree OR plant) -flower -leaf -fruit -herbarium filetype:bitmap",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 22,
+        "eligibleCandidates": 4,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 18
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Celastrus orbiculatus\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 28,
+        "rejectionCounts": {
+          "author_not_provided": 1,
+          "no_target_identity_evidence": 16
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Celastrus orbiculatus",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 100,
+        "eligibleCandidates": 30,
+        "rejectionCounts": {
+          "author_not_provided": 1,
+          "public_domain_dedication_not_corrobated": 2,
+          "no_target_identity_evidence": 17
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Habitus of Celastrus orbiculatus",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 39,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "inat-taxon-54795",
+    "scientificName": "Sassafras albidum",
+    "attempts": [
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Sassafras albidum\" (habit OR habitus OR whole OR tree OR plant) -flower -leaf -fruit -herbarium filetype:bitmap",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 24,
+        "eligibleCandidates": 9,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 14,
+          "not_an_allowed_reuse_license": 1
+        }
+      },
+      {
+        "route": "focused_microscopy_or_whole_subject_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Sassafras albidum\" filetype:bitmap -drawing -illustration -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 45
+        },
+        "pagesReturned": 45,
+        "eligibleCandidates": 35,
+        "rejectionCounts": {
+          "unusable_resolution_or_aspect": 1,
+          "no_target_identity_evidence": 7,
+          "not_static_photo_format": 1,
+          "government_work_basis_not_corrobated": 1
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Sassafras albidum",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 41,
+        "eligibleCandidates": 35,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 4,
+          "not_an_allowed_reuse_license": 2
+        }
+      },
+      {
+        "route": "category_file_inventory",
+        "request": {
+          "generator": "categorymembers",
+          "gcmtitle": "Category:Habitus of Sassafras albidum",
+          "gcmtype": "file",
+          "gcmlimit": 100
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      }
+    ],
+    "eligibleUniqueCandidates": 59,
+    "savedPreviews": 3,
+    "downloadErrors": []
+  }
+]
