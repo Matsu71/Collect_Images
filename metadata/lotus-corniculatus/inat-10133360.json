@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-10133360",
+  "targetId": "inat-taxon-47435",
+  "scientificName": "Lotus corniculatus",
+  "nameJa": "セイヨウミヤコグサ(広義)",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:14:26+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:14:26+00:00",
+  "files": {
+    "master": "images/lotus-corniculatus/inat-10133360.jpg",
+    "web": "images/lotus-corniculatus/inat-10133360.webp",
+    "thumbnail": "images/lotus-corniculatus/inat-10133360-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 468022,
+    "web": 97424,
+    "thumbnail": 14014
+  },
+  "sha256": {
+    "download": "e9f129e8e00f8e1fe4cc2e5816b19f3664a4955568da5688ccf875e9d9b9f92f",
+    "master": "cff9eca2959562601af5838d663f44bf4769a449eeb27c930b8b7f8736fc4857",
+    "web": "d0ab84783225ccca42c68088edb237ac5d14dc6628f8d0ed171af75ba44dee41"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Lotus corniculatus [Lotus corniculatus] — Andreas Rockstein / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/10133360. Original attribution: (c) Andreas Rockstein, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Lotus corniculatus",
+  "sourceId": "10133360",
+  "photoUrl": "https://www.inaturalist.org/photos/10133360",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10133360/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10133360/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Andreas Rockstein",
+  "originalAttribution": "(c) Andreas Rockstein, some rights reserved (CC BY-SA)",
+  "taxonId": 47435,
+  "acceptedScientificName": "Lotus corniculatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.194285714285714,
+  "photoApiEvidence": {
+    "id": 10133360,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Andreas Rockstein, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10133360/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Andreas Rockstein",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10133360/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10133360/medium.jpg"
+  },
+  "observationTaxon": null
+}

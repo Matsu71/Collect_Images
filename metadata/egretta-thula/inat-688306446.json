@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-688306446",
+  "targetId": "inat-taxon-4940",
+  "scientificName": "Egretta thula",
+  "nameJa": "ユキコサギ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:14:09+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:14:09+00:00",
+  "files": {
+    "master": "images/egretta-thula/inat-688306446.jpg",
+    "web": "images/egretta-thula/inat-688306446.webp",
+    "thumbnail": "images/egretta-thula/inat-688306446-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 717638,
+    "web": 165334,
+    "thumbnail": 14010
+  },
+  "sha256": {
+    "download": "176de0e44fb351d73329ffe14648c0167be8d0e9770b94a19f0ea581ab911ad6",
+    "master": "d83a1d5bda5760fbe550366c017150c5f3b12e31567e172818f0eb742c3aeda1",
+    "web": "ec8fa4aeb394c619875163e12fd89a1ccaddd4a3c735618adf6ab30d8730a07b"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Egretta thula [Egretta thula] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/688306446. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Egretta thula",
+  "sourceId": "688306446",
+  "photoUrl": "https://www.inaturalist.org/photos/688306446",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/688306446/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/688306446/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 4940,
+  "acceptedScientificName": "Egretta thula",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/376453569",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.592380952380953,
+  "photoApiEvidence": {
+    "id": 688306446,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/688306446/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67566/4929/597395/4933",
+    "min_species_ancestry": "48460,1,2,355675,3,67566,4929,597395,4933,4940",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 4940,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 4933,
+    "name": "Egretta thula",
+    "rank": "species",
+    "extinct": false,
+    "id": 4940,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67566,
+      4929,
+      597395,
+      4933,
+      4940
+    ],
+    "created_at": "2008-03-13T02:46:49+00:00",
+    "default_photo": {
+      "id": 107527504,
+      "license_code": null,
+      "attribution": "(c) Juan Miguel Artigas Azas, all rights reserved, uploaded by Juan Miguel Artigas Azas",
+      "url": "https://static.inaturalist.org/photos/107527504/square.jpeg",
+      "original_dimensions": {
+        "height": 800,
+        "width": 1200
+      },
+      "flags": [],
+      "attribution_name": "Juan Miguel Artigas Azas",
+      "square_url": "https://static.inaturalist.org/photos/107527504/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/107527504/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 180112,
+    "photos_locked": false,
+    "universal_search_rank": 180112,
+    "flag_counts": {
+      "resolved": 4,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Snowy_egret",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Snowy Egret"
+  }
+}

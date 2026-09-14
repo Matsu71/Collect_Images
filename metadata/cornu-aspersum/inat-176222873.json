@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-176222873",
+  "targetId": "inat-taxon-480298",
+  "scientificName": "Cornu aspersum",
+  "nameJa": "ヒメリンゴマイマイ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:15:16+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:15:16+00:00",
+  "files": {
+    "master": "images/cornu-aspersum/inat-176222873.jpg",
+    "web": "images/cornu-aspersum/inat-176222873.webp",
+    "thumbnail": "images/cornu-aspersum/inat-176222873-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 903876,
+    "web": 173378,
+    "thumbnail": 6582
+  },
+  "sha256": {
+    "download": "e4520422b7bc863233a9dbe9fe61333f50ce9dd9f367e100e11521a8bc790567",
+    "master": "ce8487f0a86598967c511ca5733ed94f51e9d544c4525038c7f6da7ba4e31cf7",
+    "web": "7da10f053b9591d0e7ef20cf3eacd6353ea4e52f8c984fc9905ae8586fa3312f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Cornu aspersum [Cornu aspersum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/176222873. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Cornu aspersum",
+  "sourceId": "176222873",
+  "photoUrl": "https://www.inaturalist.org/photos/176222873",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/176222873/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/176222873/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 480298,
+  "acceptedScientificName": "Cornu aspersum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mollusca",
+  "observationUrl": "https://www.inaturalist.org/observations/105078905",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.592380952380953,
+  "photoApiEvidence": {
+    "id": 176222873,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176222873/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/47115/47114/551391/775797/775800/775812/47485/781349/781352/68625/47484/906896/910289/87634",
+    "min_species_ancestry": "48460,1,47115,47114,551391,775797,775800,775812,47485,781349,781352,68625,47484,906896,910289,87634,480298",
+    "endemic": false,
+    "iconic_taxon_id": 47115,
+    "min_species_taxon_id": 480298,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 87634,
+    "name": "Cornu aspersum",
+    "rank": "species",
+    "extinct": false,
+    "id": 480298,
+    "ancestor_ids": [
+      48460,
+      1,
+      47115,
+      47114,
+      551391,
+      775797,
+      775800,
+      775812,
+      47485,
+      781349,
+      781352,
+      68625,
+      47484,
+      906896,
+      910289,
+      87634,
+      480298
+    ],
+    "provisional": false,
+    "created_at": "2015-11-07T23:44:01+00:00",
+    "default_photo": {
+      "id": 16302570,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Ferran Turmo Gort, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16302570/square.jpg",
+      "original_dimensions": {
+        "height": 1152,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "Ferran Turmo Gort",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16302570/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16302570/medium.jpg"
+    },
+    "taxon_changes_count": 3,
+    "taxon_schemes_count": 1,
+    "observations_count": 150222,
+    "photos_locked": false,
+    "universal_search_rank": 150222,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 18249,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cornu_aspersum",
+    "iconic_taxon_name": "Mollusca",
+    "preferred_common_name": "Garden Snail"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-370022156",
+  "targetId": "inat-taxon-4793",
+  "scientificName": "Charadrius vociferus",
+  "nameJa": "フタオビチドリ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:15:47+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:15:47+00:00",
+  "files": {
+    "master": "images/charadrius-vociferus/inat-370022156.jpg",
+    "web": "images/charadrius-vociferus/inat-370022156.webp",
+    "thumbnail": "images/charadrius-vociferus/inat-370022156-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 341852,
+    "web": 61120,
+    "thumbnail": 6232
+  },
+  "sha256": {
+    "download": "7ed7bc09909722229fb3cbd86e9eb280263d4935a4b0160bbe5c6d83dc3e0002",
+    "master": "28846008389871125300f88d17c899eda2ebad36a38e935f738f6f42272fe235",
+    "web": "087cacbe66836bdf8094b8c8d18e78b752e8fe7c0441ef71004db8b874f8d48d"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Charadrius vociferus [Charadrius vociferus] — Matt Felperin / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/370022156. Original attribution: (c) Matt Felperin, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Charadrius vociferus",
+  "sourceId": "370022156",
+  "photoUrl": "https://www.inaturalist.org/photos/370022156",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/370022156/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/370022156/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Matt Felperin",
+  "originalAttribution": "(c) Matt Felperin, some rights reserved (CC BY)",
+  "taxonId": 4793,
+  "acceptedScientificName": "Charadrius vociferus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/209101843",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.95,
+  "photoApiEvidence": {
+    "id": 370022156,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/370022156/square.jpg",
+    "attribution": "(c) Matt Felperin, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67561/4783/4784",
+    "min_species_ancestry": "48460,1,2,355675,3,67561,4783,4784,4793",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 4793,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 4784,
+    "name": "Charadrius vociferus",
+    "rank": "species",
+    "extinct": false,
+    "id": 4793,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67561,
+      4783,
+      4784,
+      4793
+    ],
+    "created_at": "2008-03-13T02:46:25+00:00",
+    "default_photo": {
+      "id": 15053771,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) world_lineage, some rights reserved (CC BY-NC), uploaded by world_lineage",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15053771/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "world_lineage",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15053771/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15053771/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 9,
+    "observations_count": 154095,
+    "photos_locked": false,
+    "universal_search_rank": 154095,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Killdeer",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Killdeer",
+    "conservation_status": {
+      "id": 1587,
+      "place_id": null,
+      "source_id": 18766,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "nt",
+      "status_name": "near threatened",
+      "geoprivacy": null,
+      "iucn": 20
+    }
+  }
+}

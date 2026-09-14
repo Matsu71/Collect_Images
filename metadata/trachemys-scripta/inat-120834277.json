@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-120834277",
+  "targetId": "inat-taxon-39782",
+  "scientificName": "Trachemys scripta",
+  "nameJa": "アカミミガメ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:14:19+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:14:19+00:00",
+  "files": {
+    "master": "images/trachemys-scripta/inat-120834277.jpg",
+    "web": "images/trachemys-scripta/inat-120834277.webp",
+    "thumbnail": "images/trachemys-scripta/inat-120834277-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1328,
+      1148
+    ],
+    "master": [
+      1328,
+      1148
+    ],
+    "web": [
+      1328,
+      1148
+    ]
+  },
+  "bytes": {
+    "master": 612550,
+    "web": 262494,
+    "thumbnail": 18072
+  },
+  "sha256": {
+    "download": "021d77be79d794a8b6587308a1bd544ef2043baf6bd86ff1e292202cdf121df4",
+    "master": "634ba144c9d80fbcd041b8d10210e9b91e95772cf59aea83472065f7c85f62a8",
+    "web": "e9e1ee1fea7efc5c5057b3ccf51a6e1e95a2b829389215df3f6aa0e4bf2921fe"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Trachemys scripta [Trachemys scripta] — Glenn Berry / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/120834277. Original attribution: no rights reserved, uploaded by Glenn Berry. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Trachemys scripta",
+  "sourceId": "120834277",
+  "photoUrl": "https://www.inaturalist.org/photos/120834277",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/120834277/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/120834277/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "Glenn Berry",
+  "originalAttribution": "no rights reserved, uploaded by Glenn Berry",
+  "taxonId": 39782,
+  "acceptedScientificName": "Trachemys scripta",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.64,
+  "photoApiEvidence": {
+    "id": 120834277,
+    "license_code": "cc0",
+    "attribution": "no rights reserved, uploaded by Glenn Berry",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/120834277/square.jpg",
+    "original_dimensions": {
+      "height": 1148,
+      "width": 1328
+    },
+    "flags": [],
+    "attribution_name": "Glenn Berry",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/120834277/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/120834277/medium.jpg"
+  },
+  "observationTaxon": null
+}

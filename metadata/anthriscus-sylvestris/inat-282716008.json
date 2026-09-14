@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-282716008",
+  "targetId": "inat-taxon-124544",
+  "scientificName": "Anthriscus sylvestris",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:15:52+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:15:52+00:00",
+  "files": {
+    "master": "images/anthriscus-sylvestris/inat-282716008.jpg",
+    "web": "images/anthriscus-sylvestris/inat-282716008.webp",
+    "thumbnail": "images/anthriscus-sylvestris/inat-282716008-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1085932,
+    "web": 192128,
+    "thumbnail": 29220
+  },
+  "sha256": {
+    "download": "fb5ddc5a4de7a75a3614a8e8857812c0ca2814831e35e5a3918869ba3c1dc125",
+    "master": "661d538874ce60dd4a9e1c22950d7e24899e1ac2d1da8097028d666fdbac9d03",
+    "web": "835537eb4b8a5ff5d5c9a46e05565276ad93bb815c062daa74c975e023ae1d3d"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Anthriscus sylvestris [Anthriscus sylvestris] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/282716008. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Anthriscus sylvestris",
+  "sourceId": "282716008",
+  "photoUrl": "https://www.inaturalist.org/photos/282716008",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/282716008/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/282716008/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 124544,
+  "acceptedScientificName": "Anthriscus sylvestris",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/163457189",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 282716008,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/282716008/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48700/48699/790553/790591/1043615/52847",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48700,48699,790553,790591,1043615,52847,124544",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 124544,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 52847,
+    "name": "Anthriscus sylvestris",
+    "rank": "species",
+    "extinct": false,
+    "id": 124544,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48700,
+      48699,
+      790553,
+      790591,
+      1043615,
+      52847,
+      124544
+    ],
+    "provisional": false,
+    "created_at": "2012-02-29T20:00:52+00:00",
+    "default_photo": {
+      "id": 285880003,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Antti Henttonen, some rights reserved (CC BY-NC), uploaded by Antti Henttonen",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/285880003/square.jpg",
+      "original_dimensions": {
+        "height": 1569,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Antti Henttonen",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/285880003/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/285880003/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 97078,
+    "photos_locked": false,
+    "universal_search_rank": 97078,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Anthriscus_sylvestris",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Cow Parsley"
+  }
+}

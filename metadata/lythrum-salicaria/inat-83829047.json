@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-83829047",
+  "targetId": "inat-taxon-61321",
+  "scientificName": "Lythrum salicaria",
+  "nameJa": "エゾミソハギ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:14:33+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:14:33+00:00",
+  "files": {
+    "master": "images/lythrum-salicaria/inat-83829047.jpg",
+    "web": "images/lythrum-salicaria/inat-83829047.webp",
+    "thumbnail": "images/lythrum-salicaria/inat-83829047-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1606,
+      2048
+    ],
+    "master": [
+      1606,
+      2048
+    ],
+    "web": [
+      1098,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 709985,
+    "web": 180550,
+    "thumbnail": 18306
+  },
+  "sha256": {
+    "download": "c1c076fedf4452daa644475270a90c230e9f1dd5c8ee5ab30184e136157de7b4",
+    "master": "baea8c573b8ec3037d7af8f9756ce5cfcdfe723508141b50c45dca6843c722bb",
+    "web": "cb9d15a70fca251b2754f0b4fb5098a2be5657acbb2e8bd41554487a472c3c2f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Lythrum salicaria [Lythrum salicaria] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/83829047. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Lythrum salicaria",
+  "sourceId": "83829047",
+  "photoUrl": "https://www.inaturalist.org/photos/83829047",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/83829047/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/83829047/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 61321,
+  "acceptedScientificName": "Lythrum salicaria",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/52722658",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.6276190476190475,
+  "photoApiEvidence": {
+    "id": 83829047,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1606,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/83829047/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47791/58935/58937",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47791,58935,58937,61321",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 61321,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 58937,
+    "name": "Lythrum salicaria",
+    "rank": "species",
+    "extinct": false,
+    "id": 61321,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47791,
+      58935,
+      58937,
+      61321
+    ],
+    "created_at": "2010-05-26T04:38:08+00:00",
+    "default_photo": {
+      "id": 595616547,
+      "license_code": null,
+      "attribution": "(c) Dariusz Kucharski and Kornelia Kucharska, all rights reserved, uploaded by Dariusz Kucharski and Kornelia Kucharska",
+      "url": "https://static.inaturalist.org/photos/595616547/square.jpg",
+      "original_dimensions": {
+        "height": 1600,
+        "width": 1065
+      },
+      "flags": [],
+      "attribution_name": "Dariusz Kucharski and Kornelia Kucharska",
+      "square_url": "https://static.inaturalist.org/photos/595616547/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/595616547/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 6,
+    "observations_count": 149426,
+    "photos_locked": false,
+    "universal_search_rank": 149426,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lythrum_salicaria",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "purple loosestrife"
+  }
+}

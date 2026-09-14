@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-669567891",
+  "targetId": "inat-taxon-55891",
+  "scientificName": "Geum urbanum",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:15:22+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:15:22+00:00",
+  "files": {
+    "master": "images/geum-urbanum/inat-669567891.jpg",
+    "web": "images/geum-urbanum/inat-669567891.webp",
+    "thumbnail": "images/geum-urbanum/inat-669567891-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 502959,
+    "web": 113974,
+    "thumbnail": 8222
+  },
+  "sha256": {
+    "download": "bbf85335e153c1ecc53906b341bb3840855a4e8606983e4bb8b0ab56a9d3dc29",
+    "master": "3fec8c525b232ea473ddd834c2bca114af94b829c7c45f69a98fdd0b5382a580",
+    "web": "70c70d0d3efb9561659cf60095bc062b71a2097989f79b4ef2a6caf641205e88"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Geum urbanum [Geum urbanum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/669567891. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Geum urbanum",
+  "sourceId": "669567891",
+  "photoUrl": "https://www.inaturalist.org/photos/669567891",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/669567891/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/669567891/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 55891,
+  "acceptedScientificName": "Geum urbanum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/366682296",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 669567891,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/669567891/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47132/47148/415343/922105/55751",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47132,47148,415343,922105,55751,55891",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 55891,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 55751,
+    "name": "Geum urbanum",
+    "rank": "species",
+    "extinct": false,
+    "id": 55891,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47132,
+      47148,
+      415343,
+      922105,
+      55751,
+      55891
+    ],
+    "created_at": "2010-02-11T13:34:33+00:00",
+    "default_photo": {
+      "id": 3643565,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) David Renoult, some rights reserved (CC BY-NC), uploaded by David Renoult",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3643565/square.JPG",
+      "original_dimensions": {
+        "height": 1200,
+        "width": 1600
+      },
+      "flags": [],
+      "attribution_name": "David Renoult",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3643565/square.JPG",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3643565/medium.JPG"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 4,
+    "observations_count": 79478,
+    "photos_locked": false,
+    "universal_search_rank": 79478,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Geum_urbanum",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Wood Avens"
+  }
+}

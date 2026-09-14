@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-194749425",
+  "targetId": "inat-taxon-18236",
+  "scientificName": "Colaptes auratus",
+  "nameJa": "ハシボソキツツキ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:15:34+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:15:34+00:00",
+  "files": {
+    "master": "images/colaptes-auratus/inat-194749425.jpg",
+    "web": "images/colaptes-auratus/inat-194749425.webp",
+    "thumbnail": "images/colaptes-auratus/inat-194749425-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1770,
+      2048
+    ],
+    "master": [
+      1770,
+      2048
+    ],
+    "web": [
+      1210,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 662341,
+    "web": 135540,
+    "thumbnail": 7196
+  },
+  "sha256": {
+    "download": "9f7e68142a0b53dc3164677e61348551fa37fbce866c5afd317ce9e71679ce8a",
+    "master": "d9e9ddc9e06b10ec645be4c0573731a85cf3605858628f0e674803fc83cb70f4",
+    "web": "56350ee8bbf7d4fdb0de273fc53655bd72891dc5da2595616c0d2cbefb87cf88"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Colaptes auratus [Colaptes auratus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/194749425. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Colaptes auratus",
+  "sourceId": "194749425",
+  "photoUrl": "https://www.inaturalist.org/photos/194749425",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/194749425/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/194749425/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 18236,
+  "acceptedScientificName": "Colaptes auratus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/115385719",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.528571428571428,
+  "photoApiEvidence": {
+    "id": 194749425,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1770,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/194749425/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/17550/17599/1653299/1653312/18230",
+    "min_species_ancestry": "48460,1,2,355675,3,17550,17599,1653299,1653312,18230,18236",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 18236,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 18230,
+    "name": "Colaptes auratus",
+    "rank": "species",
+    "extinct": false,
+    "id": 18236,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      17550,
+      17599,
+      1653299,
+      1653312,
+      18230,
+      18236
+    ],
+    "provisional": false,
+    "created_at": "2008-03-13T03:39:27+00:00",
+    "default_photo": {
+      "id": 123812445,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Kala Murphy King, some rights reserved (CC BY-NC-ND), uploaded by Kala Murphy King",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123812445/square.jpg",
+      "original_dimensions": {
+        "height": 1289,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Kala Murphy King",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123812445/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123812445/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 10,
+    "observations_count": 167293,
+    "photos_locked": false,
+    "universal_search_rank": 167293,
+    "flag_counts": {
+      "resolved": 4,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 120443,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Northern_flicker",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Northern Flicker"
+  }
+}

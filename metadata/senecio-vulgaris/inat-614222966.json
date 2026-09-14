@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-614222966",
+  "targetId": "inat-taxon-53211",
+  "scientificName": "Senecio vulgaris",
+  "nameJa": "ノボロギク",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:14:20+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:14:20+00:00",
+  "files": {
+    "master": "images/senecio-vulgaris/inat-614222966.jpg",
+    "web": "images/senecio-vulgaris/inat-614222966.webp",
+    "thumbnail": "images/senecio-vulgaris/inat-614222966-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 441219,
+    "web": 72824,
+    "thumbnail": 6854
+  },
+  "sha256": {
+    "download": "4ee36367ba546e2d094a37c43b00ae7a7f1c0eab998bd7b94bc31fb0f639b716",
+    "master": "b895e714e32f3d63c99ec41eb34f2cb8f04c9773d088664783e7059aeea3f86f",
+    "web": "827021a5e04d701bbfcd6635bec6408ea879c3e165ac47f674595f9b88941c10"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Senecio vulgaris [Senecio vulgaris] — zebedeugalinha / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/614222966. Original attribution: (c) zebedeugalinha, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Senecio vulgaris",
+  "sourceId": "614222966",
+  "photoUrl": "https://www.inaturalist.org/photos/614222966",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/614222966/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/614222966/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "zebedeugalinha",
+  "originalAttribution": "(c) zebedeugalinha, some rights reserved (CC BY)",
+  "taxonId": 53211,
+  "acceptedScientificName": "Senecio vulgaris",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/337830288",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.527619047619047,
+  "photoApiEvidence": {
+    "id": 614222966,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614222966/square.jpg",
+    "attribution": "(c) zebedeugalinha, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47605/47604/632790/568270/901794/53207",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47605,47604,632790,568270,901794,53207,53211",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 53211,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 53207,
+    "name": "Senecio vulgaris",
+    "rank": "species",
+    "extinct": false,
+    "id": 53211,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47605,
+      47604,
+      632790,
+      568270,
+      901794,
+      53207,
+      53211
+    ],
+    "created_at": "2009-09-18T19:06:22+00:00",
+    "default_photo": {
+      "id": 354387481,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Inge Biller, some rights reserved (CC BY-NC), uploaded by Inge Biller",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/354387481/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Inge Biller",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/354387481/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/354387481/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 6,
+    "observations_count": 78754,
+    "photos_locked": false,
+    "universal_search_rank": 78754,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Senecio_vulgaris",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "common groundsel"
+  }
+}

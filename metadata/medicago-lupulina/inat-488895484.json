@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-488895484",
+  "targetId": "inat-taxon-57056",
+  "scientificName": "Medicago lupulina",
+  "nameJa": "コメツブウマゴヤシ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:14:42+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:14:42+00:00",
+  "files": {
+    "master": "images/medicago-lupulina/inat-488895484.jpg",
+    "web": "images/medicago-lupulina/inat-488895484.webp",
+    "thumbnail": "images/medicago-lupulina/inat-488895484-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 754832,
+    "web": 171858,
+    "thumbnail": 14436
+  },
+  "sha256": {
+    "download": "d66ce76397b1a0a8c1672e87f945b7f199bcb25d5a9079bac4dfb737cd5d8346",
+    "master": "569896475a6399f8c3df1adba8d8069c9faf1aaaeedad4685254e524500fa681",
+    "web": "9d8915a8960c1eec160ef90450c97d0a34c33dca90e57de40b4805560f564bd2"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Medicago lupulina [Medicago lupulina] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/488895484. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Medicago lupulina",
+  "sourceId": "488895484",
+  "photoUrl": "https://www.inaturalist.org/photos/488895484",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/488895484/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/488895484/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 57056,
+  "acceptedScientificName": "Medicago lupulina",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/271777361",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 488895484,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488895484/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47123/47122/507502/512504/53152/1092877/1092918",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47123,47122,507502,512504,53152,1092877,1092918,57056",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 57056,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1092918,
+    "name": "Medicago lupulina",
+    "rank": "species",
+    "extinct": false,
+    "id": 57056,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47123,
+      47122,
+      507502,
+      512504,
+      53152,
+      1092877,
+      1092918,
+      57056
+    ],
+    "created_at": "2010-03-13T00:24:21+00:00",
+    "default_photo": {
+      "id": 491891286,
+      "license_code": null,
+      "attribution": "(c) April Young, all rights reserved, uploaded by April Young",
+      "url": "https://static.inaturalist.org/photos/491891286/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "April Young",
+      "square_url": "https://static.inaturalist.org/photos/491891286/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/491891286/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 95821,
+    "photos_locked": false,
+    "universal_search_rank": 95821,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 16251,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Medicago_lupulina",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Black Medick"
+  }
+}

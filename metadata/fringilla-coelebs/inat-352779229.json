@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-352779229",
+  "targetId": "inat-taxon-10070",
+  "scientificName": "Fringilla coelebs",
+  "nameJa": "ズアオアトリ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:14:07+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:14:07+00:00",
+  "files": {
+    "master": "images/fringilla-coelebs/inat-352779229.jpg",
+    "web": "images/fringilla-coelebs/inat-352779229.webp",
+    "thumbnail": "images/fringilla-coelebs/inat-352779229-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 880544,
+    "web": 184168,
+    "thumbnail": 16574
+  },
+  "sha256": {
+    "download": "a838243f694f2e919468545f3928bd91b3c524f0ce7e6fb97601125d52b878a9",
+    "master": "b1edf7b2a65347a2b98dae3817207dae376e1bcd55d5136c927ae9b7254fe8b4",
+    "web": "4ff713da77bce5698ae0b8a3560bea0d94404ff6bce68dedff78817fb116e691"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Fringilla coelebs [Fringilla coelebs] — Saskia Kollegger / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/352779229. Original attribution: (c) Saskia Kollegger, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Fringilla coelebs",
+  "sourceId": "352779229",
+  "photoUrl": "https://www.inaturalist.org/photos/352779229",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/352779229/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/352779229/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Saskia Kollegger",
+  "originalAttribution": "(c) Saskia Kollegger, some rights reserved (CC BY)",
+  "taxonId": 10070,
+  "acceptedScientificName": "Fringilla coelebs",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/200000000",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.95,
+  "photoApiEvidence": {
+    "id": 352779229,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/352779229/square.jpg",
+    "attribution": "(c) Saskia Kollegger, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/9079/10068",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,9079,10068,10070",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 10070,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 10068,
+    "name": "Fringilla coelebs",
+    "rank": "species",
+    "extinct": false,
+    "id": 10070,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      9079,
+      10068,
+      10070
+    ],
+    "created_at": "2008-03-13T03:03:45+00:00",
+    "default_photo": {
+      "id": 151143058,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Jonny Andrews, some rights reserved (CC BY-NC), uploaded by Jonny Andrews",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/151143058/square.jpg",
+      "original_dimensions": {
+        "height": 1565,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Jonny Andrews",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/151143058/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/151143058/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 8,
+    "observations_count": 208846,
+    "photos_locked": false,
+    "universal_search_rank": 208846,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 96815,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_chaffinch",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Common Chaffinch"
+  }
+}

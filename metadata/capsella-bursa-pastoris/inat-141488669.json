@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-141488669",
+  "targetId": "inat-taxon-56121",
+  "scientificName": "Capsella bursa-pastoris",
+  "nameJa": "ナズナ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:15:04+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:15:04+00:00",
+  "files": {
+    "master": "images/capsella-bursa-pastoris/inat-141488669.jpg",
+    "web": "images/capsella-bursa-pastoris/inat-141488669.webp",
+    "thumbnail": "images/capsella-bursa-pastoris/inat-141488669-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1358,
+      2048
+    ],
+    "master": [
+      1358,
+      2048
+    ],
+    "web": [
+      928,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 479510,
+    "web": 95646,
+    "thumbnail": 8914
+  },
+  "sha256": {
+    "download": "06640b7a2ec8a090388984bc2a486c8058ee7da199be81a7aeae94bdfccb403f",
+    "master": "8df0759d68fa08776b691a3d55d3a6734e656858b0be067d0056dd02d2f72ff9",
+    "web": "f08eab49e89868fbc9b1482bc1df56b5f41e2b7fbb34c730405268bedf190200"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Capsella bursa-pastoris [Capsella bursa-pastoris] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/141488669. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Capsella bursa-pastoris",
+  "sourceId": "141488669",
+  "photoUrl": "https://www.inaturalist.org/photos/141488669",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/141488669/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/141488669/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 56121,
+  "acceptedScientificName": "Capsella bursa-pastoris",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/85945580",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.2733333333333325,
+  "photoApiEvidence": {
+    "id": 141488669,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1358,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141488669/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/71275/47204/1473853/1473859/1473861/52979",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,71275,47204,1473853,1473859,1473861,52979,56121",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 56121,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 52979,
+    "name": "Capsella bursa-pastoris",
+    "rank": "species",
+    "extinct": false,
+    "id": 56121,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      71275,
+      47204,
+      1473853,
+      1473859,
+      1473861,
+      52979,
+      56121
+    ],
+    "created_at": "2010-02-18T10:48:14+00:00",
+    "default_photo": {
+      "id": 23130,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) JosÃ© MarÃ­a Escolano, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23130/square.jpg",
+      "original_dimensions": {
+        "height": 1820,
+        "width": 1567
+      },
+      "flags": [],
+      "attribution_name": "JosÃ© MarÃ­a Escolano",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23130/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23130/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 101269,
+    "photos_locked": false,
+    "universal_search_rank": 101269,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Capsella_bursa-pastoris",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "shepherd's-purse"
+  }
+}

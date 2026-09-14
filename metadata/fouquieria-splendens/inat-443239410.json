@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-443239410",
+  "targetId": "inat-taxon-49325",
+  "scientificName": "Fouquieria splendens",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:15:09+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:15:09+00:00",
+  "files": {
+    "master": "images/fouquieria-splendens/inat-443239410.jpg",
+    "web": "images/fouquieria-splendens/inat-443239410.webp",
+    "thumbnail": "images/fouquieria-splendens/inat-443239410-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1694430,
+    "web": 375654,
+    "thumbnail": 17968
+  },
+  "sha256": {
+    "download": "64aaa81ebc77eb40859948c690009b1444576b59e0c594c4fc609b73a1727312",
+    "master": "c5381e9051e40886decbde040cb75caecceb75eae6317d48b87178719dfe199b",
+    "web": "23a4f63c2e2aa6920ab74f0e87def4e715ad981892afb8f2a5871bf69b7d8fb7"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Fouquieria splendens [Fouquieria splendens] — Sue Carnahan / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/443239410. Original attribution: (c) Sue Carnahan, some rights reserved (CC BY), uploaded by Sue Carnahan. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Fouquieria splendens",
+  "sourceId": "443239410",
+  "photoUrl": "https://www.inaturalist.org/photos/443239410",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/443239410/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/443239410/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Sue Carnahan",
+  "originalAttribution": "(c) Sue Carnahan, some rights reserved (CC BY), uploaded by Sue Carnahan",
+  "taxonId": 49325,
+  "acceptedScientificName": "Fouquieria splendens",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.925714285714285,
+  "photoApiEvidence": {
+    "id": 443239410,
+    "license_code": "cc-by",
+    "attribution": "(c) Sue Carnahan, some rights reserved (CC BY), uploaded by Sue Carnahan",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443239410/square.jpeg",
+    "original_dimensions": {
+      "height": 2048,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Sue Carnahan",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443239410/square.jpeg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443239410/medium.jpeg"
+  },
+  "observationTaxon": null
+}

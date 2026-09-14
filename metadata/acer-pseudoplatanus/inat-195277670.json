@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-195277670",
+  "targetId": "inat-taxon-119791",
+  "scientificName": "Acer pseudoplatanus",
+  "nameJa": "セイヨウカジカエデ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:15:28+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:15:28+00:00",
+  "files": {
+    "master": "images/acer-pseudoplatanus/inat-195277670.jpg",
+    "web": "images/acer-pseudoplatanus/inat-195277670.webp",
+    "thumbnail": "images/acer-pseudoplatanus/inat-195277670-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 568788,
+    "web": 141268,
+    "thumbnail": 19224
+  },
+  "sha256": {
+    "download": "72f69b606e86d250f7d0a137ffc1aeeb6de05a1ed3a2a2b03f3695794c34f499",
+    "master": "69363b5aeaa503d948f4f711a430cf7cf48ae5a5058443f7d0a1f62027e423f6",
+    "web": "7c1e0ed66567942566e7088d699fb68d9c57e36a614a8807a3ed43597c20669a"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Acer pseudoplatanus [Acer pseudoplatanus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/195277670. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Acer pseudoplatanus",
+  "sourceId": "195277670",
+  "photoUrl": "https://www.inaturalist.org/photos/195277670",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/195277670/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/195277670/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 119791,
+  "acceptedScientificName": "Acer pseudoplatanus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/115701496",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 195277670,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/195277670/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47729/58321/47727/1419769/1466281",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47729,58321,47727,1419769,1466281,119791",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 119791,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1466281,
+    "name": "Acer pseudoplatanus",
+    "rank": "species",
+    "extinct": false,
+    "id": 119791,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47729,
+      58321,
+      47727,
+      1419769,
+      1466281,
+      119791
+    ],
+    "created_at": "2011-10-03T03:11:50+03:00",
+    "default_photo": {
+      "id": 72573830,
+      "license_code": null,
+      "attribution": "(c) František Bednár, tüm hakları saklıdır, yükleyen: František Bednár",
+      "url": "https://static.inaturalist.org/photos/72573830/square.jpg",
+      "original_dimensions": {
+        "height": 1067,
+        "width": 1600
+      },
+      "flags": [],
+      "attribution_name": "František Bednár",
+      "square_url": "https://static.inaturalist.org/photos/72573830/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/72573830/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 90021,
+    "photos_locked": false,
+    "universal_search_rank": 90021,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Acer_pseudoplatanus",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "sycamore maple"
+  }
+}
