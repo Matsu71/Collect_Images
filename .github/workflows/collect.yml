@@ -1,0 +1,97 @@
+name: Collect licensed extant photographs
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/collect.yml
+      - scripts/**
+      - requests/**
+permissions:
+  contents: write
+concurrency:
+  group: extant-photo-collection
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install image tools
+        run: pip install 'requests>=2.32,<3' 'Pillow>=11,<13'
+      - name: Inspect source and run collection when installed
+        run: |
+          mkdir -p reports
+          if [ -f scripts/collect.py ]; then
+            python -u scripts/collect.py
+          else
+            python - <<'PY'
+          import requests,json,hashlib,re,pathlib
+          s=requests.Session();s.headers['User-Agent']='CollectImages/1.0 (https://github.com/Matsu71/Collect_Images; educational species photographs)'
+          report={}
+          urls={
+            'catalog':'https://chronoearth.pages.dev/js/catalog-data.js',
+            'inat':'https://api.inaturalist.org/v1/taxa?q=Loxodonta%20africana&rank=species&per_page=2',
+            'commons':'https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&generator=search&gsrsearch=Loxodonta%20africana%20filetype:bitmap&gsrnamespace=6&gsrlimit=2&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1600'
+          }
+          for key,url in urls.items():
+            try:
+              r=s.get(url,timeout=60); d={'status':r.status_code,'bytes':len(r.content),'type':r.headers.get('Content-Type'),'sample':r.text[:1800]}
+              if key=='catalog' and r.ok:
+                d['gitBlobSha']=hashlib.sha1(b'blob '+str(len(r.content)).encode()+b'\0'+r.content).hexdigest()
+                dec=json.JSONDecoder();candidates=[]
+                for m in re.finditer(r'\{\s*"',r.text):
+                  try:
+                    obj,n=dec.raw_decode(r.text[m.start():])
+                    if isinstance(obj,dict) and any(k in obj for k in ['events','organisms','records']):candidates.append((n,obj))
+                  except ValueError:pass
+                  if len(candidates)>5:break
+                if candidates:
+                  _,obj=max(candidates,key=lambda t:t[0]);d['rootKeys']=list(obj)
+                  for k,v in obj.items():
+                    if isinstance(v,list):
+                      d[k+'Count']=len(v)
+                      if v and isinstance(v[0],dict):d[k+'Sample']=v[0]
+                  evs=obj.get('events',obj.get('organisms',obj.get('records',[])))
+                  d['extantSamples']=[e for e in evs if any('extant' in str(e.get(k,'')) for k in ['group','status','organism','category','tags'])][:3]
+                  pathlib.Path('/tmp/chronoearth-catalog.json').write_text(json.dumps(obj,ensure_ascii=False))
+              elif r.ok:
+                j=r.json()
+                if key=='inat':d['taxa']=j.get('results',[])
+                if key=='commons':d['pages']=j.get('query',{}).get('pages',[])
+              report[key]=d
+            except Exception as e:report[key]={'error':str(e)}
+          pathlib.Path('reports/source-probe.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
+          print(json.dumps({k:{a:b for a,b in v.items() if a in ['status','bytes','error','rootKeys','eventsCount','gitBlobSha']} for k,v in report.items()},ensure_ascii=False))
+          PY
+          fi
+      - name: Commit downloaded photographs and provenance
+        if: always()
+        run: |
+          git config user.name 'Collect Images bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md data images metadata catalog reports gallery scripts 2>/dev/null || git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m 'Collect photo assets and record source/license checks [skip ci]'
+            for attempt in 1 2 3 4; do
+              git pull --rebase origin main && git push origin HEAD:main && break
+              sleep $((attempt * 5))
+            done
+            test "$(git rev-parse HEAD)" = "$(git ls-remote origin refs/heads/main | cut -f1)"
+          fi
+      - name: Export review evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: collected-photo-review
+          path: |
+            reports/
+            gallery/
+            data/
+          retention-days: 7
