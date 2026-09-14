@@ -3,7 +3,9 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [.github/workflows/remaining-targeted.yml]
+    paths:
+      - .github/workflows/remaining-targeted.yml
+      - targeted-requests/**
 permissions:
   contents: write
 jobs:
@@ -23,19 +25,23 @@ jobs:
             /metadata/
             /reference/metadata/
             /batches/*/candidates.json
-            /batches/remaining-closure-20260914/original-gaps.json
+            /batches/remaining-closure-20260914/
             /batches/remaining-targeted-20260914/
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       - run: pip install 'requests>=2.32,<3' 'Pillow>=11,<13'
-      - run: python -u curation/remaining_targeted.py gather
+      - name: Search every still-unresolved target
+        run: |
+          test -f batches/remaining-closure-20260914/candidates.json
+          python -m py_compile curation/remaining_targeted.py
+          python -u curation/remaining_targeted.py gather
       - name: Store every search result and candidate file
         if: always()
         run: |
           git config user.name 'Collect Images bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add --sparse batches/remaining-targeted-20260914
+          if [ -d batches/remaining-targeted-20260914 ]; then git add --sparse batches/remaining-targeted-20260914; fi
           if ! git diff --cached --quiet; then
             git commit -m 'Save difficult remaining-target photographic candidates and source evidence [skip ci]'
             pushed=false
