@@ -1,0 +1,69 @@
+name: Collect remaining original research photograph
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/remaining-paper-photo.yml]
+permissions:
+  contents: write
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /batches/remaining-paper-20260914/
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install 'requests>=2.32,<3' 'Pillow>=11,<13' beautifulsoup4
+      - name: Acquire figure and the publisher's image-specific context
+        run: |
+          python - <<'PY'
+          import requests,json,hashlib,pathlib,re,io,datetime
+          from bs4 import BeautifulSoup
+          from PIL import Image
+          root=pathlib.Path('batches/remaining-paper-20260914');root.mkdir(parents=True,exist_ok=True)
+          url='https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1367658/full'
+          image='https://www.frontiersin.org/files/Articles/1367658/xml-images/fmicb-15-1367658-g001.webp'
+          s=requests.Session();s.headers['User-Agent']='CollectImages/1.0 (https://github.com/Matsu71/Collect_Images; licensed educational photographs)'
+          response=s.get(url,timeout=60);response.raise_for_status();page=BeautifulSoup(response.text,'html.parser');text=page.get_text(' ',strip=True)
+          links=[a.get('href','') for a in page.find_all('a') if 'creativecommons.org/licenses/by/' in a.get('href','')]
+          if not links or 'Nitrosopumilus maritimus' not in text:raise ValueError('Article identity or specific reuse licence not found')
+          valid=[u for u in links if re.search(r'creativecommons\.org/licenses/by/[34]\.0',u)]
+          if not valid:raise ValueError('Unsupported or unknown article attribution-licence version')
+          license_url=re.match(r'.*creativecommons\.org/licenses/by/[34]\.0',valid[0]).group(0).replace('http:','https:')+'/'
+          raw=s.get(image,timeout=60);raw.raise_for_status();data=raw.content
+          with Image.open(io.BytesIO(data)) as im:im.load();dimensions=list(im.size)
+          (root/'figure1-original.webp').write_bytes(data)
+          (root/'article-source.html').write_text(response.text,encoding='utf-8')
+          # Preserve only the actual microscopy panel B; panel E is a 3D segmentation, not a photograph.
+          with Image.open(io.BytesIO(data)) as im:
+              w,h=im.size;box=[round(w*0.337),0,round(w*0.663),round(h*0.492)]
+              crop=im.crop(box).convert('RGB');crop.save(root/'figure1-panelB.jpg','JPEG',quality=95,optimize=True)
+          caption='Figure 1. Whole-cell cryo-electron tomogram of Nitrosopumilus maritimus SCM1. A-C are cryo-EM images at -60, 0, and +60 degrees; D is a tomographic slice; E is a 3D segmentation. The selected panel is B (0 degrees), preserving its visible 200 nm scale bar.'
+          authors='Yangkai Zhou, An Yan, Jiawen Yang, Wei He, Shuai Guo, Yifan Li, Jing Wu, Yanchao Dai, Xijiang Pan, Dongyu Cui, Olivier Pereira, Wenkai Teng, Ran Bi, Songze Chen, Lu Fan, Peiyi Wang, Yan Liao, Wei Qin, Sen-Fang Sui, Yuanqing Zhu, Chuanlun Zhang, Zheng Liu'
+          report={'retrievedAt':datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='seconds'),'targetId':'org-nitrosopumilus-maritimus','scientificName':'Nitrosopumilus maritimus','articleTitle':'Ultrastructural insights into cellular organization, energy storage and ribosomal dynamics of an ammonia-oxidizing archaeon from oligotrophic oceans','doi':'10.3389/fmicb.2024.1367658','photoUrl':url,'originalUrl':image,'author':authors,'licenseCode':'cc-by','licenseUrl':license_url,'sourceCaption':caption,'figureDimensions':dimensions,'figureSha256':hashlib.sha256(data).hexdigest(),'cropBox':box,'cropDimensions':list(crop.size),'cropSha256':hashlib.sha256((root/'figure1-panelB.jpg').read_bytes()).hexdigest(),'changes':['Extracted only actual photographic panel B from the multipart figure','Kept the panel label, tilt angle and 200 nm scale bar','No upscaling, no generative alteration; JPEG re-encoding'],'visualReview':'pending_saved_crop_inspection','publisherCopyrightExcerpt':text[max(0,text.rfind('© 2024')):text.rfind('© 2024')+1300]}
+          (root/'source.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps(report,ensure_ascii=False,indent=2))
+          PY
+      - name: Preserve original source and extracted photographic panel
+        if: always()
+        run: |
+          git config user.name 'Collect Images bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add --sparse batches/remaining-paper-20260914
+          if ! git diff --cached --quiet; then
+            git commit -m 'Save original research microscopy figure and per-article licence evidence [skip ci]'
+            git pull --rebase origin main && git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: remaining-paper-photo-review
+          path: batches/remaining-paper-20260914/
+          retention-days: 7
