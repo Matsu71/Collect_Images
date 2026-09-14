@@ -28,9 +28,16 @@
     "snapshotIndexPath": "reference/gallery/sheet-index.json",
     "snapshotNumber": 223,
     "reviewFile": "reviews/screening-reference329.json",
-    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "noteJa": "休息中の雄の頭部、たてがみ、胴体、前後肢、尾の主要な形が明瞭です。立位の体高を示す写真ではありません。",
     "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
-    "fullResolutionInspection": "not_performed"
+    "fullResolutionInspection": "saved_JPEG_viewed_individually_not_pixel_by_pixel_audit",
+    "priorContactSheetRole": "primary",
+    "individualJpegReview": {
+      "reviewFile": "reports/detail-sample-review.json",
+      "method": "individual_saved_jpeg_visual_review",
+      "reviewedAt": "2026-09-14",
+      "masterSha256": "8f775b534c9001b71db59e8e350e068e938a0ef33f25cf4c1123861c8e72587d"
+    }
   },
   "rightsReview": {
     "status": "allowed_license_metadata_verified",
@@ -204,6 +211,7 @@
     "mime": "image/jpeg"
   },
   "credit": "020 The lion king Snyggve in the Serengeti National Park Photo by Giles Laurent [Panthera leo] — Giles Laurent / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg. Original attribution: © Giles Laurent , gileslaurent.com , License CC BY-SA. Resized and re-encoded; no subject alteration.",
+  "authorStatus": "source_supplied_not_independently_verified",
   "rawMetadataPath": "reference/metadata/panthera-leo/commons-151312926.json",
   "collectionSource": "reference",
   "alternateStoredCopies": [],

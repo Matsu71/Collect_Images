@@ -66,7 +66,7 @@
     "embedded EXIF removed; provenance retained in metadata"
   ],
   "webQuality": 86,
-  "credit": "Leptoptilos crumenifer [Leptoptilos crumenifer] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/338956956. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "credit": "Leptoptilos crumenifer [Leptoptilos crumenifer] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/338956956. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
   "source": "iNaturalist",
   "imageTitle": "Leptoptilos crumenifer",
   "sourceId": "338956956",
@@ -75,7 +75,7 @@
   "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/338956956/original.png",
   "licenseCode": "cc0",
   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-  "author": "no rights reserved",
+  "author": "作者名未取得（CC0・出典参照）",
   "originalAttribution": "no rights reserved",
   "taxonId": 201031,
   "acceptedScientificName": "Leptoptilos crumenifer",
@@ -159,6 +159,9 @@
     "iconic_taxon_name": "Aves",
     "preferred_common_name": "Marabou Stork"
   },
+  "authorApiValueBeforeNormalization": "no rights reserved",
+  "authorStatus": "not_provided_by_photo_api",
+  "authorNote": "CC0 does not require attribution as a copyright-license condition. The original photo page is retained; a rights notice is not presented as a person name.",
   "rawMetadataPath": "metadata/leptoptilos-crumenifer/inat-338956956.json",
   "collectionSource": "base",
   "alternateStoredCopies": [],

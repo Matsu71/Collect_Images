@@ -66,7 +66,7 @@
     "embedded EXIF removed; provenance retained in metadata"
   ],
   "webQuality": 86,
-  "credit": "Hydra vulgaris [Hydra vulgaris] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/166941046. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "credit": "Hydra vulgaris [Hydra vulgaris] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/166941046. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
   "source": "iNaturalist",
   "imageTitle": "Hydra vulgaris",
   "sourceId": "166941046",
@@ -75,7 +75,7 @@
   "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/166941046/original.jpeg",
   "licenseCode": "cc0",
   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-  "author": "no rights reserved",
+  "author": "作者名未取得（CC0・出典参照）",
   "originalAttribution": "no rights reserved",
   "taxonId": 486293,
   "acceptedScientificName": "Hydra vulgaris",
@@ -159,6 +159,9 @@
     "iconic_taxon_name": "Animalia",
     "preferred_common_name": "Common Hydra"
   },
+  "authorApiValueBeforeNormalization": "no rights reserved",
+  "authorStatus": "not_provided_by_photo_api",
+  "authorNote": "CC0 does not require attribution as a copyright-license condition. The original photo page is retained; a rights notice is not presented as a person name.",
   "rawMetadataPath": "metadata/hydra-vulgaris/inat-166941046.json",
   "collectionSource": "base",
   "alternateStoredCopies": [],

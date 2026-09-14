@@ -66,7 +66,7 @@
     "embedded EXIF removed; provenance retained in metadata"
   ],
   "webQuality": 86,
-  "credit": "Actitis macularius [Actitis macularius] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/131308007. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "credit": "Actitis macularius [Actitis macularius] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/131308007. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
   "source": "iNaturalist",
   "imageTitle": "Actitis macularius",
   "sourceId": "131308007",
@@ -75,7 +75,7 @@
   "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/131308007/original.jpg",
   "licenseCode": "cc0",
   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-  "author": "no rights reserved",
+  "author": "作者名未取得（CC0・出典参照）",
   "originalAttribution": "no rights reserved",
   "taxonId": 72458,
   "acceptedScientificName": "Actitis macularius",
@@ -159,6 +159,9 @@
     "iconic_taxon_name": "Aves",
     "preferred_common_name": "Spotted Sandpiper"
   },
+  "authorApiValueBeforeNormalization": "no rights reserved",
+  "authorStatus": "not_provided_by_photo_api",
+  "authorNote": "CC0 does not require attribution as a copyright-license condition. The original photo page is retained; a rights notice is not presented as a person name.",
   "rawMetadataPath": "metadata/actitis-macularius/inat-131308007.json",
   "collectionSource": "base",
   "alternateStoredCopies": [],

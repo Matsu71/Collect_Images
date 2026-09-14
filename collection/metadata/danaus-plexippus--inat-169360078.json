@@ -6,10 +6,10 @@
   "nameJa": "オオカバマダラ",
   "collectionTier": "chronoearth",
   "origin": "photograph_visual_screened",
-  "status": "primary_candidate",
+  "status": "supplementary_only",
   "visualReview": {
     "status": "screened",
-    "recommendedRole": "primary",
+    "recommendedRole": "supplementary",
     "reviewer": "ChatGPT visual screening",
     "reviewedAt": "2026-09-14",
     "method": "contact_sheet_composition_screening",
@@ -17,9 +17,16 @@
     "snapshotIndexPath": "gallery/sheet-index.json",
     "snapshotNumber": 147,
     "reviewFile": "reviews/screening-194.json",
-    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "noteJa": "枝葉に集まった複数個体の写真。翅の模様は見えますが、葉と重なって個体ごとの頭部・体が不明瞭で、画像もやや軟調です。単独個体の姿を明瞭に示す主画像ではなく、集団で休む様子の補足写真に限定します。",
     "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
-    "fullResolutionInspection": "not_performed"
+    "fullResolutionInspection": "saved_JPEG_viewed_individually_not_pixel_by_pixel_audit",
+    "priorContactSheetRole": "primary",
+    "individualJpegReview": {
+      "reviewFile": "reports/detail-sample-review.json",
+      "method": "individual_saved_jpeg_visual_review",
+      "reviewedAt": "2026-09-14",
+      "masterSha256": "7472ec9dc5cf2102da3ffe208bca6858541f47757fdf695461270cba6ef6b958"
+    }
   },
   "rightsReview": {
     "status": "allowed_license_metadata_verified",
@@ -66,7 +73,7 @@
     "embedded EXIF removed; provenance retained in metadata"
   ],
   "webQuality": 80,
-  "credit": "Danaus plexippus [Danaus plexippus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/169360078. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "credit": "Danaus plexippus [Danaus plexippus] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/169360078. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
   "source": "iNaturalist",
   "imageTitle": "Danaus plexippus",
   "sourceId": "169360078",
@@ -75,7 +82,7 @@
   "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/169360078/original.jpeg",
   "licenseCode": "cc0",
   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-  "author": "no rights reserved",
+  "author": "作者名未取得（CC0・出典参照）",
   "originalAttribution": "no rights reserved",
   "taxonId": 48662,
   "acceptedScientificName": "Danaus plexippus",
@@ -174,6 +181,9 @@
       "iucn": 20
     }
   },
+  "authorApiValueBeforeNormalization": "no rights reserved",
+  "authorStatus": "not_provided_by_photo_api",
+  "authorNote": "CC0 does not require attribution as a copyright-license condition. The original photo page is retained; a rights notice is not presented as a person name.",
   "rawMetadataPath": "metadata/danaus-plexippus/inat-169360078.json",
   "collectionSource": "base",
   "alternateStoredCopies": [],

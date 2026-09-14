@@ -66,7 +66,7 @@
     "embedded EXIF removed; provenance retained in metadata"
   ],
   "webQuality": 83,
-  "credit": "Hypena scabra [Hypena scabra] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/166482050. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "credit": "Hypena scabra [Hypena scabra] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/166482050. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
   "source": "iNaturalist",
   "imageTitle": "Hypena scabra",
   "sourceId": "166482050",
@@ -75,7 +75,7 @@
   "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/166482050/original.jpeg",
   "licenseCode": "cc0",
   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-  "author": "no rights reserved",
+  "author": "作者名未取得（CC0・出典参照）",
   "originalAttribution": "no rights reserved",
   "taxonId": 118513,
   "acceptedScientificName": "Hypena scabra",
@@ -161,6 +161,9 @@
     "iconic_taxon_name": "Insecta",
     "preferred_common_name": "Green Cloverworm Moth"
   },
+  "authorApiValueBeforeNormalization": "no rights reserved",
+  "authorStatus": "not_provided_by_photo_api",
+  "authorNote": "CC0 does not require attribution as a copyright-license condition. The original photo page is retained; a rights notice is not presented as a person name.",
   "rawMetadataPath": "metadata/hypena-scabra/inat-166482050.json",
   "collectionSource": "base",
   "alternateStoredCopies": [],

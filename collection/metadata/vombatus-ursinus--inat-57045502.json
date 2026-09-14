@@ -66,7 +66,7 @@
     "embedded EXIF removed; provenance retained in metadata"
   ],
   "webQuality": 68,
-  "credit": "Vombatus ursinus [Vombatus ursinus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/57045502. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "credit": "Vombatus ursinus [Vombatus ursinus] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/57045502. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
   "source": "iNaturalist",
   "imageTitle": "Vombatus ursinus",
   "sourceId": "57045502",
@@ -75,7 +75,7 @@
   "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/57045502/original.jpeg",
   "licenseCode": "cc0",
   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-  "author": "no rights reserved",
+  "author": "作者名未取得（CC0・出典参照）",
   "originalAttribution": "no rights reserved",
   "taxonId": 43009,
   "acceptedScientificName": "Vombatus ursinus",
@@ -162,6 +162,9 @@
     "iconic_taxon_name": "Mammalia",
     "preferred_common_name": "Tasmanian Wombat"
   },
+  "authorApiValueBeforeNormalization": "no rights reserved",
+  "authorStatus": "not_provided_by_photo_api",
+  "authorNote": "CC0 does not require attribution as a copyright-license condition. The original photo page is retained; a rights notice is not presented as a person name.",
   "rawMetadataPath": "metadata/vombatus-ursinus/inat-57045502.json",
   "collectionSource": "base",
   "alternateStoredCopies": [],

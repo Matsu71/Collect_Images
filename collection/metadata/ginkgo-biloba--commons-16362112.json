@@ -28,9 +28,16 @@
     "snapshotIndexPath": "reference/gallery/sheet-index.json",
     "snapshotNumber": 134,
     "reviewFile": "reviews/screening-reference329.json",
-    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "noteJa": "樹冠から幹の根元まで大きく写り、樹形が分かります。個々の葉の形態を示す接写は別に必要です。",
     "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
-    "fullResolutionInspection": "not_performed"
+    "fullResolutionInspection": "saved_JPEG_viewed_individually_not_pixel_by_pixel_audit",
+    "priorContactSheetRole": "primary",
+    "individualJpegReview": {
+      "reviewFile": "reports/detail-sample-review.json",
+      "method": "individual_saved_jpeg_visual_review",
+      "reviewedAt": "2026-09-14",
+      "masterSha256": "5449ee13012195153d22073f10c441215f996a55d05193f8e5bf86e9e01c3fb4"
+    }
   },
   "rightsReview": {
     "status": "allowed_license_metadata_verified",
@@ -186,6 +193,7 @@
     "mime": "image/jpeg"
   },
   "credit": "GINKGOBAUM-2 [Ginkgo biloba] — EecherplazGinkgo06.jpg : Cayambe derivative work: Ginkgotree ( talk ) / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:GINKGOBAUM-2.jpg. Original attribution: https://www.ginkgo-ratgeber.info/baum-pflanzen-schneiden-und-pflegen.html. Resized and re-encoded; no subject alteration.",
+  "authorStatus": "source_supplied_not_independently_verified",
   "rawMetadataPath": "reference/metadata/ginkgo-biloba/commons-16362112.json",
   "collectionSource": "reference",
   "alternateStoredCopies": [],

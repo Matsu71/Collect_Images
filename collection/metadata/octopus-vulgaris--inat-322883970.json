@@ -17,9 +17,16 @@
     "snapshotIndexPath": "gallery/sheet-index.json",
     "snapshotNumber": 385,
     "reviewFile": "reviews/screening-stage03.json",
-    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "noteJa": "水中で頭部、眼、外套、腕、吸盤が明瞭です。腕は重なり、すべての先端が見えているわけではありません。水中の青い光の影響があります。",
     "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
-    "fullResolutionInspection": "not_performed"
+    "fullResolutionInspection": "saved_JPEG_viewed_individually_not_pixel_by_pixel_audit",
+    "priorContactSheetRole": "primary",
+    "individualJpegReview": {
+      "reviewFile": "reports/detail-sample-review.json",
+      "method": "individual_saved_jpeg_visual_review",
+      "reviewedAt": "2026-09-14",
+      "masterSha256": "4bfc600620d59fbbf43df7116cbe48850d305780db39361b69ec49c05eb0fd41"
+    }
   },
   "rightsReview": {
     "status": "allowed_license_metadata_verified",
@@ -66,7 +73,7 @@
     "embedded EXIF removed; provenance retained in metadata"
   ],
   "webQuality": 83,
-  "credit": "Octopus vulgaris [Octopus vulgaris] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/322883970. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "credit": "Octopus vulgaris [Octopus vulgaris] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/322883970. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
   "source": "iNaturalist",
   "imageTitle": "Octopus vulgaris",
   "sourceId": "322883970",
@@ -75,7 +82,7 @@
   "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/322883970/original.jpeg",
   "licenseCode": "cc0",
   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-  "author": "no rights reserved",
+  "author": "作者名未取得（CC0・出典参照）",
   "originalAttribution": "no rights reserved",
   "taxonId": 49315,
   "acceptedScientificName": "Octopus vulgaris",
@@ -161,6 +168,9 @@
     "iconic_taxon_name": "Mollusca",
     "preferred_common_name": "Common Octopus"
   },
+  "authorApiValueBeforeNormalization": "no rights reserved",
+  "authorStatus": "not_provided_by_photo_api",
+  "authorNote": "CC0 does not require attribution as a copyright-license condition. The original photo page is retained; a rights notice is not presented as a person name.",
   "rawMetadataPath": "metadata/octopus-vulgaris/inat-322883970.json",
   "collectionSource": "base",
   "alternateStoredCopies": [],

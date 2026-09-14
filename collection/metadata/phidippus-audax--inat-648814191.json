@@ -66,7 +66,7 @@
     "embedded EXIF removed; provenance retained in metadata"
   ],
   "webQuality": 86,
-  "credit": "Phidippus audax [Phidippus audax] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/648814191. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "credit": "Phidippus audax [Phidippus audax] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/648814191. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
   "source": "iNaturalist",
   "imageTitle": "Phidippus audax",
   "sourceId": "648814191",
@@ -75,7 +75,7 @@
   "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/648814191/original.jpg",
   "licenseCode": "cc0",
   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-  "author": "no rights reserved",
+  "author": "作者名未取得（CC0・出典参照）",
   "originalAttribution": "no rights reserved",
   "taxonId": 53809,
   "acceptedScientificName": "Phidippus audax",
@@ -165,6 +165,9 @@
     "iconic_taxon_name": "Arachnida",
     "preferred_common_name": "Bold Jumping Spider"
   },
+  "authorApiValueBeforeNormalization": "no rights reserved",
+  "authorStatus": "not_provided_by_photo_api",
+  "authorNote": "CC0 does not require attribution as a copyright-license condition. The original photo page is retained; a rights notice is not presented as a person name.",
   "rawMetadataPath": "metadata/phidippus-audax/inat-648814191.json",
   "collectionSource": "base",
   "alternateStoredCopies": [],

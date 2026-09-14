@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T01:49:21+00:00",
+  "generatedAt": "2026-09-14T02:00:24+00:00",
   "targetCount": 1000,
   "chronoearthTargetCount": 532,
   "downloadedTargetCoverage": 986,
@@ -11,10 +11,10 @@
   "visuallyScreenedTaxonPhotoPairs": 1308,
   "acceptedPhotographs": 1201,
   "acceptedTaxonCoverage": 923,
-  "primaryCandidatePhotoPairs": 732,
-  "primaryReadyTaxa": 588,
-  "chronoearthPrimaryReadyTaxa": 376,
-  "supplementaryPhotoPairs": 470,
+  "primaryCandidatePhotoPairs": 730,
+  "primaryReadyTaxa": 586,
+  "chronoearthPrimaryReadyTaxa": 374,
+  "supplementaryPhotoPairs": 472,
   "excludedPhotoPairs": 106,
   "pendingReviewPhotoPairs": 0,
   "acceptedLicenseCounts": {
@@ -29,9 +29,9 @@
     "CC BY 2.5": 6
   },
   "selectedPrimaryLicenseCounts": {
-    "CC0 1.0": 203,
+    "CC0 1.0": 202,
     "CC BY 4.0": 187,
-    "CC BY-SA 4.0": 92,
+    "CC BY-SA 4.0": 91,
     "CC BY-SA 3.0": 47,
     "CC BY 2.0": 31,
     "CC BY 3.0": 10,
@@ -61,7 +61,15 @@
       "file": "reviews/screening-stage04.json",
       "count": 368,
       "snapshotCommit": "b92a256f67c318a7afe06fc468858de99fe259a1"
+    },
+    {
+      "file": "reports/detail-sample-review.json",
+      "count": 8,
+      "kind": "additional_individual_JPEG_followup_not_additional_images"
     }
   ],
-  "limitations": "Primary means composition-screened candidate, not expert re-identification, full-resolution audit, or a warranty of all possible third-party rights. Separate variants, life stages and microscopy are documented."
+  "limitations": "Primary means composition-screened candidate, not expert re-identification, full-resolution audit, or a warranty of all possible third-party rights. Separate variants, life stages and microscopy are documented.",
+  "acceptedCC0PhotoPairsWithoutAuthorName": 400,
+  "authorMetadataNote": "Unavailable CC0 photographer names are explicitly marked. Rights notices are never used as photographer names. Other author names are copied from source metadata, not independently verified.",
+  "individualSavedJpegSampleReviewed": 8
 }

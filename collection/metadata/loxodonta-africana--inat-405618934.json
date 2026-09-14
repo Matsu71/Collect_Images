@@ -17,9 +17,16 @@
     "snapshotIndexPath": "gallery/sheet-index.json",
     "snapshotNumber": 322,
     "reviewFile": "reviews/screening-stage03.json",
-    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "noteJa": "頭部、耳、牙、胴体、皮膚の特徴が大きく明瞭です。脚の下部や鼻先の一部は草木に隠れています。背景に小さな個体も写ります。",
     "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
-    "fullResolutionInspection": "not_performed"
+    "fullResolutionInspection": "saved_JPEG_viewed_individually_not_pixel_by_pixel_audit",
+    "priorContactSheetRole": "primary",
+    "individualJpegReview": {
+      "reviewFile": "reports/detail-sample-review.json",
+      "method": "individual_saved_jpeg_visual_review",
+      "reviewedAt": "2026-09-14",
+      "masterSha256": "58f835253196f015194f832c0cb5a894dc420a7d68e706c18e5935410926e20f"
+    }
   },
   "rightsReview": {
     "status": "allowed_license_metadata_verified",
@@ -172,6 +179,7 @@
       "iucn": 40
     }
   },
+  "authorStatus": "source_supplied_not_independently_verified",
   "rawMetadataPath": "metadata/loxodonta-africana/inat-405618934.json",
   "collectionSource": "base",
   "alternateStoredCopies": [],

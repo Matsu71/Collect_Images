@@ -66,7 +66,7 @@
     "embedded EXIF removed; provenance retained in metadata"
   ],
   "webQuality": 83,
-  "credit": "Petaurus breviceps [Petaurus breviceps] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/539944041. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "credit": "Petaurus breviceps [Petaurus breviceps] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/539944041. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
   "source": "iNaturalist",
   "imageTitle": "Petaurus breviceps",
   "sourceId": "539944041",
@@ -75,7 +75,7 @@
   "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/539944041/original.jpg",
   "licenseCode": "cc0",
   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-  "author": "no rights reserved",
+  "author": "作者名未取得（CC0・出典参照）",
   "originalAttribution": "no rights reserved",
   "taxonId": 1654557,
   "acceptedScientificName": "Petaurus breviceps",
@@ -163,6 +163,9 @@
     "iconic_taxon_name": "Mammalia",
     "preferred_common_name": "New Guinea Glider"
   },
+  "authorApiValueBeforeNormalization": "no rights reserved",
+  "authorStatus": "not_provided_by_photo_api",
+  "authorNote": "CC0 does not require attribution as a copyright-license condition. The original photo page is retained; a rights notice is not presented as a person name.",
   "rawMetadataPath": "metadata/petaurus-breviceps/inat-539944041.json",
   "collectionSource": "base",
   "alternateStoredCopies": [],
