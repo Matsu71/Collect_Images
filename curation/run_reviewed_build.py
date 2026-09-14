@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
-"""Reviewed builder: explicit author gaps, individual follow-up, and gap-photo decisions."""
+"""Reviewed builder: explicit author gaps, individual follow-up, and all gap-photo rounds."""
 from __future__ import annotations
 import hashlib
 import json
 from pathlib import Path
 import build_collection as build
 import gap_review_loader
+import round2_photos
 
 ROOT=Path(__file__).resolve().parents[1]
 DETAIL=ROOT/'reports/detail-sample-review.json'
@@ -47,6 +48,8 @@ def read_reviews():
         decisions[k]={**previous,'priorContactSheetRole':previous['recommendedRole'],'recommendedRole':item['recommendedRole'],'noteJa':item['noteJa'],'individualJpegReview':{'reviewFile':'reports/detail-sample-review.json','method':report['method'],'reviewedAt':report['reviewedAt'],'masterSha256':item['masterSha256']},'fullResolutionInspection':'saved_JPEG_viewed_individually_not_pixel_by_pixel_audit'}
     evidence.append({'file':'reports/detail-sample-review.json','count':len(report['records']),'kind':'additional_individual_JPEG_followup_not_additional_images'})
     gap_review_loader.apply(ROOT,decisions,evidence)
+    if not any(item.get('file')==round2_photos.REVIEW for item in evidence):
+        round2_photos.apply_decisions(decisions,evidence)
     return decisions,evidence
 
 def main():
@@ -61,6 +64,7 @@ def main():
     status['individualSavedJpegSampleReviewed']=len(json.loads(DETAIL.read_text())['records'])
     status['licenseCodeToUrlConsistency']='pass'
     status['gapBatchAcceptedPhotoPairs']=sum(r.get('acquisitionBatch')=='batches/gaps-20260914' for r in records)
+    status['round2AcceptedPhotoPairs']=sum(r.get('acquisitionBatch')==round2_photos.BATCH for r in records)
     p.write_text(json.dumps(status,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 
 if __name__=='__main__':main()
