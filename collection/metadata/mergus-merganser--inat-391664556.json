@@ -5,12 +5,21 @@
   "scientificName": "Mergus merganser",
   "nameJa": "カワアイサ",
   "collectionTier": "extension",
-  "origin": "unverified_photo_candidate",
-  "status": "pending_review",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
   "visualReview": {
-    "status": "pending",
-    "recommendedRole": "pending",
-    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "b92a256f67c318a7afe06fc468858de99fe259a1",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 564,
+    "reviewFile": "reviews/screening-stage04.json",
+    "noteJa": "成鳥と幼鳥を含む写真。発育段階を区別します。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
   },
   "rightsReview": {
     "status": "allowed_license_metadata_verified",

@@ -5,12 +5,21 @@
   "scientificName": "Astur cooperii",
   "nameJa": "クーパーハイタカ",
   "collectionTier": "extension",
-  "origin": "unverified_photo_candidate",
-  "status": "pending_review",
+  "origin": "rejected_asset",
+  "status": "excluded",
   "visualReview": {
-    "status": "pending",
-    "recommendedRole": "pending",
-    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+    "status": "screened",
+    "recommendedRole": "exclude",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "b92a256f67c318a7afe06fc468858de99fe259a1",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 98,
+    "reviewFile": "reviews/screening-stage04.json",
+    "noteJa": "鳥が遠く小さすぎます。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
   },
   "rightsReview": {
     "status": "allowed_license_metadata_verified",

@@ -5,12 +5,21 @@
   "scientificName": "Pentatoma rufipes",
   "nameJa": "アシアカカメムシ",
   "collectionTier": "extension",
-  "origin": "unverified_photo_candidate",
-  "status": "pending_review",
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
   "visualReview": {
-    "status": "pending",
-    "recommendedRole": "pending",
-    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "b92a256f67c318a7afe06fc468858de99fe259a1",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 666,
+    "reviewFile": "reviews/screening-stage04.json",
+    "noteJa": "脱皮直後などの特殊な発色の可能性。通常の体色を示す主画像としては使いません。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
   },
   "rightsReview": {
     "status": "allowed_license_metadata_verified",
