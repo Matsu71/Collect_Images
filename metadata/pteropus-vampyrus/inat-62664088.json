@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-62664088",
+  "targetId": "org-pteropus-vampyrus",
+  "scientificName": "Pteropus vampyrus",
+  "nameJa": "オオコウモリ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:07:21+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:07:21+00:00",
+  "files": {
+    "master": "images/pteropus-vampyrus/inat-62664088.jpg",
+    "web": "images/pteropus-vampyrus/inat-62664088.webp",
+    "thumbnail": "images/pteropus-vampyrus/inat-62664088-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 624410,
+    "web": 169720,
+    "thumbnail": 20120
+  },
+  "sha256": {
+    "download": "72958dd0437d7402b7fa00a928ea317c4a3065d3043630eabdf0aaecf91231b5",
+    "master": "f543530de471f15cab87f289d51ab90b0a70356d2d5d3495f046ca848b291264",
+    "web": "56849edfbec696c7bbed4ddc9722d4bbc727143fd4659cad574b2f270ee2e4e0"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Pteropus vampyrus [Pteropus vampyrus] — Pirataber / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/62664088. Original attribution: (c) Pirataber, some rights reserved (CC BY), uploaded by Pirataber. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Pteropus vampyrus",
+  "sourceId": "62664088",
+  "photoUrl": "https://www.inaturalist.org/photos/62664088",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/62664088/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/62664088/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Pirataber",
+  "originalAttribution": "(c) Pirataber, some rights reserved (CC BY), uploaded by Pirataber",
+  "taxonId": 40902,
+  "acceptedScientificName": "Pteropus vampyrus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 11.95,
+  "photoApiEvidence": {
+    "id": 62664088,
+    "license_code": "cc-by",
+    "attribution": "(c) Pirataber, some rights reserved (CC BY), uploaded by Pirataber",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62664088/square.jpeg",
+    "original_dimensions": {
+      "height": 1365,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Pirataber",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62664088/square.jpeg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62664088/medium.jpeg"
+  },
+  "observationTaxon": null
+}

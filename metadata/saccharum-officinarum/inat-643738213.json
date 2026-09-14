@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-643738213",
+  "targetId": "org-saccharum-officinarum",
+  "scientificName": "Saccharum officinarum",
+  "nameJa": "サトウキビ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:08:02+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:08:02+00:00",
+  "files": {
+    "master": "images/saccharum-officinarum/inat-643738213.jpg",
+    "web": "images/saccharum-officinarum/inat-643738213.webp",
+    "thumbnail": "images/saccharum-officinarum/inat-643738213-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1537
+    ],
+    "master": [
+      2048,
+      1537
+    ],
+    "web": [
+      1400,
+      1051
+    ]
+  },
+  "bytes": {
+    "master": 1263619,
+    "web": 234990,
+    "thumbnail": 26362
+  },
+  "sha256": {
+    "download": "c380322d20597c0a80ec80ee914f6e9f46fba3f16519b8f6f537ca21566d3e04",
+    "master": "8b19e8cec9308e0c99d00b89094280b58073709cd586bb60db86ad25da6b205f",
+    "web": "bf2491f1aebd7d8ca9fe7e2a959c3e6fb13ba815ec71d4f2bd193220cd65e258"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Saccharum officinarum [Saccharum officinarum] — Guillaume Delaitre / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/643738213. Original attribution: (c) Guillaume Delaitre, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Saccharum officinarum",
+  "sourceId": "643738213",
+  "photoUrl": "https://www.inaturalist.org/photos/643738213",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/643738213/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/643738213/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Guillaume Delaitre",
+  "originalAttribution": "(c) Guillaume Delaitre, some rights reserved (CC BY)",
+  "taxonId": 128270,
+  "acceptedScientificName": "Saccharum officinarum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/352747187",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.195714285714286,
+  "photoApiEvidence": {
+    "id": 643738213,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1537
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643738213/square.jpg",
+    "attribution": "(c) Guillaume Delaitre, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47163/47162/47434/326013/635417/1138112/72338",
+    "min_species_ancestry": "48460,47126,211194,47125,47163,47162,47434,326013,635417,1138112,72338,128270",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 128270,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 72338,
+    "name": "Saccharum officinarum",
+    "rank": "species",
+    "extinct": false,
+    "id": 128270,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47163,
+      47162,
+      47434,
+      326013,
+      635417,
+      1138112,
+      72338,
+      128270
+    ],
+    "created_at": "2012-05-14T08:59:26+00:00",
+    "default_photo": {
+      "id": 54924127,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) beingplace, some rights reserved (CC BY-NC), uploaded by beingplace",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54924127/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "beingplace",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54924127/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54924127/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 5036,
+    "photos_locked": false,
+    "universal_search_rank": 5036,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Saccharum_officinarum",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Sugarcane"
+  }
+}

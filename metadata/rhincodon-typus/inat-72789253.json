@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-72789253",
+  "targetId": "org-rhincodon-typus",
+  "scientificName": "Rhincodon typus",
+  "nameJa": "ジンベエザメ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:07:45+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:07:45+00:00",
+  "files": {
+    "master": "images/rhincodon-typus/inat-72789253.jpg",
+    "web": "images/rhincodon-typus/inat-72789253.webp",
+    "thumbnail": "images/rhincodon-typus/inat-72789253-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 351234,
+    "web": 31756,
+    "thumbnail": 2756
+  },
+  "sha256": {
+    "download": "3e30f1516a21b508f6bcc4c308a8a07437c20f9844bdda4b622d156b9e57e9f1",
+    "master": "289e2b800e3c06e8a27323e075cdc9047185ea6738fd10eab285dd6c4ee9df97",
+    "web": "1993c7ce37351f36bf502ea8d9c46f2f944217039df8fc208d540405ddba21db"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Rhincodon typus [Rhincodon typus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/72789253. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Rhincodon typus",
+  "sourceId": "72789253",
+  "photoUrl": "https://www.inaturalist.org/photos/72789253",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/72789253/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/72789253/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 52188,
+  "acceptedScientificName": "Rhincodon typus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": "https://www.inaturalist.org/observations/45899320",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 72789253,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72789253/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/196614/47273/551307/551308/49967/52189/48841",
+    "min_species_ancestry": "48460,1,2,355675,196614,47273,551307,551308,49967,52189,48841,52188",
+    "endemic": false,
+    "iconic_taxon_id": 1,
+    "min_species_taxon_id": 52188,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 48841,
+    "name": "Rhincodon typus",
+    "rank": "species",
+    "extinct": false,
+    "id": 52188,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      196614,
+      47273,
+      551307,
+      551308,
+      49967,
+      52189,
+      48841,
+      52188
+    ],
+    "provisional": false,
+    "created_at": "2009-07-10T04:50:02+00:00",
+    "default_photo": {
+      "id": 519729370,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Simon Pierce, some rights reserved (CC BY-NC), uploaded by Simon Pierce",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519729370/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Simon Pierce",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519729370/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519729370/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 6,
+    "observations_count": 2706,
+    "photos_locked": false,
+    "universal_search_rank": 2706,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Whale_shark",
+    "iconic_taxon_name": "Animalia",
+    "preferred_common_name": "Whale Shark",
+    "conservation_status": {
+      "id": 19143,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "en",
+      "status_name": "endangered",
+      "geoprivacy": "obscured",
+      "iucn": 40
+    }
+  }
+}

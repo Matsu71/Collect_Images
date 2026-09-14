@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-170855798",
+  "targetId": "org-rhinella-marina",
+  "scientificName": "Rhinella marina",
+  "nameJa": "オオヒキガエル",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:07:45+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:07:45+00:00",
+  "files": {
+    "master": "images/rhinella-marina/inat-170855798.jpg",
+    "web": "images/rhinella-marina/inat-170855798.webp",
+    "thumbnail": "images/rhinella-marina/inat-170855798-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1564,
+      2048
+    ],
+    "master": [
+      1564,
+      2048
+    ],
+    "web": [
+      1069,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 829738,
+    "web": 181368,
+    "thumbnail": 14510
+  },
+  "sha256": {
+    "download": "5e50798bfce92e8fd5eeee3e74f11e157396c4b3606c183ebc04a28966095390",
+    "master": "4387f2d6b73075917ae312aecdd241a1c7f4a6fc1d962e70c0d19afa1e61e529",
+    "web": "3f5ef1fc0436f516891564acf52f98d679f09821f1a13d506f3873d3d605ad4a"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Rhinella marina [Rhinella marina] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/170855798. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Rhinella marina",
+  "sourceId": "170855798",
+  "photoUrl": "https://www.inaturalist.org/photos/170855798",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/170855798/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/170855798/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 553515,
+  "acceptedScientificName": "Rhinella marina",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Amphibia",
+  "observationUrl": "https://www.inaturalist.org/observations/102232195",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 10.234285714285715,
+  "photoApiEvidence": {
+    "id": 170855798,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1564,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/170855798/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/20978/20979/21359/64819",
+    "min_species_ancestry": "48460,1,2,355675,20978,20979,21359,64819,553515",
+    "endemic": false,
+    "iconic_taxon_id": 20978,
+    "min_species_taxon_id": 553515,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 64819,
+    "name": "Rhinella marina",
+    "rank": "species",
+    "extinct": false,
+    "id": 553515,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      20978,
+      20979,
+      21359,
+      64819,
+      553515
+    ],
+    "created_at": "2017-07-17T21:19:52+00:00",
+    "default_photo": {
+      "id": 360658061,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) David Sinnott, some rights reserved (CC BY-NC), uploaded by David Sinnott",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/360658061/square.jpg",
+      "original_dimensions": {
+        "height": 1364,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "David Sinnott",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/360658061/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/360658061/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 2,
+    "observations_count": 33049,
+    "photos_locked": false,
+    "universal_search_rank": 33049,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 3966,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cane_toad",
+    "iconic_taxon_name": "Amphibia",
+    "preferred_common_name": "Cane Toad"
+  }
+}

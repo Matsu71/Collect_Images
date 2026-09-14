@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-288010505",
+  "targetId": "org-scleropages-formosus",
+  "scientificName": "Scleropages formosus",
+  "nameJa": "アジアアロワナ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:08:30+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:08:30+00:00",
+  "files": {
+    "master": "images/scleropages-formosus/inat-288010505.jpg",
+    "web": "images/scleropages-formosus/inat-288010505.webp",
+    "thumbnail": "images/scleropages-formosus/inat-288010505-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 546353,
+    "web": 74184,
+    "thumbnail": 6558
+  },
+  "sha256": {
+    "download": "a88eec40e3adc267f89dc08a0a36bbddd66f031a470f5f9f7402b36331a11468",
+    "master": "dc1f89b6e5e6f70b5f6bf8071143f137167925dc638dc610ce6c7b2ab0eb0009",
+    "web": "c6925b4edd3f42281cc464c7c5608104b4258946b505946b9a60729d81de1cf7"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Scleropages formosus [Scleropages formosus] — desertnaturalist / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/288010505. Original attribution: (c) desertnaturalist, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Scleropages formosus",
+  "sourceId": "288010505",
+  "photoUrl": "https://www.inaturalist.org/photos/288010505",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/288010505/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/288010505/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "desertnaturalist",
+  "originalAttribution": "(c) desertnaturalist, some rights reserved (CC BY)",
+  "taxonId": 112325,
+  "acceptedScientificName": "Scleropages formosus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Actinopterygii",
+  "observationUrl": "https://www.inaturalist.org/observations/166324882",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.283333333333333,
+  "photoApiEvidence": {
+    "id": 288010505,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288010505/square.jpeg",
+    "attribution": "(c) desertnaturalist, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/47178/1533789/49240/85950/91939",
+    "min_species_ancestry": "48460,1,2,355675,47178,1533789,49240,85950,91939,112325",
+    "endemic": false,
+    "iconic_taxon_id": 47178,
+    "min_species_taxon_id": 112325,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 91939,
+    "name": "Scleropages formosus",
+    "rank": "species",
+    "extinct": false,
+    "id": 112325,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      47178,
+      1533789,
+      49240,
+      85950,
+      91939,
+      112325
+    ],
+    "provisional": false,
+    "created_at": "2011-08-04T12:27:10+03:00",
+    "default_photo": {
+      "id": 427041515,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Николай Морозов, bazı hakları saklıdır (CC BY-NC), yükleyen: Николай Морозов",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/427041515/square.jpeg",
+      "original_dimensions": {
+        "height": 1152,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Николай Морозов",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/427041515/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/427041515/medium.jpeg"
+    },
+    "taxon_changes_count": 3,
+    "taxon_schemes_count": 3,
+    "observations_count": 477,
+    "photos_locked": false,
+    "universal_search_rank": 477,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Asian_arowana",
+    "iconic_taxon_name": "Actinopterygii",
+    "preferred_common_name": "Asian Arowana",
+    "conservation_status": {
+      "id": 42004,
+      "place_id": null,
+      "source_id": 4,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "en",
+      "status_name": "endangered",
+      "geoprivacy": "obscured",
+      "iucn": 40
+    }
+  }
+}

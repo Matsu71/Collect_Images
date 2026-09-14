@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-208284649",
+  "targetId": "org-quercus-robur",
+  "scientificName": "Quercus robur",
+  "nameJa": "ヨーロッパナラ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:07:29+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:07:29+00:00",
+  "files": {
+    "master": "images/quercus-robur/inat-208284649.jpg",
+    "web": "images/quercus-robur/inat-208284649.webp",
+    "thumbnail": "images/quercus-robur/inat-208284649-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1361792,
+    "web": 229148,
+    "thumbnail": 22094
+  },
+  "sha256": {
+    "download": "6823451bbbc3e4053fe9dd85fd36ab5e65bf88f67290584339d0c6310515d407",
+    "master": "43f568520ba1e27543febbb31c95cbc21137d59b415616deb2d8b6fda9da5e91",
+    "web": "b5579472b59bb52863d0ac9e5694a3a45c88ef59158c6492c806622c680b96ea"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Quercus robur [Quercus robur] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/208284649. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Quercus robur",
+  "sourceId": "208284649",
+  "photoUrl": "https://www.inaturalist.org/photos/208284649",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/208284649/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/208284649/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 1520309,
+  "acceptedScientificName": "Quercus robur",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "complex",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/122982135",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.259047619047617,
+  "photoApiEvidence": {
+    "id": 208284649,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/208284649/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47853/47852/47851/861029/861033/1709094/1520309",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47853,47852,47851,861029,861033,1709094,1520309,56133",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 56133,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1520309,
+    "name": "Quercus robur",
+    "rank": "species",
+    "extinct": false,
+    "id": 56133,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47853,
+      47852,
+      47851,
+      861029,
+      861033,
+      1709094,
+      1520309,
+      56133
+    ],
+    "created_at": "2010-02-18T13:35:17+00:00",
+    "default_photo": {
+      "id": 110607739,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Felix Riegel, some rights reserved (CC BY-NC), uploaded by Felix Riegel",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110607739/square.jpeg",
+      "original_dimensions": {
+        "height": 1440,
+        "width": 1920
+      },
+      "flags": [],
+      "attribution_name": "Felix Riegel",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110607739/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110607739/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 6,
+    "observations_count": 112447,
+    "photos_locked": false,
+    "universal_search_rank": 112447,
+    "flag_counts": {
+      "resolved": 5,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 104412,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Quercus_robur",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "English oak"
+  }
+}

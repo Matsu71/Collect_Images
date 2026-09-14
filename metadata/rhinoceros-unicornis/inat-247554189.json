@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-247554189",
+  "targetId": "org-rhinoceros-unicornis",
+  "scientificName": "Rhinoceros unicornis",
+  "nameJa": "インドサイ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:07:49+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:07:49+00:00",
+  "files": {
+    "master": "images/rhinoceros-unicornis/inat-247554189.jpg",
+    "web": "images/rhinoceros-unicornis/inat-247554189.webp",
+    "thumbnail": "images/rhinoceros-unicornis/inat-247554189-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 959840,
+    "web": 239920,
+    "thumbnail": 36006
+  },
+  "sha256": {
+    "download": "1bb79f96c009adefdbae2f2140ffd3b2c5a4b5e5532a363a898ba0a41776c62a",
+    "master": "7a547f674ac8dbdd9755529e88c45bd0d265ad0c136955a70652366d9f9ace6c",
+    "web": "f046daf3a6fef71a7c04e197de37347d46fd9384ef4e227bf8880e9ccf563203"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Rhinoceros unicornis [Rhinoceros unicornis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/247554189. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Rhinoceros unicornis",
+  "sourceId": "247554189",
+  "photoUrl": "https://www.inaturalist.org/photos/247554189",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/247554189/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/247554189/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 43345,
+  "acceptedScientificName": "Rhinoceros unicornis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/144257125",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 247554189,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/247554189/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/43327/43341/43344",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,43327,43341,43344,43345",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43345,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 43344,
+    "name": "Rhinoceros unicornis",
+    "rank": "species",
+    "extinct": false,
+    "id": 43345,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      43327,
+      43341,
+      43344,
+      43345
+    ],
+    "provisional": false,
+    "created_at": "2008-03-19T00:53:41+00:00",
+    "default_photo": {
+      "id": 472819355,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) nonext(공인인증서), some rights reserved (CC BY-NC), uploaded by nonext(공인인증서)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472819355/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "nonext(공인인증서)",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472819355/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472819355/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 2266,
+    "photos_locked": false,
+    "universal_search_rank": 2266,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 12044,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Indian_rhinoceros",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Indian Rhinoceros",
+    "conservation_status": {
+      "id": 16538,
+      "place_id": null,
+      "source_id": 15286,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "obscured",
+      "iucn": 30
+    }
+  }
+}
