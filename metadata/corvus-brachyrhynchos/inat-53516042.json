@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-53516042",
+  "targetId": "org-corvus-brachyrhynchos",
+  "scientificName": "Corvus brachyrhynchos",
+  "nameJa": "アメリカガラス",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:57:37+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:57:37+00:00",
+  "files": {
+    "master": "images/corvus-brachyrhynchos/inat-53516042.jpg",
+    "web": "images/corvus-brachyrhynchos/inat-53516042.webp",
+    "thumbnail": "images/corvus-brachyrhynchos/inat-53516042-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1681,
+      1264
+    ],
+    "master": [
+      1681,
+      1264
+    ],
+    "web": [
+      1400,
+      1053
+    ]
+  },
+  "bytes": {
+    "master": 522432,
+    "web": 168978,
+    "thumbnail": 19910
+  },
+  "sha256": {
+    "download": "2ede831a390deb0362d32516f9c79e9a030681c077588c215a3e02be3e7bd588",
+    "master": "945dc3f3bfaa1944190d1a35db3acc2f50431e614d9aa64b85674fd4ce99c3cd",
+    "web": "c7820e65afd0ef80ff92443a446a01bb43ea0b8c64048fa5f3b4569ea4211da1"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Corvus brachyrhynchos [Corvus brachyrhynchos] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/53516042. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Corvus brachyrhynchos",
+  "sourceId": "53516042",
+  "photoUrl": "https://www.inaturalist.org/photos/53516042",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53516042/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53516042/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 8021,
+  "acceptedScientificName": "Corvus brachyrhynchos",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/34034414",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.805714285714286,
+  "photoApiEvidence": {
+    "id": 53516042,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1681,
+      "height": 1264
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53516042/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/7823/7998",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,7823,7998,8021",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 8021,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 7998,
+    "name": "Corvus brachyrhynchos",
+    "rank": "species",
+    "extinct": false,
+    "id": 8021,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      7823,
+      7998,
+      8021
+    ],
+    "created_at": "2008-03-13T02:56:23+00:00",
+    "default_photo": {
+      "id": 24115,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Joe McKenna, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24115/square.jpg",
+      "original_dimensions": {
+        "height": 1448,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Joe McKenna",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24115/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24115/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 219944,
+    "photos_locked": false,
+    "universal_search_rank": 219944,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/American_crow",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "American Crow"
+  }
+}

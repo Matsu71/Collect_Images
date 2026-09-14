@@ -193,3 +193,101 @@ Capra ibex [Capra ibex] — Philipp Pavelka / iNaturalist, CC-BY (https://creati
 Caracal caracal [Caracal caracal] — Shaun Swanepoel / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/44698847. Original attribution: (c) Shaun Swanepoel, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Carassius auratus [Carassius auratus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/247054696. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Carcharhinus leucas [Carcharhinus leucas] — Michael J. Gras, M.Ed. / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/208821915. Original attribution: (c) Michael J. Gras, M.Ed., some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Carcharodon carcharias [Carcharodon carcharias] — Adam J. Searcy / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/5289265. Original attribution: (c) Adam J. Searcy, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Cardinalis cardinalis [Cardinalis cardinalis] — Daughter Dad / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/517002723. Original attribution: (c) Daughter Dad, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Caretta caretta [Caretta caretta] — Jan Ebr & Ivana Ebrová / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/183028089. Original attribution: (c) Jan Ebr & Ivana Ebrová, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Carnegiea gigantea [Carnegiea gigantea] — Harrison J Elkins / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/137635161. Original attribution: (c) Harrison J Elkins, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Castor canadensis [Castor canadensis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/214854240. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Casuarius casuarius [Casuarius casuarius] — Ian Allen / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/631309374. Original attribution: (c) Ian Allen, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Cavia porcellus [Cavia porcellus] — Kacper Aleksander / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/322297295. Original attribution: (c) Kacper Aleksander, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
+
+Cebus capucinus [Cebus capucinus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/100612045. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Ceiba pentandra [Ceiba pentandra] — Manuel Ortiz / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/32279278. Original attribution: no rights reserved, uploaded by Manuel Ortiz. Resized and re-encoded; no subject alteration.
+
+Centrochelys sulcata [Centrochelys sulcata] — Bernard DUPONT / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/286883668. Original attribution: (c) Bernard DUPONT, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
+
+Ceratotherium simum [Ceratotherium simum] — Tom Field / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/526914573. Original attribution: (c) Tom Field, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Cervus elaphus [Cervus elaphus] — Diego González Dopico / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/455676125. Original attribution: (c) Diego González Dopico, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Cetorhinus maximus [Cetorhinus maximus] — Sandra Keller / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/204425017. Original attribution: (c) Sandra Keller, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Chamaeleo calyptratus [Chamaeleo calyptratus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/729922323. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Chelonia mydas [Chelonia mydas] — Kyle Van Houtan / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/226920324. Original attribution: (c) Kyle Van Houtan, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Chelonoidis niger [Chelonoidis niger] — John G. Phillips / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/37748207. Original attribution: (c) John G. Phillips, some rights reserved (CC BY), uploaded by John G. Phillips. Resized and re-encoded; no subject alteration.
+
+Chelydra serpentina [Chelydra serpentina] — stephen / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/78630816. Original attribution: (c) stephen, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Chiloscyllium punctatum [Chiloscyllium punctatum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/660581567. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Choloepus hoffmanni [Choloepus hoffmanni] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/295073190. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Chondrus crispus [Chondrus crispus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/417420488. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Cicer arietinum [Cicer arietinum] — Mirko Duimich / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/326896969. Original attribution: (c) Mirko Duimich, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Ciona intestinalis [Ciona intestinalis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/165376311. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Claviceps purpurea 71430491 [Claviceps purpurea] — Alexis / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Claviceps_purpurea_71430491.jpg. Original attribution: https://www.inaturalist.org/photos/71430491. Resized and re-encoded; no subject alteration.
+
+Clupea harengus [Clupea harengus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/420893815. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Coccinella septempunctata [Coccinella septempunctata] — Anna Petrosyan / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/162226101. Original attribution: (c) Anna Petrosyan, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Cocos nucifera [Cocos nucifera] — David Anderson / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/103610074. Original attribution: (c) David Anderson, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Coffea arabica [Coffea arabica] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/480261781. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Columba livia [Columba livia] — Birds of Gilgit-Baltistan / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/466776975. Original attribution: (c) Birds of Gilgit-Baltistan, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
+
+Connochaetes taurinus [Connochaetes taurinus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/143660497. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Conraua goliath [Conraua goliath] — Ryan van Huyssteen / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/360001369. Original attribution: (c) Ryan van Huyssteen, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Coptotermes formosanus [Coptotermes formosanus] — Tyler Bishop / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/39817844. Original attribution: (c) Tyler Bishop, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Corallina officinalis [Corallina officinalis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/202533904. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Corvus brachyrhynchos [Corvus brachyrhynchos] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/53516042. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Corvus corax [Corvus corax] — Mila C. / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/381522855. Original attribution: (c) Mila C., some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Crassostrea gigas infested with Polydora websteri (10.1007-s12526-020-01092-6) Figure 1 [Crassostrea gigas] — [Photos: Dagmar Lackschewitz] Waser, A.M., Lackschewitz, D., Knol, J. et al. Spread of the invasive shell-boring annelid Polydora websteri (Polychaeta, Spionidae) into naturalised oyster reefs in the European Wadden Sea. Mar. Biodivers. 50, 63 (2020). https://doi.org/10.1007/s12526-020-01092-6 / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Crassostrea_gigas_infested_with_Polydora_websteri_(10.1007-s12526-020-01092-6)_Figure_1.jpg. Original attribution: https://doi.org/10.1007/s12526-020-01092-6. Resized and re-encoded; no subject alteration.
+
+Crocodylus niloticus [Crocodylus niloticus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/107830399. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Crocodylus porosus [Crocodylus porosus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/22073105. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Crocuta crocuta [Crocuta crocuta] — Amelia Tauber / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/123762771. Original attribution: (c) Amelia Tauber, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Crotalus atrox [Crotalus atrox] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/421927710. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Cryptobranchus alleganiensis [Cryptobranchus alleganiensis] — Dominic / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/545660283. Original attribution: (c) Dominic, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Cryptococcus neoformans ,capsul,India ink [Cryptococcus neoformans] — Persian Microbiologist / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Cryptococcus_neoformans_,capsul,India_ink.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Cuon alpinus [Cuon alpinus] — Morten Ross / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/224605535. Original attribution: (c) Morten Ross, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Cyanea capillata [Cyanea capillata] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/557514597. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Cyanocitta cristata [Cyanocitta cristata] — Judy Gallagher / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/530721418. Original attribution: (c) Judy Gallagher, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Cyathea spinulosa [Cyathea spinulosa] — self / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Cyathea_spinulosa.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Cycas revoluta [Cycas revoluta] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/431290635. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Cygnus olor [Cygnus olor] — carnifex / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/13855998. Original attribution: (c) carnifex, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Trichodesmium interactions with bacteria to acquire iron [Trichodesmium spp.] — Subhajit Basu, Martha Gledhill, Dirk de Beer, S. G. Prabhu Matondkar & Yeala Shaked / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Trichodesmium_interactions_with_bacteria_to_acquire_iron.png. Original attribution: [1]. Resized and re-encoded; no subject alteration.

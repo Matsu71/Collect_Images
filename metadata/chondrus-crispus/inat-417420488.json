@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-417420488",
+  "targetId": "org-chondrus-crispus",
+  "scientificName": "Chondrus crispus",
+  "nameJa": "アイリッシュモス",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:57:12+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:57:12+00:00",
+  "files": {
+    "master": "images/chondrus-crispus/inat-417420488.jpg",
+    "web": "images/chondrus-crispus/inat-417420488.webp",
+    "thumbnail": "images/chondrus-crispus/inat-417420488-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1351598,
+    "web": 284478,
+    "thumbnail": 25586
+  },
+  "sha256": {
+    "download": "e08f589e0ae8985f684bf14460abd790ab24c31a09a8755d7973e1995d007bb0",
+    "master": "631b6714831ccbeaff2834f6854f5d351955ffba536fa378dc5d942168957ff0",
+    "web": "40f8d3fa4d9dc538ac5a1296832b5c3c21e20a7786fcca832cb18f90169ada2d"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Chondrus crispus [Chondrus crispus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/417420488. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Chondrus crispus",
+  "sourceId": "417420488",
+  "photoUrl": "https://www.inaturalist.org/photos/417420488",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/417420488/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/417420488/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 130176,
+  "acceptedScientificName": "Chondrus crispus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/234770674",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.925714285714285,
+  "photoApiEvidence": {
+    "id": 417420488,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417420488/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/57774/1360860/57775/1051024/67673/71119/87457",
+    "min_species_ancestry": "48460,47126,57774,1360860,57775,1051024,67673,71119,87457,130176",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 130176,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 87457,
+    "name": "Chondrus crispus",
+    "rank": "species",
+    "extinct": false,
+    "id": 130176,
+    "ancestor_ids": [
+      48460,
+      47126,
+      57774,
+      1360860,
+      57775,
+      1051024,
+      67673,
+      71119,
+      87457,
+      130176
+    ],
+    "provisional": false,
+    "created_at": "2012-06-14T06:57:24+00:00",
+    "default_photo": {
+      "id": 9581986,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Susan J. Hewitt, some rights reserved (CC BY-NC), uploaded by Susan J. Hewitt",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9581986/square.jpg",
+      "original_dimensions": {
+        "height": 1530,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Susan J. Hewitt",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9581986/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9581986/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 7069,
+    "photos_locked": false,
+    "universal_search_rank": 7069,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Chondrus_crispus",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Irish Moss"
+  }
+}

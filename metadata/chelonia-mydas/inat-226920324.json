@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-226920324",
+  "targetId": "org-chelonia-mydas",
+  "scientificName": "Chelonia mydas",
+  "nameJa": "アオウミガメ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:56:58+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:56:58+00:00",
+  "files": {
+    "master": "images/chelonia-mydas/inat-226920324.jpg",
+    "web": "images/chelonia-mydas/inat-226920324.webp",
+    "thumbnail": "images/chelonia-mydas/inat-226920324-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1783
+    ],
+    "master": [
+      2048,
+      1783
+    ],
+    "web": [
+      1400,
+      1219
+    ]
+  },
+  "bytes": {
+    "master": 285154,
+    "web": 62902,
+    "thumbnail": 8918
+  },
+  "sha256": {
+    "download": "57aae6b253be92aab1de8864b45e0717b266cb2f68b635be8fec8c5a33880e8c",
+    "master": "8292a29f24e9b63d3ab5286e090acf7483b8223878092d716eb3125edb88dd09",
+    "web": "1c735f4d9235bcde107ba034db922b378b0b43f0b1dbaa10ae99af25287d0afa"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Chelonia mydas [Chelonia mydas] — Kyle Van Houtan / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/226920324. Original attribution: (c) Kyle Van Houtan, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Chelonia mydas",
+  "sourceId": "226920324",
+  "photoUrl": "https://www.inaturalist.org/photos/226920324",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/226920324/original.png",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/226920324/original.png",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Kyle Van Houtan",
+  "originalAttribution": "(c) Kyle Van Houtan, some rights reserved (CC BY)",
+  "taxonId": 39659,
+  "acceptedScientificName": "Chelonia mydas",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": "https://www.inaturalist.org/observations/133239640",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.88047619047619,
+  "photoApiEvidence": {
+    "id": 226920324,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1783
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/226920324/square.png",
+    "attribution": "(c) Kyle Van Houtan, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/39532/372234/39657/1366913/39658",
+    "min_species_ancestry": "48460,1,2,355675,26036,39532,372234,39657,1366913,39658,39659",
+    "endemic": false,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 39659,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 39658,
+    "name": "Chelonia mydas",
+    "rank": "species",
+    "extinct": false,
+    "id": 39659,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      39532,
+      372234,
+      39657,
+      1366913,
+      39658,
+      39659
+    ],
+    "created_at": "2008-03-18T03:27:43+00:00",
+    "default_photo": {
+      "id": 197457958,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) MARC MARTIN SOLA, some rights reserved (CC BY-NC), uploaded by MARC MARTIN SOLA",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/197457958/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "MARC MARTIN SOLA",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/197457958/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/197457958/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 9,
+    "observations_count": 48121,
+    "photos_locked": false,
+    "universal_search_rank": 48121,
+    "flag_counts": {
+      "resolved": 6,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Green_sea_turtle",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "Green Sea Turtle",
+    "conservation_status": {
+      "id": 128166,
+      "place_id": null,
+      "source_id": 10504,
+      "user_id": null,
+      "authority": "U.S. Fish & Wildlife Service",
+      "status": "t",
+      "status_name": "threatened",
+      "geoprivacy": "obscured",
+      "iucn": 30
+    }
+  }
+}

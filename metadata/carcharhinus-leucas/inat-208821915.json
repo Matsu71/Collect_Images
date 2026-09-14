@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-208821915",
+  "targetId": "org-carcharhinus-leucas",
+  "scientificName": "Carcharhinus leucas",
+  "nameJa": "オオメジロザメ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:56:25+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:56:25+00:00",
+  "files": {
+    "master": "images/carcharhinus-leucas/inat-208821915.jpg",
+    "web": "images/carcharhinus-leucas/inat-208821915.webp",
+    "thumbnail": "images/carcharhinus-leucas/inat-208821915-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1036378,
+    "web": 206566,
+    "thumbnail": 12090
+  },
+  "sha256": {
+    "download": "cb31238f353a505224a26fd9c13bfe1f6d774ee3aaa744637b2887f64de72256",
+    "master": "ba41e70e97b26e4c5bea8cb877e1d5b3159f3aadcc606c633d101fbb75e8bbaf",
+    "web": "93b1d976af175e8ef9335bf3789afc2dd5fa796bacdfe43acc19dd3a329402ee"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Carcharhinus leucas [Carcharhinus leucas] — Michael J. Gras, M.Ed. / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/208821915. Original attribution: (c) Michael J. Gras, M.Ed., some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Carcharhinus leucas",
+  "sourceId": "208821915",
+  "photoUrl": "https://www.inaturalist.org/photos/208821915",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/208821915/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/208821915/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Michael J. Gras, M.Ed.",
+  "originalAttribution": "(c) Michael J. Gras, M.Ed., some rights reserved (CC BY)",
+  "taxonId": 84996,
+  "acceptedScientificName": "Carcharhinus leucas",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": "https://www.inaturalist.org/observations/123277944",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.527619047619047,
+  "photoApiEvidence": {
+    "id": 208821915,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/208821915/square.jpeg",
+    "attribution": "(c) Michael J. Gras, M.Ed., some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/196614/47273/551307/551308/48069/52301/53585",
+    "min_species_ancestry": "48460,1,2,355675,196614,47273,551307,551308,48069,52301,53585,84996",
+    "endemic": false,
+    "iconic_taxon_id": 1,
+    "min_species_taxon_id": 84996,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 53585,
+    "name": "Carcharhinus leucas",
+    "rank": "species",
+    "extinct": false,
+    "id": 84996,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      196614,
+      47273,
+      551307,
+      551308,
+      48069,
+      52301,
+      53585,
+      84996
+    ],
+    "provisional": false,
+    "created_at": "2011-07-23T23:59:12+00:00",
+    "default_photo": {
+      "id": 351417931,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Luis P. B., some rights reserved (CC BY-NC), uploaded by Luis P. B.",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351417931/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Luis P. B.",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351417931/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351417931/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 2022,
+    "photos_locked": false,
+    "universal_search_rank": 2022,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Bull_shark",
+    "iconic_taxon_name": "Animalia",
+    "preferred_common_name": "Bull Shark",
+    "conservation_status": {
+      "id": 24622,
+      "place_id": null,
+      "source_id": 4,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "obscured",
+      "iucn": 30
+    }
+  }
+}

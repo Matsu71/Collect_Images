@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-183028089",
+  "targetId": "org-caretta-caretta",
+  "scientificName": "Caretta caretta",
+  "nameJa": "アカウミガメ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:56:30+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:56:30+00:00",
+  "files": {
+    "master": "images/caretta-caretta/inat-183028089.jpg",
+    "web": "images/caretta-caretta/inat-183028089.webp",
+    "thumbnail": "images/caretta-caretta/inat-183028089-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1620
+    ],
+    "master": [
+      2048,
+      1620
+    ],
+    "web": [
+      1400,
+      1107
+    ]
+  },
+  "bytes": {
+    "master": 525948,
+    "web": 106878,
+    "thumbnail": 12484
+  },
+  "sha256": {
+    "download": "9b9cb79c16e823962a2f9d7217b7ce64f4573ad19687a500f8cecf39f89b1ce7",
+    "master": "ce7dd3d237868178fa107f37ccc4462b7c5f3bea65392d637a686ea71ca50b7d",
+    "web": "f31994c9998faabd9d692faf7c0aa6cd08899ed4cc724f2de567b4caec74f783"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Caretta caretta [Caretta caretta] — Jan Ebr & Ivana Ebrová / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/183028089. Original attribution: (c) Jan Ebr & Ivana Ebrová, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Caretta caretta",
+  "sourceId": "183028089",
+  "photoUrl": "https://www.inaturalist.org/photos/183028089",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183028089/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183028089/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Jan Ebr & Ivana Ebrová",
+  "originalAttribution": "(c) Jan Ebr & Ivana Ebrová, some rights reserved (CC BY)",
+  "taxonId": 39665,
+  "acceptedScientificName": "Caretta caretta",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": "https://www.inaturalist.org/observations/108680443",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.314285714285715,
+  "photoApiEvidence": {
+    "id": 183028089,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1620
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/183028089/square.jpeg",
+    "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/39532/372234/39657/797541/39664",
+    "min_species_ancestry": "48460,1,2,355675,26036,39532,372234,39657,797541,39664,39665",
+    "endemic": false,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 39665,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 39664,
+    "name": "Caretta caretta",
+    "rank": "species",
+    "extinct": false,
+    "id": 39665,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      39532,
+      372234,
+      39657,
+      797541,
+      39664,
+      39665
+    ],
+    "created_at": "2008-03-18T03:27:50+00:00",
+    "default_photo": {
+      "id": 176772831,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Roberto Pillon, some rights reserved (CC BY-NC), uploaded by Roberto Pillon",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176772831/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Roberto Pillon",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176772831/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176772831/medium.jpeg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 7,
+    "observations_count": 10130,
+    "photos_locked": false,
+    "universal_search_rank": 10130,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Loggerhead_sea_turtle",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "Loggerhead Sea Turtle",
+    "conservation_status": {
+      "id": 14641,
+      "place_id": null,
+      "source_id": 26,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "obscured",
+      "iucn": 30
+    }
+  }
+}

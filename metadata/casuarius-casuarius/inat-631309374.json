@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-631309374",
+  "targetId": "org-casuarius-casuarius",
+  "scientificName": "Casuarius casuarius",
+  "nameJa": "ヒクイドリ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:56:36+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:56:36+00:00",
+  "files": {
+    "master": "images/casuarius-casuarius/inat-631309374.jpg",
+    "web": "images/casuarius-casuarius/inat-631309374.webp",
+    "thumbnail": "images/casuarius-casuarius/inat-631309374-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 916738,
+    "web": 168486,
+    "thumbnail": 13040
+  },
+  "sha256": {
+    "download": "ec241b9c587739eb69655e18edfcd7e0b2042b432447935d057ec5cdc13206ae",
+    "master": "dd26169b84ed9b29eaf0df738255b029857d516f5eac45305bda30e989e0e89e",
+    "web": "40b4d8c6d55b470bb48308a6e0d8cac30eafe3609d6b220b6f555353c449e125"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Casuarius casuarius [Casuarius casuarius] — Ian Allen / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/631309374. Original attribution: (c) Ian Allen, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Casuarius casuarius",
+  "sourceId": "631309374",
+  "photoUrl": "https://www.inaturalist.org/photos/631309374",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/631309374/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/631309374/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Ian Allen",
+  "originalAttribution": "(c) Ian Allen, some rights reserved (CC BY)",
+  "taxonId": 20500,
+  "acceptedScientificName": "Casuarius casuarius",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/346337206",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.860952380952381,
+  "photoApiEvidence": {
+    "id": 631309374,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631309374/square.jpg",
+    "attribution": "(c) Ian Allen, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/367702/508252/20498",
+    "min_species_ancestry": "48460,1,2,355675,3,367702,508252,20498,20500",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 20500,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 20498,
+    "name": "Casuarius casuarius",
+    "rank": "species",
+    "extinct": false,
+    "id": 20500,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      367702,
+      508252,
+      20498,
+      20500
+    ],
+    "created_at": "2008-03-13T03:51:06+00:00",
+    "default_photo": {
+      "id": 292195634,
+      "license_code": null,
+      "attribution": "(c) Van Pierszalowski, all rights reserved, uploaded by Van Pierszalowski",
+      "url": "https://static.inaturalist.org/photos/292195634/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Van Pierszalowski",
+      "square_url": "https://static.inaturalist.org/photos/292195634/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/292195634/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 3543,
+    "photos_locked": false,
+    "universal_search_rank": 3543,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 145002,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Southern_cassowary",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Southern Cassowary"
+  }
+}

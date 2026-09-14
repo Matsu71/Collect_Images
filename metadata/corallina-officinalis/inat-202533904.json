@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-202533904",
+  "targetId": "org-corallina-officinalis",
+  "scientificName": "Corallina officinalis",
+  "nameJa": "サンゴモ・オフィキナリス",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:57:36+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:57:36+00:00",
+  "files": {
+    "master": "images/corallina-officinalis/inat-202533904.jpg",
+    "web": "images/corallina-officinalis/inat-202533904.webp",
+    "thumbnail": "images/corallina-officinalis/inat-202533904-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1523244,
+    "web": 393646,
+    "thumbnail": 22210
+  },
+  "sha256": {
+    "download": "6864a80656326eadf7dc3eb9e5a02e891bc2b0de9ac9bf505cabb691b578a989",
+    "master": "7a9790b6d7d57566ad02e2ac780e71ef070e5c0bb1680e7764a926c44bccbfcb",
+    "web": "f0a66b2f8628fdf42e49dd92240e9573439f6a14be00433380df0efad4a33bca"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Corallina officinalis [Corallina officinalis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/202533904. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Corallina officinalis",
+  "sourceId": "202533904",
+  "photoUrl": "https://www.inaturalist.org/photos/202533904",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/202533904/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/202533904/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 123632,
+  "acceptedScientificName": "Corallina officinalis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/119787121",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.194285714285714,
+  "photoApiEvidence": {
+    "id": 202533904,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/202533904/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/57774/1360860/57775/1126112/117827/1600526/117828/840800/841385/123631",
+    "min_species_ancestry": "48460,47126,57774,1360860,57775,1126112,117827,1600526,117828,840800,841385,123631,123632",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 123632,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 123631,
+    "name": "Corallina officinalis",
+    "rank": "species",
+    "extinct": false,
+    "id": 123632,
+    "ancestor_ids": [
+      48460,
+      47126,
+      57774,
+      1360860,
+      57775,
+      1126112,
+      117827,
+      1600526,
+      117828,
+      840800,
+      841385,
+      123631,
+      123632
+    ],
+    "provisional": false,
+    "created_at": "2012-02-03T02:41:43+00:00",
+    "default_photo": {
+      "id": 41305628,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Kat Halsey, some rights reserved (CC BY-NC), uploaded by Kat Halsey",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41305628/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Kat Halsey",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41305628/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41305628/medium.jpeg"
+    },
+    "taxon_changes_count": 3,
+    "taxon_schemes_count": 2,
+    "observations_count": 9886,
+    "photos_locked": false,
+    "universal_search_rank": 9886,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Corallina_officinalis",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Common Coralline"
+  }
+}

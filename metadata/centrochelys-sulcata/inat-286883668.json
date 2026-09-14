@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-286883668",
+  "targetId": "org-centrochelys-sulcata",
+  "scientificName": "Centrochelys sulcata",
+  "nameJa": "ケヅメリクガメ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:56:45+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:56:45+00:00",
+  "files": {
+    "master": "images/centrochelys-sulcata/inat-286883668.jpg",
+    "web": "images/centrochelys-sulcata/inat-286883668.webp",
+    "thumbnail": "images/centrochelys-sulcata/inat-286883668-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1455
+    ],
+    "master": [
+      2048,
+      1455
+    ],
+    "web": [
+      1400,
+      995
+    ]
+  },
+  "bytes": {
+    "master": 1071063,
+    "web": 175412,
+    "thumbnail": 21300
+  },
+  "sha256": {
+    "download": "998001a17ef9653d54f476815cb029fb2ea3e43f336c12726b98ad9ae17b34ac",
+    "master": "009693dcb4650c0845c6b1ee56f2de6a2335b3b8b55850105269c9f72277d7f4",
+    "web": "5784da2e0535042ffacb4bb8b0c33a2f4c1eb8257ae56eea1e99bcf6c4805e20"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Centrochelys sulcata [Centrochelys sulcata] — Bernard DUPONT / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/286883668. Original attribution: (c) Bernard DUPONT, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Centrochelys sulcata",
+  "sourceId": "286883668",
+  "photoUrl": "https://www.inaturalist.org/photos/286883668",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/286883668/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/286883668/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Bernard DUPONT",
+  "originalAttribution": "(c) Bernard DUPONT, some rights reserved (CC BY-SA)",
+  "taxonId": 40089,
+  "acceptedScientificName": "Centrochelys sulcata",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.07857142857143,
+  "photoApiEvidence": {
+    "id": 286883668,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Bernard DUPONT, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/286883668/square.jpg",
+    "original_dimensions": {
+      "height": 1455,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Bernard DUPONT",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/286883668/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/286883668/medium.jpg"
+  },
+  "observationTaxon": null
+}
