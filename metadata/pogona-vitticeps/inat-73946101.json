@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-73946101",
+  "targetId": "org-pogona-vitticeps",
+  "scientificName": "Pogona vitticeps",
+  "nameJa": "フトアゴヒゲトカゲ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:06:37+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:06:37+00:00",
+  "files": {
+    "master": "images/pogona-vitticeps/inat-73946101.jpg",
+    "web": "images/pogona-vitticeps/inat-73946101.webp",
+    "thumbnail": "images/pogona-vitticeps/inat-73946101-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1280,
+      854
+    ],
+    "master": [
+      1280,
+      854
+    ],
+    "web": [
+      1280,
+      854
+    ]
+  },
+  "bytes": {
+    "master": 272735,
+    "web": 179812,
+    "thumbnail": 21350
+  },
+  "sha256": {
+    "download": "4f39f067b43290c8084ddba560a6e699a785cf32a66858322b5163eaf9057516",
+    "master": "32cdb7a53e9579bc7910aa01da603c6ce651c1805a2f0885a9c17b8bcd1a1b64",
+    "web": "2cd1c5e2b09f311ead7f47ef824da1f165184f732f17804c868a6df31db8fc2a"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Pogona vitticeps [Pogona vitticeps] — Chris Lindorff / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/73946101. Original attribution: (c) Chris Lindorff, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Pogona vitticeps",
+  "sourceId": "73946101",
+  "photoUrl": "https://www.inaturalist.org/photos/73946101",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/73946101/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/73946101/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Chris Lindorff",
+  "originalAttribution": "(c) Chris Lindorff, some rights reserved (CC BY)",
+  "taxonId": 31411,
+  "acceptedScientificName": "Pogona vitticeps",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": "https://www.inaturalist.org/observations/46622535",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.219999999999999,
+  "photoApiEvidence": {
+    "id": 73946101,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1280,
+      "height": 854
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/73946101/square.jpeg",
+    "attribution": "(c) Chris Lindorff, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/26172/85552/1563907/1567778/31096/797578/31410",
+    "min_species_ancestry": "48460,1,2,355675,26036,26172,85552,1563907,1567778,31096,797578,31410,31411",
+    "endemic": true,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 31411,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 31410,
+    "name": "Pogona vitticeps",
+    "rank": "species",
+    "extinct": false,
+    "id": 31411,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      26172,
+      85552,
+      1563907,
+      1567778,
+      31096,
+      797578,
+      31410,
+      31411
+    ],
+    "created_at": "2008-03-18T01:35:51+00:00",
+    "default_photo": {
+      "id": 135000962,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) duke_n, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135000962/square.jpg",
+      "original_dimensions": {
+        "height": 540,
+        "width": 810
+      },
+      "flags": [],
+      "attribution_name": "duke_n",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135000962/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135000962/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 7255,
+    "photos_locked": false,
+    "universal_search_rank": 7255,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 21150,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Central_bearded_dragon",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "Central Bearded Dragon"
+  }
+}

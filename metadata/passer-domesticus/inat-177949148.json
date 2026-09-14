@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-177949148",
+  "targetId": "org-passer-domesticus",
+  "scientificName": "Passer domesticus",
+  "nameJa": "イエスズメ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:05:37+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:05:37+00:00",
+  "files": {
+    "master": "images/passer-domesticus/inat-177949148.jpg",
+    "web": "images/passer-domesticus/inat-177949148.webp",
+    "thumbnail": "images/passer-domesticus/inat-177949148-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1692
+    ],
+    "master": [
+      2048,
+      1692
+    ],
+    "web": [
+      1400,
+      1157
+    ]
+  },
+  "bytes": {
+    "master": 705248,
+    "web": 286940,
+    "thumbnail": 32612
+  },
+  "sha256": {
+    "download": "50c35e9b050bf4a5d49604aa17b6f3e6da5c06c0de20ae20b02d4259e8399d29",
+    "master": "87fc6b443b0808cff5cc3d7e3976a916df2935066d177e8d59bdcb22d8035f71",
+    "web": "d93a1556d8ab07bee263311ff441037f88d0870bd3cc70ed5dc2659f69008b5e"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Passer domesticus [Passer domesticus] — Sascha Nunheim / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/177949148. Original attribution: (c) Sascha Nunheim, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Passer domesticus",
+  "sourceId": "177949148",
+  "photoUrl": "https://www.inaturalist.org/photos/177949148",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/177949148/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/177949148/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Sascha Nunheim",
+  "originalAttribution": "(c) Sascha Nunheim, some rights reserved (CC BY)",
+  "taxonId": 13858,
+  "acceptedScientificName": "Passer domesticus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/105983364",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.083809523809524,
+  "photoApiEvidence": {
+    "id": 177949148,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1692
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177949148/square.jpg",
+    "attribution": "(c) Sascha Nunheim, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/13685/13847",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,13685,13847,13858",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 13858,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 13847,
+    "name": "Passer domesticus",
+    "rank": "species",
+    "extinct": false,
+    "id": 13858,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      13685,
+      13847,
+      13858
+    ],
+    "created_at": "2008-03-13T03:18:48+00:00",
+    "default_photo": {
+      "id": 4608133,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Ximo Galarza, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4608133/square.jpg",
+      "original_dimensions": {
+        "height": 1291,
+        "width": 1936
+      },
+      "flags": [],
+      "attribution_name": "Ximo Galarza",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4608133/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4608133/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 11,
+    "observations_count": 563332,
+    "photos_locked": false,
+    "universal_search_rank": 563332,
+    "flag_counts": {
+      "resolved": 8,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/House_sparrow",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "House Sparrow"
+  }
+}

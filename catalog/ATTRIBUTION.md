@@ -678,4 +678,104 @@ Oryctolagus cuniculus [Oryctolagus cuniculus] — Alexis Lours / iNaturalist, CC
 
 Oryza sativa [Oryza sativa] — Utain Pummarin / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/463769389. Original attribution: (c) Utain Pummarin, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Osmunda regalis [Osmunda regalis] — zebedeugalinha / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/576090079. Original attribution: (c) zebedeugalinha, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Osphranter rufus [Osphranter rufus] — Jan Ebr & Ivana Ebrová / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/695512003. Original attribution: (c) Jan Ebr & Ivana Ebrová, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Ovibos moschatus [Ovibos moschatus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/230366462. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Ovis aries [Ovis aries] — Christopher Stephens / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/632127459. Original attribution: (c) Christopher Stephens, some rights reserved (CC BY-SA), uploaded by Christopher Stephens. Resized and re-encoded; no subject alteration.
+
+Ovis canadensis [Ovis canadensis] — Marilynn Miller / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/236198920. Original attribution: (c) Marilynn Miller, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Les bonobos utilisent certaines feuilles aux vertus pharmacologique contre leurs parasites intestinaux [Pan paniscus] — DBeaune / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Les_bonobos_utilisent_certaines_feuilles_aux_vertus_pharmacologique_contre_leurs_parasites_intestinaux.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Pan troglodytes [Pan troglodytes] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/111187. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Pandinus imperator [Pandinus imperator] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/456405086. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Panthera leo [Panthera leo] — datadan / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/62738921. Original attribution: (c) datadan, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Panthera onca [Panthera onca] — Matt Muir / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/53458442. Original attribution: (c) Matt Muir, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Panthera pardus [Panthera pardus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/160809135. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Panthera tigris [Panthera tigris] — Morten Ross / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/222405547. Original attribution: (c) Morten Ross, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Panthera uncia [Panthera uncia] — Sara Navarro / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/593179719. Original attribution: (c) Sara Navarro, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Papilio machaon [Papilio machaon] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/198537155. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Papio anubis [Papio anubis] — Tim / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/472496742. Original attribution: (c) Tim, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Paramécium caudátum 2 [Paramecium caudatum] — MTadey / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Param%C3%A9cium_caud%C3%A1tum_2.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Passer domesticus [Passer domesticus] — Sascha Nunheim / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/177949148. Original attribution: (c) Sascha Nunheim, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Pavo cristatus [Pavo cristatus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/29714904. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Pelecanus onocrotalus [Pelecanus onocrotalus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/396164372. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Pelodiscus sinensis [Pelodiscus sinensis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/301096954. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Penicillium rubens (Fleming's strain) [Penicillium rubens] — Houbraken, J., Frisvad, J.C. & Samson, R.A / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Penicillium_rubens_(Fleming%27s_strain).png. Original attribution: Fleming’s penicillin producing strain is not Penicillium chrysogenum but P. rubens. IMA Fungus 2, 87–95 (2011). https://doi.org/10.5598/imafungus.2011.02.01.12. Resized and re-encoded; no subject alteration.
+
+Petaurus breviceps [Petaurus breviceps] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/539944041. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Petromyzon marinus [Petromyzon marinus] — Ian Murdoch / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/433632464. Original attribution: (c) Ian Murdoch, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Phalacrocorax carbo [Phalacrocorax carbo] — Pavan P Bharadwaj / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/268440866. Original attribution: (c) Pavan P Bharadwaj, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Phalaenopsis amabilis [Phalaenopsis amabilis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/617943572. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Phascolarctos cinereus [Phascolarctos cinereus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/334142508. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Phoca vitulina [Phoca vitulina] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/718078263. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Phoeniconaias minor [Phoeniconaias minor] — Parth Kansara / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/237570625. Original attribution: (c) Parth Kansara, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Phoenicopterus roseus [Phoenicopterus roseus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/350839165. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Dendrobatidae Phyllobates terribilis 2 [Phyllobates terribilis] — NasserHalaweh / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Dendrobatidae_Phyllobates_terribilis_2.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Physalia physalis [Physalia physalis] — Jan Ebr & Ivana Ebrová / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/544306293. Original attribution: (c) Jan Ebr & Ivana Ebrová, some rights reserved (CC BY), uploaded by Jan Ebr & Ivana Ebrová. Resized and re-encoded; no subject alteration.
+
+Physcomitrium patens [Physcomitrium patens] — George Greiff / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/84863377. Original attribution: (c) George Greiff, some rights reserved (CC BY), uploaded by George Greiff. Resized and re-encoded; no subject alteration.
+
+Physeter macrocephalus [Physeter macrocephalus] — Vsevolod Rudyi / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/219667126. Original attribution: (c) Vsevolod Rudyi, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Tomato with Phytophthora infestans (late blight) [Phytophthora infestans] — Downtowngal / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Tomato_with_Phytophthora_infestans_(late_blight).jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Pica pica [Pica pica] — Noa / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/229929247. Original attribution: (c) Noa, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Picea abies [Picea abies] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/122567787. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Pilobolus crystallinus 002 [Pilobolus crystallinus] — Keisotyo / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Pilobolus_crystallinus_002.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Pinus longaeva [Pinus longaeva] — Jim Morefield / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/51385754. Original attribution: (c) Jim Morefield, some rights reserved (CC BY), uploaded by Jim Morefield. Resized and re-encoded; no subject alteration.
+
+Pinus sylvestris [Pinus sylvestris] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/280243946. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Pipa pipa 1 [Pipa pipa] — User:Stan Shebs / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Pipa_pipa_1.jpg. Original attribution: Stan Shebs. Resized and re-encoded; no subject alteration.
+
+Pipistrellus pipistrellus [Pipistrellus pipistrellus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/428320672. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Plasmodium falciparum (14215760148) [Plasmodium falciparum] — Michael Wunderli / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Plasmodium_falciparum_(14215760148).jpg. Original attribution: Plasmodium falciparum. Resized and re-encoded; no subject alteration.
+
+Platalea ajaja [Platalea ajaja] — Jared Shorma / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/174351446. Original attribution: (c) Jared Shorma, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Pleurotus ostreatus 98857461 [Pleurotus ostreatus] — Anniina Kuusijärvi / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Pleurotus_ostreatus_98857461.jpg. Original attribution: https://www.inaturalist.org/photos/98857461. Resized and re-encoded; no subject alteration.
+
+Poecilia reticulata [Poecilia reticulata] — Jean Martins / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/270003556. Original attribution: (c) Jean Martins, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Pogona vitticeps [Pogona vitticeps] — Chris Lindorff / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/73946101. Original attribution: (c) Chris Lindorff, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Pongo abelii [Pongo abelii] — Robyn Perkins / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/559652317. Original attribution: (c) Robyn Perkins, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Pongo pygmaeus [Pongo pygmaeus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/109597147. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Populus tremuloides [Populus tremuloides] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/640523541. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Porphyra umbilicalis [Porphyra umbilicalis] — Gabriele Kothe-Heinrich / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/212432. Original attribution: (c) Gabriele Kothe-Heinrich, sommige rechten voorbehouden (CC BY-SA). Resized and re-encoded; no subject alteration.
+
 Trichodesmium interactions with bacteria to acquire iron [Trichodesmium spp.] — Subhajit Basu, Martha Gledhill, Dirk de Beer, S. G. Prabhu Matondkar & Yeala Shaked / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Trichodesmium_interactions_with_bacteria_to_acquire_iron.png. Original attribution: [1]. Resized and re-encoded; no subject alteration.

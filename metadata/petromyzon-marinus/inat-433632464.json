@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-433632464",
+  "targetId": "org-petromyzon-marinus",
+  "scientificName": "Petromyzon marinus",
+  "nameJa": "ウミヤツメ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:05:46+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:05:46+00:00",
+  "files": {
+    "master": "images/petromyzon-marinus/inat-433632464.jpg",
+    "web": "images/petromyzon-marinus/inat-433632464.webp",
+    "thumbnail": "images/petromyzon-marinus/inat-433632464-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 721603,
+    "web": 144902,
+    "thumbnail": 10180
+  },
+  "sha256": {
+    "download": "df2021aa6e811d4887198160ead069a3367212f1c57ac87f21e140386cbcd62d",
+    "master": "6ab5b053ae65782c458c1c70aa0872b40c7bad7bad653c3e5df3b7a593fe9a38",
+    "web": "5214f538e303541cfc73a9b920813606f640273b1b736597ee9090b022fc9c88"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Petromyzon marinus [Petromyzon marinus] — Ian Murdoch / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/433632464. Original attribution: (c) Ian Murdoch, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Petromyzon marinus",
+  "sourceId": "433632464",
+  "photoUrl": "https://www.inaturalist.org/photos/433632464",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/433632464/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/433632464/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Ian Murdoch",
+  "originalAttribution": "(c) Ian Murdoch, some rights reserved (CC BY)",
+  "taxonId": 49223,
+  "acceptedScientificName": "Petromyzon marinus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": "https://www.inaturalist.org/observations/243200258",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.592380952380952,
+  "photoApiEvidence": {
+    "id": 433632464,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/433632464/square.jpeg",
+    "attribution": "(c) Ian Murdoch, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/797045/49231/49232/49233/788523/49234",
+    "min_species_ancestry": "48460,1,2,355675,797045,49231,49232,49233,788523,49234,49223",
+    "endemic": false,
+    "iconic_taxon_id": 1,
+    "min_species_taxon_id": 49223,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 49234,
+    "name": "Petromyzon marinus",
+    "rank": "species",
+    "extinct": false,
+    "id": 49223,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      797045,
+      49231,
+      49232,
+      49233,
+      788523,
+      49234,
+      49223
+    ],
+    "provisional": false,
+    "created_at": "2009-01-21T18:38:23+02:00",
+    "default_photo": {
+      "id": 449161,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) NOAA Great Lakes Environmental Research Laboratory, bazı hakları saklıdır (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449161/square.jpg",
+      "original_dimensions": {
+        "height": 1215,
+        "width": 1800
+      },
+      "flags": [],
+      "attribution_name": "NOAA Great Lakes Environmental Research Laboratory",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449161/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449161/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 722,
+    "photos_locked": false,
+    "universal_search_rank": 722,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 30641,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Sea_lamprey",
+    "iconic_taxon_name": "Animalia",
+    "preferred_common_name": "Sea Lamprey"
+  }
+}

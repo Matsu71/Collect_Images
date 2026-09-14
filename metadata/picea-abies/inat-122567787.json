@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-122567787",
+  "targetId": "org-picea-abies",
+  "scientificName": "Picea abies",
+  "nameJa": "ヨーロッパトウヒ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:06:16+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:06:16+00:00",
+  "files": {
+    "master": "images/picea-abies/inat-122567787.jpg",
+    "web": "images/picea-abies/inat-122567787.webp",
+    "thumbnail": "images/picea-abies/inat-122567787-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1285395,
+    "web": 474306,
+    "thumbnail": 38920
+  },
+  "sha256": {
+    "download": "a673bfc3e58661d2ac08039031e0ec6bdf746c7bb8e255114f5f48475ab33faf",
+    "master": "de2065cffd7c5eba5d18fb9159106b0596d04dfbde5626c02169c4352c159559",
+    "web": "6c85e0da4730d80bd793ae1a60884a5842a6d8f054f096abd32c860bb0afe80c"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Picea abies [Picea abies] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/122567787. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Picea abies",
+  "sourceId": "122567787",
+  "photoUrl": "https://www.inaturalist.org/photos/122567787",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/122567787/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/122567787/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 63567,
+  "acceptedScientificName": "Picea abies",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/74961703",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 122567787,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122567787/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/136329/47375/47562/1456301/63573",
+    "min_species_ancestry": "48460,47126,211194,136329,47375,47562,1456301,63573,63567",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 63567,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 63573,
+    "name": "Picea abies",
+    "rank": "species",
+    "extinct": false,
+    "id": 63567,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      136329,
+      47375,
+      47562,
+      1456301,
+      63573,
+      63567
+    ],
+    "created_at": "2010-11-01T07:30:49+00:00",
+    "default_photo": {
+      "id": 21333741,
+      "license_code": null,
+      "attribution": "(c) K Raymond, all rights reserved, uploaded by K Raymond",
+      "url": "https://static.inaturalist.org/photos/21333741/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "K Raymond",
+      "square_url": "https://static.inaturalist.org/photos/21333741/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/21333741/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 7,
+    "observations_count": 92357,
+    "photos_locked": false,
+    "universal_search_rank": 92357,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Picea_abies",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Norway spruce"
+  }
+}

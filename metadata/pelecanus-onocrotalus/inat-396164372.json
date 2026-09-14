@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-396164372",
+  "targetId": "org-pelecanus-onocrotalus",
+  "scientificName": "Pelecanus onocrotalus",
+  "nameJa": "モモイロペリカン",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:05:39+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:05:39+00:00",
+  "files": {
+    "master": "images/pelecanus-onocrotalus/inat-396164372.jpg",
+    "web": "images/pelecanus-onocrotalus/inat-396164372.webp",
+    "thumbnail": "images/pelecanus-onocrotalus/inat-396164372-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1579
+    ],
+    "master": [
+      2048,
+      1579
+    ],
+    "web": [
+      1400,
+      1079
+    ]
+  },
+  "bytes": {
+    "master": 385580,
+    "web": 74416,
+    "thumbnail": 6690
+  },
+  "sha256": {
+    "download": "f86a8b42c8b37f2a4cda9b5e791255e869e9a08df903970bf7af38bd57e218cd",
+    "master": "a53f31947e590d3e49bfd01eb14bc869c14814bea58d38e423e69a3ff47e29af",
+    "web": "9a36b60e8f4bad29fda4bf6d25559c6b522438caccbe45a343d56fbb43a449c9"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Pelecanus onocrotalus [Pelecanus onocrotalus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/396164372. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Pelecanus onocrotalus",
+  "sourceId": "396164372",
+  "photoUrl": "https://www.inaturalist.org/photos/396164372",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/396164372/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/396164372/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 4327,
+  "acceptedScientificName": "Pelecanus onocrotalus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/223582865",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.922380952380952,
+  "photoApiEvidence": {
+    "id": 396164372,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1579
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396164372/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67566/4323/4324",
+    "min_species_ancestry": "48460,1,2,355675,3,67566,4323,4324,4327",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 4327,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 4324,
+    "name": "Pelecanus onocrotalus",
+    "rank": "species",
+    "extinct": false,
+    "id": 4327,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67566,
+      4323,
+      4324,
+      4327
+    ],
+    "provisional": false,
+    "created_at": "2008-03-13T02:45:02+00:00",
+    "default_photo": {
+      "id": 114441448,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Luca Boscain, some rights reserved (CC BY-NC), uploaded by Luca Boscain",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114441448/square.jpg",
+      "original_dimensions": {
+        "height": 728,
+        "width": 999
+      },
+      "flags": [],
+      "attribution_name": "Luca Boscain",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114441448/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114441448/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 10190,
+    "photos_locked": false,
+    "universal_search_rank": 10190,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 142723,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_white_pelican",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Great White Pelican"
+  }
+}

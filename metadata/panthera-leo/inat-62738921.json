@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-62738921",
+  "targetId": "org-panthera-leo",
+  "scientificName": "Panthera leo",
+  "nameJa": "ライオン",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:05:18+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:05:18+00:00",
+  "files": {
+    "master": "images/panthera-leo/inat-62738921.jpg",
+    "web": "images/panthera-leo/inat-62738921.webp",
+    "thumbnail": "images/panthera-leo/inat-62738921-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 989053,
+    "web": 173984,
+    "thumbnail": 22850
+  },
+  "sha256": {
+    "download": "d954dfab0113c29fcc3773ab47d23025c6181d781eaae871e071d0f7c6e3471d",
+    "master": "6d1ece7a3057beb57cdae27804b0cc7630064e97c870d2b0397411ce92259a8d",
+    "web": "c40bbe14ac360313e31ba9fda1a1e1cfebde6c84737c3342a08698af39fb7f00"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Panthera leo [Panthera leo] — datadan / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/62738921. Original attribution: (c) datadan, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Panthera leo",
+  "sourceId": "62738921",
+  "photoUrl": "https://www.inaturalist.org/photos/62738921",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/62738921/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/62738921/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "datadan",
+  "originalAttribution": "(c) datadan, some rights reserved (CC BY)",
+  "taxonId": 41964,
+  "acceptedScientificName": "Panthera leo",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/39540446",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.194285714285714,
+  "photoApiEvidence": {
+    "id": 62738921,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62738921/square.jpeg",
+    "attribution": "(c) datadan, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/41944/846273/41962/41964",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,41944,846273,41962,41964",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 41964,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 41964,
+    "name": "Panthera leo melanochaita",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 557401,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      41944,
+      846273,
+      41962,
+      41964,
+      557401
+    ],
+    "created_at": "2017-08-18T22:19:15+00:00",
+    "default_photo": {
+      "id": 283643308,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) cirolana, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/283643308/square.jpeg",
+      "original_dimensions": {
+        "height": 1222,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "cirolana",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/283643308/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/283643308/medium.jpeg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 1,
+    "observations_count": 17645,
+    "photos_locked": false,
+    "universal_search_rank": 17645,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Southern_African_lion",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Southern Lion"
+  }
+}

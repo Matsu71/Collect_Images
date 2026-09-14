@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-539157736",
+  "targetId": "org-posidonia-oceanica",
+  "scientificName": "Posidonia oceanica",
+  "nameJa": "ポシドニア・オセアニカ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:06:44+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:06:44+00:00",
+  "files": {
+    "master": "images/posidonia-oceanica/inat-539157736.jpg",
+    "web": "images/posidonia-oceanica/inat-539157736.webp",
+    "thumbnail": "images/posidonia-oceanica/inat-539157736-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 784850,
+    "web": 181962,
+    "thumbnail": 12456
+  },
+  "sha256": {
+    "download": "3f4ab9ec19790a93c0dbff5b57b07c25e6c0650a9f3c8e1ff7e5b42ace81f6e0",
+    "master": "dad321b5534c7a8bc759dcb0d1350a6807fe99d66f20da5d09ce517cbc5ffb38",
+    "web": "31aae854f090e614c5efdf7f9c3444fe9698adad12e79167ce3f9d22d848a4af"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Posidonia oceanica [Posidonia oceanica] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/539157736. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Posidonia oceanica",
+  "sourceId": "539157736",
+  "photoUrl": "https://www.inaturalist.org/photos/539157736",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/539157736/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/539157736/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 118943,
+  "acceptedScientificName": "Posidonia oceanica",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/299270764",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 539157736,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539157736/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47163/48073/71606/118944",
+    "min_species_ancestry": "48460,47126,211194,47125,47163,48073,71606,118944,118943",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 118943,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 118944,
+    "name": "Posidonia oceanica",
+    "rank": "species",
+    "extinct": false,
+    "id": 118943,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47163,
+      48073,
+      71606,
+      118944,
+      118943
+    ],
+    "provisional": false,
+    "created_at": "2011-08-29T19:31:26+00:00",
+    "default_photo": {
+      "id": 456503368,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Falk Viczian Solarboot-Projekte gGmbH, some rights reserved (CC BY-NC), uploaded by Falk Viczian Solarboot-Projekte gGmbH",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456503368/square.jpg",
+      "original_dimensions": {
+        "height": 1152,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Falk Viczian Solarboot-Projekte gGmbH",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456503368/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456503368/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 5963,
+    "photos_locked": false,
+    "universal_search_rank": 5963,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Posidonia_oceanica",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Neptune Grass"
+  }
+}

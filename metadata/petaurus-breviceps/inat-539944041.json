@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-539944041",
+  "targetId": "org-petaurus-breviceps",
+  "scientificName": "Petaurus breviceps",
+  "nameJa": "フクロモモンガ（分類再検討中）",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:05:44+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:05:44+00:00",
+  "files": {
+    "master": "images/petaurus-breviceps/inat-539944041.jpg",
+    "web": "images/petaurus-breviceps/inat-539944041.webp",
+    "thumbnail": "images/petaurus-breviceps/inat-539944041-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1368
+    ],
+    "master": [
+      2048,
+      1368
+    ],
+    "web": [
+      1400,
+      935
+    ]
+  },
+  "bytes": {
+    "master": 773310,
+    "web": 188950,
+    "thumbnail": 15214
+  },
+  "sha256": {
+    "download": "94d65919c0dc80d8b339c9fc743bca41dd07c89af0caa71f70ee1572281e4234",
+    "master": "1821eb9e20b1afdadff539519e46da32b8bf6905bc4bc4140e548f8d34ad3c07",
+    "web": "7684d980be282fe58e4f99bd9e8778681c551ba9babb702f41ee27bd7ab900fd"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Petaurus breviceps [Petaurus breviceps] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/539944041. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Petaurus breviceps",
+  "sourceId": "539944041",
+  "photoUrl": "https://www.inaturalist.org/photos/539944041",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/539944041/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/539944041/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 1654557,
+  "acceptedScientificName": "Petaurus breviceps",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "complex",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/299698391",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.954285714285714,
+  "photoApiEvidence": {
+    "id": 539944041,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1368
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539944041/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848319/42711/1539329/42718/846276/42719/1654557",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848319,42711,1539329,42718,846276,42719,1654557,1472413",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 1472413,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 1654557,
+    "name": "Petaurus papuanus",
+    "rank": "species",
+    "extinct": false,
+    "id": 1472413,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848319,
+      42711,
+      1539329,
+      42718,
+      846276,
+      42719,
+      1654557,
+      1472413
+    ],
+    "created_at": "2023-06-05T12:24:00+00:00",
+    "default_photo": {
+      "id": 52747322,
+      "license_code": null,
+      "attribution": "(c) Carlos N. G. Bocos, all rights reserved, uploaded by Carlos N. G. Bocos",
+      "url": "https://static.inaturalist.org/photos/52747322/square.jpeg",
+      "original_dimensions": {
+        "height": 1357,
+        "width": 2036
+      },
+      "flags": [],
+      "attribution_name": "Carlos N. G. Bocos",
+      "square_url": "https://static.inaturalist.org/photos/52747322/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/52747322/medium.jpeg"
+    },
+    "taxon_changes_count": 5,
+    "taxon_schemes_count": 0,
+    "observations_count": 56,
+    "photos_locked": false,
+    "universal_search_rank": 56,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 85651,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "New Guinea Glider"
+  }
+}

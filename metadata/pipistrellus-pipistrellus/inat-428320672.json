@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-428320672",
+  "targetId": "org-pipistrellus-pipistrellus",
+  "scientificName": "Pipistrellus pipistrellus",
+  "nameJa": "ナミアブラコウモリ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:06:23+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:06:23+00:00",
+  "files": {
+    "master": "images/pipistrellus-pipistrellus/inat-428320672.jpg",
+    "web": "images/pipistrellus-pipistrellus/inat-428320672.webp",
+    "thumbnail": "images/pipistrellus-pipistrellus/inat-428320672-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 862745,
+    "web": 188220,
+    "thumbnail": 16828
+  },
+  "sha256": {
+    "download": "52e594c12d05e09dfb6cae07974a95f4f0b4e0ea930beb11779e0b86c1576012",
+    "master": "41c6803324af44f28ef212263cc0d99b6e9e4a1f4d0d7680181f23e1c913b61b",
+    "web": "21023c5adfe1e1545860fe6b6a02cbd038c32c2d48964770e0c262ff1718d164"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Pipistrellus pipistrellus [Pipistrellus pipistrellus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/428320672. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Pipistrellus pipistrellus",
+  "sourceId": "428320672",
+  "photoUrl": "https://www.inaturalist.org/photos/428320672",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/428320672/original.png",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/428320672/original.png",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 40364,
+  "acceptedScientificName": "Pipistrellus pipistrellus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/240415692",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 428320672,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/428320672/square.png",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/40268/446946/446959/40269/846180/1317272/40355",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,40268,446946,446959,40269,846180,1317272,40355,40364",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 40364,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 40355,
+    "name": "Pipistrellus pipistrellus",
+    "rank": "species",
+    "extinct": false,
+    "id": 40364,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      40268,
+      446946,
+      446959,
+      40269,
+      846180,
+      1317272,
+      40355,
+      40364
+    ],
+    "provisional": false,
+    "created_at": "2008-03-19T00:19:47+00:00",
+    "default_photo": {
+      "id": 6156906,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Jakob Fahr, some rights reserved (CC BY-NC), uploaded by Jakob Fahr",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6156906/square.jpeg",
+      "original_dimensions": {
+        "height": 1860,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Jakob Fahr",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6156906/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6156906/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 7577,
+    "photos_locked": false,
+    "universal_search_rank": 7577,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_pipistrelle",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Common Pipistrelle"
+  }
+}

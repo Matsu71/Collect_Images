@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-350839165",
+  "targetId": "org-phoenicopterus-roseus",
+  "scientificName": "Phoenicopterus roseus",
+  "nameJa": "オオフラミンゴ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:06:02+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:06:02+00:00",
+  "files": {
+    "master": "images/phoenicopterus-roseus/inat-350839165.jpg",
+    "web": "images/phoenicopterus-roseus/inat-350839165.webp",
+    "thumbnail": "images/phoenicopterus-roseus/inat-350839165-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1963
+    ],
+    "master": [
+      2048,
+      1963
+    ],
+    "web": [
+      1400,
+      1342
+    ]
+  },
+  "bytes": {
+    "master": 536408,
+    "web": 70566,
+    "thumbnail": 3072
+  },
+  "sha256": {
+    "download": "1193d3f6bf238f8bc4561875e500a37617f37c2723a0eb8f676c91f7a25bbdf9",
+    "master": "55964f65e71f38a7cc210767ee3c1a4631acd0e491cdb2566049e51db0c1c77f",
+    "web": "ac4f7584197e9dcbea5c583179054639cc016f401b6ace709d8c5473ed24e1df"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Phoenicopterus roseus [Phoenicopterus roseus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/350839165. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Phoenicopterus roseus",
+  "sourceId": "350839165",
+  "photoUrl": "https://www.inaturalist.org/photos/350839165",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/350839165/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/350839165/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 73222,
+  "acceptedScientificName": "Phoenicopterus roseus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/198991178",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.137619047619047,
+  "photoApiEvidence": {
+    "id": 350839165,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1963
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/350839165/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67569/4255/4256",
+    "min_species_ancestry": "48460,1,2,355675,3,67569,4255,4256,73222",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 73222,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 4256,
+    "name": "Phoenicopterus roseus",
+    "rank": "species",
+    "extinct": false,
+    "id": 73222,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67569,
+      4255,
+      4256,
+      73222
+    ],
+    "created_at": "2011-05-13T21:31:32+00:00",
+    "default_photo": {
+      "id": 187242272,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) cog2022, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187242272/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "cog2022",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187242272/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187242272/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 39500,
+    "photos_locked": false,
+    "universal_search_rank": 39500,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 99161,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Greater_flamingo",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Greater Flamingo"
+  }
+}

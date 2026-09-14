@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-718078263",
+  "targetId": "org-phoca-vitulina",
+  "scientificName": "Phoca vitulina",
+  "nameJa": "ゼニガタアザラシ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:05:57+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:05:57+00:00",
+  "files": {
+    "master": "images/phoca-vitulina/inat-718078263.jpg",
+    "web": "images/phoca-vitulina/inat-718078263.webp",
+    "thumbnail": "images/phoca-vitulina/inat-718078263-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1350890,
+    "web": 193906,
+    "thumbnail": 20668
+  },
+  "sha256": {
+    "download": "b1c6ccb9511d677f021e3a457740846959580207257d6d0eeecbe0887e5514f4",
+    "master": "2b872da388a82fa0b513332f9c2a88e4636caae4fe7cbff0cde9ecae02a8bdbd",
+    "web": "82a5d75aad74729231c89f68147a36106b0717d6f47025a4560f003cbbfa7942"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Phoca vitulina [Phoca vitulina] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/718078263. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Phoca vitulina",
+  "sourceId": "718078263",
+  "photoUrl": "https://www.inaturalist.org/photos/718078263",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/718078263/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/718078263/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 41708,
+  "acceptedScientificName": "Phoca vitulina",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/391867590",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.592380952380953,
+  "photoApiEvidence": {
+    "id": 718078263,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718078263/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/372843/41687/1691817/1691820/41707",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,372843,41687,1691817,1691820,41707,41708",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 41708,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 41707,
+    "name": "Phoca vitulina",
+    "rank": "species",
+    "extinct": false,
+    "id": 41708,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      372843,
+      41687,
+      1691817,
+      1691820,
+      41707,
+      41708
+    ],
+    "created_at": "2008-03-19T00:35:25+00:00",
+    "default_photo": {
+      "id": 190781322,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Andrew Reding, some rights reserved (CC BY-NC-ND)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/190781322/square.jpg",
+      "original_dimensions": {
+        "height": 1000,
+        "width": 1500
+      },
+      "flags": [],
+      "attribution_name": "Andrew Reding",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/190781322/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/190781322/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 6,
+    "observations_count": 73184,
+    "photos_locked": false,
+    "universal_search_rank": 73184,
+    "flag_counts": {
+      "resolved": 5,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Harbor_seal",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Harbor Seal"
+  }
+}
