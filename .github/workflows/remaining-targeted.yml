@@ -1,0 +1,58 @@
+name: Complete difficult remaining photo sources
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/remaining-targeted.yml]
+permissions:
+  contents: write
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /curation/
+            /scripts/
+            /data/
+            /reviews/
+            /metadata/
+            /reference/metadata/
+            /batches/*/candidates.json
+            /batches/remaining-closure-20260914/original-gaps.json
+            /batches/remaining-targeted-20260914/
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install 'requests>=2.32,<3' 'Pillow>=11,<13'
+      - run: python -u curation/remaining_targeted.py gather
+      - name: Store every search result and candidate file
+        if: always()
+        run: |
+          git config user.name 'Collect Images bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add --sparse batches/remaining-targeted-20260914
+          if ! git diff --cached --quiet; then
+            git commit -m 'Save difficult remaining-target photographic candidates and source evidence [skip ci]'
+            pushed=false
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push origin HEAD:main; then pushed=true; break; fi
+              sleep $((attempt * 4))
+            done
+            test "$pushed" = true
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: remaining-targeted-review
+          path: |
+            batches/remaining-targeted-20260914/sheets/
+            batches/remaining-targeted-20260914/candidates.json
+            batches/remaining-targeted-20260914/status.json
+            batches/remaining-targeted-20260914/target-list.json
+            batches/remaining-targeted-20260914/search-evidence.json
+          retention-days: 7
