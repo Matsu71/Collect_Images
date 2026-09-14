@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-52044008",
+  "targetId": "inat-taxon-83799",
+  "scientificName": "Mitchella repens",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:16:32+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:16:32+00:00",
+  "files": {
+    "master": "images/mitchella-repens/inat-52044008.jpg",
+    "web": "images/mitchella-repens/inat-52044008.webp",
+    "thumbnail": "images/mitchella-repens/inat-52044008-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 586101,
+    "web": 148528,
+    "thumbnail": 17152
+  },
+  "sha256": {
+    "download": "709fba0a0fc7e587e8d5db4b2677e451e5df7b383f5bebb01b255371e84ec130",
+    "master": "f9235925d80dd170ef5f6bec110532951a93deec66b7bc54faef4821cf56cf9c",
+    "web": "7261c7eca218f038168739e3af84928641b1ce92c2c701a345871104f5d51191"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Mitchella repens [Mitchella repens] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/52044008. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Mitchella repens",
+  "sourceId": "52044008",
+  "photoUrl": "https://www.inaturalist.org/photos/52044008",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52044008/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52044008/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 83799,
+  "acceptedScientificName": "Mitchella repens",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/33151876",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.616666666666667,
+  "photoApiEvidence": {
+    "id": 52044008,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52044008/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47363/47693/788064/788074/83800",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47363,47693,788064,788074,83800,83799",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 83799,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 83800,
+    "name": "Mitchella repens",
+    "rank": "species",
+    "extinct": false,
+    "id": 83799,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47363,
+      47693,
+      788064,
+      788074,
+      83800,
+      83799
+    ],
+    "created_at": "2011-06-20T23:06:40+00:00",
+    "default_photo": {
+      "id": 40064,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Patrick Coin, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40064/square.jpg",
+      "original_dimensions": {
+        "height": 1024,
+        "width": 771
+      },
+      "flags": [],
+      "attribution_name": "Patrick Coin",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40064/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40064/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 81173,
+    "photos_locked": false,
+    "universal_search_rank": 81173,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 3505,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mitchella_repens",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "partridgeberry"
+  }
+}

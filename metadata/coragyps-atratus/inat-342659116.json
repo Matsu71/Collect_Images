@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-342659116",
+  "targetId": "inat-taxon-4765",
+  "scientificName": "Coragyps atratus",
+  "nameJa": "クロコンドル",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:16:47+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:16:47+00:00",
+  "files": {
+    "master": "images/coragyps-atratus/inat-342659116.jpg",
+    "web": "images/coragyps-atratus/inat-342659116.webp",
+    "thumbnail": "images/coragyps-atratus/inat-342659116-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 414948,
+    "web": 87404,
+    "thumbnail": 12498
+  },
+  "sha256": {
+    "download": "1b7164fbff8d74618ef6752b24989be9a08313476d505b788c27f4c6dd7991ce",
+    "master": "25cea118f98099c0c9b3dd3ad074d9839f33a0b303f36050fc1b1e65e3a1f11c",
+    "web": "face73c7be32dba28ef4a49baf6291face4ddcd40d7f55897fdb6317d4ecf69f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Coragyps atratus [Coragyps atratus] — Cricket Raspet / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/342659116. Original attribution: (c) Cricket Raspet, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Coragyps atratus",
+  "sourceId": "342659116",
+  "photoUrl": "https://www.inaturalist.org/photos/342659116",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/342659116/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/342659116/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Cricket Raspet",
+  "originalAttribution": "(c) Cricket Raspet, some rights reserved (CC BY)",
+  "taxonId": 4765,
+  "acceptedScientificName": "Coragyps atratus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/194868533",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.95,
+  "photoApiEvidence": {
+    "id": 342659116,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342659116/square.jpeg",
+    "attribution": "(c) Cricket Raspet, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/559244/71306/4764",
+    "min_species_ancestry": "48460,1,2,355675,3,559244,71306,4764,4765",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 4765,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 4764,
+    "name": "Coragyps atratus",
+    "rank": "species",
+    "extinct": false,
+    "id": 4765,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      559244,
+      71306,
+      4764,
+      4765
+    ],
+    "created_at": "2008-03-13T02:46:21+00:00",
+    "default_photo": {
+      "id": 176419188,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) eduardovieira17, some rights reserved (CC BY-NC), uploaded by eduardovieira17",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176419188/square.jpg",
+      "original_dimensions": {
+        "height": 1332,
+        "width": 2000
+      },
+      "flags": [],
+      "attribution_name": "eduardovieira17",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176419188/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176419188/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 132635,
+    "photos_locked": false,
+    "universal_search_rank": 132635,
+    "flag_counts": {
+      "resolved": 7,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black_vulture",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Black Vulture"
+  }
+}

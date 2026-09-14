@@ -1,7 +1,87 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T01:15:35+00:00",
+  "generatedAt": "2026-09-14T01:17:24+00:00",
   "records": [
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-233184601",
+      "targetId": "inat-taxon-54261",
+      "scientificName": "Abies balsamea",
+      "nameJa": "バルサムモミ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:17:05+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:17:05+00:00",
+      "files": {
+        "master": "images/abies-balsamea/inat-233184601.jpg",
+        "web": "images/abies-balsamea/inat-233184601.webp",
+        "thumbnail": "images/abies-balsamea/inat-233184601-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1536,
+          2048
+        ],
+        "master": [
+          1536,
+          2048
+        ],
+        "web": [
+          1050,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 1304818,
+        "web": 305184,
+        "thumbnail": 19720
+      },
+      "sha256": {
+        "download": "a60ac1d7d1fc86cd8ed9bf0d8fb18800584c4f2a8245354d0aea8bb0e350aa66",
+        "master": "a68db6e6c68009ada3df0e6922c5d6d2345fc3aa0d1ed8db587ef1ecc696e818",
+        "web": "dacc3728527ca8738db1a8ab17627324ac30f48ab62a9dee3a4689b0add62dcd"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 68,
+      "credit": "Abies balsamea [Abies balsamea] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/233184601. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Abies balsamea",
+      "sourceId": "233184601",
+      "photoUrl": "https://www.inaturalist.org/photos/233184601",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/233184601/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/233184601/original.jpeg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 54261,
+      "acceptedScientificName": "Abies balsamea",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/136613876",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.860952380952381
+    },
     {
       "schemaVersion": 1,
       "assetId": "inat-623563336",
@@ -164,6 +244,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-277389111",
+      "targetId": "inat-taxon-54763",
+      "scientificName": "Acer platanoides",
+      "nameJa": "ノルウェーカエデ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:16+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:16+00:00",
+      "files": {
+        "master": "images/acer-platanoides/inat-277389111.jpg",
+        "web": "images/acer-platanoides/inat-277389111.webp",
+        "thumbnail": "images/acer-platanoides/inat-277389111-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1365
+        ],
+        "master": [
+          2048,
+          1365
+        ],
+        "web": [
+          1400,
+          933
+        ]
+      },
+      "bytes": {
+        "master": 379668,
+        "web": 80310,
+        "thumbnail": 8496
+      },
+      "sha256": {
+        "download": "b8705c5411608559f3e818d5efd9c3ccba7c8e69c4030bd265296dfb691fc82c",
+        "master": "a01ba25d902ff1089f7929ac2f3e65999cc6f6a9b353cc3f2b3a012b9f9e27d1",
+        "web": "b271b9e0a9409c19d56898534967b2cf047e5eb9095cba727ca72b77648bd586"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Acer platanoides [Acer platanoides] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/277389111. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Acer platanoides",
+      "sourceId": "277389111",
+      "photoUrl": "https://www.inaturalist.org/photos/277389111",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277389111/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277389111/original.jpeg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 54763,
+      "acceptedScientificName": "Acer platanoides",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/160533372",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.283333333333333
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-195277670",
       "targetId": "inat-taxon-119791",
       "scientificName": "Acer pseudoplatanus",
@@ -241,6 +401,86 @@
       "observationQualityGrade": "research",
       "selectionBasis": "research_grade_observation",
       "selectionScore": 7.527619047619047
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-371065093",
+      "targetId": "inat-taxon-48098",
+      "scientificName": "Acer rubrum",
+      "nameJa": "アカカエデ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:58+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:58+00:00",
+      "files": {
+        "master": "images/acer-rubrum/inat-371065093.jpg",
+        "web": "images/acer-rubrum/inat-371065093.webp",
+        "thumbnail": "images/acer-rubrum/inat-371065093-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1536
+        ],
+        "master": [
+          2048,
+          1536
+        ],
+        "web": [
+          1400,
+          1050
+        ]
+      },
+      "bytes": {
+        "master": 381405,
+        "web": 88108,
+        "thumbnail": 10974
+      },
+      "sha256": {
+        "download": "5dcb267b751d8b33d8130023794adc7a09d98971bd573ab3070764343e8d0da0",
+        "master": "15589c4e611683a1193425efb651f7ada2a9e7c1e801d40628f0f4c8d2d3a3c9",
+        "web": "5ae9ed72f02c8693a96116dc68a1a41d2b6aa755d5d6089ac4cde70779362afd"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Acer rubrum [Acer rubrum] — mefisher / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/371065093. Original attribution: no rights reserved, uploaded by mefisher. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Acer rubrum",
+      "sourceId": "371065093",
+      "photoUrl": "https://www.inaturalist.org/photos/371065093",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/371065093/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/371065093/original.jpg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "mefisher",
+      "originalAttribution": "no rights reserved, uploaded by mefisher",
+      "taxonId": 48098,
+      "acceptedScientificName": "Acer rubrum",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": null,
+      "observationQualityGrade": null,
+      "selectionBasis": "curated_taxon_photo",
+      "selectionScore": 13.194285714285714
     },
     {
       "schemaVersion": 1,
@@ -1038,6 +1278,86 @@
       "observationQualityGrade": "research",
       "selectionBasis": "research_grade_observation",
       "selectionScore": 9.76142857142857
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-4710619",
+      "targetId": "inat-taxon-207977",
+      "scientificName": "Aglais io",
+      "nameJa": "クジャクチョウ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:15:36+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:15:36+00:00",
+      "files": {
+        "master": "images/aglais-io/inat-4710619.jpg",
+        "web": "images/aglais-io/inat-4710619.webp",
+        "thumbnail": "images/aglais-io/inat-4710619-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2029,
+          1757
+        ],
+        "master": [
+          2029,
+          1757
+        ],
+        "web": [
+          1400,
+          1212
+        ]
+      },
+      "bytes": {
+        "master": 537724,
+        "web": 120520,
+        "thumbnail": 11338
+      },
+      "sha256": {
+        "download": "33ccdee58dfc9f682527f5d2313c029550dd9e2404ee49909f5f1eec33cfa805",
+        "master": "5849dcf1f820d8aab663898d8ebe692d4efdfece5f70087ec7a0e242d8cf7706",
+        "web": "df344741cb67a37469acde76a8eaee459e7e77e5e794d4b7d15fd4216cd7abf6"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Aglais io [Aglais io] — S. Rae / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/4710619. Original attribution: (c) S. Rae, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Aglais io",
+      "sourceId": "4710619",
+      "photoUrl": "https://www.inaturalist.org/photos/4710619",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4710619/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4710619/original.jpg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "S. Rae",
+      "originalAttribution": "(c) S. Rae, some rights reserved (CC BY)",
+      "taxonId": 207977,
+      "acceptedScientificName": "Aglais io",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Insecta",
+      "observationUrl": null,
+      "observationQualityGrade": null,
+      "selectionBasis": "curated_taxon_photo",
+      "selectionScore": 12.51
     },
     {
       "schemaVersion": 1,
@@ -2475,6 +2795,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-108186568",
+      "targetId": "inat-taxon-6937",
+      "scientificName": "Anas crecca",
+      "nameJa": "コガモ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:12+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:12+00:00",
+      "files": {
+        "master": "images/anas-crecca/inat-108186568.jpg",
+        "web": "images/anas-crecca/inat-108186568.webp",
+        "thumbnail": "images/anas-crecca/inat-108186568-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1365
+        ],
+        "master": [
+          2048,
+          1365
+        ],
+        "web": [
+          1400,
+          933
+        ]
+      },
+      "bytes": {
+        "master": 503491,
+        "web": 79376,
+        "thumbnail": 6212
+      },
+      "sha256": {
+        "download": "25d1719017b8483415c1126351fe0d816e425b7f6ce5722e26a46a52909277aa",
+        "master": "92ef5c94be074bb47b1e5fa73827715012ae386de745bc1bbf8f2168d6ec4402",
+        "web": "a755aff00d33c8776dd5d7cdcd25f6d0d13efc72c0b07ae9888d35745265fbdc"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Anas crecca [Anas crecca] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/108186568. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Anas crecca",
+      "sourceId": "108186568",
+      "photoUrl": "https://www.inaturalist.org/photos/108186568",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/108186568/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/108186568/original.jpeg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 6937,
+      "acceptedScientificName": "Anas crecca",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Aves",
+      "observationUrl": "https://www.inaturalist.org/observations/67024246",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.283333333333333
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-32774133",
       "targetId": "org-anas-platyrhynchos",
       "scientificName": "Anas platyrhynchos",
@@ -2632,6 +3032,86 @@
       "observationQualityGrade": "research",
       "selectionBasis": "research_grade_observation",
       "selectionScore": 8.86095238095238
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-46547792",
+      "targetId": "inat-taxon-64968",
+      "scientificName": "Anaxyrus americanus",
+      "nameJa": "アメリカヒキガエル",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:17:24+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:17:24+00:00",
+      "files": {
+        "master": "images/anaxyrus-americanus/inat-46547792.jpg",
+        "web": "images/anaxyrus-americanus/inat-46547792.webp",
+        "thumbnail": "images/anaxyrus-americanus/inat-46547792-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1365
+        ],
+        "master": [
+          2048,
+          1365
+        ],
+        "web": [
+          1400,
+          933
+        ]
+      },
+      "bytes": {
+        "master": 928413,
+        "web": 174594,
+        "thumbnail": 18166
+      },
+      "sha256": {
+        "download": "87551fa40bc31ac6c22c120fe83d1c8b18cf02434bbdf4a993a20dad75353581",
+        "master": "4885e003ca607d5c54100e0ce99f310530163d3d601f2784267b980f393771b5",
+        "web": "b2c48e0c8f0f6b791ba1d6e55ce7383eea596ceb726cf3721e630f3a67ad8d20"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 80,
+      "credit": "Anaxyrus americanus [Anaxyrus americanus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/46547792. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Anaxyrus americanus",
+      "sourceId": "46547792",
+      "photoUrl": "https://www.inaturalist.org/photos/46547792",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/46547792/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/46547792/original.jpeg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 64968,
+      "acceptedScientificName": "Anaxyrus americanus",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Amphibia",
+      "observationUrl": "https://www.inaturalist.org/observations/29813766",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 9.95
     },
     {
       "schemaVersion": 1,
@@ -2952,6 +3432,86 @@
       "observationQualityGrade": "research",
       "selectionBasis": "research_grade_observation",
       "selectionScore": 7.925714285714285
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-282716008",
+      "targetId": "inat-taxon-124544",
+      "scientificName": "Anthriscus sylvestris",
+      "nameJa": "",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:15:52+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:15:52+00:00",
+      "files": {
+        "master": "images/anthriscus-sylvestris/inat-282716008.jpg",
+        "web": "images/anthriscus-sylvestris/inat-282716008.webp",
+        "thumbnail": "images/anthriscus-sylvestris/inat-282716008-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1536
+        ],
+        "master": [
+          2048,
+          1536
+        ],
+        "web": [
+          1400,
+          1050
+        ]
+      },
+      "bytes": {
+        "master": 1085932,
+        "web": 192128,
+        "thumbnail": 29220
+      },
+      "sha256": {
+        "download": "fb5ddc5a4de7a75a3614a8e8857812c0ca2814831e35e5a3918869ba3c1dc125",
+        "master": "661d538874ce60dd4a9e1c22950d7e24899e1ac2d1da8097028d666fdbac9d03",
+        "web": "835537eb4b8a5ff5d5c9a46e05565276ad93bb815c062daa74c975e023ae1d3d"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 68,
+      "credit": "Anthriscus sylvestris [Anthriscus sylvestris] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/282716008. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Anthriscus sylvestris",
+      "sourceId": "282716008",
+      "photoUrl": "https://www.inaturalist.org/photos/282716008",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/282716008/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/282716008/original.jpg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 124544,
+      "acceptedScientificName": "Anthriscus sylvestris",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/163457189",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.527619047619047
     },
     {
       "schemaVersion": 1,
@@ -3672,6 +4232,86 @@
       "observationQualityGrade": null,
       "selectionBasis": "curated_taxon_photo",
       "selectionScore": 13.194285714285714
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-156036389",
+      "targetId": "inat-taxon-52628",
+      "scientificName": "Araneus diadematus",
+      "nameJa": "ニワオニグモ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:03+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": true,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:03+00:00",
+      "files": {
+        "master": "images/araneus-diadematus/inat-156036389.jpg",
+        "web": "images/araneus-diadematus/inat-156036389.webp",
+        "thumbnail": "images/araneus-diadematus/inat-156036389-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1701
+        ],
+        "master": [
+          2048,
+          1701
+        ],
+        "web": [
+          1400,
+          1163
+        ]
+      },
+      "bytes": {
+        "master": 779950,
+        "web": 150834,
+        "thumbnail": 10626
+      },
+      "sha256": {
+        "download": "b4d796320714af8ab66db5ae6340787cd6e9c78e6d3385065b95a47c065dc84a",
+        "master": "f7516642a61893636984035b02bb3897c25ee4de0dd3692791cd3977e7b67e1d",
+        "web": "ff9eb0d02cd0b0d7298d29128cc2f6a050f849c9804ee675f879a60bedc2bd67"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Araneus diadematus [Araneus diadematus] — hedera.baltica / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/156036389. Original attribution: (c) hedera.baltica, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Araneus diadematus",
+      "sourceId": "156036389",
+      "photoUrl": "https://www.inaturalist.org/photos/156036389",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/156036389/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/156036389/original.jpg",
+      "licenseCode": "cc-by-sa",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "hedera.baltica",
+      "originalAttribution": "(c) hedera.baltica, some rights reserved (CC BY-SA)",
+      "taxonId": 52628,
+      "acceptedScientificName": "Araneus diadematus",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Arachnida",
+      "observationUrl": null,
+      "observationQualityGrade": null,
+      "selectionBasis": "curated_taxon_photo",
+      "selectionScore": 10.43
     },
     {
       "schemaVersion": 1,
@@ -10276,6 +10916,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-370022156",
+      "targetId": "inat-taxon-4793",
+      "scientificName": "Charadrius vociferus",
+      "nameJa": "フタオビチドリ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:15:47+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:15:47+00:00",
+      "files": {
+        "master": "images/charadrius-vociferus/inat-370022156.jpg",
+        "web": "images/charadrius-vociferus/inat-370022156.webp",
+        "thumbnail": "images/charadrius-vociferus/inat-370022156-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1365
+        ],
+        "master": [
+          2048,
+          1365
+        ],
+        "web": [
+          1400,
+          933
+        ]
+      },
+      "bytes": {
+        "master": 341852,
+        "web": 61120,
+        "thumbnail": 6232
+      },
+      "sha256": {
+        "download": "7ed7bc09909722229fb3cbd86e9eb280263d4935a4b0160bbe5c6d83dc3e0002",
+        "master": "28846008389871125300f88d17c899eda2ebad36a38e935f738f6f42272fe235",
+        "web": "087cacbe66836bdf8094b8c8d18e78b752e8fe7c0441ef71004db8b874f8d48d"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Charadrius vociferus [Charadrius vociferus] — Matt Felperin / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/370022156. Original attribution: (c) Matt Felperin, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Charadrius vociferus",
+      "sourceId": "370022156",
+      "photoUrl": "https://www.inaturalist.org/photos/370022156",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/370022156/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/370022156/original.jpg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Matt Felperin",
+      "originalAttribution": "(c) Matt Felperin, some rights reserved (CC BY)",
+      "taxonId": 4793,
+      "acceptedScientificName": "Charadrius vociferus",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Aves",
+      "observationUrl": "https://www.inaturalist.org/observations/209101843",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.95
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-686070739",
       "targetId": "inat-taxon-55757",
       "scientificName": "Chelidonium majus",
@@ -10913,6 +11633,86 @@
       "observationQualityGrade": "research",
       "selectionBasis": "research_grade_observation",
       "selectionScore": 7.618095238095239
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-119028540",
+      "targetId": "inat-taxon-39771",
+      "scientificName": "Chrysemys picta",
+      "nameJa": "ニシキガメ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:17:15+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:17:15+00:00",
+      "files": {
+        "master": "images/chrysemys-picta/inat-119028540.jpg",
+        "web": "images/chrysemys-picta/inat-119028540.webp",
+        "thumbnail": "images/chrysemys-picta/inat-119028540-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1536
+        ],
+        "master": [
+          2048,
+          1536
+        ],
+        "web": [
+          1400,
+          1050
+        ]
+      },
+      "bytes": {
+        "master": 1219107,
+        "web": 203944,
+        "thumbnail": 30302
+      },
+      "sha256": {
+        "download": "41597ec9ba07712de74b36695f22f6b1efad58ffd01dd7b4ccb590b5e3ef5fdb",
+        "master": "b1af9c683b04ff934feff822a0baa68e7c49e6876291a94e510d84de24290bed",
+        "web": "d6bf81e78c96d74e1237edc8a705512307a13cb5d24ca29e002c09bc3ab27c25"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 68,
+      "credit": "Chrysemys picta [Chrysemys picta] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/119028540. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Chrysemys picta",
+      "sourceId": "119028540",
+      "photoUrl": "https://www.inaturalist.org/photos/119028540",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119028540/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119028540/original.jpeg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 39771,
+      "acceptedScientificName": "Chrysemys picta",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Reptilia",
+      "observationUrl": "https://www.inaturalist.org/observations/72949833",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.860952380952381
     },
     {
       "schemaVersion": 1,
@@ -12113,6 +12913,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-46974379",
+      "targetId": "inat-taxon-53021",
+      "scientificName": "Convolvulus arvensis",
+      "nameJa": "セイヨウヒルガオ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:15:43+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:15:43+00:00",
+      "files": {
+        "master": "images/convolvulus-arvensis/inat-46974379.jpg",
+        "web": "images/convolvulus-arvensis/inat-46974379.webp",
+        "thumbnail": "images/convolvulus-arvensis/inat-46974379-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1536,
+          2048
+        ],
+        "master": [
+          1536,
+          2048
+        ],
+        "web": [
+          1050,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 753466,
+        "web": 164874,
+        "thumbnail": 12460
+      },
+      "sha256": {
+        "download": "e9cb313fdb71e27e804b4072e2c65f68abeb4c6d4e57b8c4e80e84e55edbd658",
+        "master": "904c3ee03930ce276123b2b8f2097a6c062c37e7ef25bf184aba2066281b993d",
+        "web": "19a66968828a9dfe688db884a0c2dc5e945886b6674b4ae1b75bb4bdad4018f2"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Convolvulus arvensis [Convolvulus arvensis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/46974379. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Convolvulus arvensis",
+      "sourceId": "46974379",
+      "photoUrl": "https://www.inaturalist.org/photos/46974379",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/46974379/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/46974379/original.jpg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 53021,
+      "acceptedScientificName": "Convolvulus arvensis",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/30079756",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.527619047619047
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-39817844",
       "targetId": "org-coptotermes-formosanus",
       "scientificName": "Coptotermes formosanus",
@@ -12190,6 +13070,86 @@
       "observationQualityGrade": "research",
       "selectionBasis": "research_grade_observation",
       "selectionScore": 6.194285714285714
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-342659116",
+      "targetId": "inat-taxon-4765",
+      "scientificName": "Coragyps atratus",
+      "nameJa": "クロコンドル",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:47+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:47+00:00",
+      "files": {
+        "master": "images/coragyps-atratus/inat-342659116.jpg",
+        "web": "images/coragyps-atratus/inat-342659116.webp",
+        "thumbnail": "images/coragyps-atratus/inat-342659116-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1365
+        ],
+        "master": [
+          2048,
+          1365
+        ],
+        "web": [
+          1400,
+          933
+        ]
+      },
+      "bytes": {
+        "master": 414948,
+        "web": 87404,
+        "thumbnail": 12498
+      },
+      "sha256": {
+        "download": "1b7164fbff8d74618ef6752b24989be9a08313476d505b788c27f4c6dd7991ce",
+        "master": "25cea118f98099c0c9b3dd3ad074d9839f33a0b303f36050fc1b1e65e3a1f11c",
+        "web": "face73c7be32dba28ef4a49baf6291face4ddcd40d7f55897fdb6317d4ecf69f"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Coragyps atratus [Coragyps atratus] — Cricket Raspet / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/342659116. Original attribution: (c) Cricket Raspet, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Coragyps atratus",
+      "sourceId": "342659116",
+      "photoUrl": "https://www.inaturalist.org/photos/342659116",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/342659116/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/342659116/original.jpeg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Cricket Raspet",
+      "originalAttribution": "(c) Cricket Raspet, some rights reserved (CC BY)",
+      "taxonId": 4765,
+      "acceptedScientificName": "Coragyps atratus",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Aves",
+      "observationUrl": "https://www.inaturalist.org/observations/194868533",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 8.95
     },
     {
       "schemaVersion": 1,
@@ -12590,6 +13550,86 @@
       "observationQualityGrade": null,
       "selectionBasis": "curated_taxon_photo",
       "selectionScore": 9.831428571428571
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-31532077",
+      "targetId": "inat-taxon-54491",
+      "scientificName": "Corylus avellana",
+      "nameJa": "セイヨウハシバミ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:52+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:52+00:00",
+      "files": {
+        "master": "images/corylus-avellana/inat-31532077.jpg",
+        "web": "images/corylus-avellana/inat-31532077.webp",
+        "thumbnail": "images/corylus-avellana/inat-31532077-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1536,
+          2048
+        ],
+        "master": [
+          1536,
+          2048
+        ],
+        "web": [
+          1050,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 1568905,
+        "web": 384832,
+        "thumbnail": 19168
+      },
+      "sha256": {
+        "download": "2d1033063ab6861ff1dc916198939468d66d79a4457f8711d1559b3703c9f91a",
+        "master": "4849acf2a250226a7115961fa07b3cf9aba8cf72a2b75a788f095735ead621de",
+        "web": "e49fbf4f1e52ca8a1605fe445e9069dd396401c83bb0ee21c6e15ee293bf5a14"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 68,
+      "credit": "Corylus avellana [Corylus avellana] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/31532077. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Corylus avellana",
+      "sourceId": "31532077",
+      "photoUrl": "https://www.inaturalist.org/photos/31532077",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31532077/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31532077/original.jpeg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 54491,
+      "acceptedScientificName": "Corylus avellana",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/20421636",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.527619047619047
     },
     {
       "schemaVersion": 1,
@@ -13701,6 +14741,86 @@
       "observationQualityGrade": "research",
       "selectionBasis": "research_grade_observation",
       "selectionScore": 9.28
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-701872066",
+      "targetId": "inat-taxon-55727",
+      "scientificName": "Cymbalaria muralis",
+      "nameJa": "ツタバウンラン",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:17:24+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:17:24+00:00",
+      "files": {
+        "master": "images/cymbalaria-muralis/inat-701872066.jpg",
+        "web": "images/cymbalaria-muralis/inat-701872066.webp",
+        "thumbnail": "images/cymbalaria-muralis/inat-701872066-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1536
+        ],
+        "master": [
+          2048,
+          1536
+        ],
+        "web": [
+          1400,
+          1050
+        ]
+      },
+      "bytes": {
+        "master": 443147,
+        "web": 90654,
+        "thumbnail": 10086
+      },
+      "sha256": {
+        "download": "8b6a3bbdf7c86529314d314c12f599fe71f61394b3ae3addbb86effccb742728",
+        "master": "e5b97c4a924234ae50edc47dc32d3ec26b5909febb790c59906a7a913bad0203",
+        "web": "fd65529510b6aef000bc85af1ccd0caf695db86a21dc273b71932d11807fbb29"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Cymbalaria muralis [Cymbalaria muralis] — zebedeugalinha / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/701872066. Original attribution: (c) zebedeugalinha, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Cymbalaria muralis",
+      "sourceId": "701872066",
+      "photoUrl": "https://www.inaturalist.org/photos/701872066",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/701872066/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/701872066/original.jpg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "zebedeugalinha",
+      "originalAttribution": "(c) zebedeugalinha, some rights reserved (CC BY)",
+      "taxonId": 55727,
+      "acceptedScientificName": "Cymbalaria muralis",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/383476663",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 6.860952380952381
     },
     {
       "schemaVersion": 1,
@@ -14821,6 +15941,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-152732558",
+      "targetId": "inat-taxon-17871",
+      "scientificName": "Dendrocopos major",
+      "nameJa": "アカゲラ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:17:01+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:17:01+00:00",
+      "files": {
+        "master": "images/dendrocopos-major/inat-152732558.jpg",
+        "web": "images/dendrocopos-major/inat-152732558.webp",
+        "thumbnail": "images/dendrocopos-major/inat-152732558-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1536,
+          2048
+        ],
+        "master": [
+          1536,
+          2048
+        ],
+        "web": [
+          1050,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 667097,
+        "web": 143484,
+        "thumbnail": 7084
+      },
+      "sha256": {
+        "download": "8271896508ddb88e4b8f4663d3da98769e4b7118d5edb71eaf0f949fb3e99796",
+        "master": "307beca0f9fcea36a78b38bbc36513814d1ae2f66afe3f4ad6d829d23e1fff09",
+        "web": "a4f4f3c2dee25841182eefd2bea199c140eed3c41df284648e6bddb13c945ec7"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Dendrocopos major [Dendrocopos major] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/152732558. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Dendrocopos major",
+      "sourceId": "152732558",
+      "photoUrl": "https://www.inaturalist.org/photos/152732558",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/152732558/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/152732558/original.jpeg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 17871,
+      "acceptedScientificName": "Dendrocopos major",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Aves",
+      "observationUrl": "https://www.inaturalist.org/observations/92259656",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.527619047619047
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-23833432",
       "targetId": "org-dermochelys-coriacea",
       "scientificName": "Dermochelys coriacea",
@@ -15378,6 +16578,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-110570995",
+      "targetId": "inat-taxon-49150",
+      "scientificName": "Dione vanillae",
+      "nameJa": "ヒョウモンドクチョウ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:15:51+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:15:51+00:00",
+      "files": {
+        "master": "images/dione-vanillae/inat-110570995.jpg",
+        "web": "images/dione-vanillae/inat-110570995.webp",
+        "thumbnail": "images/dione-vanillae/inat-110570995-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1690,
+          1591
+        ],
+        "master": [
+          1690,
+          1591
+        ],
+        "web": [
+          1400,
+          1318
+        ]
+      },
+      "bytes": {
+        "master": 849051,
+        "web": 210194,
+        "thumbnail": 22058
+      },
+      "sha256": {
+        "download": "7e16e123527e6aa6f31d8f175f13bc18ff5891f60a0c9a40f4e76d25a0b57cce",
+        "master": "4da443c225d1792aadfcef7f505964abba95734ec5fb452b286d93dda7ced43d",
+        "web": "792c5c17d20f19bdabe91ae44de1814d2253ef5f0267609733dc1804ad544528"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 68,
+      "credit": "Dione vanillae [Dione vanillae] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/110570995. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Dione vanillae",
+      "sourceId": "110570995",
+      "photoUrl": "https://www.inaturalist.org/photos/110570995",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110570995/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110570995/original.jpg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 49150,
+      "acceptedScientificName": "Dione vanillae",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Insecta",
+      "observationUrl": "https://www.inaturalist.org/observations/68307350",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 8.272857142857143
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-33168991",
       "targetId": "org-diploria-labyrinthiformis",
       "scientificName": "Diploria labyrinthiformis",
@@ -15855,6 +17135,166 @@
       "observationQualityGrade": null,
       "selectionBasis": "curated_taxon_photo",
       "selectionScore": 11.938571428571429
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-397351719",
+      "targetId": "inat-taxon-56174",
+      "scientificName": "Echium vulgare",
+      "nameJa": "シベナガムラサキ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:15:50+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:15:50+00:00",
+      "files": {
+        "master": "images/echium-vulgare/inat-397351719.jpg",
+        "web": "images/echium-vulgare/inat-397351719.webp",
+        "thumbnail": "images/echium-vulgare/inat-397351719-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1536,
+          2048
+        ],
+        "master": [
+          1536,
+          2048
+        ],
+        "web": [
+          1050,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 1415810,
+        "web": 341216,
+        "thumbnail": 14858
+      },
+      "sha256": {
+        "download": "4764cb9bca79e1ab81670ec66450b9a80a54d933c871780fbe9f18970a83b0d8",
+        "master": "b5dfe3602b0fbbc221755377f26be7f5949e3df4df69f44a397bb56c178586e1",
+        "web": "97541836f1a3b1ec9e2a1d13a7a7319924d8597bee5ee6511270f7e715b1ec2c"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 68,
+      "credit": "Echium vulgare [Echium vulgare] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/397351719. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Echium vulgare",
+      "sourceId": "397351719",
+      "photoUrl": "https://www.inaturalist.org/photos/397351719",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/397351719/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/397351719/original.jpg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 56174,
+      "acceptedScientificName": "Echium vulgare",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/224211930",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.527619047619047
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-205293169",
+      "targetId": "inat-taxon-4943",
+      "scientificName": "Egretta garzetta",
+      "nameJa": "コサギ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:26+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:26+00:00",
+      "files": {
+        "master": "images/egretta-garzetta/inat-205293169.jpg",
+        "web": "images/egretta-garzetta/inat-205293169.webp",
+        "thumbnail": "images/egretta-garzetta/inat-205293169-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1979,
+          1484
+        ],
+        "master": [
+          1979,
+          1484
+        ],
+        "web": [
+          1400,
+          1050
+        ]
+      },
+      "bytes": {
+        "master": 895127,
+        "web": 161876,
+        "thumbnail": 12958
+      },
+      "sha256": {
+        "download": "8b7a0f34d843b8cd8c58304ca420bf49c436a885fff888a652e899864a419d52",
+        "master": "ee2da1eff183f031b417c7c731492209e8eb5fd62997e4992408e35057f462ed",
+        "web": "f3b2d627efc9fab7b0fd2c4eeb84425856e9b4d1d004256ac6c6997330a01414"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 80,
+      "credit": "Egretta garzetta [Egretta garzetta] — Bengt Nyman / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/205293169. Original attribution: (c) Bengt Nyman, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Egretta garzetta",
+      "sourceId": "205293169",
+      "photoUrl": "https://www.inaturalist.org/photos/205293169",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/205293169/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/205293169/original.jpg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Bengt Nyman",
+      "originalAttribution": "(c) Bengt Nyman, some rights reserved (CC BY)",
+      "taxonId": 4943,
+      "acceptedScientificName": "Egretta garzetta",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Aves",
+      "observationUrl": null,
+      "observationQualityGrade": null,
+      "selectionBasis": "curated_taxon_photo",
+      "selectionScore": 12.120000000000001
     },
     {
       "schemaVersion": 1,
@@ -16975,6 +18415,166 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-255868475",
+      "targetId": "inat-taxon-47687",
+      "scientificName": "Erodium cicutarium",
+      "nameJa": "オランダフウロ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:06+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:06+00:00",
+      "files": {
+        "master": "images/erodium-cicutarium/inat-255868475.jpg",
+        "web": "images/erodium-cicutarium/inat-255868475.webp",
+        "thumbnail": "images/erodium-cicutarium/inat-255868475-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          2048
+        ],
+        "master": [
+          2048,
+          2048
+        ],
+        "web": [
+          1400,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 570864,
+        "web": 100388,
+        "thumbnail": 10560
+      },
+      "sha256": {
+        "download": "24e656afbc6df9b64a7d583382ced22c69b14851fb48df3604a3d5f959f6e5ca",
+        "master": "f4e3720a3b11943e3ef9d39ee6d982ea5421b0898a07bec6509194e811f50c4e",
+        "web": "d6d46b8eac957eafcf63c6f0f947b74537e09e2be98b26b2dd5b9a7f249ba957"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Erodium cicutarium [Erodium cicutarium] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/255868475. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Erodium cicutarium",
+      "sourceId": "255868475",
+      "photoUrl": "https://www.inaturalist.org/photos/255868475",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/255868475/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/255868475/original.jpeg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 47687,
+      "acceptedScientificName": "Erodium cicutarium",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/148568184",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 8.259047619047617
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-3210402",
+      "targetId": "inat-taxon-61495",
+      "scientificName": "Erythemis simplicicollis",
+      "nameJa": "",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:51+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:51+00:00",
+      "files": {
+        "master": "images/erythemis-simplicicollis/inat-3210402.jpg",
+        "web": "images/erythemis-simplicicollis/inat-3210402.webp",
+        "thumbnail": "images/erythemis-simplicicollis/inat-3210402-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1536
+        ],
+        "master": [
+          2048,
+          1536
+        ],
+        "web": [
+          1400,
+          1050
+        ]
+      },
+      "bytes": {
+        "master": 521376,
+        "web": 96122,
+        "thumbnail": 9868
+      },
+      "sha256": {
+        "download": "a1f4f368f38324f6fc9222c3d40c91dcd02c27af93279f9f23fb4a8cfff3fac7",
+        "master": "5ae8a445e2b479b51cbda42e2447824ba51f52476791c6088c50d85780f9743f",
+        "web": "7de9254e3e5626f876813544a10ae3a70c042936d8538b0c6305d0b060199466"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Erythemis simplicicollis [Erythemis simplicicollis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/3210402. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Erythemis simplicicollis",
+      "sourceId": "3210402",
+      "photoUrl": "https://www.inaturalist.org/photos/3210402",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3210402/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3210402/original.jpg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 61495,
+      "acceptedScientificName": "Erythemis simplicicollis",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Insecta",
+      "observationUrl": "https://www.inaturalist.org/observations/2822115",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 8.194285714285714
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "commons-85459202",
       "targetId": "org-escherichia-coli",
       "scientificName": "Escherichia coli",
@@ -17923,6 +19523,166 @@
       "observationQualityGrade": "research",
       "selectionBasis": "research_grade_observation",
       "selectionScore": 9.617142857142857
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-75920516",
+      "targetId": "inat-taxon-4665",
+      "scientificName": "Falco sparverius",
+      "nameJa": "アメリカチョウゲンボウ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:16+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:16+00:00",
+      "files": {
+        "master": "images/falco-sparverius/inat-75920516.jpg",
+        "web": "images/falco-sparverius/inat-75920516.webp",
+        "thumbnail": "images/falco-sparverius/inat-75920516-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1709,
+          1139
+        ],
+        "master": [
+          1709,
+          1139
+        ],
+        "web": [
+          1400,
+          933
+        ]
+      },
+      "bytes": {
+        "master": 230695,
+        "web": 74618,
+        "thumbnail": 5978
+      },
+      "sha256": {
+        "download": "9e0836c74f5ce0c9055cd5332a5537bd9c3d7bf6ec5532a3be7fbd78e11c4b1f",
+        "master": "f4fbf44be70795a2ca508afe5d95f70289f1b39101ce7b3c0c1f3d8acc4b1fee",
+        "web": "70f60d8b2624f0acc1efc582c2580aeb82e69c89f54c1f5855da8245db6e62ff"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Falco sparverius [Falco sparverius] — Jonathan Eisen / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/75920516. Original attribution: (c) Jonathan Eisen, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Falco sparverius",
+      "sourceId": "75920516",
+      "photoUrl": "https://www.inaturalist.org/photos/75920516",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/75920516/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/75920516/original.jpg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Jonathan Eisen",
+      "originalAttribution": "(c) Jonathan Eisen, some rights reserved (CC BY)",
+      "taxonId": 4665,
+      "acceptedScientificName": "Falco sparverius",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Aves",
+      "observationUrl": "https://www.inaturalist.org/observations/47861021",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 8.627142857142857
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-511790572",
+      "targetId": "inat-taxon-472766",
+      "scientificName": "Falco tinnunculus",
+      "nameJa": "チョウゲンボウ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:35+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:35+00:00",
+      "files": {
+        "master": "images/falco-tinnunculus/inat-511790572.jpg",
+        "web": "images/falco-tinnunculus/inat-511790572.webp",
+        "thumbnail": "images/falco-tinnunculus/inat-511790572-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1170,
+          1903
+        ],
+        "master": [
+          1170,
+          1903
+        ],
+        "web": [
+          861,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 620699,
+        "web": 172758,
+        "thumbnail": 11824
+      },
+      "sha256": {
+        "download": "b8ec9676549000db6e98940ca3feec31bad3a4aa94cb8b56fdd420cd21f4813b",
+        "master": "8c591dd7daf61718be932e04bd3b628fe30079cd4e72c1b9a4344e4ae5cf75e7",
+        "web": "cb8af70cf26b4c9644a310596e68b79d27715627c24b45453dca4cfaed234875"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Falco tinnunculus [Falco tinnunculus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/511790572. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Falco tinnunculus",
+      "sourceId": "511790572",
+      "photoUrl": "https://www.inaturalist.org/photos/511790572",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/511790572/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/511790572/original.jpg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 472766,
+      "acceptedScientificName": "Falco tinnunculus",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Aves",
+      "observationUrl": "https://www.inaturalist.org/observations/284754857",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.671428571428572
     },
     {
       "schemaVersion": 1,
@@ -19037,6 +20797,86 @@
       "observationQualityGrade": null,
       "selectionBasis": "curated_taxon_photo",
       "selectionScore": 9.937142857142858
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-171773229",
+      "targetId": "inat-taxon-201282",
+      "scientificName": "Gallinula chloropus",
+      "nameJa": "バン",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:15:59+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:15:59+00:00",
+      "files": {
+        "master": "images/gallinula-chloropus/inat-171773229.jpg",
+        "web": "images/gallinula-chloropus/inat-171773229.webp",
+        "thumbnail": "images/gallinula-chloropus/inat-171773229-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1442
+        ],
+        "master": [
+          2048,
+          1442
+        ],
+        "web": [
+          1400,
+          986
+        ]
+      },
+      "bytes": {
+        "master": 413182,
+        "web": 131936,
+        "thumbnail": 9484
+      },
+      "sha256": {
+        "download": "ffafaa522bcd4e74afe3abfa628441b6286a9cd69337e310ea0850e6706ff4e3",
+        "master": "52cfdc8041bf0e419c832526b6f94d669fb4311f42325956b16b1d08ca996fa2",
+        "web": "48e7a3e9e469a67631999268b22b1bf42d9dd43de095e9c4108184f3aa312a25"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Gallinula chloropus [Gallinula chloropus] — Alexis Lours / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/171773229. Original attribution: (c) Alexis Lours, some rights reserved (CC BY), uploaded by Alexis Lours. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Gallinula chloropus",
+      "sourceId": "171773229",
+      "photoUrl": "https://www.inaturalist.org/photos/171773229",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/171773229/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/171773229/original.jpg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Alexis Lours",
+      "originalAttribution": "(c) Alexis Lours, some rights reserved (CC BY), uploaded by Alexis Lours",
+      "taxonId": 201282,
+      "acceptedScientificName": "Gallinula chloropus",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Aves",
+      "observationUrl": null,
+      "observationQualityGrade": null,
+      "selectionBasis": "curated_taxon_photo",
+      "selectionScore": 12.06
     },
     {
       "schemaVersion": 1,
@@ -23419,6 +25259,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-70264116",
+      "targetId": "inat-taxon-53856",
+      "scientificName": "Ilex aquifolium",
+      "nameJa": "セイヨウヒイラギ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:55+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:55+00:00",
+      "files": {
+        "master": "images/ilex-aquifolium/inat-70264116.jpg",
+        "web": "images/ilex-aquifolium/inat-70264116.webp",
+        "thumbnail": "images/ilex-aquifolium/inat-70264116-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1536,
+          2048
+        ],
+        "master": [
+          1536,
+          2048
+        ],
+        "web": [
+          1050,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 1680183,
+        "web": 431798,
+        "thumbnail": 22310
+      },
+      "sha256": {
+        "download": "d645846b34efc124d8b548e1fff9dd2e49d928d75397c053544697ee4254c437",
+        "master": "d305f7d7bb6e0b8016f491fdf6adf6525284212477615e3fcb2eef523cd99179",
+        "web": "5b11206a68b9ec78614569f485c8eb0fdcea9c254756a50b96250c4e3914198b"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 68,
+      "credit": "Ilex aquifolium [Ilex aquifolium] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/70264116. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Ilex aquifolium",
+      "sourceId": "70264116",
+      "photoUrl": "https://www.inaturalist.org/photos/70264116",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/70264116/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/70264116/original.jpg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 53856,
+      "acceptedScientificName": "Ilex aquifolium",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/44318524",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.527619047619047
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-50467304",
       "targetId": "org-indri-indri",
       "scientificName": "Indri indri",
@@ -23739,6 +25659,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-7529075",
+      "targetId": "inat-taxon-62498",
+      "scientificName": "Jacobaea vulgaris",
+      "nameJa": "ヤコブボロギク",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:44+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:44+00:00",
+      "files": {
+        "master": "images/jacobaea-vulgaris/inat-7529075.jpg",
+        "web": "images/jacobaea-vulgaris/inat-7529075.webp",
+        "thumbnail": "images/jacobaea-vulgaris/inat-7529075-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1675,
+          2048
+        ],
+        "master": [
+          1675,
+          2048
+        ],
+        "web": [
+          1145,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 842815,
+        "web": 167682,
+        "thumbnail": 17604
+      },
+      "sha256": {
+        "download": "088c9bafab71050fd78aa541e24f02ffbf6e1e5bc07b2cbbe661473c5628c7c2",
+        "master": "db5842f79aeb8728c355a234b028d0f03924d41805c7a1dd004b6b86ca5f96ac",
+        "web": "e8fb245586d199b78b61c1e89136aaa4a519f9278223bd8d51e669ac529a01af"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 77,
+      "credit": "Jacobaea vulgaris [Jacobaea vulgaris] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/7529075. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Jacobaea vulgaris",
+      "sourceId": "7529075",
+      "photoUrl": "https://www.inaturalist.org/photos/7529075",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7529075/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7529075/original.jpg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 62498,
+      "acceptedScientificName": "Jacobaea vulgaris",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/6017207",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.726190476190475
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-172110799",
       "targetId": "inat-taxon-10094",
       "scientificName": "Junco hyemalis",
@@ -23896,6 +25896,86 @@
       "observationQualityGrade": "research",
       "selectionBasis": "research_grade_observation",
       "selectionScore": 6.933333333333333
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-127194437",
+      "targetId": "inat-taxon-55876",
+      "scientificName": "Lamium album",
+      "nameJa": "オドリコソウ(広義)",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:30+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:30+00:00",
+      "files": {
+        "master": "images/lamium-album/inat-127194437.jpg",
+        "web": "images/lamium-album/inat-127194437.webp",
+        "thumbnail": "images/lamium-album/inat-127194437-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1537
+        ],
+        "master": [
+          2048,
+          1537
+        ],
+        "web": [
+          1400,
+          1051
+        ]
+      },
+      "bytes": {
+        "master": 833337,
+        "web": 180206,
+        "thumbnail": 29638
+      },
+      "sha256": {
+        "download": "dbd791ad4106a82c7fd89028502b6e754398dfa8d302b18fd5205dd3e9d33da1",
+        "master": "21ac0ae52b7a7ab97f38f8a82d36e6ee7dac6e33efe2a9165d564a5638a0532a",
+        "web": "c64a8ebae560fa645e50896cb7786668d233aecf7c459f7103ae1b30f79a38ba"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 74,
+      "credit": "Lamium album [Lamium album] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/127194437. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Lamium album",
+      "sourceId": "127194437",
+      "photoUrl": "https://www.inaturalist.org/photos/127194437",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/127194437/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/127194437/original.jpeg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 55876,
+      "acceptedScientificName": "Lamium album",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/77758053",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.529047619047619
     },
     {
       "schemaVersion": 1,
@@ -24933,6 +27013,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-198904077",
+      "targetId": "inat-taxon-56057",
+      "scientificName": "Leucanthemum vulgare",
+      "nameJa": "フランスギク",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:37+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:37+00:00",
+      "files": {
+        "master": "images/leucanthemum-vulgare/inat-198904077.jpg",
+        "web": "images/leucanthemum-vulgare/inat-198904077.webp",
+        "thumbnail": "images/leucanthemum-vulgare/inat-198904077-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          2048
+        ],
+        "master": [
+          2048,
+          2048
+        ],
+        "web": [
+          1400,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 1118965,
+        "web": 185864,
+        "thumbnail": 25976
+      },
+      "sha256": {
+        "download": "21b9cc381a75e1e380fe3e8414407d0cbba11a57be762a60b6579de06109f36c",
+        "master": "7f709425af295723dc980c117254abe19bfb2c98ad60d422bdf05ece9c600d76",
+        "web": "5149d8ddf1868ca244066f7786f04f2fa9e8e75a0a3c57ac65606cf6537bf84b"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 71,
+      "credit": "Leucanthemum vulgare [Leucanthemum vulgare] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/198904077. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Leucanthemum vulgare",
+      "sourceId": "198904077",
+      "photoUrl": "https://www.inaturalist.org/photos/198904077",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/198904077/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/198904077/original.jpeg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 56057,
+      "acceptedScientificName": "Leucanthemum vulgare",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/117758024",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 8.259047619047617
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-281735049",
       "targetId": "org-limulus-polyphemus",
       "scientificName": "Limulus polyphemus",
@@ -25010,6 +27170,86 @@
       "observationQualityGrade": "research",
       "selectionBasis": "research_grade_observation",
       "selectionScore": 8.162857142857142
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-542354433",
+      "targetId": "inat-taxon-50790",
+      "scientificName": "Linaria vulgaris",
+      "nameJa": "シロバナセイヨウウンラン",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:22+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:22+00:00",
+      "files": {
+        "master": "images/linaria-vulgaris/inat-542354433.jpg",
+        "web": "images/linaria-vulgaris/inat-542354433.webp",
+        "thumbnail": "images/linaria-vulgaris/inat-542354433-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1365,
+          2048
+        ],
+        "master": [
+          1365,
+          2048
+        ],
+        "web": [
+          933,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 369663,
+        "web": 56876,
+        "thumbnail": 6116
+      },
+      "sha256": {
+        "download": "4bf52088196a58722cda23955ebacd97d2c60f9718a0e90d8bb11dcd54bf98ca",
+        "master": "38fbcf51377e923432a99514965462d134267988485c76a16ad492d193ec8a35",
+        "web": "42de7b1d843c5bb8bfb7e0dd526ea57e78236de9b288144d11a3cc6b3e49f1f4"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Linaria vulgaris [Linaria vulgaris] — Maja Dumat / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/542354433. Original attribution: (c) Maja Dumat, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Linaria vulgaris",
+      "sourceId": "542354433",
+      "photoUrl": "https://www.inaturalist.org/photos/542354433",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/542354433/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/542354433/original.jpg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Maja Dumat",
+      "originalAttribution": "(c) Maja Dumat, some rights reserved (CC BY)",
+      "taxonId": 50790,
+      "acceptedScientificName": "Linaria vulgaris",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": null,
+      "observationQualityGrade": null,
+      "selectionBasis": "curated_taxon_photo",
+      "selectionScore": 11.95
     },
     {
       "schemaVersion": 1,
@@ -26604,6 +28844,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-678952733",
+      "targetId": "inat-taxon-51062",
+      "scientificName": "Maianthemum racemosum",
+      "nameJa": "",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:17:17+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:17:17+00:00",
+      "files": {
+        "master": "images/maianthemum-racemosum/inat-678952733.jpg",
+        "web": "images/maianthemum-racemosum/inat-678952733.webp",
+        "thumbnail": "images/maianthemum-racemosum/inat-678952733-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1536
+        ],
+        "master": [
+          2048,
+          1536
+        ],
+        "web": [
+          1400,
+          1050
+        ]
+      },
+      "bytes": {
+        "master": 1175314,
+        "web": 238406,
+        "thumbnail": 30342
+      },
+      "sha256": {
+        "download": "f5660ba38d2fc39327f8695333982ea77bd2a0efce139f43e64079965e0b2e12",
+        "master": "9a33cb7877beb0d5b0f066c90200791101675ea61ebb9a0a0e0c79d59ff70f59",
+        "web": "296ab6936942d3cea7c843113710ffd7bb782f85a17525e7035d90f11b3b6101"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 68,
+      "credit": "Maianthemum racemosum [Maianthemum racemosum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/678952733. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Maianthemum racemosum",
+      "sourceId": "678952733",
+      "photoUrl": "https://www.inaturalist.org/photos/678952733",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/678952733/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/678952733/original.jpg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 51062,
+      "acceptedScientificName": "Maianthemum racemosum",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/371600601",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.527619047619047
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-381376357",
       "targetId": "org-malayopython-reticulatus",
       "scientificName": "Malayopython reticulatus",
@@ -26924,6 +29244,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-47822970",
+      "targetId": "inat-taxon-55653",
+      "scientificName": "Maniola jurtina",
+      "nameJa": "マキバジャノメ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:15:56+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:15:56+00:00",
+      "files": {
+        "master": "images/maniola-jurtina/inat-47822970.jpg",
+        "web": "images/maniola-jurtina/inat-47822970.webp",
+        "thumbnail": "images/maniola-jurtina/inat-47822970-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1536,
+          2048
+        ],
+        "master": [
+          1536,
+          2048
+        ],
+        "web": [
+          1050,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 885372,
+        "web": 182538,
+        "thumbnail": 19000
+      },
+      "sha256": {
+        "download": "4c7c920635e414f18f97ead0c7d687debbe5248c6bd77e99a34ce614f13eab5c",
+        "master": "90c7a6008b0d73a2b6d0bf691e1b59148325af43e6979e3672efb3941333d3e9",
+        "web": "80e9522448080a800b62e3a21f08595760794f3214d483642186ed5a31ccfba8"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 80,
+      "credit": "Maniola jurtina [Maniola jurtina] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/47822970. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Maniola jurtina",
+      "sourceId": "47822970",
+      "photoUrl": "https://www.inaturalist.org/photos/47822970",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/47822970/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/47822970/original.jpg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 55653,
+      "acceptedScientificName": "Maniola jurtina",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Insecta",
+      "observationUrl": "https://www.inaturalist.org/observations/30604940",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.527619047619047
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-617138976",
       "targetId": "org-manis-javanica",
       "scientificName": "Manis javanica",
@@ -27161,6 +29561,86 @@
       "observationQualityGrade": "research",
       "selectionBasis": "research_grade_observation",
       "selectionScore": 8.194285714285714
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-696909864",
+      "targetId": "inat-taxon-558439",
+      "scientificName": "Mareca strepera",
+      "nameJa": "オカヨシガモ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:17:12+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:17:12+00:00",
+      "files": {
+        "master": "images/mareca-strepera/inat-696909864.jpg",
+        "web": "images/mareca-strepera/inat-696909864.webp",
+        "thumbnail": "images/mareca-strepera/inat-696909864-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          2048
+        ],
+        "master": [
+          2048,
+          2048
+        ],
+        "web": [
+          1400,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 644066,
+        "web": 153140,
+        "thumbnail": 11074
+      },
+      "sha256": {
+        "download": "da1ca46ea8cd8c94593ca2dadee2cb02de9139d555ca3d00a7b4818c004d1646",
+        "master": "4bec7b6a10496c64c5b7e97abff2b68ae536d0c4374e85b7d130ae1f29235c11",
+        "web": "e5508f9af5a5edaec8c030c54939cae0ddd93c9a4a659f4f554690d1ecfb6fc4"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Mareca strepera [Mareca strepera] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/696909864. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Mareca strepera",
+      "sourceId": "696909864",
+      "photoUrl": "https://www.inaturalist.org/photos/696909864",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/696909864/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/696909864/original.jpg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 558439,
+      "acceptedScientificName": "Mareca strepera",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Aves",
+      "observationUrl": "https://www.inaturalist.org/observations/380905534",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 8.259047619047617
     },
     {
       "schemaVersion": 1,
@@ -27724,6 +30204,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-391664556",
+      "targetId": "inat-taxon-7004",
+      "scientificName": "Mergus merganser",
+      "nameJa": "カワアイサ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:17:18+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:17:18+00:00",
+      "files": {
+        "master": "images/mergus-merganser/inat-391664556.jpg",
+        "web": "images/mergus-merganser/inat-391664556.webp",
+        "thumbnail": "images/mergus-merganser/inat-391664556-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1536
+        ],
+        "master": [
+          2048,
+          1536
+        ],
+        "web": [
+          1400,
+          1050
+        ]
+      },
+      "bytes": {
+        "master": 848786,
+        "web": 165630,
+        "thumbnail": 18568
+      },
+      "sha256": {
+        "download": "772428674cb60b2fcb032a428863bdb8b18f9a071607b30ced5d5ebda8931d53",
+        "master": "b62209cddf4bc0455e6b16f45c983d854967e960b6f5b43ba0df23999612ea71",
+        "web": "76be4cf026d4af637d1f8e0becc79204c168cc63f9f24784e3ce3b3e9d666963"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 80,
+      "credit": "Mergus merganser [Mergus merganser] — Dick Mansfield / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/391664556. Original attribution: (c) Dick Mansfield, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Mergus merganser",
+      "sourceId": "391664556",
+      "photoUrl": "https://www.inaturalist.org/photos/391664556",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/391664556/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/391664556/original.jpeg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Dick Mansfield",
+      "originalAttribution": "(c) Dick Mansfield, some rights reserved (CC BY)",
+      "taxonId": 7004,
+      "acceptedScientificName": "Mergus merganser",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Aves",
+      "observationUrl": "https://www.inaturalist.org/observations/221175908",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 9.194285714285714
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-285729025",
       "targetId": "org-metasequoia-glyptostroboides",
       "scientificName": "Metasequoia glyptostroboides",
@@ -27958,6 +30518,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-158802479",
+      "targetId": "inat-taxon-5268",
+      "scientificName": "Milvus migrans",
+      "nameJa": "トビ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:38+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:38+00:00",
+      "files": {
+        "master": "images/milvus-migrans/inat-158802479.jpg",
+        "web": "images/milvus-migrans/inat-158802479.webp",
+        "thumbnail": "images/milvus-migrans/inat-158802479-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1365
+        ],
+        "master": [
+          2048,
+          1365
+        ],
+        "web": [
+          1400,
+          933
+        ]
+      },
+      "bytes": {
+        "master": 524089,
+        "web": 77196,
+        "thumbnail": 5472
+      },
+      "sha256": {
+        "download": "f20be9ee5ff6a3b6cea16dabb2738956d8f34da73103714ea4d29eeacab67077",
+        "master": "2354de73367e00002ec6b8cafd57dd9ed29e168c144ced064cacad1dc101ad7b",
+        "web": "b881263fdb9fa6c57aa2058105934b7f9bf0ad845fe42a3d804d1d4865588fa8"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Milvus migrans [Milvus migrans] — Joshua S. Martin / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/158802479. Original attribution: no rights reserved, uploaded by Joshua S. Martin. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Milvus migrans",
+      "sourceId": "158802479",
+      "photoUrl": "https://www.inaturalist.org/photos/158802479",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/158802479/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/158802479/original.jpg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Joshua S. Martin",
+      "originalAttribution": "no rights reserved, uploaded by Joshua S. Martin",
+      "taxonId": 5268,
+      "acceptedScientificName": "Milvus migrans",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Aves",
+      "observationUrl": null,
+      "observationQualityGrade": null,
+      "selectionBasis": "curated_taxon_photo",
+      "selectionScore": 12.95
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-709362073",
       "targetId": "inat-taxon-14886",
       "scientificName": "Mimus polyglottos",
@@ -28035,6 +30675,86 @@
       "observationQualityGrade": "research",
       "selectionBasis": "research_grade_observation",
       "selectionScore": 8.580952380952382
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-52044008",
+      "targetId": "inat-taxon-83799",
+      "scientificName": "Mitchella repens",
+      "nameJa": "",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:32+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:32+00:00",
+      "files": {
+        "master": "images/mitchella-repens/inat-52044008.jpg",
+        "web": "images/mitchella-repens/inat-52044008.webp",
+        "thumbnail": "images/mitchella-repens/inat-52044008-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1365
+        ],
+        "master": [
+          2048,
+          1365
+        ],
+        "web": [
+          1400,
+          933
+        ]
+      },
+      "bytes": {
+        "master": 586101,
+        "web": 148528,
+        "thumbnail": 17152
+      },
+      "sha256": {
+        "download": "709fba0a0fc7e587e8d5db4b2677e451e5df7b383f5bebb01b255371e84ec130",
+        "master": "f9235925d80dd170ef5f6bec110532951a93deec66b7bc54faef4821cf56cf9c",
+        "web": "7261c7eca218f038168739e3af84928641b1ce92c2c701a345871104f5d51191"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Mitchella repens [Mitchella repens] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/52044008. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Mitchella repens",
+      "sourceId": "52044008",
+      "photoUrl": "https://www.inaturalist.org/photos/52044008",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52044008/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52044008/original.jpeg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 83799,
+      "acceptedScientificName": "Mitchella repens",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/33151876",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.616666666666667
     },
     {
       "schemaVersion": 1,
@@ -33608,6 +36328,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-28649362",
+      "targetId": "inat-taxon-13851",
+      "scientificName": "Passer montanus",
+      "nameJa": "スズメ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:44+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:44+00:00",
+      "files": {
+        "master": "images/passer-montanus/inat-28649362.jpg",
+        "web": "images/passer-montanus/inat-28649362.webp",
+        "thumbnail": "images/passer-montanus/inat-28649362-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          2002
+        ],
+        "master": [
+          2048,
+          2002
+        ],
+        "web": [
+          1400,
+          1369
+        ]
+      },
+      "bytes": {
+        "master": 1083000,
+        "web": 173030,
+        "thumbnail": 12410
+      },
+      "sha256": {
+        "download": "dc67b0a7aa367d484cb0cbcdd6515a58030da30cc769e0e07a5741c95af1ba32",
+        "master": "4783b7273a3cc5c1dd3de7759543ef8e2d2f696e4c81ddcb142b12346fd16067",
+        "web": "178ea91c3781fbcc6a3377470e4d4baa3b9b96670cb82cd61236c1973c6b9d06"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 77,
+      "credit": "Passer montanus [Passer montanus] — carnifex / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/28649362. Original attribution: (c) carnifex, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Passer montanus",
+      "sourceId": "28649362",
+      "photoUrl": "https://www.inaturalist.org/photos/28649362",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28649362/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28649362/original.jpg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "carnifex",
+      "originalAttribution": "(c) carnifex, some rights reserved (CC BY)",
+      "taxonId": 13851,
+      "acceptedScientificName": "Passer montanus",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Aves",
+      "observationUrl": "https://www.inaturalist.org/observations/18710580",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.859999999999999
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-29714904",
       "targetId": "org-pavo-cristatus",
       "scientificName": "Pavo cristatus",
@@ -33685,6 +36485,86 @@
       "observationQualityGrade": "research",
       "selectionBasis": "research_grade_observation",
       "selectionScore": 7.527619047619047
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-348929489",
+      "targetId": "inat-taxon-4328",
+      "scientificName": "Pelecanus occidentalis",
+      "nameJa": "カッショクペリカン",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:15:42+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:15:42+00:00",
+      "files": {
+        "master": "images/pelecanus-occidentalis/inat-348929489.jpg",
+        "web": "images/pelecanus-occidentalis/inat-348929489.webp",
+        "thumbnail": "images/pelecanus-occidentalis/inat-348929489-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1299
+        ],
+        "master": [
+          2048,
+          1299
+        ],
+        "web": [
+          1400,
+          888
+        ]
+      },
+      "bytes": {
+        "master": 418890,
+        "web": 77288,
+        "thumbnail": 5398
+      },
+      "sha256": {
+        "download": "902e85e6654139bfebd450e2ad864ce70c4f330a49ce53be10015d1592da2e29",
+        "master": "4d2b066dbac8b174cf4866ad521fa4ca873b4be20b1c628d68a3051fe686f78d",
+        "web": "8d36bc5872787d70bbf48f457ac6bf5a999eb6ead3236134a6ed5e9f24af206d"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Pelecanus occidentalis [Pelecanus occidentalis] — Laura Gaudette / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/348929489. Original attribution: (c) Laura Gaudette, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Pelecanus occidentalis",
+      "sourceId": "348929489",
+      "photoUrl": "https://www.inaturalist.org/photos/348929489",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/348929489/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/348929489/original.jpeg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Laura Gaudette",
+      "originalAttribution": "(c) Laura Gaudette, some rights reserved (CC BY)",
+      "taxonId": 4328,
+      "acceptedScientificName": "Pelecanus occidentalis",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Aves",
+      "observationUrl": "https://www.inaturalist.org/observations/198025775",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 8.855714285714285
     },
     {
       "schemaVersion": 1,
@@ -36467,6 +39347,166 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-417451223",
+      "targetId": "inat-taxon-55641",
+      "scientificName": "Polyommatus icarus",
+      "nameJa": "イカルスヒメシジミ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:57+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:57+00:00",
+      "files": {
+        "master": "images/polyommatus-icarus/inat-417451223.jpg",
+        "web": "images/polyommatus-icarus/inat-417451223.webp",
+        "thumbnail": "images/polyommatus-icarus/inat-417451223-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1480,
+          1480
+        ],
+        "master": [
+          1480,
+          1480
+        ],
+        "web": [
+          1400,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 289348,
+        "web": 121152,
+        "thumbnail": 15110
+      },
+      "sha256": {
+        "download": "156c7e459e87b1a689332acac4ba89cacb57a55a539ae1eb32c3c5d84c1b3a76",
+        "master": "932e60eb7ad3590ce6d4e2a354f5e095e614a49c1ba16a05bef729eeaaa28ccc",
+        "web": "75a79869749218e71092c17c9844ba32a0c331d7f098f11f8b5bff54df1b33fa"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Polyommatus icarus [Polyommatus icarus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/417451223. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Polyommatus icarus",
+      "sourceId": "417451223",
+      "photoUrl": "https://www.inaturalist.org/photos/417451223",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/417451223/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/417451223/original.jpeg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 55641,
+      "acceptedScientificName": "Polyommatus icarus",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Insecta",
+      "observationUrl": "https://www.inaturalist.org/observations/234786433",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.780952380952381
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-202585562",
+      "targetId": "inat-taxon-54412",
+      "scientificName": "Polystichum acrostichoides",
+      "nameJa": "",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:10+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:10+00:00",
+      "files": {
+        "master": "images/polystichum-acrostichoides/inat-202585562.jpg",
+        "web": "images/polystichum-acrostichoides/inat-202585562.webp",
+        "thumbnail": "images/polystichum-acrostichoides/inat-202585562-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          2048
+        ],
+        "master": [
+          2048,
+          2048
+        ],
+        "web": [
+          1400,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 756156,
+        "web": 161494,
+        "thumbnail": 12210
+      },
+      "sha256": {
+        "download": "6b9a3f61b7d6f956fa01f3ad7bc081afa60f1c83ee459660bea3ef2763cd23d6",
+        "master": "5b720f0236c6b6cb9eeeefcdba0bc63783ec97adbca26fb3c2fc6bd3131cba03",
+        "web": "16300777abc5f6bab736eead73392abc8f08c2b4bffde6dfaf941da14c05b33f"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Polystichum acrostichoides [Polystichum acrostichoides] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/202585562. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Polystichum acrostichoides",
+      "sourceId": "202585562",
+      "photoUrl": "https://www.inaturalist.org/photos/202585562",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/202585562/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/202585562/original.jpeg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 54412,
+      "acceptedScientificName": "Polystichum acrostichoides",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/119815107",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 8.592380952380953
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-559652317",
       "targetId": "org-pongo-abelii",
       "scientificName": "Pongo abelii",
@@ -36704,6 +39744,86 @@
       "observationQualityGrade": "research",
       "selectionBasis": "research_grade_observation",
       "selectionScore": 7.860952380952381
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-628499215",
+      "targetId": "inat-taxon-122238",
+      "scientificName": "Porcellio scaber",
+      "nameJa": "ワラジムシ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:17:06+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:17:06+00:00",
+      "files": {
+        "master": "images/porcellio-scaber/inat-628499215.jpg",
+        "web": "images/porcellio-scaber/inat-628499215.webp",
+        "thumbnail": "images/porcellio-scaber/inat-628499215-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1850,
+          2048
+        ],
+        "master": [
+          1850,
+          2048
+        ],
+        "web": [
+          1265,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 1085875,
+        "web": 251106,
+        "thumbnail": 23280
+      },
+      "sha256": {
+        "download": "db1843816f64284faba1d126c4051a67aae18049ed2ca4cc3c426a0d91d8f9a1",
+        "master": "f9e65bd8f242d637e12652228ed021eb7b7dde8bc963fa5cf936782254cabb6b",
+        "web": "5bb579f9972e75b6fa5a7f0d23b066a3e1b3ed6875cd0686e2cb670e95619b9e"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 68,
+      "credit": "Porcellio scaber [Porcellio scaber] — eml23 / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/628499215. Original attribution: (c) eml23, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Porcellio scaber",
+      "sourceId": "628499215",
+      "photoUrl": "https://www.inaturalist.org/photos/628499215",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/628499215/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/628499215/original.jpg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "eml23",
+      "originalAttribution": "(c) eml23, some rights reserved (CC BY)",
+      "taxonId": 122238,
+      "acceptedScientificName": "Porcellio scaber",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Animalia",
+      "observationUrl": "https://www.inaturalist.org/observations/344913929",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.309523809523809
     },
     {
       "schemaVersion": 1,
@@ -38855,6 +41975,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-288380498",
+      "targetId": "inat-taxon-48229",
+      "scientificName": "Ranunculus repens",
+      "nameJa": "ハイキンポウゲ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:17:12+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:17:12+00:00",
+      "files": {
+        "master": "images/ranunculus-repens/inat-288380498.jpg",
+        "web": "images/ranunculus-repens/inat-288380498.webp",
+        "thumbnail": "images/ranunculus-repens/inat-288380498-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1536
+        ],
+        "master": [
+          2048,
+          1536
+        ],
+        "web": [
+          1400,
+          1050
+        ]
+      },
+      "bytes": {
+        "master": 339479,
+        "web": 50830,
+        "thumbnail": 6612
+      },
+      "sha256": {
+        "download": "be55f569d023d63ccaa201916cdedbeaadb387a984d9f721de3510d04af3175e",
+        "master": "bc1051ecfcc2cbab0e241ebc0a50cf6beca0fe8a3fb9533a9ba390455b675fe7",
+        "web": "2d8a59f072dcc6d7fc2b752bc953a998149c119200e673577a9a6c2d8e32d4d2"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Ranunculus repens [Ranunculus repens] — Gavin Slater / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/288380498. Original attribution: (c) Gavin Slater, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Ranunculus repens",
+      "sourceId": "288380498",
+      "photoUrl": "https://www.inaturalist.org/photos/288380498",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/288380498/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/288380498/original.jpeg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Gavin Slater",
+      "originalAttribution": "(c) Gavin Slater, some rights reserved (CC BY)",
+      "taxonId": 48229,
+      "acceptedScientificName": "Ranunculus repens",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/166524074",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.527619047619047
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-462748811",
       "targetId": "org-rattus-norvegicus",
       "scientificName": "Rattus norvegicus",
@@ -40283,6 +43483,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-39872800",
+      "targetId": "inat-taxon-765394",
+      "scientificName": "Sambucus nigra",
+      "nameJa": "セイヨウニワトコ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:15:41+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:15:41+00:00",
+      "files": {
+        "master": "images/sambucus-nigra/inat-39872800.jpg",
+        "web": "images/sambucus-nigra/inat-39872800.webp",
+        "thumbnail": "images/sambucus-nigra/inat-39872800-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1536
+        ],
+        "master": [
+          2048,
+          1536
+        ],
+        "web": [
+          1400,
+          1050
+        ]
+      },
+      "bytes": {
+        "master": 575954,
+        "web": 134514,
+        "thumbnail": 18448
+      },
+      "sha256": {
+        "download": "04649d61aa6ae7e28dc6d0e1301eb0a34638afccc6aaffe66b0c09f53d7346fc",
+        "master": "e685fb2b5318eff97c0897afd9955730c0ac8b588356601eb169eae881d78f1d",
+        "web": "3b9c96e9e887685c29151f72f35314cdfc571cbdb3f35b7c14ddd50a3983b788"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Sambucus nigra [Sambucus nigra] — Attila Oláh / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/39872800. Original attribution: (c) Attila Oláh, some rights reserved (CC BY), uploaded by Attila Oláh. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Sambucus nigra",
+      "sourceId": "39872800",
+      "photoUrl": "https://www.inaturalist.org/photos/39872800",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/39872800/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/39872800/original.jpeg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Attila Oláh",
+      "originalAttribution": "(c) Attila Oláh, some rights reserved (CC BY), uploaded by Attila Oláh",
+      "taxonId": 765394,
+      "acceptedScientificName": "Sambucus nigra",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": null,
+      "observationQualityGrade": null,
+      "selectionBasis": "curated_taxon_photo",
+      "selectionScore": 12.194285714285714
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-662658737",
       "targetId": "org-sarcophilus-harrisii",
       "scientificName": "Sarcophilus harrisii",
@@ -40517,6 +43797,86 @@
       "observationQualityGrade": "research",
       "selectionBasis": "research_grade_observation",
       "selectionScore": 7.194285714285714
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-120158487",
+      "targetId": "inat-taxon-36204",
+      "scientificName": "Sceloporus occidentalis",
+      "nameJa": "",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:23+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:23+00:00",
+      "files": {
+        "master": "images/sceloporus-occidentalis/inat-120158487.jpg",
+        "web": "images/sceloporus-occidentalis/inat-120158487.webp",
+        "thumbnail": "images/sceloporus-occidentalis/inat-120158487-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1358,
+          1358
+        ],
+        "master": [
+          1358,
+          1358
+        ],
+        "web": [
+          1358,
+          1358
+        ]
+      },
+      "bytes": {
+        "master": 489156,
+        "web": 185750,
+        "thumbnail": 19098
+      },
+      "sha256": {
+        "download": "857f212948aa21ec3ac86eb9102e2df89a16cfc7c4958acab81fe9c96c5ad555",
+        "master": "5c70ca957cf920d145489a86b894dbdd7f2199b8bca8ed07e0b16e759d2055bb",
+        "web": "8c14a01b62d6bf603d9da378ef514585f5e07a412a35852b9f373c6ddb0be266"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 80,
+      "credit": "Sceloporus occidentalis [Sceloporus occidentalis] — Ken-ichi Ueda / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/120158487. Original attribution: (c) Ken-ichi Ueda, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Sceloporus occidentalis",
+      "sourceId": "120158487",
+      "photoUrl": "https://www.inaturalist.org/photos/120158487",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/120158487/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/120158487/original.jpg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Ken-ichi Ueda",
+      "originalAttribution": "(c) Ken-ichi Ueda, some rights reserved (CC BY)",
+      "taxonId": 36204,
+      "acceptedScientificName": "Sceloporus occidentalis",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Reptilia",
+      "observationUrl": "https://www.inaturalist.org/observations/73589287",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 8.606666666666666
     },
     {
       "schemaVersion": 1,
@@ -41394,6 +44754,166 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-181193021",
+      "targetId": "inat-taxon-12942",
+      "scientificName": "Sialia sialis",
+      "nameJa": "ルリツグミ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:29+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:29+00:00",
+      "files": {
+        "master": "images/sialia-sialis/inat-181193021.jpg",
+        "web": "images/sialia-sialis/inat-181193021.webp",
+        "thumbnail": "images/sialia-sialis/inat-181193021-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1536
+        ],
+        "master": [
+          2048,
+          1536
+        ],
+        "web": [
+          1400,
+          1050
+        ]
+      },
+      "bytes": {
+        "master": 628461,
+        "web": 160658,
+        "thumbnail": 19556
+      },
+      "sha256": {
+        "download": "8c8a91f34861b31190e4418bafdfff2230f4e66752a22fe968c5010b09684354",
+        "master": "6c21d77b35ecb77fe551a9ec4c9ec00bf639409c2a94bce8fbe3a5faaed3dd23",
+        "web": "acb257eb2fae3163a849c5adf9ed68545671da77185d9a0a0311bb767deb3ff2"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Sialia sialis [Sialia sialis] — Chelsea Carroll / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/181193021. Original attribution: (c) Chelsea Carroll, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Sialia sialis",
+      "sourceId": "181193021",
+      "photoUrl": "https://www.inaturalist.org/photos/181193021",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/181193021/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/181193021/original.jpeg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Chelsea Carroll",
+      "originalAttribution": "(c) Chelsea Carroll, some rights reserved (CC BY)",
+      "taxonId": 12942,
+      "acceptedScientificName": "Sialia sialis",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Aves",
+      "observationUrl": "https://www.inaturalist.org/observations/107700686",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 9.194285714285714
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-214265310",
+      "targetId": "inat-taxon-55759",
+      "scientificName": "Silene dioica",
+      "nameJa": "アケボノセンノウ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:17:06+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:17:06+00:00",
+      "files": {
+        "master": "images/silene-dioica/inat-214265310.jpg",
+        "web": "images/silene-dioica/inat-214265310.webp",
+        "thumbnail": "images/silene-dioica/inat-214265310-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1536,
+          2048
+        ],
+        "master": [
+          1536,
+          2048
+        ],
+        "web": [
+          1050,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 530305,
+        "web": 110742,
+        "thumbnail": 8424
+      },
+      "sha256": {
+        "download": "624286082c4ce18fb4b764197019239e8d11141e9b374355794023aa6d0332e2",
+        "master": "1390f4a033a58f9156f2978e29af3005486654b2759aca7bf0253055b3026279",
+        "web": "b6ecc86c75c1f5ffb57158d46bdd65c562ab03961c6e4851eca7a3a42a16dda4"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Silene dioica [Silene dioica] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/214265310. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Silene dioica",
+      "sourceId": "214265310",
+      "photoUrl": "https://www.inaturalist.org/photos/214265310",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/214265310/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/214265310/original.jpg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 55759,
+      "acceptedScientificName": "Silene dioica",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/126289774",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.527619047619047
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-722381267",
       "targetId": "inat-taxon-79109",
       "scientificName": "Silene latifolia",
@@ -41711,6 +45231,86 @@
       "observationQualityGrade": "research",
       "selectionBasis": "research_grade_observation",
       "selectionScore": 7.2804761904761905
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-24531866",
+      "targetId": "inat-taxon-53294",
+      "scientificName": "Sonchus oleraceus",
+      "nameJa": "ノゲシ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:19+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:19+00:00",
+      "files": {
+        "master": "images/sonchus-oleraceus/inat-24531866.jpg",
+        "web": "images/sonchus-oleraceus/inat-24531866.webp",
+        "thumbnail": "images/sonchus-oleraceus/inat-24531866-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1536,
+          2048
+        ],
+        "master": [
+          1536,
+          2048
+        ],
+        "web": [
+          1050,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 399749,
+        "web": 77280,
+        "thumbnail": 6982
+      },
+      "sha256": {
+        "download": "d8196f7d479e940dfb889e6544c1672d7d8924b3988cacf3048cf27c89e2424d",
+        "master": "606c359552d642ffa077f6f71f30a2119e086e4ec09f16097a495e2a4d84a347",
+        "web": "264d5fa09a6baf039d2c6c5479b1b67caf68611ed7fee4d9e9522bfac1f97815"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Sonchus oleraceus [Sonchus oleraceus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/24531866. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Sonchus oleraceus",
+      "sourceId": "24531866",
+      "photoUrl": "https://www.inaturalist.org/photos/24531866",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24531866/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24531866/original.jpg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 53294,
+      "acceptedScientificName": "Sonchus oleraceus",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/16327158",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.527619047619047
     },
     {
       "schemaVersion": 1,
@@ -43225,6 +46825,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-248492879",
+      "targetId": "inat-taxon-43111",
+      "scientificName": "Sylvilagus floridanus",
+      "nameJa": "トウブワタオウサギ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:09+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:09+00:00",
+      "files": {
+        "master": "images/sylvilagus-floridanus/inat-248492879.jpg",
+        "web": "images/sylvilagus-floridanus/inat-248492879.webp",
+        "thumbnail": "images/sylvilagus-floridanus/inat-248492879-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1488
+        ],
+        "master": [
+          2048,
+          1488
+        ],
+        "web": [
+          1400,
+          1017
+        ]
+      },
+      "bytes": {
+        "master": 509394,
+        "web": 101560,
+        "thumbnail": 8940
+      },
+      "sha256": {
+        "download": "094e629ba5e7a812d899302322a56c0752da682d9eea168a3d74712cb023c606",
+        "master": "8f1bf3ec08ad78957f5c275e1489563616e53381a5bf42c0232e21c7f036d373",
+        "web": "1fd945eeadd1f900662171a0ab93cd4a25f718c917c9d42a7e7d5f604ef393dc"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Sylvilagus floridanus [Sylvilagus floridanus] — Marilynn Miller / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/248492879. Original attribution: (c) Marilynn Miller, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Sylvilagus floridanus",
+      "sourceId": "248492879",
+      "photoUrl": "https://www.inaturalist.org/photos/248492879",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/248492879/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/248492879/original.jpg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Marilynn Miller",
+      "originalAttribution": "(c) Marilynn Miller, some rights reserved (CC BY)",
+      "taxonId": 43111,
+      "acceptedScientificName": "Sylvilagus floridanus",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Mammalia",
+      "observationUrl": "https://www.inaturalist.org/observations/144743989",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 9.125714285714286
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "commons-8422815",
       "targetId": "org-symphysodon-aequifasciatus",
       "scientificName": "Symphysodon aequifasciatus",
@@ -44570,6 +48250,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-2237896",
+      "targetId": "inat-taxon-58732",
+      "scientificName": "Toxicodendron radicans",
+      "nameJa": "",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:15:56+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:15:56+00:00",
+      "files": {
+        "master": "images/toxicodendron-radicans/inat-2237896.jpg",
+        "web": "images/toxicodendron-radicans/inat-2237896.webp",
+        "thumbnail": "images/toxicodendron-radicans/inat-2237896-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1371,
+          2048
+        ],
+        "master": [
+          1371,
+          2048
+        ],
+        "web": [
+          937,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 460685,
+        "web": 116660,
+        "thumbnail": 8484
+      },
+      "sha256": {
+        "download": "dfb547e1b4f9bf6afede26ff71dd5ed6c34f8335153883607517bb659e28a5d2",
+        "master": "42ed95690a4c97b7c521e9de8b64197de855799b48b7add3e8b185d2a64187aa",
+        "web": "d453faf9ac51894f20f66b0dcc2c1941e8ed65f58db635756311b3ad67cb5523"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Toxicodendron radicans [Toxicodendron radicans] — Sam Fraser-Smith / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/2237896. Original attribution: (c) Sam Fraser-Smith, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Toxicodendron radicans",
+      "sourceId": "2237896",
+      "photoUrl": "https://www.inaturalist.org/photos/2237896",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2237896/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2237896/original.jpg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Sam Fraser-Smith",
+      "originalAttribution": "(c) Sam Fraser-Smith, some rights reserved (CC BY)",
+      "taxonId": 58732,
+      "acceptedScientificName": "Toxicodendron radicans",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": null,
+      "observationQualityGrade": null,
+      "selectionBasis": "curated_taxon_photo",
+      "selectionScore": 11.958571428571428
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-120834277",
       "targetId": "inat-taxon-39782",
       "scientificName": "Trachemys scripta",
@@ -45438,6 +49198,86 @@
       "selectionBasis": "commons_scientific_name_and_photo_metadata",
       "selectionScore": 1,
       "commonsTitle": "File:Trypanosoma brucei brucei in Mouse Liver Tissue.png"
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-406659082",
+      "targetId": "inat-taxon-48734",
+      "scientificName": "Tsuga canadensis",
+      "nameJa": "カナダトウヒ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:44+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:44+00:00",
+      "files": {
+        "master": "images/tsuga-canadensis/inat-406659082.jpg",
+        "web": "images/tsuga-canadensis/inat-406659082.webp",
+        "thumbnail": "images/tsuga-canadensis/inat-406659082-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          2048,
+          1542
+        ],
+        "master": [
+          2048,
+          1542
+        ],
+        "web": [
+          1400,
+          1054
+        ]
+      },
+      "bytes": {
+        "master": 1457027,
+        "web": 356274,
+        "thumbnail": 33864
+      },
+      "sha256": {
+        "download": "515096bcd403509a6dcf32c0a98fc6ae6072b59a50017e0f8fb23dbe039fb007",
+        "master": "3d20a2b5547e8ec39c77aff52af24ef18e5b12979ef6a040fbf581e4b300de1a",
+        "web": "49f5d747e64142665e04f3410b934d94e5a2fc6b5bd6213d513068f8e5b67806"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 68,
+      "credit": "Tsuga canadensis [Tsuga canadensis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/406659082. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Tsuga canadensis",
+      "sourceId": "406659082",
+      "photoUrl": "https://www.inaturalist.org/photos/406659082",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/406659082/original.jpeg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/406659082/original.jpeg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 48734,
+      "acceptedScientificName": "Tsuga canadensis",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/229114789",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.86952380952381
     },
     {
       "schemaVersion": 1,
@@ -47035,6 +50875,86 @@
     },
     {
       "schemaVersion": 1,
+      "assetId": "inat-291786073",
+      "targetId": "inat-taxon-51610",
+      "scientificName": "Veronica chamaedrys",
+      "nameJa": "カラフトヒヨクソウ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:16:04+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": true,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:16:04+00:00",
+      "files": {
+        "master": "images/veronica-chamaedrys/inat-291786073.jpg",
+        "web": "images/veronica-chamaedrys/inat-291786073.webp",
+        "thumbnail": "images/veronica-chamaedrys/inat-291786073-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1536,
+          2048
+        ],
+        "master": [
+          1536,
+          2048
+        ],
+        "web": [
+          1050,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 1285581,
+        "web": 266384,
+        "thumbnail": 23212
+      },
+      "sha256": {
+        "download": "4058494144ee8c4e0cf19c2391ea26b8d5700ef437da6dc7b263ac41b1afcf5c",
+        "master": "1eaa2279a886bb5dfbc653a89945c8b5d426bf969a887d6ebd73f08bb012dea6",
+        "web": "d2ada9ad83cd6b3cdd1a68315b9f9d80eb055c4eff8ac79b70f426c9cfc69586"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 68,
+      "credit": "Veronica chamaedrys [Veronica chamaedrys] — Joseph Hubbard / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/291786073. Original attribution: (c) Joseph Hubbard, some rights reserved (CC BY), uploaded by Joseph Hubbard. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Veronica chamaedrys",
+      "sourceId": "291786073",
+      "photoUrl": "https://www.inaturalist.org/photos/291786073",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/291786073/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/291786073/original.jpg",
+      "licenseCode": "cc-by",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Joseph Hubbard",
+      "originalAttribution": "(c) Joseph Hubbard, some rights reserved (CC BY), uploaded by Joseph Hubbard",
+      "taxonId": 51610,
+      "acceptedScientificName": "Veronica chamaedrys",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": null,
+      "observationQualityGrade": null,
+      "selectionBasis": "curated_taxon_photo",
+      "selectionScore": 12.194285714285714
+    },
+    {
+      "schemaVersion": 1,
       "assetId": "inat-63038253",
       "targetId": "inat-taxon-55666",
       "scientificName": "Veronica persica",
@@ -47189,6 +51109,86 @@
       "selectionBasis": "commons_scientific_name_and_photo_metadata",
       "selectionScore": 1,
       "commonsTitle": "File:TCBS agar plate of Vibrio Cholerae and vibrio parahaemolyticus.jpg"
+    },
+    {
+      "schemaVersion": 1,
+      "assetId": "inat-294581107",
+      "targetId": "inat-taxon-52471",
+      "scientificName": "Vicia cracca",
+      "nameJa": "クサフジ",
+      "collectionTier": "extension",
+      "origin": "real_photograph",
+      "status": "collected_pending_visual_review",
+      "visualReview": {
+        "status": "pending",
+        "fullBodyVisible": "unverified",
+        "speciesIdentity": "source_taxonomy_only"
+      },
+      "rightsReview": {
+        "status": "allowed_license_metadata_verified",
+        "verifiedAt": "2026-09-14T01:17:21+00:00",
+        "commercialReuseAllowedByLicense": true,
+        "attributionRequired": false,
+        "shareAlikeRequiredForAdaptation": false,
+        "otherRights": "not_warranted"
+      },
+      "retrievedAt": "2026-09-14T01:17:21+00:00",
+      "files": {
+        "master": "images/vicia-cracca/inat-294581107.jpg",
+        "web": "images/vicia-cracca/inat-294581107.webp",
+        "thumbnail": "images/vicia-cracca/inat-294581107-thumb.webp"
+      },
+      "dimensions": {
+        "source": [
+          1536,
+          2048
+        ],
+        "master": [
+          1536,
+          2048
+        ],
+        "web": [
+          1050,
+          1400
+        ]
+      },
+      "bytes": {
+        "master": 748985,
+        "web": 164920,
+        "thumbnail": 14098
+      },
+      "sha256": {
+        "download": "0da94c3413613af5639b9235fc3338edff547e70b8a384cef788abea174c209b",
+        "master": "27ecb9a041ed202565222851e06d3af89cc9f42ace87e0fa680ac6be730ab5c2",
+        "web": "19503b58b9864535fcd56fe1329789608e5143939e265f76c57a3530828a1265"
+      },
+      "changes": [
+        "EXIF orientation applied",
+        "proportional downsize only; no crop",
+        "JPEG/WebP re-encoding",
+        "embedded EXIF removed; provenance retained in metadata"
+      ],
+      "webQuality": 86,
+      "credit": "Vicia cracca [Vicia cracca] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/294581107. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+      "source": "iNaturalist",
+      "imageTitle": "Vicia cracca",
+      "sourceId": "294581107",
+      "photoUrl": "https://www.inaturalist.org/photos/294581107",
+      "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/294581107/original.jpg",
+      "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/294581107/original.jpg",
+      "licenseCode": "cc0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "no rights reserved",
+      "originalAttribution": "no rights reserved",
+      "taxonId": 52471,
+      "acceptedScientificName": "Vicia cracca",
+      "taxonMatch": "exact_scientific_name",
+      "taxonRank": "species",
+      "iconicTaxonName": "Plantae",
+      "observationUrl": "https://www.inaturalist.org/observations/169888849",
+      "observationQualityGrade": "research",
+      "selectionBasis": "research_grade_observation",
+      "selectionScore": 7.527619047619047
     },
     {
       "schemaVersion": 1,

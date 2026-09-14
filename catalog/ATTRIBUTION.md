@@ -2,11 +2,17 @@
 
 Each photograph retains its own listed license.
 
+Abies balsamea [Abies balsamea] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/233184601. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
 Acanthaster planci [Acanthaster planci] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/623563336. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Acer negundo [Acer negundo] — Jay Pruett / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/486113480. Original attribution: (c) Jay Pruett, some rights reserved (CC BY), uploaded by Jay Pruett. Resized and re-encoded; no subject alteration.
 
+Acer platanoides [Acer platanoides] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/277389111. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
 Acer pseudoplatanus [Acer pseudoplatanus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/195277670. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Acer rubrum [Acer rubrum] — mefisher / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/371065093. Original attribution: no rights reserved, uploaded by mefisher. Resized and re-encoded; no subject alteration.
 
 Acer saccharum [Acer saccharum] — James St. John / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/270771956. Original attribution: (c) James St. John, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
@@ -27,6 +33,8 @@ Agalychnis callidryas [Agalychnis callidryas] — no rights reserved / iNaturali
 Agaricus bisporus G4 [Agaricus bisporus] — Jerzy Opioła / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Agaricus_bisporus_G4.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Agelaius phoeniceus [Agelaius phoeniceus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/137233980. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Aglais io [Aglais io] — S. Rae / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/4710619. Original attribution: (c) S. Rae, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Ailanthus altissima [Ailanthus altissima] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/151105808. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -64,9 +72,13 @@ Amorphophallus titanum [Amorphophallus titanum] — no rights reserved / iNatura
 
 Amphiprion ocellaris [Amphiprion ocellaris] — portioid / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/269009306. Original attribution: (c) portioid, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Anas crecca [Anas crecca] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/108186568. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
 Anas platyrhynchos [Anas platyrhynchos] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/32774133. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Anax junius [Anax junius] — Michelle W. （鍾偉瑋） / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/154883429. Original attribution: (c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Anaxyrus americanus [Anaxyrus americanus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/46547792. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Andrias davidianus [Andrias davidianus] — Stefano Menchetti / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/482652350. Original attribution: (c) Stefano Menchetti, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
 
@@ -75,6 +87,8 @@ Andrias japonicus [Andrias japonicus] — Ken-ichi Ueda / iNaturalist, CC-BY (ht
 Anguilla anguilla [Anguilla anguilla] — Roy Lowry / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/74482397. Original attribution: (c) Roy Lowry, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Anthoceros agrestis [Anthoceros agrestis] — Михаил Языков / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/539017853. Original attribution: (c) Михаил Языков, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Anthriscus sylvestris [Anthriscus sylvestris] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/282716008. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Antilocapra americana [Antilocapra americana] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/268596217. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -93,6 +107,8 @@ Ara macao [Ara macao] — no rights reserved / iNaturalist, CC0 (https://creativ
 Arabidopsis thaliana [Arabidopsis thaliana] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/427237684. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Arachis hypogaea [Arachis hypogaea] — 葉子 / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/105026294. Original attribution: no rights reserved, uploaded by 葉子. Resized and re-encoded; no subject alteration.
+
+Araneus diadematus [Araneus diadematus] — hedera.baltica / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/156036389. Original attribution: (c) hedera.baltica, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
 
 Arapaima gigas [Arapaima gigas] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/600518045. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -260,6 +276,8 @@ Chamaeleo calyptratus [Chamaeleo calyptratus] — no rights reserved / iNaturali
 
 Chamaenerion angustifolium [Chamaenerion angustifolium] — Ken-ichi Ueda / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/123788. Original attribution: (c) Ken-ichi Ueda, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Charadrius vociferus [Charadrius vociferus] — Matt Felperin / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/370022156. Original attribution: (c) Matt Felperin, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
 Chelidonium majus [Chelidonium majus] — zebedeugalinha / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/686070739. Original attribution: (c) zebedeugalinha, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Chelonia mydas [Chelonia mydas] — Kyle Van Houtan / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/226920324. Original attribution: (c) Kyle Van Houtan, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
@@ -275,6 +293,8 @@ Choloepus hoffmanni [Choloepus hoffmanni] — no rights reserved / iNaturalist, 
 Chondrus crispus [Chondrus crispus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/417420488. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Chroicocephalus ridibundus [Chroicocephalus ridibundus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/167324118. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Chrysemys picta [Chrysemys picta] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/119028540. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Cicer arietinum [Cicer arietinum] — Mirko Duimich / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/326896969. Original attribution: (c) Mirko Duimich, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
@@ -306,7 +326,11 @@ Connochaetes taurinus [Connochaetes taurinus] — no rights reserved / iNaturali
 
 Conraua goliath [Conraua goliath] — Ryan van Huyssteen / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/360001369. Original attribution: (c) Ryan van Huyssteen, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Convolvulus arvensis [Convolvulus arvensis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/46974379. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
 Coptotermes formosanus [Coptotermes formosanus] — Tyler Bishop / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/39817844. Original attribution: (c) Tyler Bishop, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Coragyps atratus [Coragyps atratus] — Cricket Raspet / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/342659116. Original attribution: (c) Cricket Raspet, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Corallina officinalis [Corallina officinalis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/202533904. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -317,6 +341,8 @@ Corvus brachyrhynchos [Corvus brachyrhynchos] — no rights reserved / iNaturali
 Corvus corax [Corvus corax] — Mila C. / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/381522855. Original attribution: (c) Mila C., some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Corvus cornix [Corvus cornix] — hedera.baltica / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/114176979. Original attribution: (c) hedera.baltica, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
+
+Corylus avellana [Corylus avellana] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/31532077. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Crassostrea gigas infested with Polydora websteri (10.1007-s12526-020-01092-6) Figure 1 [Crassostrea gigas] — [Photos: Dagmar Lackschewitz] Waser, A.M., Lackschewitz, D., Knol, J. et al. Spread of the invasive shell-boring annelid Polydora websteri (Polychaeta, Spionidae) into naturalised oyster reefs in the European Wadden Sea. Mar. Biodivers. 50, 63 (2020). https://doi.org/10.1007/s12526-020-01092-6 / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Crassostrea_gigas_infested_with_Polydora_websteri_(10.1007-s12526-020-01092-6)_Figure_1.jpg. Original attribution: https://doi.org/10.1007/s12526-020-01092-6. Resized and re-encoded; no subject alteration.
 
@@ -346,6 +372,8 @@ Cycas revoluta [Cycas revoluta] — no rights reserved / iNaturalist, CC0 (https
 
 Cygnus olor [Cygnus olor] — carnifex / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/13855998. Original attribution: (c) carnifex, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Cymbalaria muralis [Cymbalaria muralis] — zebedeugalinha / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/701872066. Original attribution: (c) zebedeugalinha, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
 Cyprinus carpio [Cyprinus carpio] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/396074163. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Dacelo novaeguineae [Dacelo novaeguineae] — Sockrosma / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/353967913. Original attribution: (c) Sockrosma, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
@@ -374,6 +402,8 @@ Dendroaspis polylepis [Dendroaspis polylepis] — no rights reserved / iNaturali
 
 Dendrobates tinctorius [Dendrobates tinctorius] — Yves Bas / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/109403891. Original attribution: (c) Yves Bas, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Dendrocopos major [Dendrocopos major] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/152732558. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
 Dermochelys coriacea [Dermochelys coriacea] — Pam Kleinsasser / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/23833432. Original attribution: (c) Pam Kleinsasser, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Desmodus rotundus [Desmodus rotundus] — Tomás Carranza Perales / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/149104034. Original attribution: (c) Tomás Carranza Perales, some rights reserved (CC BY), uploaded by Tomás Carranza Perales. Resized and re-encoded; no subject alteration.
@@ -388,6 +418,8 @@ Diomedea exulans [Diomedea exulans] — Flavien Saboureau / iNaturalist, CC-BY (
 
 Dionaea muscipula [Dionaea muscipula] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/432274864. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Dione vanillae [Dione vanillae] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/110570995. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
 Diploria labyrinthiformis [Diploria labyrinthiformis] — Louis Imbeau / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/33168991. Original attribution: (c) Louis Imbeau, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Dromaius novaehollandiae [Dromaius novaehollandiae] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/329391939. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
@@ -399,6 +431,10 @@ Dryobates pubescens [Dryobates pubescens] — no rights reserved / iNaturalist, 
 Dugong dugon [Dugong dugon] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/168378319. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Dynastes hercules [Dynastes hercules] — TOUROULT Julien / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/18333696. Original attribution: (c) TOUROULT Julien, some rights reserved (CC BY), uploaded by TOUROULT Julien. Resized and re-encoded; no subject alteration.
+
+Echium vulgare [Echium vulgare] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/397351719. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Egretta garzetta [Egretta garzetta] — Bengt Nyman / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/205293169. Original attribution: (c) Bengt Nyman, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Egretta thula [Egretta thula] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/688306446. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -428,6 +464,10 @@ Eristalis tenax [Eristalis tenax] — no rights reserved / iNaturalist, CC0 (htt
 
 Erithacus rubecula [Erithacus rubecula] — Alexis Tinker-Tsavalas / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/30475942. Original attribution: (c) Alexis Tinker-Tsavalas, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Erodium cicutarium [Erodium cicutarium] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/255868475. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Erythemis simplicicollis [Erythemis simplicicollis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/3210402. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
 Escherichia coli EMB [Escherichia coli] — Gene Drendel / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Escherichia_coli_EMB.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Leopard gheko molting [Eublepharis macularius] — Bobjgalindo / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Leopard_gheko_molting.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
@@ -451,6 +491,10 @@ Euphausia superba [Euphausia superba] — no rights reserved / iNaturalist, CC0 
 Fagus grandifolia [Fagus grandifolia] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/10551201. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Falco peregrinus [Falco peregrinus] — Shirley Zundell / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/17316283. Original attribution: (c) Shirley Zundell, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Falco sparverius [Falco sparverius] — Jonathan Eisen / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/75920516. Original attribution: (c) Jonathan Eisen, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Falco tinnunculus [Falco tinnunculus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/511790572. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Felis catus [Felis catus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/707418591. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -479,6 +523,8 @@ Gadus morhua [Gadus morhua] — no rights reserved / iNaturalist, CC0 (https://c
 Galeocerdo cuvier [Galeocerdo cuvier] — Kris-Mikael Krister / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/19051907. Original attribution: (c) Kris-Mikael Krister, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Galium aparine [Galium aparine] — Magnus Hagdorn / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/79984095. Original attribution: (c) Magnus Hagdorn, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
+
+Gallinula chloropus [Gallinula chloropus] — Alexis Lours / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/171773229. Original attribution: (c) Alexis Lours, some rights reserved (CC BY), uploaded by Alexis Lours. Resized and re-encoded; no subject alteration.
 
 Gallus gallus [Gallus gallus] — Julien Renoult / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/3784873. Original attribution: (c) Julien Renoult, some rights reserved (CC BY), uploaded by Julien Renoult. Resized and re-encoded; no subject alteration.
 
@@ -590,6 +636,8 @@ Ichthyophis glutinosus, female with eggs [Ichthyophis glutinosus] — Lajmmoore 
 
 Iguana iguana [Iguana iguana] — Richard Stovall / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/19063248. Original attribution: (c) Richard Stovall, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Ilex aquifolium [Ilex aquifolium] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/70264116. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
 Indri indri [Indri indri] — Seig / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/50467304. Original attribution: (c) Seig, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Istiophorus platypterus [Istiophorus platypterus] — harrier / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/218996387. Original attribution: (c) harrier, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
@@ -598,9 +646,13 @@ Isurus oxyrinchus [Isurus oxyrinchus] — no rights reserved / iNaturalist, CC0 
 
 Ixodes scapularis [Ixodes scapularis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/459361478. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Jacobaea vulgaris [Jacobaea vulgaris] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/7529075. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
 Junco hyemalis [Junco hyemalis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/172110799. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Lama glama [Lama glama] — Gijs Romijn / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/237389937. Original attribution: (c) Gijs Romijn, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Lamium album [Lamium album] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/127194437. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Lamium purpureum [Lamium purpureum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/192204311. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -628,7 +680,11 @@ Leptailurus serval [Leptailurus serval] — Morten Ross / iNaturalist, CC-BY (ht
 
 Leptoptilos crumenifer [Leptoptilos crumenifer] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/338956956. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Leucanthemum vulgare [Leucanthemum vulgare] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/198904077. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
 Limulus polyphemus [Limulus polyphemus] — Elizabeth Green / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/281735049. Original attribution: (c) Elizabeth Green, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Linaria vulgaris [Linaria vulgaris] — Maja Dumat / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/542354433. Original attribution: (c) Maja Dumat, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Linckia laevigata [Linckia laevigata] — portioid / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/265445111. Original attribution: (c) portioid, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
@@ -670,6 +726,8 @@ Macropus giganteus [Macropus giganteus] — Shane Walker / iNaturalist, CC-BY (h
 
 Magnolia grandiflora [Magnolia grandiflora] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/363901946. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Maianthemum racemosum [Maianthemum racemosum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/678952733. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
 Malayopython reticulatus [Malayopython reticulatus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/381376357. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Malus domestica [Malus domestica] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/70739381. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
@@ -678,11 +736,15 @@ Mandrillus sphinx [Mandrillus sphinx] — Julien Renoult / iNaturalist, CC-BY (h
 
 Manihot esculenta [Manihot esculenta] — 葉子 / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/249495572. Original attribution: no rights reserved, uploaded by 葉子. Resized and re-encoded; no subject alteration.
 
+Maniola jurtina [Maniola jurtina] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/47822970. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
 Manis javanica [Manis javanica] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/617138976. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Manis pentadactyla [Manis pentadactyla] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/327361077. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Marchantia polymorpha [Marchantia polymorpha] — Alex Abair / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/53920757. Original attribution: (c) Alex Abair, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Mareca strepera [Mareca strepera] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/696909864. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Medicago lupulina [Medicago lupulina] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/488895484. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -698,13 +760,19 @@ Melospiza melodia [Melospiza melodia] — Daniel Levitis / iNaturalist, CC-BY (h
 
 Mephitis mephitis [Mephitis mephitis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/50133857. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Mergus merganser [Mergus merganser] — Dick Mansfield / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/391664556. Original attribution: (c) Dick Mansfield, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
 Metasequoia glyptostroboides [Metasequoia glyptostroboides] — W Rao / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/285729025. Original attribution: (c) W Rao, some rights reserved (CC BY), uploaded by W Rao. Resized and re-encoded; no subject alteration.
 
 Ansa.202100042-Fig2-PDF-big [Methanocaldococcus jannaschii] — Nanako Kanno, Shingo Kato, Takashi Itoh, Moriya Ohkuma, Shinsuke Shigeto / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Ansa.202100042-Fig2-PDF-big.png. Original attribution: Resonance Raman analysis of intracellular vitamin B12 analogs in methanogenic archaea. In: Chemistry Europe : Analytical Science Advances , Vil. 3, No. 5-6, p. 165-173, PDF . Note: Study is also available via doi : 10.1002/ansa.202100042 (not used here). Caption fixed ( Methanocaldococcus jannaschii ) according to LPSN.. Resized and re-encoded; no subject alteration.
 
 Ansa.202100042-Fig2-PDF-big [Methanosarcina barkeri] — Nanako Kanno, Shingo Kato, Takashi Itoh, Moriya Ohkuma, Shinsuke Shigeto / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Ansa.202100042-Fig2-PDF-big.png. Original attribution: Resonance Raman analysis of intracellular vitamin B12 analogs in methanogenic archaea. In: Chemistry Europe : Analytical Science Advances , Vil. 3, No. 5-6, p. 165-173, PDF . Note: Study is also available via doi : 10.1002/ansa.202100042 (not used here). Caption fixed ( Methanocaldococcus jannaschii ) according to LPSN.. Resized and re-encoded; no subject alteration.
 
+Milvus migrans [Milvus migrans] — Joshua S. Martin / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/158802479. Original attribution: no rights reserved, uploaded by Joshua S. Martin. Resized and re-encoded; no subject alteration.
+
 Mimus polyglottos [Mimus polyglottos] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/709362073. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Mitchella repens [Mitchella repens] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/52044008. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Mnemiopsis leidyi [Mnemiopsis leidyi] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/707130880. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -846,7 +914,11 @@ Parus major [Parus major] — no rights reserved / iNaturalist, CC0 (https://cre
 
 Passer domesticus [Passer domesticus] — Sascha Nunheim / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/177949148. Original attribution: (c) Sascha Nunheim, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Passer montanus [Passer montanus] — carnifex / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/28649362. Original attribution: (c) carnifex, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
 Pavo cristatus [Pavo cristatus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/29714904. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Pelecanus occidentalis [Pelecanus occidentalis] — Laura Gaudette / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/348929489. Original attribution: (c) Laura Gaudette, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Pelecanus onocrotalus [Pelecanus onocrotalus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/396164372. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -918,11 +990,17 @@ Poecilia reticulata [Poecilia reticulata] — Jean Martins / iNaturalist, CC-BY 
 
 Pogona vitticeps [Pogona vitticeps] — Chris Lindorff / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/73946101. Original attribution: (c) Chris Lindorff, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Polyommatus icarus [Polyommatus icarus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/417451223. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Polystichum acrostichoides [Polystichum acrostichoides] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/202585562. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
 Pongo abelii [Pongo abelii] — Robyn Perkins / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/559652317. Original attribution: (c) Robyn Perkins, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Pongo pygmaeus [Pongo pygmaeus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/109597147. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Populus tremuloides [Populus tremuloides] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/640523541. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Porcellio scaber [Porcellio scaber] — eml23 / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/628499215. Original attribution: (c) eml23, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Porphyra umbilicalis [Porphyra umbilicalis] — Gabriele Kothe-Heinrich / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/212432. Original attribution: (c) Gabriele Kothe-Heinrich, sommige rechten voorbehouden (CC BY-SA). Resized and re-encoded; no subject alteration.
 
@@ -978,6 +1056,8 @@ Rana temporaria [Rana temporaria] — Jörg Hempel / iNaturalist, CC-BY-SA (http
 
 Rangifer tarandus [Rangifer tarandus] — Bering Land Bridge National Preserve / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/86057375. Original attribution: (c) Bering Land Bridge National Preserve, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Ranunculus repens [Ranunculus repens] — Gavin Slater / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/288380498. Original attribution: (c) Gavin Slater, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
 Rattus norvegicus [Rattus norvegicus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/462748811. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Rhincodon typus [Rhincodon typus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/72789253. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
@@ -1014,11 +1094,15 @@ Salix babylonica [Salix babylonica] — Jenny Saito / iNaturalist, CC-BY (https:
 
 Salmo salar [Salmo salar] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/608737746. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Sambucus nigra [Sambucus nigra] — Attila Oláh / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/39872800. Original attribution: (c) Attila Oláh, some rights reserved (CC BY), uploaded by Attila Oláh. Resized and re-encoded; no subject alteration.
+
 Sarcophilus harrisii [Sarcophilus harrisii] — Ramit Singal / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/662658737. Original attribution: (c) Ramit Singal, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Sargassum natans (brown algae) (San Salvador Island, Bahamas) 1 (15867880028) [Sargassum natans] — James St. John / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Sargassum_natans_(brown_algae)_(San_Salvador_Island,_Bahamas)_1_(15867880028).jpg. Original attribution: Sargassum natans (brown algae) (San Salvador Island, Bahamas) 1. Resized and re-encoded; no subject alteration.
 
 Scarabaeus sacer [Scarabaeus sacer] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/22960128. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Sceloporus occidentalis [Sceloporus occidentalis] — Ken-ichi Ueda / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/120158487. Original attribution: (c) Ken-ichi Ueda, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Schizosaccharomyces pombe tsentrosoom [Schizosaccharomyces pombe] — Tiina Tamm / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Schizosaccharomyces_pombe_tsentrosoom.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -1042,6 +1126,10 @@ Setonix brachyurus [Setonix brachyurus] — no rights reserved / iNaturalist, CC
 
 Setophaga coronata [Setophaga coronata] — Brooke J. / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/668050487. Original attribution: (c) Brooke J., some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Sialia sialis [Sialia sialis] — Chelsea Carroll / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/181193021. Original attribution: (c) Chelsea Carroll, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Silene dioica [Silene dioica] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/214265310. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
 Silene latifolia [Silene latifolia] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/722381267. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Solanum dulcamara [Solanum dulcamara] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/48149330. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
@@ -1049,6 +1137,8 @@ Solanum dulcamara [Solanum dulcamara] — no rights reserved / iNaturalist, CC0 
 Solanum lycopersicum [Solanum lycopersicum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/7503805. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Solanum tuberosum [Solanum tuberosum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/34777612. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Sonchus oleraceus [Sonchus oleraceus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/24531866. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Sorghum bicolor [Sorghum bicolor] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/731194602. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -1088,6 +1178,8 @@ Suricata suricatta [Suricata suricatta] — Peter Archdale / iNaturalist, CC-BY 
 
 Sus scrofa [Sus scrofa] — Cullen Hanks / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/34825790. Original attribution: (c) Cullen Hanks, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Sylvilagus floridanus [Sylvilagus floridanus] — Marilynn Miller / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/248492879. Original attribution: (c) Marilynn Miller, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
 Brown Discus Symphysodon aequifasciatus [Symphysodon aequifasciatus] — Brian Gratwicke / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Brown_Discus_Symphysodon_aequifasciatus.jpg. Original attribution: Brown Discus Symphysodon aequifasciatus. Resized and re-encoded; no subject alteration.
 
 Syncerus caffer [Syncerus caffer] — Bernard DUPONT / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/97834194. Original attribution: (c) Bernard DUPONT, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
@@ -1122,6 +1214,8 @@ Thunnus thynnus [Thunnus thynnus] — Michel Frisch / iNaturalist, CC-BY (https:
 
 Torpedo marmorata [Torpedo marmorata] — Juraj Ahel / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/317972298. Original attribution: (c) Juraj Ahel, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Toxicodendron radicans [Toxicodendron radicans] — Sam Fraser-Smith / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/2237896. Original attribution: (c) Sam Fraser-Smith, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
 Trachemys scripta [Trachemys scripta] — Glenn Berry / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/120834277. Original attribution: no rights reserved, uploaded by Glenn Berry. Resized and re-encoded; no subject alteration.
 
 Velvet Revolver [Trametes versicolor] — Steve Jurvetson from Menlo Park, USA / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Velvet_Revolver.jpg. Original attribution: Flickr. Resized and re-encoded; no subject alteration.
@@ -1143,6 +1237,8 @@ Trifolium repens [Trifolium repens] — no rights reserved / iNaturalist, CC0 (h
 Triticum aestivum [Triticum aestivum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/49680227. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Trypanosoma brucei brucei in Mouse Liver Tissue [Trypanosoma brucei] — BereVer001 / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Trypanosoma_brucei_brucei_in_Mouse_Liver_Tissue.png. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Tsuga canadensis [Tsuga canadensis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/406659082. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Mélanosporum 4 [Tuber melanosporum] — Véronique PAGNIER / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:M%C3%A9lanosporum_4.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -1184,9 +1280,13 @@ Varanus niloticus [Varanus niloticus] — Ben Machado / iNaturalist, CC-BY (http
 
 Verbascum thapsus [Verbascum thapsus] — Eric Watts / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/93034327. Original attribution: (c) Eric Watts, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Veronica chamaedrys [Veronica chamaedrys] — Joseph Hubbard / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/291786073. Original attribution: (c) Joseph Hubbard, some rights reserved (CC BY), uploaded by Joseph Hubbard. Resized and re-encoded; no subject alteration.
+
 Veronica persica [Veronica persica] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/63038253. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 TCBS agar plate of Vibrio Cholerae and vibrio parahaemolyticus [Vibrio cholerae] — Chainwit. / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:TCBS_agar_plate_of_Vibrio_Cholerae_and_vibrio_parahaemolyticus.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Vicia cracca [Vicia cracca] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/294581107. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Victoria amazonica [Victoria amazonica] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/68253999. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-291786073",
+  "targetId": "inat-taxon-51610",
+  "scientificName": "Veronica chamaedrys",
+  "nameJa": "カラフトヒヨクソウ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:16:04+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:16:04+00:00",
+  "files": {
+    "master": "images/veronica-chamaedrys/inat-291786073.jpg",
+    "web": "images/veronica-chamaedrys/inat-291786073.webp",
+    "thumbnail": "images/veronica-chamaedrys/inat-291786073-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1285581,
+    "web": 266384,
+    "thumbnail": 23212
+  },
+  "sha256": {
+    "download": "4058494144ee8c4e0cf19c2391ea26b8d5700ef437da6dc7b263ac41b1afcf5c",
+    "master": "1eaa2279a886bb5dfbc653a89945c8b5d426bf969a887d6ebd73f08bb012dea6",
+    "web": "d2ada9ad83cd6b3cdd1a68315b9f9d80eb055c4eff8ac79b70f426c9cfc69586"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Veronica chamaedrys [Veronica chamaedrys] — Joseph Hubbard / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/291786073. Original attribution: (c) Joseph Hubbard, some rights reserved (CC BY), uploaded by Joseph Hubbard. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Veronica chamaedrys",
+  "sourceId": "291786073",
+  "photoUrl": "https://www.inaturalist.org/photos/291786073",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/291786073/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/291786073/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Joseph Hubbard",
+  "originalAttribution": "(c) Joseph Hubbard, some rights reserved (CC BY), uploaded by Joseph Hubbard",
+  "taxonId": 51610,
+  "acceptedScientificName": "Veronica chamaedrys",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.194285714285714,
+  "photoApiEvidence": {
+    "id": 291786073,
+    "license_code": "cc-by",
+    "attribution": "(c) Joseph Hubbard, some rights reserved (CC BY), uploaded by Joseph Hubbard",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/291786073/square.jpg",
+    "original_dimensions": {
+      "height": 2048,
+      "width": 1536
+    },
+    "flags": [],
+    "attribution_name": "Joseph Hubbard",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/291786073/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/291786073/medium.jpg"
+  },
+  "observationTaxon": null
+}

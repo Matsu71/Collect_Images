@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-158802479",
+  "targetId": "inat-taxon-5268",
+  "scientificName": "Milvus migrans",
+  "nameJa": "トビ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:16:38+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:16:38+00:00",
+  "files": {
+    "master": "images/milvus-migrans/inat-158802479.jpg",
+    "web": "images/milvus-migrans/inat-158802479.webp",
+    "thumbnail": "images/milvus-migrans/inat-158802479-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 524089,
+    "web": 77196,
+    "thumbnail": 5472
+  },
+  "sha256": {
+    "download": "f20be9ee5ff6a3b6cea16dabb2738956d8f34da73103714ea4d29eeacab67077",
+    "master": "2354de73367e00002ec6b8cafd57dd9ed29e168c144ced064cacad1dc101ad7b",
+    "web": "b881263fdb9fa6c57aa2058105934b7f9bf0ad845fe42a3d804d1d4865588fa8"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Milvus migrans [Milvus migrans] — Joshua S. Martin / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/158802479. Original attribution: no rights reserved, uploaded by Joshua S. Martin. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Milvus migrans",
+  "sourceId": "158802479",
+  "photoUrl": "https://www.inaturalist.org/photos/158802479",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/158802479/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/158802479/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "Joshua S. Martin",
+  "originalAttribution": "no rights reserved, uploaded by Joshua S. Martin",
+  "taxonId": 5268,
+  "acceptedScientificName": "Milvus migrans",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.95,
+  "photoApiEvidence": {
+    "id": 158802479,
+    "license_code": "cc0",
+    "attribution": "no rights reserved, uploaded by Joshua S. Martin",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/158802479/square.jpg",
+    "original_dimensions": {
+      "height": 1365,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Joshua S. Martin",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/158802479/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/158802479/medium.jpg"
+  },
+  "observationTaxon": null
+}

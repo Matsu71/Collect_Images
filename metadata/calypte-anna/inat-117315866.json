@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-117315866",
+  "targetId": "inat-taxon-6317",
+  "scientificName": "Calypte anna",
+  "nameJa": "アンナハチドリ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:17:32+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:17:32+00:00",
+  "files": {
+    "master": "images/calypte-anna/inat-117315866.jpg",
+    "web": "images/calypte-anna/inat-117315866.webp",
+    "thumbnail": "images/calypte-anna/inat-117315866-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 526632,
+    "web": 54430,
+    "thumbnail": 3528
+  },
+  "sha256": {
+    "download": "7b3d2f011791169b912560c64bca430da4b94850cbfcee3f556140d1cdb54f84",
+    "master": "8fa8f789929487d5a52b2eea235155a0068fa8f95da9727c77d024d398bb3e9a",
+    "web": "8924a47ce30e148c2f2f3adce15ed821523b6369363c1a8126eeddd9153af04f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Calypte anna [Calypte anna] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/117315866. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Calypte anna",
+  "sourceId": "117315866",
+  "photoUrl": "https://www.inaturalist.org/photos/117315866",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/117315866/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/117315866/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 6317,
+  "acceptedScientificName": "Calypte anna",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/71999354",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.616666666666667,
+  "photoApiEvidence": {
+    "id": 117315866,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117315866/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/1583761/5562/1542290/1542294/6315",
+    "min_species_ancestry": "48460,1,2,355675,3,1583761,5562,1542290,1542294,6315,6317",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 6317,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 6315,
+    "name": "Calypte anna",
+    "rank": "species",
+    "extinct": false,
+    "id": 6317,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      1583761,
+      5562,
+      1542290,
+      1542294,
+      6315,
+      6317
+    ],
+    "created_at": "2008-03-13T02:50:51+00:00",
+    "default_photo": {
+      "id": 358438292,
+      "license_code": null,
+      "attribution": "(c) Nancy Christensen, all rights reserved, uploaded by Nancy Christensen",
+      "url": "https://static.inaturalist.org/photos/358438292/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Nancy Christensen",
+      "square_url": "https://static.inaturalist.org/photos/358438292/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/358438292/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 129141,
+    "photos_locked": false,
+    "universal_search_rank": 129141,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 144450,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Anna's_hummingbird",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Anna's Hummingbird"
+  }
+}

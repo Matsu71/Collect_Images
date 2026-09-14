@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-277389111",
+  "targetId": "inat-taxon-54763",
+  "scientificName": "Acer platanoides",
+  "nameJa": "ノルウェーカエデ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:16:16+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:16:16+00:00",
+  "files": {
+    "master": "images/acer-platanoides/inat-277389111.jpg",
+    "web": "images/acer-platanoides/inat-277389111.webp",
+    "thumbnail": "images/acer-platanoides/inat-277389111-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 379668,
+    "web": 80310,
+    "thumbnail": 8496
+  },
+  "sha256": {
+    "download": "b8705c5411608559f3e818d5efd9c3ccba7c8e69c4030bd265296dfb691fc82c",
+    "master": "a01ba25d902ff1089f7929ac2f3e65999cc6f6a9b353cc3f2b3a012b9f9e27d1",
+    "web": "b271b9e0a9409c19d56898534967b2cf047e5eb9095cba727ca72b77648bd586"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Acer platanoides [Acer platanoides] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/277389111. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Acer platanoides",
+  "sourceId": "277389111",
+  "photoUrl": "https://www.inaturalist.org/photos/277389111",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277389111/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277389111/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 54763,
+  "acceptedScientificName": "Acer platanoides",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/160533372",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.283333333333333,
+  "photoApiEvidence": {
+    "id": 277389111,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/277389111/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47729/58321/47727/1466315",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47729,58321,47727,1466315,54763",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 54763,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1466315,
+    "name": "Acer platanoides",
+    "rank": "species",
+    "extinct": false,
+    "id": 54763,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47729,
+      58321,
+      47727,
+      1466315,
+      54763
+    ],
+    "created_at": "2009-12-28T05:02:36+00:00",
+    "default_photo": {
+      "id": 87307303,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) tauntonguy02780, some rights reserved (CC BY-NC), uploaded by tauntonguy02780",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87307303/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "tauntonguy02780",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87307303/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87307303/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 146530,
+    "photos_locked": false,
+    "universal_search_rank": 146530,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Acer_platanoides",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Norway maple"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-417451223",
+  "targetId": "inat-taxon-55641",
+  "scientificName": "Polyommatus icarus",
+  "nameJa": "イカルスヒメシジミ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:16:57+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:16:57+00:00",
+  "files": {
+    "master": "images/polyommatus-icarus/inat-417451223.jpg",
+    "web": "images/polyommatus-icarus/inat-417451223.webp",
+    "thumbnail": "images/polyommatus-icarus/inat-417451223-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1480,
+      1480
+    ],
+    "master": [
+      1480,
+      1480
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 289348,
+    "web": 121152,
+    "thumbnail": 15110
+  },
+  "sha256": {
+    "download": "156c7e459e87b1a689332acac4ba89cacb57a55a539ae1eb32c3c5d84c1b3a76",
+    "master": "932e60eb7ad3590ce6d4e2a354f5e095e614a49c1ba16a05bef729eeaaa28ccc",
+    "web": "75a79869749218e71092c17c9844ba32a0c331d7f098f11f8b5bff54df1b33fa"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Polyommatus icarus [Polyommatus icarus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/417451223. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Polyommatus icarus",
+  "sourceId": "417451223",
+  "photoUrl": "https://www.inaturalist.org/photos/417451223",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/417451223/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/417451223/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 55641,
+  "acceptedScientificName": "Polyommatus icarus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/234786433",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.780952380952381,
+  "photoApiEvidence": {
+    "id": 417451223,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1480,
+      "height": 1480
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417451223/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47157/47224/47923/58558/125833/522678/55642/1468172",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47157,47224,47923,58558,125833,522678,55642,1468172,55641",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 55641,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1468172,
+    "name": "Polyommatus icarus",
+    "rank": "species",
+    "extinct": false,
+    "id": 55641,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47157,
+      47224,
+      47923,
+      58558,
+      125833,
+      522678,
+      55642,
+      1468172,
+      55641
+    ],
+    "created_at": "2010-02-08T22:11:21+00:00",
+    "default_photo": {
+      "id": 393850131,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Manuel Raab, some rights reserved (CC BY-NC), uploaded by Manuel Raab",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/393850131/square.jpg",
+      "original_dimensions": {
+        "height": 1933,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Manuel Raab",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/393850131/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/393850131/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 141015,
+    "photos_locked": false,
+    "universal_search_rank": 141015,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 2187,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_blue",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Common Blue"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-248492879",
+  "targetId": "inat-taxon-43111",
+  "scientificName": "Sylvilagus floridanus",
+  "nameJa": "トウブワタオウサギ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:16:09+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:16:09+00:00",
+  "files": {
+    "master": "images/sylvilagus-floridanus/inat-248492879.jpg",
+    "web": "images/sylvilagus-floridanus/inat-248492879.webp",
+    "thumbnail": "images/sylvilagus-floridanus/inat-248492879-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1488
+    ],
+    "master": [
+      2048,
+      1488
+    ],
+    "web": [
+      1400,
+      1017
+    ]
+  },
+  "bytes": {
+    "master": 509394,
+    "web": 101560,
+    "thumbnail": 8940
+  },
+  "sha256": {
+    "download": "094e629ba5e7a812d899302322a56c0752da682d9eea168a3d74712cb023c606",
+    "master": "8f1bf3ec08ad78957f5c275e1489563616e53381a5bf42c0232e21c7f036d373",
+    "web": "1fd945eeadd1f900662171a0ab93cd4a25f718c917c9d42a7e7d5f604ef393dc"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Sylvilagus floridanus [Sylvilagus floridanus] — Marilynn Miller / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/248492879. Original attribution: (c) Marilynn Miller, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Sylvilagus floridanus",
+  "sourceId": "248492879",
+  "photoUrl": "https://www.inaturalist.org/photos/248492879",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/248492879/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/248492879/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Marilynn Miller",
+  "originalAttribution": "(c) Marilynn Miller, some rights reserved (CC BY)",
+  "taxonId": 43111,
+  "acceptedScientificName": "Sylvilagus floridanus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/144743989",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.125714285714286,
+  "photoApiEvidence": {
+    "id": 248492879,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1488
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248492879/square.jpg",
+    "attribution": "(c) Marilynn Miller, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43094/43095/43096",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43094,43095,43096,43111",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43111,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 43096,
+    "name": "Sylvilagus floridanus",
+    "rank": "species",
+    "extinct": false,
+    "id": 43111,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43094,
+      43095,
+      43096,
+      43111
+    ],
+    "created_at": "2008-03-19T00:50:59+00:00",
+    "default_photo": {
+      "id": 93582532,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Kala Murphy King, some rights reserved (CC BY-NC-ND), uploaded by Kala Murphy King",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/93582532/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Kala Murphy King",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/93582532/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/93582532/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 6,
+    "observations_count": 209203,
+    "photos_locked": false,
+    "universal_search_rank": 209203,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 10,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eastern_cottontail",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Eastern Cottontail"
+  }
+}

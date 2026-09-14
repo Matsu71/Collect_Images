@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-171773229",
+  "targetId": "inat-taxon-201282",
+  "scientificName": "Gallinula chloropus",
+  "nameJa": "バン",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:15:59+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:15:59+00:00",
+  "files": {
+    "master": "images/gallinula-chloropus/inat-171773229.jpg",
+    "web": "images/gallinula-chloropus/inat-171773229.webp",
+    "thumbnail": "images/gallinula-chloropus/inat-171773229-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1442
+    ],
+    "master": [
+      2048,
+      1442
+    ],
+    "web": [
+      1400,
+      986
+    ]
+  },
+  "bytes": {
+    "master": 413182,
+    "web": 131936,
+    "thumbnail": 9484
+  },
+  "sha256": {
+    "download": "ffafaa522bcd4e74afe3abfa628441b6286a9cd69337e310ea0850e6706ff4e3",
+    "master": "52cfdc8041bf0e419c832526b6f94d669fb4311f42325956b16b1d08ca996fa2",
+    "web": "48e7a3e9e469a67631999268b22b1bf42d9dd43de095e9c4108184f3aa312a25"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Gallinula chloropus [Gallinula chloropus] — Alexis Lours / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/171773229. Original attribution: (c) Alexis Lours, some rights reserved (CC BY), uploaded by Alexis Lours. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Gallinula chloropus",
+  "sourceId": "171773229",
+  "photoUrl": "https://www.inaturalist.org/photos/171773229",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/171773229/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/171773229/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Alexis Lours",
+  "originalAttribution": "(c) Alexis Lours, some rights reserved (CC BY), uploaded by Alexis Lours",
+  "taxonId": 201282,
+  "acceptedScientificName": "Gallinula chloropus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.06,
+  "photoApiEvidence": {
+    "id": 171773229,
+    "license_code": "cc-by",
+    "attribution": "(c) Alexis Lours, some rights reserved (CC BY), uploaded by Alexis Lours",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171773229/square.jpg",
+    "original_dimensions": {
+      "height": 1442,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Alexis Lours",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171773229/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171773229/medium.jpg"
+  },
+  "observationTaxon": null
+}

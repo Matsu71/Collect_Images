@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-511790572",
+  "targetId": "inat-taxon-472766",
+  "scientificName": "Falco tinnunculus",
+  "nameJa": "チョウゲンボウ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:16:35+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:16:35+00:00",
+  "files": {
+    "master": "images/falco-tinnunculus/inat-511790572.jpg",
+    "web": "images/falco-tinnunculus/inat-511790572.webp",
+    "thumbnail": "images/falco-tinnunculus/inat-511790572-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1170,
+      1903
+    ],
+    "master": [
+      1170,
+      1903
+    ],
+    "web": [
+      861,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 620699,
+    "web": 172758,
+    "thumbnail": 11824
+  },
+  "sha256": {
+    "download": "b8ec9676549000db6e98940ca3feec31bad3a4aa94cb8b56fdd420cd21f4813b",
+    "master": "8c591dd7daf61718be932e04bd3b628fe30079cd4e72c1b9a4344e4ae5cf75e7",
+    "web": "cb8af70cf26b4c9644a310596e68b79d27715627c24b45453dca4cfaed234875"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Falco tinnunculus [Falco tinnunculus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/511790572. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Falco tinnunculus",
+  "sourceId": "511790572",
+  "photoUrl": "https://www.inaturalist.org/photos/511790572",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/511790572/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/511790572/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 472766,
+  "acceptedScientificName": "Falco tinnunculus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/284754857",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.671428571428572,
+  "photoApiEvidence": {
+    "id": 511790572,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1170,
+      "height": 1903
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511790572/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67570/4637/4638",
+    "min_species_ancestry": "48460,1,2,355675,3,67570,4637,4638,472766",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 472766,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 4638,
+    "name": "Falco tinnunculus",
+    "rank": "species",
+    "extinct": false,
+    "id": 472766,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67570,
+      4637,
+      4638,
+      472766
+    ],
+    "created_at": "2015-08-23T17:06:46+00:00",
+    "default_photo": {
+      "id": 598044895,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Manuel Raab, some rights reserved (CC BY-NC), uploaded by Manuel Raab",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598044895/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Manuel Raab",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598044895/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598044895/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 2,
+    "observations_count": 143434,
+    "photos_locked": false,
+    "universal_search_rank": 143434,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_kestrel",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Eurasian Kestrel"
+  }
+}

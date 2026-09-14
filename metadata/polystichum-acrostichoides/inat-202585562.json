@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-202585562",
+  "targetId": "inat-taxon-54412",
+  "scientificName": "Polystichum acrostichoides",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:16:10+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:16:10+00:00",
+  "files": {
+    "master": "images/polystichum-acrostichoides/inat-202585562.jpg",
+    "web": "images/polystichum-acrostichoides/inat-202585562.webp",
+    "thumbnail": "images/polystichum-acrostichoides/inat-202585562-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 756156,
+    "web": 161494,
+    "thumbnail": 12210
+  },
+  "sha256": {
+    "download": "6b9a3f61b7d6f956fa01f3ad7bc081afa60f1c83ee459660bea3ef2763cd23d6",
+    "master": "5b720f0236c6b6cb9eeeefcdba0bc63783ec97adbca26fb3c2fc6bd3131cba03",
+    "web": "16300777abc5f6bab736eead73392abc8f08c2b4bffde6dfaf941da14c05b33f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Polystichum acrostichoides [Polystichum acrostichoides] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/202585562. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Polystichum acrostichoides",
+  "sourceId": "202585562",
+  "photoUrl": "https://www.inaturalist.org/photos/202585562",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/202585562/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/202585562/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 54412,
+  "acceptedScientificName": "Polystichum acrostichoides",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/119815107",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.592380952380953,
+  "photoApiEvidence": {
+    "id": 202585562,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/202585562/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/121943/764796/47754/961001/47753/870758/47752",
+    "min_species_ancestry": "48460,47126,211194,121943,764796,47754,961001,47753,870758,47752,54412",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 54412,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 47752,
+    "name": "Polystichum acrostichoides",
+    "rank": "species",
+    "extinct": false,
+    "id": 54412,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      121943,
+      764796,
+      47754,
+      961001,
+      47753,
+      870758,
+      47752,
+      54412
+    ],
+    "created_at": "2009-11-30T00:54:02+00:00",
+    "default_photo": {
+      "id": 657065592,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) earthtoerin, some rights reserved (CC BY-NC), uploaded by earthtoerin",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/657065592/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "earthtoerin",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/657065592/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/657065592/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 4,
+    "observations_count": 110726,
+    "photos_locked": false,
+    "universal_search_rank": 110726,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 85406,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Polystichum_acrostichoides",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Christmas fern"
+  }
+}
