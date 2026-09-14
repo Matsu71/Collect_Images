@@ -1,0 +1,88 @@
+name: Restore exact remaining-photo evidence
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/restore-closure-evidence.yml]
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: restore-remaining-photo-evidence
+  cancel-in-progress: false
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/
+            /reviews/remaining-closure-20260914.json
+            /batches/remaining-closure-20260914/
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install 'requests>=2.32,<3' 'Pillow>=11,<13'
+      - name: Restore immutable artifact and verify reconstructed previews
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh run download 34810976526 --repo Matsu71/Collect_Images --name remaining-closure-review --dir "$RUNNER_TEMP/closure-artifact"
+          python - <<'PY'
+          import pathlib,json,hashlib,os,shutil,sys,io,concurrent.futures,requests
+          from PIL import Image,ImageOps
+          root=pathlib.Path.cwd();sys.path.insert(0,str(root/'scripts'));import collect as core
+          source=pathlib.Path(os.environ['RUNNER_TEMP'])/'closure-artifact'
+          manifests=list(source.rglob('candidates.json'))
+          assert len(manifests)==1
+          previous=manifests[0].parent;batch=root/'batches/remaining-closure-20260914';batch.mkdir(parents=True,exist_ok=True)
+          for p in previous.rglob('*'):
+              if p.is_file():
+                  dest=batch/p.relative_to(previous);dest.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(p,dest)
+          digest=hashlib.sha256((batch/'candidates.json').read_bytes()).hexdigest()
+          assert digest=='1fad11e90562624e462963e190fe7de47f1f113568bb7d06d5889007ea9d2856'
+          spec=json.loads((root/'reviews/remaining-closure-20260914.json').read_text());assert spec['candidateManifestSha256']==digest
+          baseline_url='https://raw.githubusercontent.com/Matsu71/Collect_Images/faa44702084c87b9a60d26fc459669b1d4270353/reports/curation-status.json'
+          r=requests.get(baseline_url,headers={'User-Agent':core.UA},timeout=60);r.raise_for_status();baseline=r.json();assert baseline['primaryReadyTaxa']==924
+          (batch/'baseline.json').write_text(json.dumps(baseline,ensure_ascii=False,indent=2)+'\n')
+          records=json.loads((batch/'candidates.json').read_text())['records']
+          def recover(c):
+              dest=root/c['previewPath']
+              if dest.exists() and hashlib.sha256(dest.read_bytes()).hexdigest()==c['previewSha256']:return c['number']
+              raw=core.get(c['downloadUrl'],binary=True)
+              assert hashlib.sha256(raw).hexdigest()==c['downloadedSourceSha256'],str(c['number'])+' source changed'
+              with Image.open(io.BytesIO(raw)) as im:
+                  im.load();im=ImageOps.exif_transpose(im).convert('RGB');im.thumbnail((1800,1800),Image.Resampling.LANCZOS)
+                  buf=io.BytesIO();im.save(buf,'JPEG',quality=93,optimize=True);body=buf.getvalue()
+              assert hashlib.sha256(body).hexdigest()==c['previewSha256'],str(c['number'])+' review bytes changed'
+              dest.parent.mkdir(parents=True,exist_ok=True);dest.write_bytes(body);return c['number']
+          completed=[];failures=[]
+          with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
+              fs={pool.submit(recover,c):c for c in records}
+              for f,c in [(f,fs[f]) for f in concurrent.futures.as_completed(fs)]:
+                  try:completed.append(f.result())
+                  except Exception as e:failures.append({'number':c['number'],'error':str(e)})
+          report={'completedAt':core.NOW(),'sourceArtifactRunId':34810976526,'candidateManifestSha256':digest,'expectedPreviews':len(records),'exactReviewedPreviewsRestored':len(completed),'failures':failures,'note':'The original collection job exported its artifact but did not commit the working files. The original immutable manifest and review sheets were recovered, and every preview is reconstructed only when both source download and final JPEG hashes match. No visual decision was transplanted onto different bytes.'}
+          (batch/'restoration.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
+          print(json.dumps(report))
+          assert not failures
+          PY
+      - name: Commit restored image bytes and evidence
+        if: always()
+        run: |
+          git config user.name 'Collect Images bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add --sparse batches/remaining-closure-20260914
+          if ! git diff --cached --quiet; then
+            git commit -m 'Recover immutable image review evidence and exact matching JPEG files [skip ci]'
+            pushed=false
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push origin HEAD:main; then pushed=true; break; fi
+              sleep $((attempt * 4))
+            done
+            test "$pushed" = true
+          fi
