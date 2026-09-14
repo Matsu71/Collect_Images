@@ -5,7 +5,7 @@ on:
     branches: [main]
     paths:
       - .github/workflows/review-export.yml
-      - requests/review-export.json
+      - review-requests/**
 permissions:
   contents: read
 jobs:
@@ -14,12 +14,25 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      - name: Pin review snapshot
+      - name: Pin review snapshot and reconcile source taxa
         run: |
           mkdir -p review-export
           git rev-parse HEAD > review-export/commit.txt
           date -u +%FT%TZ > review-export/exported-at.txt
+          python - <<'PY'
+          import json,re,urllib.request,collections,pathlib
+          u='https://chronoearth.pages.dev/js/catalog-data.js'
+          raw=urllib.request.urlopen(u,timeout=60).read().decode()
+          marker='window.CHRONOEARTH_ADDITIONS = '
+          data=json.JSONDecoder().raw_decode(raw.split(marker,1)[1])[0]
+          selected=[e for e in data['events'] if e.get('isExtant') is True and e.get('recordKind')=='organism']
+          byname=collections.defaultdict(list)
+          for e in selected:byname[e.get('scientific','')].append({'id':e.get('organismId'),'name':e.get('name'),'displayEligible':e.get('displayEligible')})
+          report={'sourceUrl':u,'selectedOrganismRecords':len(selected),'uniqueScientificNames':len(byname),'duplicateScientificNames':{k:v for k,v in byname.items() if len(v)>1},'missingScientificNames':[e['id'] for e in selected if not e.get('scientific')],'notDisplayEligible':[e.get('organismId') for e in selected if not e.get('displayEligible')]}
+          pathlib.Path('review-export/source-count-audit.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
+          PY
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: photo-review-snapshot
           path: |
@@ -27,6 +40,10 @@ jobs:
             metadata/
             catalog/
             reports/status.json
+            reports/reference-status.json
             data/targets.json
+            reference/gallery/
+            reference/metadata/
+            reference/results.json
             review-export/
           retention-days: 7
