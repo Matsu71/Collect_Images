@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-14T05:05:30+00:00",
+  "generatedAt": "2026-09-14T05:10:47+00:00",
   "targetCount": 1000,
   "chronoearthTargetCount": 532,
-  "downloadedTargetCoverage": 990,
-  "chronoearthDownloadedCoverage": 522,
-  "rawStoredMetadataRecords": 2474,
-  "uniqueTaxonPhotoPairs": 2470,
-  "uniqueDownloadedImageAssets": 2469,
+  "downloadedTargetCoverage": 991,
+  "chronoearthDownloadedCoverage": 523,
+  "rawStoredMetadataRecords": 2475,
+  "uniqueTaxonPhotoPairs": 2471,
+  "uniqueDownloadedImageAssets": 2470,
   "duplicateStoredCopies": 4,
   "visuallyScreenedTaxonPhotoPairs": 2470,
   "acceptedPhotographs": 2363,
@@ -16,7 +16,7 @@
   "chronoearthPrimaryReadyTaxa": 468,
   "supplementaryPhotoPairs": 1272,
   "excludedPhotoPairs": 106,
-  "pendingReviewPhotoPairs": 0,
+  "pendingReviewPhotoPairs": 1,
   "acceptedLicenseCounts": {
     "CC0 1.0": 492,
     "CC BY 4.0": 523,
@@ -63,13 +63,6 @@
       "snapshotCommit": "b92a256f67c318a7afe06fc468858de99fe259a1"
     },
     {
-      "file": "reviews/round3-decisions-20260914.json",
-      "count": 236,
-      "adoptedPhotoPairs": 163,
-      "excludedCandidateCount": 73,
-      "kind": "round3_actual_visual_review"
-    },
-    {
       "file": "reports/detail-sample-review.json",
       "count": 8,
       "kind": "additional_individual_JPEG_followup_not_additional_images"
@@ -91,6 +84,13 @@
       "adoptedPhotoPairs": 321,
       "rejectedCandidates": 178,
       "kind": "round2_actual_visual_review"
+    },
+    {
+      "file": "reviews/round3-decisions-20260914.json",
+      "count": 236,
+      "adoptedPhotoPairs": 163,
+      "excludedCandidateCount": 73,
+      "kind": "round3_actual_visual_review"
     }
   ],
   "limitations": "Primary means composition-screened candidate, not expert re-identification, full-resolution audit, or a warranty of all possible third-party rights. Separate variants, life stages and microscopy are documented.",

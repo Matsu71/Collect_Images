@@ -1,16 +1,7 @@
 {
-  "validatedAt": "2026-09-14T05:05:30+00:00",
-  "round3NewMastersChecked": 163,
-  "masterEqualsVisuallyReviewedJPEG": "pass",
-  "licenseWhitelistAndNegativeNCNDTests": "pass",
-  "authorSourceAndLicenseFields": "pass",
-  "primaryTargetUniqueness": "pass",
-  "targetListPreserved": "pass",
-  "galleryLocalLinksChecked": 7092,
-  "galleryMissingAssets": [],
-  "exportCopyAndHashes": "pass",
+  "validatedAt": "2026-09-14T05:10:51+00:00",
   "allLicensePrimaryExport": {
-    "output": "/home/runner/work/_temp/round3-validated-allLicensePrimaryExport",
+    "output": "/home/runner/work/_temp/species-export-all",
     "photos": 923,
     "taxa": 923,
     "licenses": [
@@ -21,7 +12,7 @@
     "fileCopyAndHashes": "pass"
   },
   "cc0AndByPrimaryExport": {
-    "output": "/home/runner/work/_temp/round3-validated-cc0AndByPrimaryExport",
+    "output": "/home/runner/work/_temp/species-export-by",
     "photos": 534,
     "taxa": 534,
     "licenses": [
@@ -29,5 +20,9 @@
       "cc0"
     ],
     "fileCopyAndHashes": "pass"
-  }
+  },
+  "galleryLocalLinksChecked": 7092,
+  "galleryMissingAssets": [],
+  "exportCopyAndHashes": "pass",
+  "rightsNoticesMisrepresentedAsAuthors": 0
 }
