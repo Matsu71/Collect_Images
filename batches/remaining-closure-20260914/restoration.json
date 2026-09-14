@@ -1,0 +1,106 @@
+{
+  "completedAt": "2026-09-14T06:28:28+00:00",
+  "sourceArtifactRunId": 34810976526,
+  "candidateManifestSha256": "1fad11e90562624e462963e190fe7de47f1f113568bb7d06d5889007ea9d2856",
+  "expectedPreviews": 267,
+  "exactReviewedPreviewsRestored": 243,
+  "failures": [
+    {
+      "number": 10,
+      "error": "10 source changed"
+    },
+    {
+      "number": 11,
+      "error": "11 source changed"
+    },
+    {
+      "number": 18,
+      "error": "18 source changed"
+    },
+    {
+      "number": 41,
+      "error": "41 source changed"
+    },
+    {
+      "number": 43,
+      "error": "43 source changed"
+    },
+    {
+      "number": 66,
+      "error": "66 source changed"
+    },
+    {
+      "number": 76,
+      "error": "76 source changed"
+    },
+    {
+      "number": 89,
+      "error": "89 source changed"
+    },
+    {
+      "number": 91,
+      "error": "91 source changed"
+    },
+    {
+      "number": 112,
+      "error": "112 source changed"
+    },
+    {
+      "number": 111,
+      "error": "111 source changed"
+    },
+    {
+      "number": 134,
+      "error": "134 source changed"
+    },
+    {
+      "number": 148,
+      "error": "148 source changed"
+    },
+    {
+      "number": 153,
+      "error": "153 source changed"
+    },
+    {
+      "number": 165,
+      "error": "165 source changed"
+    },
+    {
+      "number": 201,
+      "error": "201 source changed"
+    },
+    {
+      "number": 205,
+      "error": "205 source changed"
+    },
+    {
+      "number": 211,
+      "error": "211 source changed"
+    },
+    {
+      "number": 222,
+      "error": "222 source changed"
+    },
+    {
+      "number": 231,
+      "error": "231 source changed"
+    },
+    {
+      "number": 249,
+      "error": "249 source changed"
+    },
+    {
+      "number": 253,
+      "error": "253 source changed"
+    },
+    {
+      "number": 255,
+      "error": "255 source changed"
+    },
+    {
+      "number": 265,
+      "error": "265 source changed"
+    }
+  ],
+  "note": "The original collection job exported its artifact but did not commit the working files. The original immutable manifest and review sheets were recovered, and every preview is reconstructed only when both source download and final JPEG hashes match. No visual decision was transplanted onto different bytes."
+}

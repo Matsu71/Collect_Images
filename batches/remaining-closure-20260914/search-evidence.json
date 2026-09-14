@@ -1,0 +1,5004 @@
+[
+  {
+    "targetId": "org-agaricus-bisporus",
+    "scientificName": "Agaricus bisporus",
+    "searchVariants": [
+      "Agaricus bisporus"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:ChampignonMushroom.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Agaricus bisporus",
+        "resolvedPages": [
+          "Agaricus bisporus"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Agaricus bisporus\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 6,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 22,
+          "public_domain_notice_without_accepted_basis": 1,
+          "unusable_resolution_or_aspect": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Agaricus bisporus\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 61395,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 7,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-amborella-trichopoda",
+    "scientificName": "Amborella trichopoda",
+    "searchVariants": [
+      "Amborella trichopoda"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Amborella_trichopoda.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Amborella trichopoda",
+        "resolvedPages": [
+          "Amborella"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Amborella trichopoda\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 24,
+        "eligibleCandidates": 24,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Amborella trichopoda\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 129826,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 24,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-architeuthis-dux",
+    "scientificName": "Architeuthis dux",
+    "searchVariants": [
+      "Architeuthis dux"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Giant_squid_Ranheim.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Architeuthis dux",
+        "resolvedPages": [
+          "Giant squid"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Architeuthis dux\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 13,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 12,
+          "public_domain_notice_without_accepted_basis": 4,
+          "not_static_photo_format": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Architeuthis dux\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 253698,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 14,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-bacillus-subtilis",
+    "scientificName": "Bacillus subtilis",
+    "searchVariants": [
+      "Bacillus subtilis"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Bacillus_subtilis.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Bacillus subtilis",
+        "resolvedPages": [
+          "Bacillus subtilis"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Bacillus subtilis\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 25,
+        "rejectionCounts": {
+          "not_static_photo_format": 1,
+          "no_target_identity_evidence": 3,
+          "unusable_resolution_or_aspect": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Bacillus subtilis\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 13,
+        "eligibleCandidates": 9,
+        "rejectionCounts": {
+          "not_static_photo_format": 4
+        }
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 245605,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 31,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-balaenoptera-musculus",
+    "scientificName": "Balaenoptera musculus",
+    "searchVariants": [
+      "Balaenoptera musculus"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Balaenoptera musculus",
+        "resolvedPages": [
+          "Blue whale"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Balaenoptera musculus\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 7,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 1,
+          "no_target_identity_evidence": 19,
+          "obvious_diagram_or_non_subject_title": 2,
+          "unusable_resolution_or_aspect": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Balaenoptera musculus\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 41553,
+        "observationsReturned": 35,
+        "eligibleCandidates": 60
+      }
+    ],
+    "eligibleUniqueCandidates": 67,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-botrytis-cinerea",
+    "scientificName": "Botrytis cinerea",
+    "searchVariants": [
+      "Botrytis cinerea"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Aardbei_Lambada_vruchtrot_Botrytis_cinerea.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Botrytis cinerea",
+        "resolvedPages": [
+          "Botrytis cinerea"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Botrytis cinerea\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 25,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 5
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Botrytis cinerea\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 324263,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 26,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-breviolum-minutum",
+    "scientificName": "Breviolum minutum",
+    "searchVariants": [
+      "Breviolum minutum"
+    ],
+    "attempts": [
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Breviolum minutum",
+        "resolvedPages": [
+          "Breviolum minutum"
+        ],
+        "imagesReturned": 0
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Breviolum minutum\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 11,
+        "eligibleCandidates": 11,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Breviolum minutum\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "result": "no_exact_active_taxon"
+      }
+    ],
+    "eligibleUniqueCandidates": 11,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-camellia-sinensis",
+    "scientificName": "Camellia sinensis",
+    "searchVariants": [
+      "Camellia sinensis"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Csinensis.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Camellia sinensis",
+        "resolvedPages": [
+          "Camellia sinensis"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Camellia sinensis\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 28
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Camellia sinensis\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 123005,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 2,
+    "savedPreviewCount": 2,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-candidatus-thiomargarita-magnifica",
+    "scientificName": "Candidatus Thiomargarita magnifica",
+    "searchVariants": [
+      "Candidatus Thiomargarita magnifica",
+      "Thiomargarita magnifica"
+    ],
+    "attempts": [
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Candidatus Thiomargarita magnifica",
+        "resolvedPages": [
+          "Candidatus Thiomargarita magnifica"
+        ],
+        "imagesReturned": 0
+      },
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Morphology_and_ultrastructure_of_Ca._T._magnifica.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 1
+        }
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Thiomargarita magnifica",
+        "resolvedPages": [
+          "Thiomargarita magnifica"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "explicit_source_file_leads",
+        "request": {
+          "titles": "File:Morphology and ultrastructure of Ca. T. magnifica.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Candidatus Thiomargarita magnifica\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Candidatus Thiomargarita magnifica\" habit filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Thiomargarita magnifica\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Thiomargarita magnifica\" habit filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "result": "no_exact_active_taxon"
+      }
+    ],
+    "eligibleUniqueCandidates": 1,
+    "savedPreviewCount": 1,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-cannabis-sativa",
+    "scientificName": "Cannabis sativa",
+    "searchVariants": [
+      "Cannabis sativa"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Cannabis_sativa_2.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Cannabis sativa",
+        "resolvedPages": [
+          "Cannabis sativa"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Cannabis sativa\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 8,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 15,
+          "public_domain_notice_without_accepted_basis": 1,
+          "obvious_diagram_or_non_subject_title": 1,
+          "not_static_photo_format": 5
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Cannabis sativa\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 2
+        }
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 75997,
+        "observationsReturned": 35,
+        "eligibleCandidates": 51
+      }
+    ],
+    "eligibleUniqueCandidates": 59,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-conraua-goliath",
+    "scientificName": "Conraua goliath",
+    "searchVariants": [
+      "Conraua goliath"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Conraua_goliath_photo_from_iNaturalist_539752953.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Conraua goliath",
+        "resolvedPages": [
+          "Goliath frog"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Conraua goliath\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 8,
+        "eligibleCandidates": 3,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 4,
+          "obvious_diagram_or_non_subject_title": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Conraua goliath\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 25737,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 4,
+    "savedPreviewCount": 2,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-corallina-officinalis",
+    "scientificName": "Corallina officinalis",
+    "searchVariants": [
+      "Corallina officinalis"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Corallina_officinalis_Florenski.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 1
+        }
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Corallina officinalis",
+        "resolvedPages": [
+          "Corallina officinalis"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Corallina officinalis\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 27,
+        "eligibleCandidates": 15,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 6,
+          "not_an_allowed_reuse_license": 4,
+          "public_domain_notice_without_accepted_basis": 2
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Corallina officinalis\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 123632,
+        "observationsReturned": 35,
+        "eligibleCandidates": 41
+      }
+    ],
+    "eligibleUniqueCandidates": 56,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-danio-rerio",
+    "scientificName": "Danio rerio",
+    "searchVariants": [
+      "Danio rerio"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Zebrafisch.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "not_an_allowed_reuse_license": 1
+        }
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Danio rerio",
+        "resolvedPages": [
+          "Zebrafish"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Danio rerio\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 10,
+        "rejectionCounts": {
+          "not_an_allowed_reuse_license": 1,
+          "unusable_resolution_or_aspect": 1,
+          "no_target_identity_evidence": 16,
+          "not_static_photo_format": 1,
+          "obvious_diagram_or_non_subject_title": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Danio rerio\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 28,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 17,
+          "not_static_photo_format": 11
+        }
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 49977,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 10,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-daubentonia-madagascariensis",
+    "scientificName": "Daubentonia madagascariensis",
+    "searchVariants": [
+      "Daubentonia madagascariensis"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Wild_aye_aye.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Daubentonia madagascariensis",
+        "resolvedPages": [
+          "Aye-aye"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Daubentonia madagascariensis\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 15,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 11,
+          "not_an_allowed_reuse_license": 2,
+          "obvious_diagram_or_non_subject_title": 2
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Daubentonia madagascariensis\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 43558,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 16,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-deinococcus-radiodurans",
+    "scientificName": "Deinococcus radiodurans",
+    "searchVariants": [
+      "Deinococcus radiodurans"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Deinococcus_radiodurans.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Deinococcus radiodurans",
+        "resolvedPages": [
+          "Deinococcus radiodurans"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "explicit_source_file_leads",
+        "request": {
+          "titles": "File:Deinococcus radiodurans.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Deinococcus radiodurans\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 6,
+        "eligibleCandidates": 4,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1,
+          "obvious_diagram_or_non_subject_title": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Deinococcus radiodurans\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 1165089,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 4,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-emiliania-huxleyi",
+    "scientificName": "Emiliania huxleyi",
+    "searchVariants": [
+      "Emiliania huxleyi"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Emiliania_huxleyi.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Emiliania huxleyi",
+        "resolvedPages": [
+          "Gephyrocapsa huxleyi"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Emiliania huxleyi\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 27,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 3
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Emiliania huxleyi\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 12,
+        "eligibleCandidates": 10,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1,
+          "unusable_resolution_or_aspect": 1
+        }
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 991143,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 30,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-equus-caballus",
+    "scientificName": "Equus caballus",
+    "searchVariants": [
+      "Equus caballus"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Nokota_Horses_cropped.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Equus caballus",
+        "resolvedPages": [
+          "Horse"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Equus caballus\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 30
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Equus caballus\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 209233,
+        "observationsReturned": 35,
+        "eligibleCandidates": 48
+      }
+    ],
+    "eligibleUniqueCandidates": 49,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-escherichia-coli",
+    "scientificName": "Escherichia coli",
+    "searchVariants": [
+      "Escherichia coli"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:E_coli_at_10000x,_original.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Escherichia coli",
+        "resolvedPages": [
+          "Escherichia coli"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "explicit_source_file_leads",
+        "request": {
+          "titles": "File:E. coli Bacteria (7316101966).jpg|File:Escherichia coli (SEM).jpg|File:Escherichia coli (MCC).jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 3,
+        "eligibleCandidates": 3,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Escherichia coli\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 11,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 18,
+          "not_static_photo_format": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Escherichia coli\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 13,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 14,
+          "public_domain_dedication_not_corrobated": 1,
+          "not_static_photo_format": 2
+        }
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 450837,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 25,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-fucus-vesiculosus",
+    "scientificName": "Fucus vesiculosus",
+    "searchVariants": [
+      "Fucus vesiculosus"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Bladder_wrack_in_Sämstad_harbor_1.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Fucus vesiculosus",
+        "resolvedPages": [
+          "Fucus vesiculosus"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Fucus vesiculosus\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 17,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 10,
+          "not_static_photo_format": 1,
+          "not_an_allowed_reuse_license": 1,
+          "unusable_resolution_or_aspect": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Fucus vesiculosus\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 48216,
+        "observationsReturned": 35,
+        "eligibleCandidates": 40
+      }
+    ],
+    "eligibleUniqueCandidates": 58,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-fusarium-oxysporum",
+    "scientificName": "Fusarium oxysporum",
+    "searchVariants": [
+      "Fusarium oxysporum"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:K7725-1-sm.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 1
+        }
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Fusarium oxysporum",
+        "resolvedPages": [
+          "Fusarium oxysporum"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Fusarium oxysporum\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 19,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 1,
+          "no_target_identity_evidence": 10
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Fusarium oxysporum\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 350811,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 19,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-globigerina-bulloides",
+    "scientificName": "Globigerina bulloides",
+    "searchVariants": [
+      "Globigerina bulloides"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Globigerina.svg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "not_static_photo_format": 1
+        }
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Globigerina bulloides",
+        "resolvedPages": [
+          "Globigerina bulloides"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Globigerina bulloides\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 7,
+        "eligibleCandidates": 3,
+        "rejectionCounts": {
+          "not_an_allowed_reuse_license": 1,
+          "public_domain_notice_without_accepted_basis": 2,
+          "no_target_identity_evidence": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Globigerina bulloides\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 1363288,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 3,
+    "savedPreviewCount": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-haliotis-rufescens",
+    "scientificName": "Haliotis rufescens",
+    "searchVariants": [
+      "Haliotis rufescens"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Haliotis_rufescens.jpeg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Haliotis rufescens",
+        "resolvedPages": [
+          "Haliotis rufescens"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Haliotis rufescens\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 26,
+        "eligibleCandidates": 21,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 5
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Haliotis rufescens\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 56652,
+        "observationsReturned": 35,
+        "eligibleCandidates": 51
+      }
+    ],
+    "eligibleUniqueCandidates": 72,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-helicobacter-pylori",
+    "scientificName": "Helicobacter pylori",
+    "searchVariants": [
+      "Helicobacter pylori"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:EMpylori.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "not_an_allowed_reuse_license": 1
+        }
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Helicobacter pylori",
+        "resolvedPages": [
+          "Helicobacter pylori"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Helicobacter pylori\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 17,
+        "rejectionCounts": {
+          "unusable_resolution_or_aspect": 4,
+          "no_target_identity_evidence": 9
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Helicobacter pylori\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 18,
+        "eligibleCandidates": 15,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 2,
+          "unusable_resolution_or_aspect": 1
+        }
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 903462,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 28,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-heterocephalus-glaber",
+    "scientificName": "Heterocephalus glaber",
+    "searchVariants": [
+      "Heterocephalus glaber"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Webs180130-rat.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Heterocephalus glaber",
+        "resolvedPages": [
+          "Naked mole-rat"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Heterocephalus glaber\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 11,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 19
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Heterocephalus glaber\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 43746,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 12,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-hevea-brasiliensis",
+    "scientificName": "Hevea brasiliensis",
+    "searchVariants": [
+      "Hevea brasiliensis"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Hevea_brasiliensis_-_Köhler–s_Medizinal-Pflanzen-071.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 1
+        }
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Hevea brasiliensis",
+        "resolvedPages": [
+          "Hevea brasiliensis"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Hevea brasiliensis\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 3,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 27
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Hevea brasiliensis\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 53940,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 3,
+    "savedPreviewCount": 1,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-homo-sapiens",
+    "scientificName": "Homo sapiens",
+    "searchVariants": [
+      "Homo sapiens"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Akha_cropped_hires.JPG",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Homo sapiens",
+        "resolvedPages": [
+          "Human"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Homo sapiens\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 28
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Homo sapiens\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 4,
+        "eligibleCandidates": 4,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 43584,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 7,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-hordeum-vulgare",
+    "scientificName": "Hordeum vulgare",
+    "searchVariants": [
+      "Hordeum vulgare"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Barley_(Hordeum_vulgare)_-_United_States_National_Arboretum_-_24_May_2009.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Hordeum vulgare",
+        "resolvedPages": [
+          "Barley"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Hordeum vulgare\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 12,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 17,
+          "public_domain_notice_without_accepted_basis": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Hordeum vulgare\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 3,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 3
+        }
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 57182,
+        "observationsReturned": 35,
+        "eligibleCandidates": 55
+      }
+    ],
+    "eligibleUniqueCandidates": 67,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-hypsibius-exemplaris",
+    "scientificName": "Hypsibius exemplaris",
+    "searchVariants": [
+      "Hypsibius exemplaris"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Waterbear.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Hypsibius exemplaris",
+        "resolvedPages": [
+          "Hypsibius dujardini"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "explicit_source_file_leads",
+        "request": {
+          "titles": "File:Waterbear.jpg|File:Hypsibius exemplaris white background.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {
+          "unusable_resolution_or_aspect": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Hypsibius exemplaris\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 7,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 3,
+          "unusable_resolution_or_aspect": 1,
+          "not_static_photo_format": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Hypsibius exemplaris\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 3,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 2
+        }
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "result": "no_exact_active_taxon"
+      }
+    ],
+    "eligibleUniqueCandidates": 2,
+    "savedPreviewCount": 2,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-ichthyophis-glutinosus",
+    "scientificName": "Ichthyophis glutinosus",
+    "searchVariants": [
+      "Ichthyophis glutinosus"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:CaecilianNHM.png",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 1
+        }
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Ichthyophis glutinosus",
+        "resolvedPages": [
+          "Ichthyophis glutinosus"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Ichthyophis glutinosus\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 9,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 5,
+          "public_domain_notice_without_accepted_basis": 2
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Ichthyophis glutinosus\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 28154,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 2,
+    "savedPreviewCount": 1,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-istiophorus-platypterus",
+    "scientificName": "Istiophorus platypterus",
+    "searchVariants": [
+      "Istiophorus platypterus"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Istiophorus_platypterus_101956558.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Istiophorus platypterus",
+        "resolvedPages": [
+          "Indo-Pacific sailfish"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Istiophorus platypterus\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 8,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 14,
+          "not_an_allowed_reuse_license": 2,
+          "public_domain_notice_without_accepted_basis": 6
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Istiophorus platypterus\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 119719,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 9,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-lactobacillus-delbrueckii-subsp-bulgaricus",
+    "scientificName": "Lactobacillus delbrueckii subsp. bulgaricus",
+    "searchVariants": [
+      "Lactobacillus delbrueckii subsp. bulgaricus",
+      "Lactobacillus bulgaricus",
+      "Lactobacillus delbrueckii bulgaricus"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:20101210_014809_LactobacillusBulgaricus.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Lactobacillus delbrueckii subsp. bulgaricus",
+        "resolvedPages": [
+          "Lactobacillus delbrueckii subsp. bulgaricus"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:20101210_014809_LactobacillusBulgaricus.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Lactobacillus bulgaricus",
+        "resolvedPages": [
+          "Lactobacillus delbrueckii subsp. bulgaricus"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:20101210_014809_LactobacillusBulgaricus.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Lactobacillus delbrueckii bulgaricus",
+        "resolvedPages": [
+          "Lactobacillus delbrueckii subsp. bulgaricus"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Lactobacillus delbrueckii subsp. bulgaricus\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 23,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 19,
+          "unusable_resolution_or_aspect": 2
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Lactobacillus delbrueckii subsp. bulgaricus\" habit filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Lactobacillus bulgaricus\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 26,
+        "eligibleCandidates": 5,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 19,
+          "unusable_resolution_or_aspect": 2
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Lactobacillus bulgaricus\" habit filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Lactobacillus delbrueckii bulgaricus\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 23,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 19,
+          "unusable_resolution_or_aspect": 2
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Lactobacillus delbrueckii bulgaricus\" habit filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "result": "no_exact_active_taxon"
+      }
+    ],
+    "eligibleUniqueCandidates": 6,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-latimeria-chalumnae",
+    "scientificName": "Latimeria chalumnae",
+    "searchVariants": [
+      "Latimeria chalumnae"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast,_South_Africa,_on_22_November_2019.png",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Latimeria chalumnae",
+        "resolvedPages": [
+          "West Indian Ocean coelacanth"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Latimeria chalumnae\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 19,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 11
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Latimeria chalumnae\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 104109,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 20,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-manihot-esculenta",
+    "scientificName": "Manihot esculenta",
+    "searchVariants": [
+      "Manihot esculenta"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Manihot_esculenta_-_Köhler–s_Medizinal-Pflanzen-090.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 1
+        }
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Manihot esculenta",
+        "resolvedPages": [
+          "Cassava"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Manihot esculenta\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 10,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 20
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Manihot esculenta\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 165138,
+        "observationsReturned": 35,
+        "eligibleCandidates": 48
+      }
+    ],
+    "eligibleUniqueCandidates": 58,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-methanocaldococcus-jannaschii",
+    "scientificName": "Methanocaldococcus jannaschii",
+    "searchVariants": [
+      "Methanocaldococcus jannaschii"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Ansa.202100042-Fig2-PDF-big_(Methanocaldococcus_jannaschii).png",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Methanocaldococcus jannaschii",
+        "resolvedPages": [
+          "Methanocaldococcus jannaschii"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Methanocaldococcus jannaschii\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 6,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 4
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Methanocaldococcus jannaschii\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 5,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 3
+        }
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "result": "no_exact_active_taxon"
+      }
+    ],
+    "eligibleUniqueCandidates": 2,
+    "savedPreviewCount": 2,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-mobula-birostris",
+    "scientificName": "Mobula birostris",
+    "searchVariants": [
+      "Mobula birostris"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Manta_birostris-Thailand4.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Mobula birostris",
+        "resolvedPages": [
+          "Giant oceanic manta ray"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Mobula birostris\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 3,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 27
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Mobula birostris\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 623966,
+        "observationsReturned": 1,
+        "eligibleCandidates": 1
+      }
+    ],
+    "eligibleUniqueCandidates": 5,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-mustela-nigripes",
+    "scientificName": "Mustela nigripes",
+    "searchVariants": [
+      "Mustela nigripes"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Mustela_nigripes_2.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Mustela nigripes",
+        "resolvedPages": [
+          "Black-footed ferret"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Mustela nigripes\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 4,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 23,
+          "public_domain_notice_without_accepted_basis": 2,
+          "government_work_basis_not_corrobated": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Mustela nigripes\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 41809,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 4,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-mycobacterium-tuberculosis",
+    "scientificName": "Mycobacterium tuberculosis",
+    "searchVariants": [
+      "Mycobacterium tuberculosis"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:TB_Culture.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Mycobacterium tuberculosis",
+        "resolvedPages": [
+          "Mycobacterium tuberculosis"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Mycobacterium tuberculosis\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 28,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 2
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Mycobacterium tuberculosis\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 26,
+        "rejectionCounts": {
+          "author_not_provided": 1,
+          "no_target_identity_evidence": 2,
+          "public_domain_notice_without_accepted_basis": 1
+        }
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 552103,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 45,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-mytilus-edulis",
+    "scientificName": "Mytilus edulis",
+    "searchVariants": [
+      "Mytilus edulis"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Miesmuscheln-2.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Mytilus edulis",
+        "resolvedPages": [
+          "Blue mussel"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Mytilus edulis\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 7,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 22,
+          "not_static_photo_format": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Mytilus edulis\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 1108240,
+        "observationsReturned": 35,
+        "eligibleCandidates": 50
+      }
+    ],
+    "eligibleUniqueCandidates": 59,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-nitrosomonas-europaea",
+    "scientificName": "Nitrosomonas europaea",
+    "searchVariants": [
+      "Nitrosomonas europaea"
+    ],
+    "attempts": [
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Nitrosomonas europaea",
+        "resolvedPages": [
+          "Nitrosomonas europaea"
+        ],
+        "imagesReturned": 0
+      },
+      {
+        "route": "explicit_source_file_leads",
+        "request": {
+          "titles": "File:Nm-europaea.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Nitrosomonas europaea\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Nitrosomonas europaea\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "result": "no_exact_active_taxon"
+      }
+    ],
+    "eligibleUniqueCandidates": 1,
+    "savedPreviewCount": 1,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-nitrosopumilus-maritimus",
+    "scientificName": "Nitrosopumilus maritimus",
+    "searchVariants": [
+      "Nitrosopumilus maritimus"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:ThaspiviridaeFig1rv2.png",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Nitrosopumilus maritimus",
+        "resolvedPages": [
+          "Nitrosopumilus"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Nitrosopumilus maritimus\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 7,
+        "eligibleCandidates": 6,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Nitrosopumilus maritimus\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "result": "no_exact_active_taxon"
+      }
+    ],
+    "eligibleUniqueCandidates": 7,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-noctiluca-scintillans",
+    "scientificName": "Noctiluca scintillans",
+    "searchVariants": [
+      "Noctiluca scintillans"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Noctiluca_scintillans_varias.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Noctiluca scintillans",
+        "resolvedPages": [
+          "Noctiluca"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Noctiluca scintillans\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 14,
+        "rejectionCounts": {
+          "not_static_photo_format": 2,
+          "no_target_identity_evidence": 14
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Noctiluca scintillans\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 468044,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 14,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-nostoc-punctiforme",
+    "scientificName": "Nostoc punctiforme",
+    "searchVariants": [
+      "Nostoc punctiforme"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Nostoc_punctiforme.png",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Nostoc punctiforme",
+        "resolvedPages": [
+          "Nostoc punctiforme"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Nostoc punctiforme\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Nostoc punctiforme\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 356634,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 1,
+    "savedPreviewCount": 1,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-penicillium-rubens",
+    "scientificName": "Penicillium rubens",
+    "searchVariants": [
+      "Penicillium rubens"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Penicillium_rubens_(type_specimen).png",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Penicillium rubens",
+        "resolvedPages": [
+          "Penicillium rubens"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Penicillium rubens\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Penicillium rubens\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "result": "no_exact_active_taxon"
+      }
+    ],
+    "eligibleUniqueCandidates": 2,
+    "savedPreviewCount": 2,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-petromyzon-marinus",
+    "scientificName": "Petromyzon marinus",
+    "searchVariants": [
+      "Petromyzon marinus"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Petromyzon_marinus.001_-_Aquarium_Finisterrae.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Petromyzon marinus",
+        "resolvedPages": [
+          "Sea lamprey"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Petromyzon marinus\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 14,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 9,
+          "obvious_diagram_or_non_subject_title": 1,
+          "public_domain_notice_without_accepted_basis": 6
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Petromyzon marinus\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 49223,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 15,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-phytophthora-infestans",
+    "scientificName": "Phytophthora infestans",
+    "searchVariants": [
+      "Phytophthora infestans"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Late_blight_on_potato_leaf_2.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Phytophthora infestans",
+        "resolvedPages": [
+          "Phytophthora infestans"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Phytophthora infestans\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 18,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 8,
+          "unusable_resolution_or_aspect": 1,
+          "public_domain_notice_without_accepted_basis": 3
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Phytophthora infestans\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 53860,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 18,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-porphyra-umbilicalis",
+    "scientificName": "Porphyra umbilicalis",
+    "searchVariants": [
+      "Porphyra umbilicalis"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Porphyra_umbilicalis.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Porphyra umbilicalis",
+        "resolvedPages": [
+          "Porphyra umbilicalis"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Porphyra umbilicalis\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 24,
+        "eligibleCandidates": 18,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 5,
+          "not_an_allowed_reuse_license": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Porphyra umbilicalis\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 127581,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 18,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-pyrococcus-furiosus",
+    "scientificName": "Pyrococcus furiosus",
+    "searchVariants": [
+      "Pyrococcus furiosus"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:P_furiosus.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Pyrococcus furiosus",
+        "resolvedPages": [
+          "Pyrococcus furiosus"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Pyrococcus furiosus\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 6,
+        "eligibleCandidates": 5,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Pyrococcus furiosus\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 1226460,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 6,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-rhizobium-leguminosarum",
+    "scientificName": "Rhizobium leguminosarum",
+    "searchVariants": [
+      "Rhizobium leguminosarum"
+    ],
+    "attempts": [
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Rhizobium leguminosarum",
+        "resolvedPages": [
+          "Rhizobium leguminosarum"
+        ],
+        "imagesReturned": 0
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Rhizobium leguminosarum\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 6,
+        "eligibleCandidates": 4,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1,
+          "not_static_photo_format": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Rhizobium leguminosarum\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1
+        }
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 356505,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 4,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-salmonella-enterica",
+    "scientificName": "Salmonella enterica",
+    "searchVariants": [
+      "Salmonella enterica"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Salmonella_enterica_serovar_typhimurium_01.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Salmonella enterica",
+        "resolvedPages": [
+          "Salmonella enterica"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Salmonella enterica\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 18,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 12
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Salmonella enterica\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1
+        }
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 519551,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 18,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-schizosaccharomyces-pombe",
+    "scientificName": "Schizosaccharomyces pombe",
+    "searchVariants": [
+      "Schizosaccharomyces pombe"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Fission_yeast.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "not_an_allowed_reuse_license": 1
+        }
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Schizosaccharomyces pombe",
+        "resolvedPages": [
+          "Schizosaccharomyces pombe"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Schizosaccharomyces pombe\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 12,
+        "eligibleCandidates": 4,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 6,
+          "unusable_resolution_or_aspect": 1,
+          "not_static_photo_format": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Schizosaccharomyces pombe\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 1023705,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 4,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-strigops-habroptilus",
+    "scientificName": "Strigops habroptilus",
+    "searchVariants": [
+      "Strigops habroptilus"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Sirocco_full_length_portrait.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Strigops habroptilus",
+        "resolvedPages": [
+          "Kākāpō"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Strigops habroptilus\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 7,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 23
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Strigops habroptilus\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 1584019,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 8,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-sulfolobus-acidocaldarius",
+    "scientificName": "Sulfolobus acidocaldarius",
+    "searchVariants": [
+      "Sulfolobus acidocaldarius"
+    ],
+    "attempts": [
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Sulfolobus acidocaldarius",
+        "resolvedPages": [
+          "Sulfolobus acidocaldarius"
+        ],
+        "imagesReturned": 0
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Sulfolobus acidocaldarius\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Sulfolobus acidocaldarius\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 196670,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 1,
+    "savedPreviewCount": 1,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-thermus-aquaticus",
+    "scientificName": "Thermus aquaticus",
+    "searchVariants": [
+      "Thermus aquaticus"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Thermus_aquaticus.JPG",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "author_not_provided": 1
+        }
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Thermus aquaticus",
+        "resolvedPages": [
+          "Thermus aquaticus"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "explicit_source_file_leads",
+        "request": {
+          "titles": "File:Thermus aquaticus.JPG",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "author_not_provided": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Thermus aquaticus\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 3,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "author_not_provided": 1,
+          "not_an_allowed_reuse_license": 1,
+          "obvious_diagram_or_non_subject_title": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Thermus aquaticus\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "result": "no_exact_active_taxon"
+      }
+    ],
+    "eligibleUniqueCandidates": 0,
+    "savedPreviewCount": 0,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-thiomargarita-namibiensis",
+    "scientificName": "Thiomargarita namibiensis",
+    "searchVariants": [
+      "Thiomargarita namibiensis"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Sulphide_bacteria_crop.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Thiomargarita namibiensis",
+        "resolvedPages": [
+          "Thiomargarita namibiensis"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "explicit_source_file_leads",
+        "request": {
+          "titles": "File:Sulphide bacteria crop.jpg|File:Sulphide bacteria crop2.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Thiomargarita namibiensis\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 3,
+        "eligibleCandidates": 3,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Thiomargarita namibiensis\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 1399351,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 3,
+    "savedPreviewCount": 3,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-trichodesmium-erythraeum",
+    "scientificName": "Trichodesmium erythraeum",
+    "searchVariants": [
+      "Trichodesmium erythraeum"
+    ],
+    "attempts": [
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Trichodesmium erythraeum",
+        "resolvedPages": [
+          "Trichodesmium erythraeum"
+        ],
+        "imagesReturned": 0
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Trichodesmium erythraeum\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Trichodesmium erythraeum\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 926122,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 1,
+    "savedPreviewCount": 1,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-ce-21-015",
+    "scientificName": "Trichodesmium spp.",
+    "searchVariants": [
+      "Trichodesmium spp.",
+      "Trichodesmium"
+    ],
+    "attempts": [
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Trichodesmium spp.",
+        "resolvedPages": [
+          "Trichodesmium spp."
+        ],
+        "imagesReturned": 0
+      },
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Trichodesmium_bloom_off_Great_Barrier_Reef_2014-03-07_19-59.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Trichodesmium",
+        "resolvedPages": [
+          "Trichodesmium"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Trichodesmium spp.\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 3,
+        "eligibleCandidates": 3,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Trichodesmium spp.\" habit filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Trichodesmium\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 16,
+        "eligibleCandidates": 14,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1,
+          "not_an_allowed_reuse_license": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Trichodesmium\" habit filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "result": "no_exact_active_taxon"
+      }
+    ],
+    "eligibleUniqueCandidates": 14,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-tursiops-truncatus",
+    "scientificName": "Tursiops truncatus",
+    "searchVariants": [
+      "Tursiops truncatus"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Tursiops_truncatus_01-cropped.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Tursiops truncatus",
+        "resolvedPages": [
+          "Common bottlenose dolphin"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Tursiops truncatus\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 9,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 15,
+          "public_domain_notice_without_accepted_basis": 5,
+          "unusable_resolution_or_aspect": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Tursiops truncatus\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 41482,
+        "observationsReturned": 35,
+        "eligibleCandidates": 54
+      }
+    ],
+    "eligibleUniqueCandidates": 63,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-ulva-lactuca",
+    "scientificName": "Ulva lactuca",
+    "searchVariants": [
+      "Ulva lactuca"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Sea_lettuce_in_Brofjorden_1_-_cropped.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Ulva lactuca",
+        "resolvedPages": [
+          "Ulva lactuca"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Ulva lactuca\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 16,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 11,
+          "not_an_allowed_reuse_license": 3
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Ulva lactuca\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 67423,
+        "observationsReturned": 35,
+        "eligibleCandidates": 39
+      }
+    ],
+    "eligibleUniqueCandidates": 56,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-vibrio-cholerae",
+    "scientificName": "Vibrio cholerae",
+    "searchVariants": [
+      "Vibrio cholerae"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Cholera_bacteria_SEM.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "author_not_provided": 1
+        }
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Vibrio cholerae",
+        "resolvedPages": [
+          "Vibrio cholerae"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Vibrio cholerae\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 12,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 16,
+          "author_not_provided": 1,
+          "obvious_diagram_or_non_subject_title": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Vibrio cholerae\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1
+        }
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 326804,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 12,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-victoria-amazonica",
+    "scientificName": "Victoria amazonica",
+    "searchVariants": [
+      "Victoria amazonica"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Victoria_amazonica_edit_1.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Victoria amazonica",
+        "resolvedPages": [
+          "Victoria amazonica"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Victoria amazonica\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 17,
+        "rejectionCounts": {
+          "author_not_provided": 1,
+          "no_target_identity_evidence": 12
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Victoria amazonica\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 179027,
+        "observationsReturned": 10,
+        "eligibleCandidates": 15
+      }
+    ],
+    "eligibleUniqueCandidates": 32,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-vitis-vinifera",
+    "scientificName": "Vitis vinifera",
+    "searchVariants": [
+      "Vitis vinifera"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Cabernet_Sauvignon_Gaillac.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "author_not_provided": 1
+        }
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Vitis vinifera",
+        "resolvedPages": [
+          "Vitis vinifera"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Vitis vinifera\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 9,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 21
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Vitis vinifera\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 2,
+        "eligibleCandidates": 2,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 79519,
+        "observationsReturned": 35,
+        "eligibleCandidates": 54
+      }
+    ],
+    "eligibleUniqueCandidates": 65,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-volvox-carteri",
+    "scientificName": "Volvox carteri",
+    "searchVariants": [
+      "Volvox carteri"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Volvox_carteri.png",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Volvox carteri",
+        "resolvedPages": [
+          "Volvox carteri"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Volvox carteri\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 7,
+        "eligibleCandidates": 5,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1,
+          "unusable_resolution_or_aspect": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Volvox carteri\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 512499,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 5,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "org-yersinia-pestis",
+    "scientificName": "Yersinia pestis",
+    "searchVariants": [
+      "Yersinia pestis"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Yersinia_pestis.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "author_not_provided": 1
+        }
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Yersinia pestis",
+        "resolvedPages": [
+          "Yersinia pestis"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Yersinia pestis\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 7,
+        "rejectionCounts": {
+          "author_not_provided": 3,
+          "public_domain_notice_without_accepted_basis": 1,
+          "no_target_identity_evidence": 17,
+          "unusable_resolution_or_aspect": 2
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Yersinia pestis\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 7,
+        "eligibleCandidates": 6,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1
+        }
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 948991,
+        "observationsReturned": 0,
+        "eligibleCandidates": 0
+      }
+    ],
+    "eligibleUniqueCandidates": 11,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "inat-taxon-56193",
+    "scientificName": "Acer campestre",
+    "searchVariants": [
+      "Acer campestre"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Acer_campestre_in_Appennino2.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Acer campestre",
+        "resolvedPages": [
+          "Acer campestre"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Acer campestre\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 16,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 14
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Acer campestre\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 56193,
+        "observationsReturned": 35,
+        "eligibleCandidates": 42
+      }
+    ],
+    "eligibleUniqueCandidates": 58,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "inat-taxon-54763",
+    "scientificName": "Acer platanoides",
+    "searchVariants": [
+      "Acer platanoides"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Spitz-Ahorn(mbo).jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Acer platanoides",
+        "resolvedPages": [
+          "Acer platanoides"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Acer platanoides\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 19,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 10,
+          "not_an_allowed_reuse_license": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Acer platanoides\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 54763,
+        "observationsReturned": 35,
+        "eligibleCandidates": 49
+      }
+    ],
+    "eligibleUniqueCandidates": 68,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "inat-taxon-64540",
+    "scientificName": "Celastrus orbiculatus",
+    "searchVariants": [
+      "Celastrus orbiculatus"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Celastrus_orbiculatus.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "author_not_provided": 1
+        }
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Celastrus orbiculatus",
+        "resolvedPages": [
+          "Celastrus orbiculatus"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Celastrus orbiculatus\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 19,
+        "rejectionCounts": {
+          "author_not_provided": 1,
+          "no_target_identity_evidence": 10
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Celastrus orbiculatus\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 64540,
+        "observationsReturned": 35,
+        "eligibleCandidates": 45
+      }
+    ],
+    "eligibleUniqueCandidates": 64,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "inat-taxon-52763",
+    "scientificName": "Cephalanthus occidentalis",
+    "searchVariants": [
+      "Cephalanthus occidentalis"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Cephalanthus_occidentalis_occidentalis1.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Cephalanthus occidentalis",
+        "resolvedPages": [
+          "Cephalanthus occidentalis"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Cephalanthus occidentalis\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 25,
+        "rejectionCounts": {
+          "not_static_photo_format": 1,
+          "no_target_identity_evidence": 4
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Cephalanthus occidentalis\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 52763,
+        "observationsReturned": 35,
+        "eligibleCandidates": 49
+      }
+    ],
+    "eligibleUniqueCandidates": 75,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "inat-taxon-55459",
+    "scientificName": "Lamium amplexicaule",
+    "searchVariants": [
+      "Lamium amplexicaule"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Lamium_amplexicaule_(52878370216).jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Lamium amplexicaule",
+        "resolvedPages": [
+          "Lamium amplexicaule"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Lamium amplexicaule\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 29,
+        "rejectionCounts": {
+          "not_an_allowed_reuse_license": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Lamium amplexicaule\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 55459,
+        "observationsReturned": 35,
+        "eligibleCandidates": 47
+      }
+    ],
+    "eligibleUniqueCandidates": 77,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "inat-taxon-57057",
+    "scientificName": "Medicago sativa",
+    "searchVariants": [
+      "Medicago sativa"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:75_Medicago_sativa_L.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 1
+        }
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Medicago sativa",
+        "resolvedPages": [
+          "Alfalfa"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Medicago sativa\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 6,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 22,
+          "author_not_provided": 1,
+          "not_an_allowed_reuse_license": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Medicago sativa\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 57057,
+        "observationsReturned": 35,
+        "eligibleCandidates": 49
+      }
+    ],
+    "eligibleUniqueCandidates": 55,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "inat-taxon-48543",
+    "scientificName": "Mycelis muralis",
+    "searchVariants": [
+      "Mycelis muralis"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Mycelis_muralis.jpeg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Mycelis muralis",
+        "resolvedPages": [
+          "Lactuca muralis"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Mycelis muralis\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 21,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 9
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Mycelis muralis\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 48543,
+        "observationsReturned": 35,
+        "eligibleCandidates": 49
+      }
+    ],
+    "eligibleUniqueCandidates": 70,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "inat-taxon-166466",
+    "scientificName": "Pentaglottis sempervirens",
+    "searchVariants": [
+      "Pentaglottis sempervirens"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Overblijvende_ossentong_Pentaglottis_sempervirens_closeup.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Pentaglottis sempervirens",
+        "resolvedPages": [
+          "Pentaglottis"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Pentaglottis sempervirens\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 29,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Pentaglottis sempervirens\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 166466,
+        "observationsReturned": 35,
+        "eligibleCandidates": 39
+      }
+    ],
+    "eligibleUniqueCandidates": 68,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "inat-taxon-54811",
+    "scientificName": "Rhamnus cathartica",
+    "searchVariants": [
+      "Rhamnus cathartica"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Illustration_of_Rhamnus_catharticus_63-cropped.png",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {
+          "public_domain_notice_without_accepted_basis": 1
+        }
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Rhamnus cathartica",
+        "resolvedPages": [
+          "Rhamnus cathartica"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Rhamnus cathartica\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 23,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 7
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Rhamnus cathartica\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 54811,
+        "observationsReturned": 35,
+        "eligibleCandidates": 49
+      }
+    ],
+    "eligibleUniqueCandidates": 72,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "inat-taxon-78882",
+    "scientificName": "Rosa multiflora",
+    "searchVariants": [
+      "Rosa multiflora"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:2020-05-20_08_05_42_Multiflora_Rose_flowers_along_a_walking_path_within_Horsepen_Run_Stream_Valley_Park_in_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Rosa multiflora",
+        "resolvedPages": [
+          "Rosa multiflora"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Rosa multiflora\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 21,
+        "rejectionCounts": {
+          "author_not_provided": 1,
+          "no_target_identity_evidence": 8
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Rosa multiflora\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 78882,
+        "observationsReturned": 35,
+        "eligibleCandidates": 50
+      }
+    ],
+    "eligibleUniqueCandidates": 72,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "inat-taxon-54795",
+    "scientificName": "Sassafras albidum",
+    "searchVariants": [
+      "Sassafras albidum"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Sassafras_Leaves_June_Nbg_(261691941).jpeg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Sassafras albidum",
+        "resolvedPages": [
+          "Sassafras albidum"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Sassafras albidum\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 19,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 11
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Sassafras albidum\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 54795,
+        "observationsReturned": 35,
+        "eligibleCandidates": 41
+      }
+    ],
+    "eligibleUniqueCandidates": 61,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "inat-taxon-55620",
+    "scientificName": "Solanum dulcamara",
+    "searchVariants": [
+      "Solanum dulcamara"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:Solanum_dulcamara_(5386574212).jpg",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Solanum dulcamara",
+        "resolvedPages": [
+          "Solanum dulcamara"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Solanum dulcamara\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 22,
+        "rejectionCounts": {
+          "no_target_identity_evidence": 7,
+          "not_an_allowed_reuse_license": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Solanum dulcamara\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 55620,
+        "observationsReturned": 35,
+        "eligibleCandidates": 48
+      }
+    ],
+    "eligibleUniqueCandidates": 70,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  },
+  {
+    "targetId": "inat-taxon-58732",
+    "scientificName": "Toxicodendron radicans",
+    "searchVariants": [
+      "Toxicodendron radicans"
+    ],
+    "attempts": [
+      {
+        "route": "scientific_name_wikipedia_lead",
+        "request": {
+          "titles": "File:2014-10-29_13_43_39_Poison_Ivy_foliage_during_autumn_leaf_coloration_in_Ewing,_New_Jersey.JPG",
+          "redirects": 1
+        },
+        "pagesReturned": 1,
+        "eligibleCandidates": 1,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "wikipedia_scientific_name_lookup",
+        "requestedName": "Toxicodendron radicans",
+        "resolvedPages": [
+          "Toxicodendron radicans"
+        ],
+        "imagesReturned": 1
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Toxicodendron radicans\"  filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 30,
+        "eligibleCandidates": 12,
+        "rejectionCounts": {
+          "author_not_provided": 1,
+          "no_target_identity_evidence": 16,
+          "not_static_photo_format": 1
+        }
+      },
+      {
+        "route": "commons_named_search",
+        "request": {
+          "generator": "search",
+          "gsrsearch": "\"Toxicodendron radicans\" micrograph filetype:bitmap -protein -diagram -map",
+          "gsrnamespace": 6,
+          "gsrlimit": 30
+        },
+        "pagesReturned": 0,
+        "eligibleCandidates": 0,
+        "rejectionCounts": {}
+      },
+      {
+        "route": "additional_inaturalist_observations",
+        "taxonId": 58732,
+        "observationsReturned": 35,
+        "eligibleCandidates": 53
+      }
+    ],
+    "eligibleUniqueCandidates": 66,
+    "savedPreviewCount": 4,
+    "downloadErrors": []
+  }
+]
