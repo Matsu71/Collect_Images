@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-401685857",
+  "targetId": "inat-taxon-47802",
+  "scientificName": "Lymantria dispar",
+  "nameJa": "マイマイガ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:24:53+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:24:53+00:00",
+  "files": {
+    "master": "images/lymantria-dispar/inat-401685857.jpg",
+    "web": "images/lymantria-dispar/inat-401685857.webp",
+    "thumbnail": "images/lymantria-dispar/inat-401685857-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1640
+    ],
+    "master": [
+      2048,
+      1640
+    ],
+    "web": [
+      1400,
+      1121
+    ]
+  },
+  "bytes": {
+    "master": 537352,
+    "web": 66438,
+    "thumbnail": 5646
+  },
+  "sha256": {
+    "download": "878cb8439891d2f1d4d140ded59d10fb871c6970492af58296903f5b42aa3f66",
+    "master": "76a3080dd870536e01127a428026d539aeb607fb24330a89ba1975db826cfe22",
+    "web": "234ad177d9ccb06d8c2afe3b146932217aa28a7d3f6c407e447d4e12dcd9e9f0"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Lymantria dispar [Lymantria dispar] — Christine Young / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/401685857. Original attribution: (c) Christine Young, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Lymantria dispar",
+  "sourceId": "401685857",
+  "photoUrl": "https://www.inaturalist.org/photos/401685857",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/401685857/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/401685857/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Christine Young",
+  "originalAttribution": "(c) Christine Young, some rights reserved (CC BY)",
+  "taxonId": 47802,
+  "acceptedScientificName": "Lymantria dispar",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/226487361",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.342857142857143,
+  "photoApiEvidence": {
+    "id": 401685857,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1640
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/401685857/square.jpg",
+    "attribution": "(c) Christine Young, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47157/47607/121850/48847/82039/48848/1552378",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47157,47607,121850,48847,82039,48848,1552378,47802",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 47802,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1552378,
+    "name": "Lymantria dispar",
+    "rank": "species",
+    "extinct": false,
+    "id": 47802,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47157,
+      47607,
+      121850,
+      48847,
+      82039,
+      48848,
+      1552378,
+      47802
+    ],
+    "created_at": "2008-07-02T14:25:27+00:00",
+    "default_photo": {
+      "id": 12822534,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) richardjaybee, some rights reserved (CC BY-NC), uploaded by richardjaybee",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12822534/square.jpeg",
+      "original_dimensions": {
+        "height": 1634,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "richardjaybee",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12822534/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12822534/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 83504,
+    "photos_locked": false,
+    "universal_search_rank": 83504,
+    "flag_counts": {
+      "resolved": 4,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 34410,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lymantria_dispar",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Spongy Moth"
+  }
+}

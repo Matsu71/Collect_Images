@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-168915535",
+  "targetId": "inat-taxon-17855",
+  "scientificName": "Dryocopus pileatus",
+  "nameJa": "エボシクマゲラ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:25:10+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:25:10+00:00",
+  "files": {
+    "master": "images/dryocopus-pileatus/inat-168915535.jpg",
+    "web": "images/dryocopus-pileatus/inat-168915535.webp",
+    "thumbnail": "images/dryocopus-pileatus/inat-168915535-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1537
+    ],
+    "master": [
+      2048,
+      1537
+    ],
+    "web": [
+      1400,
+      1051
+    ]
+  },
+  "bytes": {
+    "master": 850065,
+    "web": 171372,
+    "thumbnail": 20678
+  },
+  "sha256": {
+    "download": "4e4c6c34a0890a523dde47c792d395f62b442868636250c8bfabbbe7d08b7d15",
+    "master": "d7b53f46175a33ff68e0efcb15b0789434c0839e2f177076be6d90178abaa963",
+    "web": "17e912888c3007dd5ecf785c32fe60393f6f3e3269104c59d914a0dfaa959404"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Dryocopus pileatus [Dryocopus pileatus] — Joshlaymon / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/168915535. Original attribution: (c) Joshlaymon, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Dryocopus pileatus",
+  "sourceId": "168915535",
+  "photoUrl": "https://www.inaturalist.org/photos/168915535",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/168915535/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/168915535/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Joshlaymon",
+  "originalAttribution": "(c) Joshlaymon, some rights reserved (CC BY-SA)",
+  "taxonId": 17855,
+  "acceptedScientificName": "Dryocopus pileatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.195714285714285,
+  "photoApiEvidence": {
+    "id": 168915535,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Joshlaymon, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168915535/square.jpg",
+    "original_dimensions": {
+      "height": 1537,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Joshlaymon",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168915535/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168915535/medium.jpg"
+  },
+  "observationTaxon": null
+}

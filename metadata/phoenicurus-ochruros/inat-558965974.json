@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-558965974",
+  "targetId": "inat-taxon-13000",
+  "scientificName": "Phoenicurus ochruros",
+  "nameJa": "クロジョウビタキ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:24:47+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:24:47+00:00",
+  "files": {
+    "master": "images/phoenicurus-ochruros/inat-558965974.jpg",
+    "web": "images/phoenicurus-ochruros/inat-558965974.webp",
+    "thumbnail": "images/phoenicurus-ochruros/inat-558965974-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1939,
+      2048
+    ],
+    "master": [
+      1939,
+      2048
+    ],
+    "web": [
+      1325,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 845217,
+    "web": 189142,
+    "thumbnail": 18386
+  },
+  "sha256": {
+    "download": "df245283255038aaa532411192345fd9ada9099c85971d505e9083e1b1ec8b8f",
+    "master": "90c6d9546fdd3a237969674a404faad7334511cbafa129a73370997bccfaa8dc",
+    "web": "86186a0f7eac6831407e332dbcfe55dc17ca33c9867abf600248efafadfa71bb"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Phoenicurus ochruros [Phoenicurus ochruros] — Katrin Simon / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/558965974. Original attribution: (c) Katrin Simon, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Phoenicurus ochruros",
+  "sourceId": "558965974",
+  "photoUrl": "https://www.inaturalist.org/photos/558965974",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/558965974/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/558965974/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Katrin Simon",
+  "originalAttribution": "(c) Katrin Simon, some rights reserved (CC BY)",
+  "taxonId": 13000,
+  "acceptedScientificName": "Phoenicurus ochruros",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/309741258",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.4366666666666665,
+  "photoApiEvidence": {
+    "id": 558965974,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1939,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558965974/square.jpg",
+    "attribution": "(c) Katrin Simon, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/12704/12989",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,12704,12989,13000",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 13000,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 12989,
+    "name": "Phoenicurus ochruros",
+    "rank": "species",
+    "extinct": false,
+    "id": 13000,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      12704,
+      12989,
+      13000
+    ],
+    "created_at": "2008-03-13T03:15:04+00:00",
+    "default_photo": {
+      "id": 120990680,
+      "license_code": null,
+      "attribution": "(c) David Roche, all rights reserved, uploaded by David Roche",
+      "url": "https://static.inaturalist.org/photos/120990680/square.jpeg",
+      "original_dimensions": {
+        "height": 1366,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "David Roche",
+      "square_url": "https://static.inaturalist.org/photos/120990680/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/120990680/medium.jpeg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 7,
+    "observations_count": 96042,
+    "photos_locked": false,
+    "universal_search_rank": 96042,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black_redstart",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Black Redstart"
+  }
+}

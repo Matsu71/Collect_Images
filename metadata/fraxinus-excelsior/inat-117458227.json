@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-117458227",
+  "targetId": "inat-taxon-125440",
+  "scientificName": "Fraxinus excelsior",
+  "nameJa": "セイヨウトネリコ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:23:53+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:23:53+00:00",
+  "files": {
+    "master": "images/fraxinus-excelsior/inat-117458227.jpg",
+    "web": "images/fraxinus-excelsior/inat-117458227.webp",
+    "thumbnail": "images/fraxinus-excelsior/inat-117458227-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 237023,
+    "web": 44182,
+    "thumbnail": 5394
+  },
+  "sha256": {
+    "download": "09d35055d09862499dc32abe7d00e1b656b3c5cdff6c61cb4397244a2c53fc4b",
+    "master": "6aefebc1222eb14bb9c7dc8064e804cd5e5b5e713177350e80e613b172083ac8",
+    "web": "81bfd74e15795bc1f6ff39106e9f7c67d685087d70c0350c59a247b35c84810d"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Fraxinus excelsior [Fraxinus excelsior] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/117458227. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Fraxinus excelsior",
+  "sourceId": "117458227",
+  "photoUrl": "https://www.inaturalist.org/photos/117458227",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/117458227/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/117458227/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 125440,
+  "acceptedScientificName": "Fraxinus excelsior",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/72079020",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.283333333333333,
+  "photoApiEvidence": {
+    "id": 117458227,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117458227/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48151/47733/54806/1665473",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48151,47733,54806,1665473,125440",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 125440,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1665473,
+    "name": "Fraxinus excelsior",
+    "rank": "species",
+    "extinct": false,
+    "id": 125440,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48151,
+      47733,
+      54806,
+      1665473,
+      125440
+    ],
+    "created_at": "2012-03-06T20:41:04+00:00",
+    "default_photo": {
+      "id": 218128525,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) nicky-by-nature, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218128525/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "nicky-by-nature",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218128525/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218128525/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 61248,
+    "photos_locked": false,
+    "universal_search_rank": 61248,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Fraxinus_excelsior",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "European ash",
+    "conservation_status": {
+      "id": 548667,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": 477,
+      "authority": "IUCN Red List",
+      "status": "nt",
+      "status_name": "near threatened",
+      "geoprivacy": "open",
+      "iucn": 20
+    }
+  }
+}

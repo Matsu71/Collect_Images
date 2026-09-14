@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-420375297",
+  "targetId": "inat-taxon-75762",
+  "scientificName": "Berteroa incana",
+  "nameJa": "ウスユキナズナ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:24:05+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:24:05+00:00",
+  "files": {
+    "master": "images/berteroa-incana/inat-420375297.jpg",
+    "web": "images/berteroa-incana/inat-420375297.webp",
+    "thumbnail": "images/berteroa-incana/inat-420375297-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1367
+    ],
+    "master": [
+      2048,
+      1367
+    ],
+    "web": [
+      1400,
+      934
+    ]
+  },
+  "bytes": {
+    "master": 251227,
+    "web": 36410,
+    "thumbnail": 4888
+  },
+  "sha256": {
+    "download": "8a8466e416353df246f7a2ba10d6475f44db841bb420fd489268e0e85ddb3c0a",
+    "master": "6c12ca34de48e2d3051f7e2fda7f158a909dc7c82a632c5624b323557589e166",
+    "web": "bd4ed17383c096a94d51fb4a8bad5722604c692bec73596fe3e0f2c14f3a766a"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Berteroa incana [Berteroa incana] — Anders Hastings / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/420375297. Original attribution: (c) Anders Hastings, some rights reserved (CC BY), uploaded by Anders Hastings. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Berteroa incana",
+  "sourceId": "420375297",
+  "photoUrl": "https://www.inaturalist.org/photos/420375297",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/420375297/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/420375297/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Anders Hastings",
+  "originalAttribution": "(c) Anders Hastings, some rights reserved (CC BY), uploaded by Anders Hastings",
+  "taxonId": 75762,
+  "acceptedScientificName": "Berteroa incana",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 11.952857142857143,
+  "photoApiEvidence": {
+    "id": 420375297,
+    "license_code": "cc-by",
+    "attribution": "(c) Anders Hastings, some rights reserved (CC BY), uploaded by Anders Hastings",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/420375297/square.jpeg",
+    "original_dimensions": {
+      "height": 1367,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Anders Hastings",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/420375297/square.jpeg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/420375297/medium.jpeg"
+  },
+  "observationTaxon": null
+}

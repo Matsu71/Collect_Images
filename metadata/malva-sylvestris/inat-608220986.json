@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-608220986",
+  "targetId": "inat-taxon-56162",
+  "scientificName": "Malva sylvestris",
+  "nameJa": "ウスベニアオイ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:23:23+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:23:23+00:00",
+  "files": {
+    "master": "images/malva-sylvestris/inat-608220986.jpg",
+    "web": "images/malva-sylvestris/inat-608220986.webp",
+    "thumbnail": "images/malva-sylvestris/inat-608220986-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1537
+    ],
+    "master": [
+      2048,
+      1537
+    ],
+    "web": [
+      1400,
+      1051
+    ]
+  },
+  "bytes": {
+    "master": 723061,
+    "web": 172668,
+    "thumbnail": 17418
+  },
+  "sha256": {
+    "download": "9f44b69816b794a3e70a0de350e3c9a69d4462a1b67161892940f65870ff14f4",
+    "master": "f12320f23b4e6b7276c252401f0b230491bf3e3a3ee7a9d8c1ccc5268cfb615c",
+    "web": "6531736210d4f88983b40fe26459d45de7d66bee3da3d088b9257960518843a7"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Malva sylvestris [Malva sylvestris] — Alvesgaspar / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/608220986. Original attribution: (c) Alvesgaspar, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Malva sylvestris",
+  "sourceId": "608220986",
+  "photoUrl": "https://www.inaturalist.org/photos/608220986",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/608220986/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/608220986/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Alvesgaspar",
+  "originalAttribution": "(c) Alvesgaspar, some rights reserved (CC BY-SA)",
+  "taxonId": 56162,
+  "acceptedScientificName": "Malva sylvestris",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.195714285714285,
+  "photoApiEvidence": {
+    "id": 608220986,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Alvesgaspar, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608220986/square.jpg",
+    "original_dimensions": {
+      "height": 1537,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Alvesgaspar",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608220986/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608220986/medium.jpg"
+  },
+  "observationTaxon": null
+}

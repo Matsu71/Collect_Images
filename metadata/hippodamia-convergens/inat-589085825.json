@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-589085825",
+  "targetId": "inat-taxon-48987",
+  "scientificName": "Hippodamia convergens",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:23:29+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:23:29+00:00",
+  "files": {
+    "master": "images/hippodamia-convergens/inat-589085825.jpg",
+    "web": "images/hippodamia-convergens/inat-589085825.webp",
+    "thumbnail": "images/hippodamia-convergens/inat-589085825-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 446804,
+    "web": 103410,
+    "thumbnail": 6412
+  },
+  "sha256": {
+    "download": "0c67311a6b0f8d7161a180802e8a94757972bff5027f3e6b1b9a2f0b6b8c6571",
+    "master": "68db7a81ae4eb2fc31647efc0fa21942504ce1c1514f125f942db8a8739e9192",
+    "web": "8d661002eb960ed0d7e7c20f5f57988d7f12281b41397bfe2333a4a10995613a"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Hippodamia convergens [Hippodamia convergens] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/589085825. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Hippodamia convergens",
+  "sourceId": "589085825",
+  "photoUrl": "https://www.inaturalist.org/photos/589085825",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/589085825/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/589085825/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 48987,
+  "acceptedScientificName": "Hippodamia convergens",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/325369503",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.259047619047617,
+  "photoApiEvidence": {
+    "id": 589085825,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589085825/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47208/71130/372852/471714/48486/333790/333796/48988",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47208,71130,372852,471714,48486,333790,333796,48988,48987",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 48987,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 48988,
+    "name": "Hippodamia convergens",
+    "rank": "species",
+    "extinct": false,
+    "id": 48987,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47208,
+      71130,
+      372852,
+      471714,
+      48486,
+      333790,
+      333796,
+      48988,
+      48987
+    ],
+    "created_at": "2009-01-04T05:45:30+00:00",
+    "default_photo": {
+      "id": 1114606,
+      "license_code": null,
+      "attribution": "(c) Gary McDonald, all rights reserved, uploaded by Gary McDonald",
+      "url": "https://static.inaturalist.org/photos/1114606/square.JPG",
+      "original_dimensions": {
+        "height": 750,
+        "width": 750
+      },
+      "flags": [],
+      "attribution_name": "Gary McDonald",
+      "square_url": "https://static.inaturalist.org/photos/1114606/square.JPG",
+      "medium_url": "https://static.inaturalist.org/photos/1114606/medium.JPG"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 72520,
+    "photos_locked": false,
+    "universal_search_rank": 72520,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 30488,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Hippodamia_convergens",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Convergent Lady Beetle"
+  }
+}

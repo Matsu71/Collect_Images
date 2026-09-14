@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-53345888",
+  "targetId": "inat-taxon-119048",
+  "scientificName": "Ageratina altissima",
+  "nameJa": "マルバフジバカマ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:24:33+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:24:33+00:00",
+  "files": {
+    "master": "images/ageratina-altissima/inat-53345888.jpg",
+    "web": "images/ageratina-altissima/inat-53345888.webp",
+    "thumbnail": "images/ageratina-altissima/inat-53345888-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1228092,
+    "web": 253120,
+    "thumbnail": 36350
+  },
+  "sha256": {
+    "download": "45aba61c91dcffa709884dc70a4783f54b1b798e46eefa60cbb000b1fca85dde",
+    "master": "def8ae3324f6042abf8ddd0bae39324bbe947b44e6d91565509c7426511a34c2",
+    "web": "231400e2d1f247619a850aae591810e76923f2f1440627818b1872bd4c5cf07a"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Ageratina altissima [Ageratina altissima] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/53345888. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ageratina altissima",
+  "sourceId": "53345888",
+  "photoUrl": "https://www.inaturalist.org/photos/53345888",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53345888/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53345888/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 119048,
+  "acceptedScientificName": "Ageratina altissima",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/33930937",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 53345888,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53345888/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47605/47604/632790/153419/901066/64116/1464929",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47605,47604,632790,153419,901066,64116,1464929,119048",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 119048,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1464929,
+    "name": "Ageratina altissima",
+    "rank": "species",
+    "extinct": false,
+    "id": 119048,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47605,
+      47604,
+      632790,
+      153419,
+      901066,
+      64116,
+      1464929,
+      119048
+    ],
+    "created_at": "2011-09-08T02:16:01+00:00",
+    "default_photo": {
+      "id": 162191139,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Dan Mullen, some rights reserved (CC BY-NC-ND)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/162191139/square.jpg",
+      "original_dimensions": {
+        "height": 1640,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Dan Mullen",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/162191139/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/162191139/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 3,
+    "observations_count": 113754,
+    "photos_locked": false,
+    "universal_search_rank": 113754,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ageratina_altissima",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "white snakeroot"
+  }
+}

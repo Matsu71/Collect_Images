@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-397226705",
+  "targetId": "inat-taxon-243824",
+  "scientificName": "Potentilla indica",
+  "nameJa": "ヤブヘビイチゴ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:24:59+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:24:59+00:00",
+  "files": {
+    "master": "images/potentilla-indica/inat-397226705.jpg",
+    "web": "images/potentilla-indica/inat-397226705.webp",
+    "thumbnail": "images/potentilla-indica/inat-397226705-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1038462,
+    "web": 181588,
+    "thumbnail": 22540
+  },
+  "sha256": {
+    "download": "5da61001b8279fb3676252d54db909777d1e7cda707715bf5be55dfdf9e2ca30",
+    "master": "b6400fb156789845e45e25fecb8a926f68f4e4501d816b146d8fda17476bf67f",
+    "web": "0978bb4e09bd72a706ec3bd15c43203a60be3053b90410b6b1c4ab3f0c247ef5"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 71,
+  "credit": "Potentilla indica [Potentilla indica] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/397226705. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Potentilla indica",
+  "sourceId": "397226705",
+  "photoUrl": "https://www.inaturalist.org/photos/397226705",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/397226705/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/397226705/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 243824,
+  "acceptedScientificName": "Potentilla indica",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/224143517",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 397226705,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397226705/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47132/47148/415343/885411/975960/53186",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47132,47148,415343,885411,975960,53186,243824",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 243824,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 53186,
+    "name": "Potentilla indica",
+    "rank": "species",
+    "extinct": false,
+    "id": 243824,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47132,
+      47148,
+      415343,
+      885411,
+      975960,
+      53186,
+      243824
+    ],
+    "created_at": "2013-04-01T18:42:13+00:00",
+    "default_photo": {
+      "id": 8835174,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Rob Curtis, some rights reserved (CC BY-NC-SA), uploaded by Rob Curtis",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8835174/square.jpg",
+      "original_dimensions": {
+        "height": 1613,
+        "width": 1613
+      },
+      "flags": [],
+      "attribution_name": "Rob Curtis",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8835174/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8835174/medium.jpg"
+    },
+    "taxon_changes_count": 3,
+    "taxon_schemes_count": 4,
+    "observations_count": 92205,
+    "photos_locked": false,
+    "universal_search_rank": 92205,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mock_strawberry",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "mock strawberry"
+  }
+}

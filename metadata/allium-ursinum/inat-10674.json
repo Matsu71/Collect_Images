@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-10674",
+  "targetId": "inat-taxon-56152",
+  "scientificName": "Allium ursinum",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:25:03+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:25:03+00:00",
+  "files": {
+    "master": "images/allium-ursinum/inat-10674.jpg",
+    "web": "images/allium-ursinum/inat-10674.webp",
+    "thumbnail": "images/allium-ursinum/inat-10674-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1533,
+      2048
+    ],
+    "master": [
+      1533,
+      2048
+    ],
+    "web": [
+      1048,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 492190,
+    "web": 107248,
+    "thumbnail": 10628
+  },
+  "sha256": {
+    "download": "97dcac97ada264d28984b00c7406025bcfc8d03532ef85650e71a3a1d721b0da",
+    "master": "5ce3efac1526f4f73c87decbf689accdd89eb539ff9635e86b79cddce3032658",
+    "web": "8920a9110de09380a18d104b027f5818a5dd11710803538d41c8b92d80033430"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Allium ursinum [Allium ursinum] — Ulrika / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/10674. Original attribution: (c) Ulrika, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Allium ursinum",
+  "sourceId": "10674",
+  "photoUrl": "https://www.inaturalist.org/photos/10674",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10674/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10674/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Ulrika",
+  "originalAttribution": "(c) Ulrika, some rights reserved (CC BY)",
+  "taxonId": 56152,
+  "acceptedScientificName": "Allium ursinum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.19,
+  "photoApiEvidence": {
+    "id": 10674,
+    "license_code": "cc-by",
+    "attribution": "(c) Ulrika, some rights reserved (CC BY)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10674/square.jpg",
+    "original_dimensions": {
+      "height": 2048,
+      "width": 1533
+    },
+    "flags": [],
+    "attribution_name": "Ulrika",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10674/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10674/medium.jpg"
+  },
+  "observationTaxon": null
+}

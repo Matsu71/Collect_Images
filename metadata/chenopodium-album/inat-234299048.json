@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-234299048",
+  "targetId": "inat-taxon-58127",
+  "scientificName": "Chenopodium album",
+  "nameJa": "シロザ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:25:06+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:25:06+00:00",
+  "files": {
+    "master": "images/chenopodium-album/inat-234299048.jpg",
+    "web": "images/chenopodium-album/inat-234299048.webp",
+    "thumbnail": "images/chenopodium-album/inat-234299048-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1542,
+      2048
+    ],
+    "master": [
+      1542,
+      2048
+    ],
+    "web": [
+      1054,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 634278,
+    "web": 172864,
+    "thumbnail": 14104
+  },
+  "sha256": {
+    "download": "6ab6459755616f15788ec3182902ba5114ea4adcfd93fb0beff4db461bffab26",
+    "master": "c802c8c85e050a1af0942ac0fdfba7686f0edd4ef65788ca82860a7cc6d96128",
+    "web": "10bd830185a9434d97c8c860ad710180be9e6e3a26ed7c36665ecea6c6c653ff"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Chenopodium album [Chenopodium album] — Kristi Zoebelein / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/234299048. Original attribution: no rights reserved, uploaded by Kristi Zoebelein. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Chenopodium album",
+  "sourceId": "234299048",
+  "photoUrl": "https://www.inaturalist.org/photos/234299048",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/234299048/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/234299048/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "Kristi Zoebelein",
+  "originalAttribution": "no rights reserved, uploaded by Kristi Zoebelein",
+  "taxonId": 58127,
+  "acceptedScientificName": "Chenopodium album",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 13.202857142857143,
+  "photoApiEvidence": {
+    "id": 234299048,
+    "license_code": "cc0",
+    "attribution": "no rights reserved, uploaded by Kristi Zoebelein",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/234299048/square.jpeg",
+    "original_dimensions": {
+      "height": 2048,
+      "width": 1542
+    },
+    "flags": [],
+    "attribution_name": "Kristi Zoebelein",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/234299048/square.jpeg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/234299048/medium.jpeg"
+  },
+  "observationTaxon": null
+}

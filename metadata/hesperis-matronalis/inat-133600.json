@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-133600",
+  "targetId": "inat-taxon-47697",
+  "scientificName": "Hesperis matronalis",
+  "nameJa": "セイヨウハナダイコン",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:24:49+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:24:49+00:00",
+  "files": {
+    "master": "images/hesperis-matronalis/inat-133600.jpg",
+    "web": "images/hesperis-matronalis/inat-133600.webp",
+    "thumbnail": "images/hesperis-matronalis/inat-133600-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1865,
+      1673
+    ],
+    "master": [
+      1865,
+      1673
+    ],
+    "web": [
+      1400,
+      1256
+    ]
+  },
+  "bytes": {
+    "master": 331511,
+    "web": 37298,
+    "thumbnail": 3920
+  },
+  "sha256": {
+    "download": "8304985f71de1613bf62f84a99103309b46dc8e95c77cd4ad292c051788dc582",
+    "master": "c9be8231a8e0f5c0947e1af16627f654e8c55196673014062142616f698fd357",
+    "web": "c33d50c588c14f2169d539891a92765ed3753285fb6c1979ceca914e02be3868"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Hesperis matronalis [Hesperis matronalis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/133600. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Hesperis matronalis",
+  "sourceId": "133600",
+  "photoUrl": "https://www.inaturalist.org/photos/133600",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/133600/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/133600/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 47697,
+  "acceptedScientificName": "Hesperis matronalis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/91574",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.723333333333334,
+  "photoApiEvidence": {
+    "id": 133600,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1865,
+      "height": 1673
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133600/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/71275/47204/1473853/1473873/903187/47698",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,71275,47204,1473853,1473873,903187,47698,47697",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 47697,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 47698,
+    "name": "Hesperis matronalis",
+    "rank": "species",
+    "extinct": false,
+    "id": 47697,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      71275,
+      47204,
+      1473853,
+      1473873,
+      903187,
+      47698,
+      47697
+    ],
+    "provisional": false,
+    "created_at": "2008-06-15T18:20:06+00:00",
+    "default_photo": {
+      "id": 202467231,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Wolfgang Bacher, some rights reserved (CC BY-NC), uploaded by Wolfgang Bacher",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/202467231/square.jpeg",
+      "original_dimensions": {
+        "height": 1881,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Wolfgang Bacher",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/202467231/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/202467231/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 94663,
+    "photos_locked": false,
+    "universal_search_rank": 94663,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 2
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Hesperis_matronalis",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "dame's rocket"
+  }
+}

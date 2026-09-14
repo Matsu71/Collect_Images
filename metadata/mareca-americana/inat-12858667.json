@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-12858667",
+  "targetId": "inat-taxon-485176",
+  "scientificName": "Mareca americana",
+  "nameJa": "アメリカヒドリ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:23:19+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:23:19+00:00",
+  "files": {
+    "master": "images/mareca-americana/inat-12858667.jpg",
+    "web": "images/mareca-americana/inat-12858667.webp",
+    "thumbnail": "images/mareca-americana/inat-12858667-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 580200,
+    "web": 150594,
+    "thumbnail": 12014
+  },
+  "sha256": {
+    "download": "1dbf092dd31a02fef04b63d7f84a21ba4e84a1bd87fb65fbd58452b494813f37",
+    "master": "c9818f45a16aebe6161bf00aae62e09116aaa1aa19e162d3c26f62a137a4c733",
+    "web": "4e2f4abcbe1619492804d5949dbf88c5eb3f42514c817af490c07277e5d5b5cb"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Mareca americana [Mareca americana] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/12858667. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Mareca americana",
+  "sourceId": "12858667",
+  "photoUrl": "https://www.inaturalist.org/photos/12858667",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12858667/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12858667/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 485176,
+  "acceptedScientificName": "Mareca americana",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/9453973",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 12858667,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12858667/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/6888/6912/487319",
+    "min_species_ancestry": "48460,1,2,355675,3,6888,6912,487319,485176",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 485176,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 487319,
+    "name": "Mareca americana",
+    "rank": "species",
+    "extinct": false,
+    "id": 485176,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      6888,
+      6912,
+      487319,
+      485176
+    ],
+    "created_at": "2016-01-07T14:57:49+00:00",
+    "default_photo": {
+      "id": 39823348,
+      "license_code": null,
+      "attribution": "(c) mattbuckingham, all rights reserved, uploaded by mattbuckingham",
+      "url": "https://static.inaturalist.org/photos/39823348/square.jpg",
+      "original_dimensions": {
+        "height": 1247,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "mattbuckingham",
+      "square_url": "https://static.inaturalist.org/photos/39823348/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/39823348/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 2,
+    "observations_count": 81871,
+    "photos_locked": false,
+    "universal_search_rank": 81871,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 11423,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_wigeon",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "American Wigeon"
+  }
+}

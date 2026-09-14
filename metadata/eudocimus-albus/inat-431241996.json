@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-431241996",
+  "targetId": "inat-taxon-3751",
+  "scientificName": "Eudocimus albus",
+  "nameJa": "シロトキ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:23:51+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:23:51+00:00",
+  "files": {
+    "master": "images/eudocimus-albus/inat-431241996.jpg",
+    "web": "images/eudocimus-albus/inat-431241996.webp",
+    "thumbnail": "images/eudocimus-albus/inat-431241996-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1056034,
+    "web": 205512,
+    "thumbnail": 20400
+  },
+  "sha256": {
+    "download": "da0125e4fb1c228be1e63224b2bd68387bf400bcf88ca942d03fa0d594beaf38",
+    "master": "f2cacbb8f443b51eb5293e1c380594874509e0eab2855a8e5e6d4dae06aca838",
+    "web": "f17696878437d1217bc8a1794a5fa0e6224a186deab86281ddad9c322876c053"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Eudocimus albus [Eudocimus albus] — David Garza / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/431241996. Original attribution: (c) David Garza, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Eudocimus albus",
+  "sourceId": "431241996",
+  "photoUrl": "https://www.inaturalist.org/photos/431241996",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/431241996/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/431241996/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "David Garza",
+  "originalAttribution": "(c) David Garza, some rights reserved (CC BY)",
+  "taxonId": 3751,
+  "acceptedScientificName": "Eudocimus albus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/241931560",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.194285714285714,
+  "photoApiEvidence": {
+    "id": 431241996,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/431241996/square.jpeg",
+    "attribution": "(c) David Garza, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67566/3727/3749",
+    "min_species_ancestry": "48460,1,2,355675,3,67566,3727,3749,3751",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 3751,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 3749,
+    "name": "Eudocimus albus",
+    "rank": "species",
+    "extinct": false,
+    "id": 3751,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67566,
+      3727,
+      3749,
+      3751
+    ],
+    "created_at": "2008-03-13T02:43:24+00:00",
+    "default_photo": {
+      "id": 13109245,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13109245/square.jpg",
+      "original_dimensions": {
+        "height": 1366,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Greg Lasley",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13109245/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13109245/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 99461,
+    "photos_locked": false,
+    "universal_search_rank": 99461,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/American_white_ibis",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "White Ibis"
+  }
+}
