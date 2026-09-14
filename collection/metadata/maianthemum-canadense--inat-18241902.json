@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-18241902",
+  "targetId": "inat-taxon-67748",
+  "scientificName": "Maianthemum canadense",
+  "nameJa": "カナダマイヅルソウ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:17:39+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:17:39+00:00",
+  "files": {
+    "master": "images/maianthemum-canadense/inat-18241902.jpg",
+    "web": "images/maianthemum-canadense/inat-18241902.webp",
+    "thumbnail": "images/maianthemum-canadense/inat-18241902-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 626496,
+    "web": 157566,
+    "thumbnail": 15046
+  },
+  "sha256": {
+    "download": "f7af50f31abfb93f2fe9b550a3e7ed94432ea2f33d1909c919f14819b075c40e",
+    "master": "30e37a7b753834065971996eb372f3048d558ace4202ccfce0841dddb1010780",
+    "web": "5539204e7322cd0df71d40aba7db0ca427d0ebefa6ac0c5c5d1c17e00ac0117b"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Maianthemum canadense [Maianthemum canadense] — Kevin Keegan / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/18241902. Original attribution: no rights reserved, uploaded by Kevin Keegan. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Maianthemum canadense",
+  "sourceId": "18241902",
+  "photoUrl": "https://www.inaturalist.org/photos/18241902",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18241902/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18241902/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "Kevin Keegan",
+  "originalAttribution": "no rights reserved, uploaded by Kevin Keegan",
+  "taxonId": 67748,
+  "acceptedScientificName": "Maianthemum canadense",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 13.194285714285714,
+  "photoApiEvidence": {
+    "id": 18241902,
+    "license_code": "cc0",
+    "attribution": "no rights reserved, uploaded by Kevin Keegan",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18241902/square.jpeg",
+    "original_dimensions": {
+      "height": 2048,
+      "width": 1536
+    },
+    "flags": [],
+    "attribution_name": "Kevin Keegan",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18241902/square.jpeg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18241902/medium.jpeg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/maianthemum-canadense/inat-18241902.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/maianthemum-canadense--inat-18241902.json"
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-110731312",
+  "targetId": "org-meleagris-gallopavo",
+  "scientificName": "Meleagris gallopavo",
+  "nameJa": "シチメンチョウ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:03:12+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:03:12+00:00",
+  "files": {
+    "master": "images/meleagris-gallopavo/inat-110731312.jpg",
+    "web": "images/meleagris-gallopavo/inat-110731312.webp",
+    "thumbnail": "images/meleagris-gallopavo/inat-110731312-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 734109,
+    "web": 106840,
+    "thumbnail": 4742
+  },
+  "sha256": {
+    "download": "1005411c4895498fb0bdf8015aa67c29fde504d163ceb1c0bcfae36870845590",
+    "master": "753d3e6a24b13c1f3ea94c3126a3292b56574dac531ea8755e80716b66abe908",
+    "web": "343040659b5a56331f57c0358049d8769ae8f637085e21724adc56916e34aef1"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Meleagris gallopavo [Meleagris gallopavo] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/110731312. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Meleagris gallopavo",
+  "sourceId": "110731312",
+  "photoUrl": "https://www.inaturalist.org/photos/110731312",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110731312/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110731312/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 906,
+  "acceptedScientificName": "Meleagris gallopavo",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/68393009",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.616666666666667,
+  "photoApiEvidence": {
+    "id": 110731312,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110731312/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/573/574/905",
+    "min_species_ancestry": "48460,1,2,355675,3,573,574,905,906",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 906,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 905,
+    "name": "Meleagris gallopavo",
+    "rank": "species",
+    "extinct": false,
+    "id": 906,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      573,
+      574,
+      905,
+      906
+    ],
+    "created_at": "2008-03-13T02:36:53+00:00",
+    "default_photo": {
+      "id": 31353610,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Matt K, some rights reserved (CC BY-NC), uploaded by Matt K",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31353610/square.jpg",
+      "original_dimensions": {
+        "height": 682,
+        "width": 1024
+      },
+      "flags": [],
+      "attribution_name": "Matt K",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31353610/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31353610/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 11,
+    "observations_count": 199342,
+    "photos_locked": false,
+    "universal_search_rank": 199342,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Wild_turkey",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Wild Turkey"
+  },
+  "rawMetadataPath": "metadata/meleagris-gallopavo/inat-110731312.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/meleagris-gallopavo--inat-110731312.json"
+}

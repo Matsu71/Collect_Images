@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-593179719",
+  "targetId": "org-panthera-uncia",
+  "scientificName": "Panthera uncia",
+  "nameJa": "ユキヒョウ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:05:28+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:05:28+00:00",
+  "files": {
+    "master": "images/panthera-uncia/inat-593179719.jpg",
+    "web": "images/panthera-uncia/inat-593179719.webp",
+    "thumbnail": "images/panthera-uncia/inat-593179719-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 661735,
+    "web": 98620,
+    "thumbnail": 2928
+  },
+  "sha256": {
+    "download": "852c20e82b3ef629a7213e92f19eda26d405a68ae6919a8e4e30f69a8487d019",
+    "master": "dcd1beb33fd3f106387ad05385d9a8ad7c40e2bd8e5524199a7044131fdf34fe",
+    "web": "c0e6550e5100fde64c49b3bea21a3f8aeabb224c1029de1f042ce13345fc316a"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Panthera uncia [Panthera uncia] — Sara Navarro / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/593179719. Original attribution: (c) Sara Navarro, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Panthera uncia",
+  "sourceId": "593179719",
+  "photoUrl": "https://www.inaturalist.org/photos/593179719",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/593179719/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/593179719/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Sara Navarro",
+  "originalAttribution": "(c) Sara Navarro, some rights reserved (CC BY)",
+  "taxonId": 74831,
+  "acceptedScientificName": "Panthera uncia",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/327427480",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.527619047619047,
+  "photoApiEvidence": {
+    "id": 593179719,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593179719/square.jpg",
+    "attribution": "(c) Sara Navarro, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/41944/846273/41962",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,41944,846273,41962,74831",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 74831,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 41962,
+    "name": "Panthera uncia",
+    "rank": "species",
+    "extinct": false,
+    "id": 74831,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      41944,
+      846273,
+      41962,
+      74831
+    ],
+    "created_at": "2011-05-13T21:35:43+00:00",
+    "default_photo": {
+      "id": 16308659,
+      "license_code": "cc-by-nd",
+      "attribution": "(c) Tambako The Jaguar, some rights reserved (CC BY-ND)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16308659/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Tambako The Jaguar",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16308659/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16308659/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 1199,
+    "photos_locked": false,
+    "universal_search_rank": 1199,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 13114,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Snow_leopard",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Snow Leopard",
+    "conservation_status": {
+      "id": 24150,
+      "place_id": null,
+      "source_id": 15286,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "obscured",
+      "iucn": 30
+    }
+  },
+  "rawMetadataPath": "metadata/panthera-uncia/inat-593179719.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/panthera-uncia--inat-593179719.json"
+}

@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-18560490",
+  "targetId": "inat-taxon-59774",
+  "scientificName": "Pachydiplax longipennis",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:15:22+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:15:22+00:00",
+  "files": {
+    "master": "images/pachydiplax-longipennis/inat-18560490.jpg",
+    "web": "images/pachydiplax-longipennis/inat-18560490.webp",
+    "thumbnail": "images/pachydiplax-longipennis/inat-18560490-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1755
+    ],
+    "master": [
+      2048,
+      1755
+    ],
+    "web": [
+      1400,
+      1200
+    ]
+  },
+  "bytes": {
+    "master": 298323,
+    "web": 20392,
+    "thumbnail": 2076
+  },
+  "sha256": {
+    "download": "f2244cbb057f571940b151795fc5b4f7523dbb1e378e1089ece8acb551f85f73",
+    "master": "ae839fe4b5e080e2e957b9beb748f4cbd49d64d4343c62479d0e47162c73d881",
+    "web": "ec294f75aac33b4bca9b08a41373e985a9f2cd676fef4e49a61ceb1bc467e95f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Pachydiplax longipennis [Pachydiplax longipennis] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/18560490. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Pachydiplax longipennis",
+  "sourceId": "18560490",
+  "photoUrl": "https://www.inaturalist.org/photos/18560490",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18560490/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18560490/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 59774,
+  "acceptedScientificName": "Pachydiplax longipennis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/12800846",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.173809523809524,
+  "photoApiEvidence": {
+    "id": 18560490,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1755
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18560490/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47792/47927/1317176/47819/59775",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47792,47927,1317176,47819,59775,59774",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 59774,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 59775,
+    "name": "Pachydiplax longipennis",
+    "rank": "species",
+    "extinct": false,
+    "id": 59774,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47792,
+      47927,
+      1317176,
+      47819,
+      59775,
+      59774
+    ],
+    "created_at": "2010-04-23T15:07:58+00:00",
+    "default_photo": {
+      "id": 28379940,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Cameron Eckert, some rights reserved (CC BY-NC), uploaded by Cameron Eckert",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28379940/square.jpg",
+      "original_dimensions": {
+        "height": 1371,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Cameron Eckert",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28379940/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28379940/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 162018,
+    "photos_locked": false,
+    "universal_search_rank": 162018,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 1783,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blue_dasher",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Blue Dasher"
+  },
+  "rawMetadataPath": "metadata/pachydiplax-longipennis/inat-18560490.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/pachydiplax-longipennis--inat-18560490.json"
+}

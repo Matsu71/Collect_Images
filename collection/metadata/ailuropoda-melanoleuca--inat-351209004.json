@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-351209004",
+  "targetId": "org-ailuropoda-melanoleuca",
+  "scientificName": "Ailuropoda melanoleuca",
+  "nameJa": "ジャイアントパンダ",
+  "collectionTier": "chronoearth",
+  "origin": "rejected_asset",
+  "status": "excluded",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "exclude",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 10,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "竹に大きく遮られ、全身の姿が不明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:53:22+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:53:22+00:00",
+  "files": {
+    "master": "images/ailuropoda-melanoleuca/inat-351209004.jpg",
+    "web": "images/ailuropoda-melanoleuca/inat-351209004.webp",
+    "thumbnail": "images/ailuropoda-melanoleuca/inat-351209004-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 783683,
+    "web": 176854,
+    "thumbnail": 27434
+  },
+  "sha256": {
+    "download": "407bda752fbd904b91cb970d6175cbd6249590d862bf8a836d4b4bea38cfd111",
+    "master": "a757b2dc1c3551daa13ead03f61640acef4970e4833cf8542e325a6d5ebfc9e4",
+    "web": "1fbfa26f11de1385a93875c432d6c8c437ac49f8f33fe7219f6268d1083e9c49"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Ailuropoda melanoleuca [Ailuropoda melanoleuca] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/351209004. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ailuropoda melanoleuca",
+  "sourceId": "351209004",
+  "photoUrl": "https://www.inaturalist.org/photos/351209004",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/351209004/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/351209004/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 41659,
+  "acceptedScientificName": "Ailuropoda melanoleuca",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/199176824",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.283333333333333,
+  "photoApiEvidence": {
+    "id": 351209004,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351209004/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/41636/846183/41658/41659",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,41636,846183,41658,41659",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 41659,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 41659,
+    "name": "Ailuropoda melanoleuca qinlingensis",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 1271793,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      41636,
+      846183,
+      41658,
+      41659,
+      1271793
+    ],
+    "created_at": "2021-08-12T09:19:49-07:00",
+    "default_photo": {
+      "id": 351209016,
+      "license_code": "cc0",
+      "attribution": "no rights reserved, uploaded by James Eaton",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351209016/square.jpeg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "James Eaton",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351209016/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351209016/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 0,
+    "observations_count": 8,
+    "photos_locked": false,
+    "universal_search_rank": 8,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Qinling_panda",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Qinling Giant Panda"
+  },
+  "rawMetadataPath": "metadata/ailuropoda-melanoleuca/inat-351209004.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/ailuropoda-melanoleuca--inat-351209004.json"
+}

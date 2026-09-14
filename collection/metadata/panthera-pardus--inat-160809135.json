@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-160809135",
+  "targetId": "org-panthera-pardus",
+  "scientificName": "Panthera pardus",
+  "nameJa": "ヒョウ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:05:24+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:05:24+00:00",
+  "files": {
+    "master": "images/panthera-pardus/inat-160809135.jpg",
+    "web": "images/panthera-pardus/inat-160809135.webp",
+    "thumbnail": "images/panthera-pardus/inat-160809135-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1732,
+      1154
+    ],
+    "master": [
+      1732,
+      1154
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 611714,
+    "web": 224732,
+    "thumbnail": 34438
+  },
+  "sha256": {
+    "download": "6b7abbc3de90b8be3cb08a2767f20b840efbf7027da4c56259499f6222d52c7c",
+    "master": "cca09ee061f0680765f5d984165a9558c082a15e0e54e42a6964a6ca71ff7edf",
+    "web": "71aad434831b3be66c7e83caa646614e0bbd4193ff8ed853af2495af3cdb87f1"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Panthera pardus [Panthera pardus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/160809135. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Panthera pardus",
+  "sourceId": "160809135",
+  "photoUrl": "https://www.inaturalist.org/photos/160809135",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/160809135/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/160809135/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 41963,
+  "acceptedScientificName": "Panthera pardus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/96765765",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.64857142857143,
+  "photoApiEvidence": {
+    "id": 160809135,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1732,
+      "height": 1154
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/160809135/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/41944/846273/41962/41963",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,41944,846273,41962,41963",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 41963,
+    "threatened": true,
+    "rank_level": 5,
+    "introduced": false,
+    "native": true,
+    "parent_id": 41963,
+    "name": "Panthera pardus pardus",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 319574,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      41944,
+      846273,
+      41962,
+      41963,
+      319574
+    ],
+    "created_at": "2013-05-23T11:16:04+00:00",
+    "default_photo": {
+      "id": 29532833,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) mikeloomis, some rights reserved (CC BY-NC), uploaded by mikeloomis",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29532833/square.jpg",
+      "original_dimensions": {
+        "height": 1367,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "mikeloomis",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29532833/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29532833/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 7629,
+    "photos_locked": false,
+    "universal_search_rank": 7629,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 17352,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/African_leopard",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "African Leopard",
+    "conservation_status": {
+      "id": 140059,
+      "place_id": null,
+      "source_id": null,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "obscured",
+      "iucn": 30
+    }
+  },
+  "rawMetadataPath": "metadata/panthera-pardus/inat-160809135.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/panthera-pardus--inat-160809135.json"
+}

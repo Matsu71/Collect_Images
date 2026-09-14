@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-314800637",
+  "targetId": "org-odobenus-rosmarus",
+  "scientificName": "Odobenus rosmarus",
+  "nameJa": "セイウチ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:04:30+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:04:30+00:00",
+  "files": {
+    "master": "images/odobenus-rosmarus/inat-314800637.jpg",
+    "web": "images/odobenus-rosmarus/inat-314800637.webp",
+    "thumbnail": "images/odobenus-rosmarus/inat-314800637-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1363
+    ],
+    "master": [
+      2048,
+      1363
+    ],
+    "web": [
+      1400,
+      932
+    ]
+  },
+  "bytes": {
+    "master": 510752,
+    "web": 131648,
+    "thumbnail": 11726
+  },
+  "sha256": {
+    "download": "e5956b0ce692b6f44624a53c857a3193798d77479d1bc941cc0986a2ed946a16",
+    "master": "0b826708af8095462cbfa70e66dba09d03ad68c8577aef4b875b55e45e4436aa",
+    "web": "9039f6f8f33c6a28ac626d61b11e0455173522de16b25f230cfc9d8913d1d8c3"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Odobenus rosmarus [Odobenus rosmarus] — Morten Ross / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/314800637. Original attribution: (c) Morten Ross, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Odobenus rosmarus",
+  "sourceId": "314800637",
+  "photoUrl": "https://www.inaturalist.org/photos/314800637",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/314800637/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/314800637/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Morten Ross",
+  "originalAttribution": "(c) Morten Ross, some rights reserved (CC BY)",
+  "taxonId": 41766,
+  "acceptedScientificName": "Odobenus rosmarus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/180695142",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.947142857142858,
+  "photoApiEvidence": {
+    "id": 314800637,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/314800637/square.jpg",
+    "attribution": "(c) Morten Ross, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/372843/41764/41765/41766",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,372843,41764,41765,41766",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 41766,
+    "threatened": true,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 41766,
+    "name": "Odobenus rosmarus rosmarus",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 237465,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      372843,
+      41764,
+      41765,
+      41766,
+      237465
+    ],
+    "created_at": "2013-03-29T01:56:34+00:00",
+    "default_photo": {
+      "id": 1965712,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Sandra Eglīte, some rights reserved (CC BY-NC), uploaded by Sandra Eglīte",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1965712/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Sandra Eglīte",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1965712/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1965712/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 843,
+    "photos_locked": false,
+    "universal_search_rank": 843,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Walrus",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Atlantic Walrus",
+    "conservation_status": {
+      "id": 182141,
+      "place_id": null,
+      "source_id": null,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "nt",
+      "status_name": "near threatened",
+      "geoprivacy": "obscured",
+      "iucn": 20
+    }
+  },
+  "rawMetadataPath": "metadata/odobenus-rosmarus/inat-314800637.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/odobenus-rosmarus--inat-314800637.json"
+}

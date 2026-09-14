@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-9581603",
+  "targetId": "org-ursus-arctos",
+  "scientificName": "Ursus arctos",
+  "nameJa": "ヒグマ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:10:17+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:10:17+00:00",
+  "files": {
+    "master": "images/ursus-arctos/inat-9581603.jpg",
+    "web": "images/ursus-arctos/inat-9581603.webp",
+    "thumbnail": "images/ursus-arctos/inat-9581603-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 839553,
+    "web": 175778,
+    "thumbnail": 24282
+  },
+  "sha256": {
+    "download": "3ad9b6fa562934fcd7f0ea2fe87575674f84f93b995da1d9f8f60d710e764401",
+    "master": "5345016f73182184c4591ea4894e0b831cb7baf2d3f0301ffd57c35ac52df973",
+    "web": "3ce9dd16aa745ab084ea232f20c7e95e2cb2311fb7bf9d2a5a296cb2926c1015"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Ursus arctos [Ursus arctos] — Annika Lindqvist / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/9581603. Original attribution: (c) Annika Lindqvist, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ursus arctos",
+  "sourceId": "9581603",
+  "photoUrl": "https://www.inaturalist.org/photos/9581603",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9581603/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9581603/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Annika Lindqvist",
+  "originalAttribution": "(c) Annika Lindqvist, some rights reserved (CC BY)",
+  "taxonId": 41641,
+  "acceptedScientificName": "Ursus arctos",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/7383584",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.194285714285714,
+  "photoApiEvidence": {
+    "id": 9581603,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9581603/square.jpeg",
+    "attribution": "(c) Annika Lindqvist, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/41636/846255/41637/41641",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,41636,846255,41637,41641",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 41641,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 41641,
+    "name": "Ursus arctos arctos",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 147154,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      41636,
+      846255,
+      41637,
+      41641,
+      147154
+    ],
+    "created_at": "2012-09-05T07:55:57+00:00",
+    "default_photo": {
+      "id": 323674176,
+      "license_code": null,
+      "attribution": "(c) Jonathan Ben Simon, all rights reserved, uploaded by Jonathan Ben Simon",
+      "url": "https://static.inaturalist.org/photos/323674176/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Jonathan Ben Simon",
+      "square_url": "https://static.inaturalist.org/photos/323674176/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/323674176/medium.jpg"
+    },
+    "taxon_changes_count": 3,
+    "taxon_schemes_count": 2,
+    "observations_count": 2762,
+    "photos_locked": false,
+    "universal_search_rank": 2762,
+    "flag_counts": {
+      "resolved": 5,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 36146,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_brown_bear",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Eurasian Brown Bear"
+  },
+  "rawMetadataPath": "metadata/ursus-arctos/inat-9581603.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/ursus-arctos--inat-9581603.json"
+}

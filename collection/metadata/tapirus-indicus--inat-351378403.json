@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-351378403",
+  "targetId": "org-tapirus-indicus",
+  "scientificName": "Tapirus indicus",
+  "nameJa": "マレーバク",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:09:29+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:09:29+00:00",
+  "files": {
+    "master": "images/tapirus-indicus/inat-351378403.jpg",
+    "web": "images/tapirus-indicus/inat-351378403.webp",
+    "thumbnail": "images/tapirus-indicus/inat-351378403-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 968636,
+    "web": 192390,
+    "thumbnail": 24178
+  },
+  "sha256": {
+    "download": "f4969684cc582a01e29f7c3b9c0b16d50868f357f7c6e68eed052ed5a251ab48",
+    "master": "44d3336bbe09e45551462463ffd2f331397bdf3e76e4fb8cb76b0baf1992cd97",
+    "web": "c65232dd92249a2df9b400613349afd626191ad5460b35ed6c75707362eae42d"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Tapirus indicus [Tapirus indicus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/351378403. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Tapirus indicus",
+  "sourceId": "351378403",
+  "photoUrl": "https://www.inaturalist.org/photos/351378403",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/351378403/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/351378403/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 43356,
+  "acceptedScientificName": "Tapirus indicus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/199261568",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.616666666666667,
+  "photoApiEvidence": {
+    "id": 351378403,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351378403/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/43327/43351/43352/1431374",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,43327,43351,43352,1431374,43356",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43356,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1431374,
+    "name": "Tapirus indicus",
+    "rank": "species",
+    "extinct": false,
+    "id": 43356,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      43327,
+      43351,
+      43352,
+      1431374,
+      43356
+    ],
+    "created_at": "2008-03-19T00:53:48+00:00",
+    "default_photo": {
+      "id": 299796044,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Royle Safaris, some rights reserved (CC BY-NC), uploaded by Royle Safaris",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/299796044/square.jpg",
+      "original_dimensions": {
+        "height": 800,
+        "width": 1422
+      },
+      "flags": [],
+      "attribution_name": "Royle Safaris",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/299796044/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/299796044/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 4,
+    "observations_count": 588,
+    "photos_locked": false,
+    "universal_search_rank": 588,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 12043,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Malayan_tapir",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Malayan Tapir",
+    "conservation_status": {
+      "id": 16545,
+      "place_id": null,
+      "source_id": 15286,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "en",
+      "status_name": "endangered",
+      "geoprivacy": "obscured",
+      "iucn": 40
+    }
+  },
+  "rawMetadataPath": "metadata/tapirus-indicus/inat-351378403.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "動物園主要補完",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/tapirus-indicus--inat-351378403.json"
+}

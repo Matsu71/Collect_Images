@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-98056702",
+  "targetId": "org-helianthus-annuus",
+  "scientificName": "Helianthus annuus",
+  "nameJa": "ヒマワリ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:00:54+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:00:54+00:00",
+  "files": {
+    "master": "images/helianthus-annuus/inat-98056702.jpg",
+    "web": "images/helianthus-annuus/inat-98056702.webp",
+    "thumbnail": "images/helianthus-annuus/inat-98056702-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1638
+    ],
+    "master": [
+      2048,
+      1638
+    ],
+    "web": [
+      1400,
+      1120
+    ]
+  },
+  "bytes": {
+    "master": 674877,
+    "web": 175110,
+    "thumbnail": 11818
+  },
+  "sha256": {
+    "download": "9e2cabf3564ba50b5b42729ae91c32a81a0457f0ecd5abd8d038c0a6bb2f7a21",
+    "master": "93c957407fcde7bea4468170e89e76676e6537bd2922c951c74c339f12875a52",
+    "web": "d6759ca3ff97034a04fcf1653c626d96dfa15bacd3013ede31984997c48b2106"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Helianthus annuus [Helianthus annuus] — Michelle W. （鍾偉瑋） / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/98056702. Original attribution: (c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Helianthus annuus",
+  "sourceId": "98056702",
+  "photoUrl": "https://www.inaturalist.org/photos/98056702",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Michelle W. （鍾偉瑋）",
+  "originalAttribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY)",
+  "taxonId": 57983,
+  "acceptedScientificName": "Helianthus annuus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/61287321",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.34,
+  "photoApiEvidence": {
+    "id": 98056702,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1638
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47605/47604/632790/605446/901801/56955",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47605,47604,632790,605446,901801,56955,57983",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 57983,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 56955,
+    "name": "Helianthus annuus",
+    "rank": "species",
+    "extinct": false,
+    "id": 57983,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47605,
+      47604,
+      632790,
+      605446,
+      901801,
+      56955,
+      57983
+    ],
+    "created_at": "2010-03-28T05:52:29+00:00",
+    "default_photo": {
+      "id": 323768723,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Emily Scherer, some rights reserved (CC BY-NC), uploaded by Emily Scherer",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/323768723/square.jpg",
+      "original_dimensions": {
+        "height": 1303,
+        "width": 977
+      },
+      "flags": [],
+      "attribution_name": "Emily Scherer",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/323768723/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/323768723/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 6,
+    "observations_count": 85854,
+    "photos_locked": false,
+    "universal_search_rank": 85854,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Helianthus_annuus",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Common Sunflower"
+  },
+  "rawMetadataPath": "metadata/helianthus-annuus/inat-98056702.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生植物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/helianthus-annuus--inat-98056702.json"
+}

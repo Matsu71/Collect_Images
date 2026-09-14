@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-310118233",
+  "targetId": "org-melopsittacus-undulatus",
+  "scientificName": "Melopsittacus undulatus",
+  "nameJa": "セキセイインコ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:03:19+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:03:19+00:00",
+  "files": {
+    "master": "images/melopsittacus-undulatus/inat-310118233.jpg",
+    "web": "images/melopsittacus-undulatus/inat-310118233.webp",
+    "thumbnail": "images/melopsittacus-undulatus/inat-310118233-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 876909,
+    "web": 202426,
+    "thumbnail": 23000
+  },
+  "sha256": {
+    "download": "79c2417ba90e6d42675c8c8ce2d8f0223f80bd4b81b17468242c151046f531c0",
+    "master": "86f2b1ad7763ce9d30c00adf370de31a67f15530a6f4761cf87a96231a444e37",
+    "web": "4040f2cdc218533d470b36095aaf9045c7f9d15c0112d52674e406fe790a81c0"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Melopsittacus undulatus [Melopsittacus undulatus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/310118233. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Melopsittacus undulatus",
+  "sourceId": "310118233",
+  "photoUrl": "https://www.inaturalist.org/photos/310118233",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/310118233/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/310118233/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 19339,
+  "acceptedScientificName": "Melopsittacus undulatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/178240746",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 310118233,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/310118233/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/18874/367704/1539295/19338/19339",
+    "min_species_ancestry": "48460,1,2,355675,3,18874,367704,1539295,19338,19339",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 19339,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": true,
+    "native": false,
+    "parent_id": 19339,
+    "name": "Melopsittacus undulatus domesticus",
+    "rank": "form",
+    "extinct": false,
+    "id": 507971,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      18874,
+      367704,
+      1539295,
+      19338,
+      19339,
+      507971
+    ],
+    "created_at": "2016-09-18T18:02:09+00:00",
+    "default_photo": {
+      "id": 91052620,
+      "license_code": null,
+      "attribution": "(c) David de Boisvilliers, all rights reserved, uploaded by David de Boisvilliers",
+      "url": "https://static.inaturalist.org/photos/91052620/square.jpeg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "David de Boisvilliers",
+      "square_url": "https://static.inaturalist.org/photos/91052620/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/91052620/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 6657,
+    "photos_locked": false,
+    "universal_search_rank": 6657,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Domestic Budgerigar"
+  },
+  "rawMetadataPath": "metadata/melopsittacus-undulatus/inat-310118233.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/melopsittacus-undulatus--inat-310118233.json"
+}

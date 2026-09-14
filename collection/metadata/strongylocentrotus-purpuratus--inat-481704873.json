@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-481704873",
+  "targetId": "org-strongylocentrotus-purpuratus",
+  "scientificName": "Strongylocentrotus purpuratus",
+  "nameJa": "カリフォルニアムラサキウニ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:09:04+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:09:04+00:00",
+  "files": {
+    "master": "images/strongylocentrotus-purpuratus/inat-481704873.jpg",
+    "web": "images/strongylocentrotus-purpuratus/inat-481704873.webp",
+    "thumbnail": "images/strongylocentrotus-purpuratus/inat-481704873-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 782309,
+    "web": 188404,
+    "thumbnail": 31460
+  },
+  "sha256": {
+    "download": "51d38485a8539b23b2309d412e610067722851f836643a6819283124ba41d1e0",
+    "master": "8010ee1e19d1bdee723402ec00465020b616a689e9003f0a2b247beb9adc4349",
+    "web": "e9b151fbc0f9849bde07e349d7b8e85619c4e00b20229371b91a25c2705c25e4"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Strongylocentrotus purpuratus [Strongylocentrotus purpuratus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/481704873. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Strongylocentrotus purpuratus",
+  "sourceId": "481704873",
+  "photoUrl": "https://www.inaturalist.org/photos/481704873",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/481704873/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/481704873/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 48035,
+  "acceptedScientificName": "Strongylocentrotus purpuratus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": "https://www.inaturalist.org/observations/268012592",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.283333333333333,
+  "photoApiEvidence": {
+    "id": 481704873,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481704873/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47549/774753/47548/475988/552153/774993/85508/814155/814173/48037/48036",
+    "min_species_ancestry": "48460,1,47549,774753,47548,475988,552153,774993,85508,814155,814173,48037,48036,48035",
+    "endemic": false,
+    "iconic_taxon_id": 1,
+    "min_species_taxon_id": 48035,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 48036,
+    "name": "Strongylocentrotus purpuratus",
+    "rank": "species",
+    "extinct": false,
+    "id": 48035,
+    "ancestor_ids": [
+      48460,
+      1,
+      47549,
+      774753,
+      47548,
+      475988,
+      552153,
+      774993,
+      85508,
+      814155,
+      814173,
+      48037,
+      48036,
+      48035
+    ],
+    "created_at": "2008-08-01T19:35:24+00:00",
+    "default_photo": {
+      "id": 338665145,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Dave, some rights reserved (CC BY-NC), uploaded by Dave",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338665145/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Dave",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338665145/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338665145/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 20229,
+    "photos_locked": false,
+    "universal_search_rank": 20229,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 3957,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Strongylocentrotus_purpuratus",
+    "iconic_taxon_name": "Animalia",
+    "preferred_common_name": "Pacific Purple Sea Urchin"
+  },
+  "rawMetadataPath": "metadata/strongylocentrotus-purpuratus/inat-481704873.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/strongylocentrotus-purpuratus--inat-481704873.json"
+}

@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-30475942",
+  "targetId": "org-erithacus-rubecula",
+  "scientificName": "Erithacus rubecula",
+  "nameJa": "ヨーロッパコマドリ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 180,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "部分・生態・環境等の補足用。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:59:23+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:59:23+00:00",
+  "files": {
+    "master": "images/erithacus-rubecula/inat-30475942.jpg",
+    "web": "images/erithacus-rubecula/inat-30475942.webp",
+    "thumbnail": "images/erithacus-rubecula/inat-30475942-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1538
+    ],
+    "master": [
+      2048,
+      1538
+    ],
+    "web": [
+      1400,
+      1051
+    ]
+  },
+  "bytes": {
+    "master": 417677,
+    "web": 66524,
+    "thumbnail": 4530
+  },
+  "sha256": {
+    "download": "18f074eb89de2cd14938496c79c515c7d5945ef826d395543cc7c5ecea0fb887",
+    "master": "d7db031f064aba664a9ebdf3e0de258fc26a62ce9a5815f67aedede4c5495ec7",
+    "web": "d65ca28b5f7ed593433c0ade8821a38cac475439c2e550e470f027ede6593b41"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Erithacus rubecula [Erithacus rubecula] — Alexis Tinker-Tsavalas / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/30475942. Original attribution: (c) Alexis Tinker-Tsavalas, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Erithacus rubecula",
+  "sourceId": "30475942",
+  "photoUrl": "https://www.inaturalist.org/photos/30475942",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30475942/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30475942/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Alexis Tinker-Tsavalas",
+  "originalAttribution": "(c) Alexis Tinker-Tsavalas, some rights reserved (CC BY)",
+  "taxonId": 13094,
+  "acceptedScientificName": "Erithacus rubecula",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/19776411",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.197142857142858,
+  "photoApiEvidence": {
+    "id": 30475942,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1538
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30475942/square.jpeg",
+    "attribution": "(c) Alexis Tinker-Tsavalas, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/12704/13093",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,12704,13093,13094",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 13094,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 13093,
+    "name": "Erithacus rubecula",
+    "rank": "species",
+    "extinct": false,
+    "id": 13094,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      12704,
+      13093,
+      13094
+    ],
+    "created_at": "2008-03-13T03:15:29+00:00",
+    "default_photo": {
+      "id": 331946615,
+      "license_code": null,
+      "attribution": "(c) Jakob W., all rights reserved, uploaded by Jakob W.",
+      "url": "https://static.inaturalist.org/photos/331946615/square.jpeg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Jakob W.",
+      "square_url": "https://static.inaturalist.org/photos/331946615/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/331946615/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 7,
+    "observations_count": 191335,
+    "photos_locked": false,
+    "universal_search_rank": 191335,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_robin",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "European Robin"
+  },
+  "rawMetadataPath": "metadata/erithacus-rubecula/inat-30475942.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/erithacus-rubecula--inat-30475942.json"
+}

@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-27928",
+  "targetId": "inat-taxon-9176",
+  "scientificName": "Zonotrichia leucophrys",
+  "nameJa": "ミヤマシトド",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:14:26+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:14:26+00:00",
+  "files": {
+    "master": "images/zonotrichia-leucophrys/inat-27928.jpg",
+    "web": "images/zonotrichia-leucophrys/inat-27928.webp",
+    "thumbnail": "images/zonotrichia-leucophrys/inat-27928-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 594902,
+    "web": 158624,
+    "thumbnail": 10604
+  },
+  "sha256": {
+    "download": "7ac0d49e2f3a7a51f5ddaa210c69f336744d119ceb5d622f320c0091d1c5805b",
+    "master": "6a3bce3cb2247a213174ab18fb2d79b76782390f5b1056d41d1a248377e38687",
+    "web": "17a04115f4262046989586493d43834e89e5ff3d8034d3df08c87035ed31afc0"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Zonotrichia leucophrys [Zonotrichia leucophrys] — Mike Baird / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/27928. Original attribution: (c) Mike Baird, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Zonotrichia leucophrys",
+  "sourceId": "27928",
+  "photoUrl": "https://www.inaturalist.org/photos/27928",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/27928/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/27928/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Mike Baird",
+  "originalAttribution": "(c) Mike Baird, some rights reserved (CC BY)",
+  "taxonId": 9176,
+  "acceptedScientificName": "Zonotrichia leucophrys",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.194285714285714,
+  "photoApiEvidence": {
+    "id": 27928,
+    "license_code": "cc-by",
+    "attribution": "(c) Mike Baird, some rights reserved (CC BY)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27928/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Mike Baird",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27928/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27928/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/zonotrichia-leucophrys/inat-27928.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/zonotrichia-leucophrys--inat-27928.json"
+}

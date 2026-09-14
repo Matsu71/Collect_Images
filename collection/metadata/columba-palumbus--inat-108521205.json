@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-108521205",
+  "targetId": "inat-taxon-3048",
+  "scientificName": "Columba palumbus",
+  "nameJa": "モリバト",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:13:53+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:13:53+00:00",
+  "files": {
+    "master": "images/columba-palumbus/inat-108521205.jpg",
+    "web": "images/columba-palumbus/inat-108521205.webp",
+    "thumbnail": "images/columba-palumbus/inat-108521205-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1429
+    ],
+    "master": [
+      2048,
+      1429
+    ],
+    "web": [
+      1400,
+      977
+    ]
+  },
+  "bytes": {
+    "master": 1199205,
+    "web": 170114,
+    "thumbnail": 11910
+  },
+  "sha256": {
+    "download": "ecab5a3d0852431d594a9bcf9bd1e1985008a7da4aa69e4d3f738fc114a67dcb",
+    "master": "898293d238eacb947ef82bdad35faec65f0f4135fc21e49e0d1736ff1be04bb8",
+    "web": "dafe39f681da998c5912e2e9a5c85341ae1f169ee1529f4af9b3080d7ef2bb67"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Columba palumbus [Columba palumbus] — hedera.baltica / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/108521205. Original attribution: (c) hedera.baltica, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Columba palumbus",
+  "sourceId": "108521205",
+  "photoUrl": "https://www.inaturalist.org/photos/108521205",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/108521205/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/108521205/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "hedera.baltica",
+  "originalAttribution": "(c) hedera.baltica, some rights reserved (CC BY-SA)",
+  "taxonId": 3048,
+  "acceptedScientificName": "Columba palumbus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.041428571428572,
+  "photoApiEvidence": {
+    "id": 108521205,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) hedera.baltica, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108521205/square.jpg",
+    "original_dimensions": {
+      "height": 1429,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "hedera.baltica",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108521205/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108521205/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/columba-palumbus/inat-108521205.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY-SA 4.0",
+  "metadataPath": "collection/metadata/columba-palumbus--inat-108521205.json"
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-127558332",
+  "targetId": "inat-taxon-17008",
+  "scientificName": "Sayornis phoebe",
+  "nameJa": "ツキヒメハエトリ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:19:33+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:19:33+00:00",
+  "files": {
+    "master": "images/sayornis-phoebe/inat-127558332.jpg",
+    "web": "images/sayornis-phoebe/inat-127558332.webp",
+    "thumbnail": "images/sayornis-phoebe/inat-127558332-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1682,
+      1732
+    ],
+    "master": [
+      1682,
+      1732
+    ],
+    "web": [
+      1360,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 553232,
+    "web": 137248,
+    "thumbnail": 5156
+  },
+  "sha256": {
+    "download": "4152aebed39061047eef60ab290114325c17e4b5b1a7ca0948268052ac05ab41",
+    "master": "fc2a081caddd39bcb13591e186ad5f78d3343c8e18eb6b9a9008b6ec0c4f99a3",
+    "web": "5c07461a8211b700bf6648b0e7b0859e6f5eb08a8adeabfa9d39c7c6a3cb7c7b"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Sayornis phoebe [Sayornis phoebe] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/127558332. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Sayornis phoebe",
+  "sourceId": "127558332",
+  "photoUrl": "https://www.inaturalist.org/photos/127558332",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/127558332/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/127558332/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 17008,
+  "acceptedScientificName": "Sayornis phoebe",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/77975969",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.06952380952381,
+  "photoApiEvidence": {
+    "id": 127558332,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1682,
+      "height": 1732
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127558332/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/980017/17007",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,980017,17007,17008",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 17008,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 17007,
+    "name": "Sayornis phoebe",
+    "rank": "species",
+    "extinct": false,
+    "id": 17008,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      980017,
+      17007,
+      17008
+    ],
+    "provisional": false,
+    "created_at": "2008-03-13T03:33:20+00:00",
+    "default_photo": {
+      "id": 171693341,
+      "license_code": null,
+      "attribution": "(c) j_albright, all rights reserved",
+      "url": "https://static.inaturalist.org/photos/171693341/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "j_albright",
+      "square_url": "https://static.inaturalist.org/photos/171693341/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/171693341/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 122609,
+    "photos_locked": false,
+    "universal_search_rank": 122609,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eastern_phoebe",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Eastern Phoebe"
+  },
+  "rawMetadataPath": "metadata/sayornis-phoebe/inat-127558332.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/sayornis-phoebe--inat-127558332.json"
+}

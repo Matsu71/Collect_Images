@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-60648454",
+  "targetId": "org-bombus-terrestris",
+  "scientificName": "Bombus terrestris",
+  "nameJa": "セイヨウオオマルハナバチ",
+  "collectionTier": "chronoearth",
+  "origin": "rejected_asset",
+  "status": "excluded",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "exclude",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 67,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "被写体が小さく不明瞭。死体の可能性もあり主画像として除外。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:55:18+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:55:18+00:00",
+  "files": {
+    "master": "images/bombus-terrestris/inat-60648454.jpg",
+    "web": "images/bombus-terrestris/inat-60648454.webp",
+    "thumbnail": "images/bombus-terrestris/inat-60648454-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 691033,
+    "web": 183920,
+    "thumbnail": 26130
+  },
+  "sha256": {
+    "download": "e95ff7888fbed1309e50616ec64667dafd8e7dd374208e4a878975f9c2a6dcc5",
+    "master": "ef67d624933c416599804c4c81c04c6fb47e3db5c868d8d289c0714e635f4c59",
+    "web": "6af9c8a5e53cac7d10a9966fea772f2ac54392fe06408336ee1ab994c646f892"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 71,
+  "credit": "Bombus terrestris [Bombus terrestris] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/60648454. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Bombus terrestris",
+  "sourceId": "60648454",
+  "photoUrl": "https://www.inaturalist.org/photos/60648454",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60648454/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60648454/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 57516,
+  "acceptedScientificName": "Bombus terrestris",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/38184500",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 60648454,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60648454/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47201/124417/326777/47222/630955/47221/199939/538883/52775/538903/57516",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47201,124417,326777,47222,630955,47221,199939,538883,52775,538903,57516",
+    "endemic": true,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 57516,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": true,
+    "parent_id": 57516,
+    "name": "Bombus terrestris canariensis",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 424455,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47201,
+      124417,
+      326777,
+      47222,
+      630955,
+      47221,
+      199939,
+      538883,
+      52775,
+      538903,
+      57516,
+      424455
+    ],
+    "created_at": "2014-12-07T16:39:06+00:00",
+    "default_photo": {
+      "id": 351400716,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Xabier, some rights reserved (CC BY-NC), uploaded by Xabier",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351400716/square.jpeg",
+      "original_dimensions": {
+        "height": 1617,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Xabier",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351400716/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351400716/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 833,
+    "photos_locked": false,
+    "universal_search_rank": 833,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Canary Islands Bumble Bee"
+  },
+  "rawMetadataPath": "metadata/bombus-terrestris/inat-60648454.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/bombus-terrestris--inat-60648454.json"
+}

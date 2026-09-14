@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-84579952",
+  "targetId": "inat-taxon-145310",
+  "scientificName": "Spinus tristis",
+  "nameJa": "オウゴンヒワ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:14:39+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:14:39+00:00",
+  "files": {
+    "master": "images/spinus-tristis/inat-84579952.jpg",
+    "web": "images/spinus-tristis/inat-84579952.webp",
+    "thumbnail": "images/spinus-tristis/inat-84579952-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1119,
+      956
+    ],
+    "master": [
+      1119,
+      956
+    ],
+    "web": [
+      1119,
+      956
+    ]
+  },
+  "bytes": {
+    "master": 216710,
+    "web": 95348,
+    "thumbnail": 11560
+  },
+  "sha256": {
+    "download": "9bfa1e47dc93a5f7a25ac9966ab2ed57da28a2d39afe17381201670a1b4009c8",
+    "master": "ed38e62ac79184aa0d874d172c4737bebbffa19ee58dcf6bbfa559e5b9f17885",
+    "web": "5122ca6b2f23e4f2d231434a41f8aacef558b53c3814a4a97657438e04791ecb"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Spinus tristis [Spinus tristis] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/84579952. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Spinus tristis",
+  "sourceId": "84579952",
+  "photoUrl": "https://www.inaturalist.org/photos/84579952",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/84579952/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/84579952/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 145310,
+  "acceptedScientificName": "Spinus tristis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/53187208",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.699047619047619,
+  "photoApiEvidence": {
+    "id": 84579952,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1119,
+      "height": 956
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/84579952/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/9079/144410",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,9079,144410,145310",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 145310,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 144410,
+    "name": "Spinus tristis",
+    "rank": "species",
+    "extinct": false,
+    "id": 145310,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      9079,
+      144410,
+      145310
+    ],
+    "created_at": "2012-08-21T04:19:14+00:00",
+    "default_photo": {
+      "id": 384965723,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Chris Fisher, some rights reserved (CC BY-NC), uploaded by Chris Fisher",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/384965723/square.jpg",
+      "original_dimensions": {
+        "height": 1366,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Chris Fisher",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/384965723/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/384965723/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 7,
+    "observations_count": 198310,
+    "photos_locked": false,
+    "universal_search_rank": 198310,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/American_goldfinch",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "American Goldfinch"
+  },
+  "rawMetadataPath": "metadata/spinus-tristis/inat-84579952.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/spinus-tristis--inat-84579952.json"
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-28649362",
+  "targetId": "inat-taxon-13851",
+  "scientificName": "Passer montanus",
+  "nameJa": "スズメ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:16:44+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:16:44+00:00",
+  "files": {
+    "master": "images/passer-montanus/inat-28649362.jpg",
+    "web": "images/passer-montanus/inat-28649362.webp",
+    "thumbnail": "images/passer-montanus/inat-28649362-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2002
+    ],
+    "master": [
+      2048,
+      2002
+    ],
+    "web": [
+      1400,
+      1369
+    ]
+  },
+  "bytes": {
+    "master": 1083000,
+    "web": 173030,
+    "thumbnail": 12410
+  },
+  "sha256": {
+    "download": "dc67b0a7aa367d484cb0cbcdd6515a58030da30cc769e0e07a5741c95af1ba32",
+    "master": "4783b7273a3cc5c1dd3de7759543ef8e2d2f696e4c81ddcb142b12346fd16067",
+    "web": "178ea91c3781fbcc6a3377470e4d4baa3b9b96670cb82cd61236c1973c6b9d06"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Passer montanus [Passer montanus] — carnifex / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/28649362. Original attribution: (c) carnifex, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Passer montanus",
+  "sourceId": "28649362",
+  "photoUrl": "https://www.inaturalist.org/photos/28649362",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28649362/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28649362/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "carnifex",
+  "originalAttribution": "(c) carnifex, some rights reserved (CC BY)",
+  "taxonId": 13851,
+  "acceptedScientificName": "Passer montanus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/18710580",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.859999999999999,
+  "photoApiEvidence": {
+    "id": 28649362,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2002
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28649362/square.jpg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/13685/13847",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,13685,13847,13851",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 13851,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 13847,
+    "name": "Passer montanus",
+    "rank": "species",
+    "extinct": false,
+    "id": 13851,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      13685,
+      13847,
+      13851
+    ],
+    "created_at": "2008-03-13T03:18:46+00:00",
+    "default_photo": {
+      "id": 165351252,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Дмитрий Осипов, some rights reserved (CC BY-NC), uploaded by Дмитрий Осипов",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165351252/square.jpg",
+      "original_dimensions": {
+        "height": 1366,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Дмитрий Осипов",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165351252/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165351252/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 8,
+    "observations_count": 157676,
+    "photos_locked": false,
+    "universal_search_rank": 157676,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_tree_sparrow",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Eurasian Tree Sparrow"
+  },
+  "rawMetadataPath": "metadata/passer-montanus/inat-28649362.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/passer-montanus--inat-28649362.json"
+}

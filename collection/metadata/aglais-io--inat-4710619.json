@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-4710619",
+  "targetId": "inat-taxon-207977",
+  "scientificName": "Aglais io",
+  "nameJa": "クジャクチョウ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:15:36+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:15:36+00:00",
+  "files": {
+    "master": "images/aglais-io/inat-4710619.jpg",
+    "web": "images/aglais-io/inat-4710619.webp",
+    "thumbnail": "images/aglais-io/inat-4710619-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2029,
+      1757
+    ],
+    "master": [
+      2029,
+      1757
+    ],
+    "web": [
+      1400,
+      1212
+    ]
+  },
+  "bytes": {
+    "master": 537724,
+    "web": 120520,
+    "thumbnail": 11338
+  },
+  "sha256": {
+    "download": "33ccdee58dfc9f682527f5d2313c029550dd9e2404ee49909f5f1eec33cfa805",
+    "master": "5849dcf1f820d8aab663898d8ebe692d4efdfece5f70087ec7a0e242d8cf7706",
+    "web": "df344741cb67a37469acde76a8eaee459e7e77e5e794d4b7d15fd4216cd7abf6"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Aglais io [Aglais io] — S. Rae / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/4710619. Original attribution: (c) S. Rae, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Aglais io",
+  "sourceId": "4710619",
+  "photoUrl": "https://www.inaturalist.org/photos/4710619",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4710619/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4710619/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "S. Rae",
+  "originalAttribution": "(c) S. Rae, some rights reserved (CC BY)",
+  "taxonId": 207977,
+  "acceptedScientificName": "Aglais io",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.51,
+  "photoApiEvidence": {
+    "id": 4710619,
+    "license_code": "cc-by",
+    "attribution": "(c) S. Rae, some rights reserved (CC BY)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4710619/square.jpg",
+    "original_dimensions": {
+      "height": 1757,
+      "width": 2029
+    },
+    "flags": [],
+    "attribution_name": "S. Rae",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4710619/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4710619/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/aglais-io/inat-4710619.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/aglais-io--inat-4710619.json"
+}

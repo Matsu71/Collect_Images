@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-80550183",
+  "targetId": "org-homo-sapiens",
+  "scientificName": "Homo sapiens",
+  "nameJa": "ホモ・サピエンス",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:01:21+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:01:21+00:00",
+  "files": {
+    "master": "images/homo-sapiens/inat-80550183.jpg",
+    "web": "images/homo-sapiens/inat-80550183.webp",
+    "thumbnail": "images/homo-sapiens/inat-80550183-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2000,
+      2000
+    ],
+    "master": [
+      2000,
+      2000
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 942850,
+    "web": 179684,
+    "thumbnail": 15926
+  },
+  "sha256": {
+    "download": "14717fb18fb490dbe30cb7d0332559cf19fd6593beb7c561dc697d4d1d6f7d18",
+    "master": "aa7bc67642a06887037e16e33c088b959addb8de39c5983d98aca82f9783c3ce",
+    "web": "d6e56fd04926d58bd7da4f384aace2cba89f03af9ae1682e494936e670689393"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Homo sapiens [Homo sapiens] — Abhas Misraraj / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/80550183. Original attribution: no rights reserved, uploaded by Abhas Misraraj. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Homo sapiens",
+  "sourceId": "80550183",
+  "photoUrl": "https://www.inaturalist.org/photos/80550183",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/80550183/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/80550183/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "Abhas Misraraj",
+  "originalAttribution": "no rights reserved, uploaded by Abhas Misraraj",
+  "taxonId": 43584,
+  "acceptedScientificName": "Homo sapiens",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 13.857142857142858,
+  "photoApiEvidence": {
+    "id": 80550183,
+    "license_code": "cc0",
+    "attribution": "no rights reserved, uploaded by Abhas Misraraj",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80550183/square.jpg",
+    "original_dimensions": {
+      "height": 2000,
+      "width": 2000
+    },
+    "flags": [],
+    "attribution_name": "Abhas Misraraj",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80550183/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80550183/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/homo-sapiens/inat-80550183.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/homo-sapiens--inat-80550183.json"
+}

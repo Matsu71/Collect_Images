@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-188314555",
+  "targetId": "org-eretmochelys-imbricata",
+  "scientificName": "Eretmochelys imbricata",
+  "nameJa": "タイマイ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 179,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "手に保持された幼体。成体の標準写真とは区別。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:59:19+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:59:19+00:00",
+  "files": {
+    "master": "images/eretmochelys-imbricata/inat-188314555.jpg",
+    "web": "images/eretmochelys-imbricata/inat-188314555.webp",
+    "thumbnail": "images/eretmochelys-imbricata/inat-188314555-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 490009,
+    "web": 92112,
+    "thumbnail": 8036
+  },
+  "sha256": {
+    "download": "0b2ed0f6e6cd6897a6e5bc927b95d0b5bb63f903411f302ccdde607f377c3c21",
+    "master": "87c210002e950e3f5ebb821c8e7e4807cf1f6860a955cc5b6fef93254f7732a8",
+    "web": "98a9ca155d03ee7e54146c016091efa4e9ef521477e5d514a8fd1a8750aec966"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Eretmochelys imbricata [Eretmochelys imbricata] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/188314555. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Eretmochelys imbricata",
+  "sourceId": "188314555",
+  "photoUrl": "https://www.inaturalist.org/photos/188314555",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/188314555/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/188314555/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 39672,
+  "acceptedScientificName": "Eretmochelys imbricata",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": "https://www.inaturalist.org/observations/111547045",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 188314555,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188314555/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/39532/372234/39657/797541/39671",
+    "min_species_ancestry": "48460,1,2,355675,26036,39532,372234,39657,797541,39671,39672",
+    "endemic": false,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 39672,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 39671,
+    "name": "Eretmochelys imbricata",
+    "rank": "species",
+    "extinct": false,
+    "id": 39672,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      39532,
+      372234,
+      39657,
+      797541,
+      39671,
+      39672
+    ],
+    "created_at": "2008-03-18T03:28:02+00:00",
+    "default_photo": {
+      "id": 308087101,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) malu_md, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308087101/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1792
+      },
+      "flags": [],
+      "attribution_name": "malu_md",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308087101/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308087101/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 8,
+    "observations_count": 10058,
+    "photos_locked": false,
+    "universal_search_rank": 10058,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Hawksbill_sea_turtle",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "Hawksbill Sea Turtle",
+    "conservation_status": {
+      "id": 14643,
+      "place_id": null,
+      "source_id": 26,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "cr",
+      "status_name": "critically endangered",
+      "geoprivacy": "obscured",
+      "iucn": 50
+    }
+  },
+  "rawMetadataPath": "metadata/eretmochelys-imbricata/inat-188314555.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/eretmochelys-imbricata--inat-188314555.json"
+}

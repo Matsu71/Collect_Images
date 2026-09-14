@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-152732558",
+  "targetId": "inat-taxon-17871",
+  "scientificName": "Dendrocopos major",
+  "nameJa": "アカゲラ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:17:01+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:17:01+00:00",
+  "files": {
+    "master": "images/dendrocopos-major/inat-152732558.jpg",
+    "web": "images/dendrocopos-major/inat-152732558.webp",
+    "thumbnail": "images/dendrocopos-major/inat-152732558-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 667097,
+    "web": 143484,
+    "thumbnail": 7084
+  },
+  "sha256": {
+    "download": "8271896508ddb88e4b8f4663d3da98769e4b7118d5edb71eaf0f949fb3e99796",
+    "master": "307beca0f9fcea36a78b38bbc36513814d1ae2f66afe3f4ad6d829d23e1fff09",
+    "web": "a4f4f3c2dee25841182eefd2bea199c140eed3c41df284648e6bddb13c945ec7"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Dendrocopos major [Dendrocopos major] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/152732558. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Dendrocopos major",
+  "sourceId": "152732558",
+  "photoUrl": "https://www.inaturalist.org/photos/152732558",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/152732558/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/152732558/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 17871,
+  "acceptedScientificName": "Dendrocopos major",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/92259656",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 152732558,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/152732558/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/17550/17599/1653299/1653311/17866",
+    "min_species_ancestry": "48460,1,2,355675,3,17550,17599,1653299,1653311,17866,17871",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 17871,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 17866,
+    "name": "Dendrocopos major",
+    "rank": "species",
+    "extinct": false,
+    "id": 17871,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      17550,
+      17599,
+      1653299,
+      1653311,
+      17866,
+      17871
+    ],
+    "created_at": "2008-03-13T03:37:38+00:00",
+    "default_photo": {
+      "id": 259132621,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Elio Giacone, some rights reserved (CC BY-NC), uploaded by Elio Giacone",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/259132621/square.jpeg",
+      "original_dimensions": {
+        "height": 1257,
+        "width": 1088
+      },
+      "flags": [],
+      "attribution_name": "Elio Giacone",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/259132621/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/259132621/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 7,
+    "observations_count": 153080,
+    "photos_locked": false,
+    "universal_search_rank": 153080,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 129114,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_spotted_woodpecker",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Great Spotted Woodpecker"
+  },
+  "rawMetadataPath": "metadata/dendrocopos-major/inat-152732558.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/dendrocopos-major--inat-152732558.json"
+}

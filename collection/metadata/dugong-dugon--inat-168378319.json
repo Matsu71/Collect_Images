@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-168378319",
+  "targetId": "org-dugong-dugon",
+  "scientificName": "Dugong dugon",
+  "nameJa": "ジュゴン",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 167,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "部分・生態・環境等の補足用。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:58:51+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:58:51+00:00",
+  "files": {
+    "master": "images/dugong-dugon/inat-168378319.jpg",
+    "web": "images/dugong-dugon/inat-168378319.webp",
+    "thumbnail": "images/dugong-dugon/inat-168378319-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1417
+    ],
+    "master": [
+      2048,
+      1417
+    ],
+    "web": [
+      1400,
+      969
+    ]
+  },
+  "bytes": {
+    "master": 630889,
+    "web": 71472,
+    "thumbnail": 6690
+  },
+  "sha256": {
+    "download": "14fd19204c618efc9a563cf6b39d03d962d8f6605a78ccc145b16cafca151430",
+    "master": "795856d781f656b177f9f9eb4adce68e7261dd7c8764ccfc9621d2e6a0a5e05b",
+    "web": "feae1307d2654fe0e52476247c55515edb96857829ffe99bd9a8470d642be471"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Dugong dugon [Dugong dugon] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/168378319. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Dugong dugon",
+  "sourceId": "168378319",
+  "photoUrl": "https://www.inaturalist.org/photos/168378319",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/168378319/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/168378319/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 46311,
+  "acceptedScientificName": "Dugong dugon",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/100858668",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.024285714285714,
+  "photoApiEvidence": {
+    "id": 168378319,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1417
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168378319/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848321/46306/46307/846236/46310",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848321,46306,46307,846236,46310,46311",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 46311,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 46310,
+    "name": "Dugong dugon",
+    "rank": "species",
+    "extinct": false,
+    "id": 46311,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848321,
+      46306,
+      46307,
+      846236,
+      46310,
+      46311
+    ],
+    "created_at": "2008-03-19T01:29:58+00:00",
+    "default_photo": {
+      "id": 415728148,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Luis P. B., some rights reserved (CC BY-NC), uploaded by Luis P. B.",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415728148/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Luis P. B.",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415728148/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415728148/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 1058,
+    "photos_locked": false,
+    "universal_search_rank": 1058,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 12004,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dugong",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Dugong",
+    "conservation_status": {
+      "id": 18526,
+      "place_id": null,
+      "source_id": 15286,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "obscured",
+      "iucn": 30
+    }
+  },
+  "rawMetadataPath": "metadata/dugong-dugon/inat-168378319.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/dugong-dugon--inat-168378319.json"
+}

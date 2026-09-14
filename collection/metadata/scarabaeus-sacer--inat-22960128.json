@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-22960128",
+  "targetId": "org-scarabaeus-sacer",
+  "scientificName": "Scarabaeus sacer",
+  "nameJa": "スカラベ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:08:22+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:08:22+00:00",
+  "files": {
+    "master": "images/scarabaeus-sacer/inat-22960128.jpg",
+    "web": "images/scarabaeus-sacer/inat-22960128.webp",
+    "thumbnail": "images/scarabaeus-sacer/inat-22960128-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 876848,
+    "web": 184684,
+    "thumbnail": 15840
+  },
+  "sha256": {
+    "download": "0b48c85245cbec02b03dd8bcd1747fa37922800fb2de8e17a4a15975c3721475",
+    "master": "9a9d0e80aa15d84e063cfffee728ac10b539d3e7ae38471de438f836cde97f89",
+    "web": "4c152e76239b5814bc2bcd901354bf23fb8bd0da22c1989867a77ea1d7cff95c"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Scarabaeus sacer [Scarabaeus sacer] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/22960128. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Scarabaeus sacer",
+  "sourceId": "22960128",
+  "photoUrl": "https://www.inaturalist.org/photos/22960128",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/22960128/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/22960128/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 538528,
+  "acceptedScientificName": "Scarabaeus sacer",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/15330323",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.194285714285714,
+  "photoApiEvidence": {
+    "id": 22960128,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22960128/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47208/71130/702480/48202/48201/125819/489949/199919/773701",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47208,71130,702480,48202,48201,125819,489949,199919,773701,538528",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 538528,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 773701,
+    "name": "Scarabaeus sacer",
+    "rank": "species",
+    "extinct": false,
+    "id": 538528,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47208,
+      71130,
+      702480,
+      48202,
+      48201,
+      125819,
+      489949,
+      199919,
+      773701,
+      538528
+    ],
+    "provisional": false,
+    "created_at": "2017-03-17T20:23:48+00:00",
+    "default_photo": {
+      "id": 65722326,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Andrey Vlasenko, some rights reserved (CC BY-NC), uploaded by Andrey Vlasenko",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65722326/square.jpg",
+      "original_dimensions": {
+        "height": 576,
+        "width": 768
+      },
+      "flags": [],
+      "attribution_name": "Andrey Vlasenko",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65722326/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65722326/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 435,
+    "photos_locked": false,
+    "universal_search_rank": 435,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Scarabaeus_sacer",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Sacred Scarab"
+  },
+  "rawMetadataPath": "metadata/scarabaeus-sacer/inat-22960128.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/scarabaeus-sacer--inat-22960128.json"
+}

@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-455676125",
+  "targetId": "org-cervus-elaphus",
+  "scientificName": "Cervus elaphus",
+  "nameJa": "アカシカ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 109,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "部分・生態・環境等の補足用。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:56:52+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:56:52+00:00",
+  "files": {
+    "master": "images/cervus-elaphus/inat-455676125.jpg",
+    "web": "images/cervus-elaphus/inat-455676125.webp",
+    "thumbnail": "images/cervus-elaphus/inat-455676125-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1638,
+      2048
+    ],
+    "master": [
+      1638,
+      2048
+    ],
+    "web": [
+      1120,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1167110,
+    "web": 169750,
+    "thumbnail": 10366
+  },
+  "sha256": {
+    "download": "5f30b37bc74fc227a427c4a89c290a6339946a038ed104ec3bd53751793b9d13",
+    "master": "7f0effd032a8e6b47ca48b7499716e4a0fb8a91b69da34625a9fbf23e982d81c",
+    "web": "76d3f41394c832080380c576428973960eb2be459a3fd744f2833558c84ad701"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Cervus elaphus [Cervus elaphus] — Diego González Dopico / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/455676125. Original attribution: (c) Diego González Dopico, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Cervus elaphus",
+  "sourceId": "455676125",
+  "photoUrl": "https://www.inaturalist.org/photos/455676125",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/455676125/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/455676125/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Diego González Dopico",
+  "originalAttribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+  "taxonId": 204113,
+  "acceptedScientificName": "Cervus elaphus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/254402724",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.34,
+  "photoApiEvidence": {
+    "id": 455676125,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1638,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455676125/square.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/424850/42158/846198/846317/42205",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,152870,424850,42158,846198,846317,42205,204113",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 204113,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 42205,
+    "name": "Cervus elaphus",
+    "rank": "species",
+    "extinct": false,
+    "id": 204113,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      152870,
+      424850,
+      42158,
+      846198,
+      846317,
+      42205,
+      204113
+    ],
+    "provisional": false,
+    "created_at": "2013-02-01T03:30:21+00:00",
+    "default_photo": {
+      "id": 25186445,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Jon J. Laysell, some rights reserved (CC BY-NC), uploaded by Jon J. Laysell",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/25186445/square.jpg",
+      "original_dimensions": {
+        "height": 1358,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Jon J. Laysell",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/25186445/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/25186445/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 1,
+    "observations_count": 27995,
+    "photos_locked": false,
+    "universal_search_rank": 27995,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 2
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 12736,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red_deer",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Red Deer"
+  },
+  "rawMetadataPath": "metadata/cervus-elaphus/inat-455676125.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/cervus-elaphus--inat-455676125.json"
+}

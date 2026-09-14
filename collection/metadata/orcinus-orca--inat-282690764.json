@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-282690764",
+  "targetId": "org-orcinus-orca",
+  "scientificName": "Orcinus orca",
+  "nameJa": "シャチ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:04:48+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:04:48+00:00",
+  "files": {
+    "master": "images/orcinus-orca/inat-282690764.jpg",
+    "web": "images/orcinus-orca/inat-282690764.webp",
+    "thumbnail": "images/orcinus-orca/inat-282690764-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 805150,
+    "web": 173350,
+    "thumbnail": 17568
+  },
+  "sha256": {
+    "download": "cb13b1ec72b1c53ccee524ff678f128e96f3632864753f2c02994a450c464d51",
+    "master": "56f0af53c9ffacf1d5cc5697e578103b8cfa12f4d5f2fbeb6c4195921e4c3e3d",
+    "web": "37e44ce02e419082ee5afaf9e12a451f616d0821fd1f0d6ae0f40e30a1d41085"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Orcinus orca [Orcinus orca] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/282690764. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Orcinus orca",
+  "sourceId": "282690764",
+  "photoUrl": "https://www.inaturalist.org/photos/282690764",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/282690764/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/282690764/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 41521,
+  "acceptedScientificName": "Orcinus orca",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/163442610",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.95,
+  "photoApiEvidence": {
+    "id": 282690764,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/282690764/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/925158/152871/424322/1317261/41479/41520/41521",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,152870,925158,152871,424322,1317261,41479,41520,41521",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 41521,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 41521,
+    "name": "Orcinus orca rectipinnus",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 1602533,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      152870,
+      925158,
+      152871,
+      424322,
+      1317261,
+      41479,
+      41520,
+      41521,
+      1602533
+    ],
+    "created_at": "2025-01-20T19:07:12+00:00",
+    "default_photo": {
+      "id": 282691010,
+      "license_code": "cc0",
+      "attribution": "no rights reserved, uploaded by steve b",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/282691010/square.jpeg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "steve b",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/282691010/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/282691010/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 0,
+    "observations_count": 1164,
+    "photos_locked": false,
+    "universal_search_rank": 1164,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Bigg's Killer Whale"
+  },
+  "rawMetadataPath": "metadata/orcinus-orca/inat-282690764.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/orcinus-orca--inat-282690764.json"
+}

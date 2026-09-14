@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-170557381",
+  "targetId": "org-musa-acuminata",
+  "scientificName": "Musa acuminata",
+  "nameJa": "バナナ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:03:42+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:03:42+00:00",
+  "files": {
+    "master": "images/musa-acuminata/inat-170557381.jpg",
+    "web": "images/musa-acuminata/inat-170557381.webp",
+    "thumbnail": "images/musa-acuminata/inat-170557381-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1438181,
+    "web": 288402,
+    "thumbnail": 19960
+  },
+  "sha256": {
+    "download": "04f78aaa09ce770370625485b55cc3fa98cf7de3f79c9adf2a696b62765e9aba",
+    "master": "d94b93369a76a410968624fd17ee04abe8d874d3873348619fefbe741d2b8348",
+    "web": "49e55e7703905c33127f4d011817d5b8f5e692f548f18c526ef6c6c032aac0c7"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Musa acuminata [Musa acuminata] — Cheongweei Gan / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/170557381. Original attribution: (c) Cheongweei Gan, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Musa acuminata",
+  "sourceId": "170557381",
+  "photoUrl": "https://www.inaturalist.org/photos/170557381",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/170557381/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/170557381/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Cheongweei Gan",
+  "originalAttribution": "(c) Cheongweei Gan, some rights reserved (CC BY)",
+  "taxonId": 140907,
+  "acceptedScientificName": "Musa acuminata",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/102071709",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.527619047619047,
+  "photoApiEvidence": {
+    "id": 170557381,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/170557381/square.jpg",
+    "attribution": "(c) Cheongweei Gan, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47163/48318/62910/62911/1691003",
+    "min_species_ancestry": "48460,47126,211194,47125,47163,48318,62910,62911,1691003,140907",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 140907,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1691003,
+    "name": "Musa acuminata",
+    "rank": "species",
+    "extinct": false,
+    "id": 140907,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47163,
+      48318,
+      62910,
+      62911,
+      1691003,
+      140907
+    ],
+    "created_at": "2012-07-27T14:48:19+00:00",
+    "default_photo": {
+      "id": 3004694,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3004694/square.jpg",
+      "original_dimensions": {
+        "height": 2000,
+        "width": 1333
+      },
+      "flags": [],
+      "attribution_name": "Greg Lasley",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3004694/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3004694/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 14208,
+    "photos_locked": false,
+    "universal_search_rank": 14208,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Musa_acuminata",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Cavendish banana"
+  },
+  "rawMetadataPath": "metadata/musa-acuminata/inat-170557381.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/musa-acuminata--inat-170557381.json"
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-370528121",
+  "targetId": "inat-taxon-12727",
+  "scientificName": "Turdus migratorius",
+  "nameJa": "コマツグミ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:12:01+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:12:01+00:00",
+  "files": {
+    "master": "images/turdus-migratorius/inat-370528121.jpg",
+    "web": "images/turdus-migratorius/inat-370528121.webp",
+    "thumbnail": "images/turdus-migratorius/inat-370528121-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1280,
+      1280
+    ],
+    "master": [
+      1280,
+      1280
+    ],
+    "web": [
+      1280,
+      1280
+    ]
+  },
+  "bytes": {
+    "master": 57428,
+    "web": 21008,
+    "thumbnail": 2508
+  },
+  "sha256": {
+    "download": "e5abc016344a1725533bf334e33f9af69a59e0aabbfa14ccceff7bff3ad07184",
+    "master": "b4e79159216533ea603b52a26a207db3a4cab62aa9b8b21fc18123193da4d872",
+    "web": "ef7d9f896fa0bad9cfca4f221f4dcc36e94ba44b05d63f41831499699b590643"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Turdus migratorius [Turdus migratorius] — Mila Turov / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/370528121. Original attribution: (c) Mila Turov, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Turdus migratorius",
+  "sourceId": "370528121",
+  "photoUrl": "https://www.inaturalist.org/photos/370528121",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/370528121/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/370528121/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Mila Turov",
+  "originalAttribution": "(c) Mila Turov, some rights reserved (CC BY)",
+  "taxonId": 12727,
+  "acceptedScientificName": "Turdus migratorius",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/209375487",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.82857142857143,
+  "photoApiEvidence": {
+    "id": 370528121,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1280,
+      "height": 1280
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/370528121/square.jpg",
+    "attribution": "(c) Mila Turov, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/15977/12705",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,15977,12705,12727",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 12727,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 12705,
+    "name": "Turdus migratorius",
+    "rank": "species",
+    "extinct": false,
+    "id": 12727,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      15977,
+      12705,
+      12727
+    ],
+    "created_at": "2008-03-13T03:13:55+00:00",
+    "default_photo": {
+      "id": 34859026,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) John D Reynolds, some rights reserved (CC BY-NC), uploaded by John D Reynolds",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34859026/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "John D Reynolds",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34859026/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34859026/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 469277,
+    "photos_locked": false,
+    "universal_search_rank": 469277,
+    "flag_counts": {
+      "resolved": 5,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/American_robin",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "American Robin"
+  },
+  "rawMetadataPath": "metadata/turdus-migratorius/inat-370528121.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/turdus-migratorius--inat-370528121.json"
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-348847357",
+  "targetId": "inat-taxon-3454",
+  "scientificName": "Zenaida macroura",
+  "nameJa": "ナゲキバト",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:12:31+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:12:31+00:00",
+  "files": {
+    "master": "images/zenaida-macroura/inat-348847357.jpg",
+    "web": "images/zenaida-macroura/inat-348847357.webp",
+    "thumbnail": "images/zenaida-macroura/inat-348847357-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 794492,
+    "web": 168900,
+    "thumbnail": 10218
+  },
+  "sha256": {
+    "download": "17260cafa64353f5ce884575dc6e4aa56a5503b322aae0a0b73863d2942f6a2b",
+    "master": "f721d202ba94ca122580225b683c71f1d40b2d94118943b144af9bb751ba074c",
+    "web": "5b12e5a5592dc5f83923673d55c490de40c71ee82fd8d150e5a866a95c5fe0cb"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Zenaida macroura [Zenaida macroura] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/348847357. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Zenaida macroura",
+  "sourceId": "348847357",
+  "photoUrl": "https://www.inaturalist.org/photos/348847357",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/348847357/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/348847357/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 3454,
+  "acceptedScientificName": "Zenaida macroura",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/197984758",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.86095238095238,
+  "photoApiEvidence": {
+    "id": 348847357,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348847357/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/2708/2715/3438",
+    "min_species_ancestry": "48460,1,2,355675,3,2708,2715,3438,3454",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 3454,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 3438,
+    "name": "Zenaida macroura",
+    "rank": "species",
+    "extinct": false,
+    "id": 3454,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      2708,
+      2715,
+      3438,
+      3454
+    ],
+    "provisional": false,
+    "created_at": "2008-03-13T02:42:41+00:00",
+    "default_photo": {
+      "id": 14015355,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Donna Pomeroy, some rights reserved (CC BY-NC), uploaded by Donna Pomeroy",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14015355/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Donna Pomeroy",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14015355/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14015355/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 308952,
+    "photos_locked": false,
+    "universal_search_rank": 308952,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mourning_dove",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Mourning Dove"
+  },
+  "rawMetadataPath": "metadata/zenaida-macroura/inat-348847357.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/zenaida-macroura--inat-348847357.json"
+}

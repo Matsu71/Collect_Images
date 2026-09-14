@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-109597147",
+  "targetId": "org-pongo-pygmaeus",
+  "scientificName": "Pongo pygmaeus",
+  "nameJa": "ボルネオオランウータン",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:06:37+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:06:37+00:00",
+  "files": {
+    "master": "images/pongo-pygmaeus/inat-109597147.jpg",
+    "web": "images/pongo-pygmaeus/inat-109597147.webp",
+    "thumbnail": "images/pongo-pygmaeus/inat-109597147-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 617941,
+    "web": 159694,
+    "thumbnail": 11002
+  },
+  "sha256": {
+    "download": "4c930dbf89cb0c83408dec4927c0030151c4a87ad15a335ba1ca31069930d241",
+    "master": "9f06ca352e18aae7bd7fdef9596dbd4008d12ecf20235cd9393819c254743738",
+    "web": "f2632abfaec483159a16d8ff1b5b6c368d1dc789377a8382b98905327546fbf4"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Pongo pygmaeus [Pongo pygmaeus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/109597147. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Pongo pygmaeus",
+  "sourceId": "109597147",
+  "photoUrl": "https://www.inaturalist.org/photos/109597147",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/109597147/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/109597147/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 43582,
+  "acceptedScientificName": "Pongo pygmaeus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/67779020",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.616666666666667,
+  "photoApiEvidence": {
+    "id": 109597147,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109597147/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43367/786045/936377/936369/1036675/43575/846280/43581/43582",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43367,786045,936377,936369,1036675,43575,846280,43581,43582",
+    "endemic": true,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43582,
+    "threatened": true,
+    "rank_level": 5,
+    "introduced": false,
+    "native": true,
+    "parent_id": 43582,
+    "name": "Pongo pygmaeus morio",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 147760,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43367,
+      786045,
+      936377,
+      936369,
+      1036675,
+      43575,
+      846280,
+      43581,
+      43582,
+      147760
+    ],
+    "created_at": "2012-09-08T01:23:13+00:00",
+    "default_photo": {
+      "id": 67411333,
+      "license_code": null,
+      "attribution": "(c) Scott Baker, all rights reserved, uploaded by Scott Baker",
+      "url": "https://static.inaturalist.org/photos/67411333/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Scott Baker",
+      "square_url": "https://static.inaturalist.org/photos/67411333/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/67411333/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 1733,
+    "photos_locked": false,
+    "universal_search_rank": 1733,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Northeast Bornean Orangutan",
+    "conservation_status": {
+      "id": 46064,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "cr",
+      "status_name": "critically endangered",
+      "geoprivacy": "obscured",
+      "iucn": 50
+    }
+  },
+  "rawMetadataPath": "metadata/pongo-pygmaeus/inat-109597147.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/pongo-pygmaeus--inat-109597147.json"
+}

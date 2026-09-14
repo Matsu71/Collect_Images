@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-114176979",
+  "targetId": "inat-taxon-144757",
+  "scientificName": "Corvus cornix",
+  "nameJa": "ズキンガラス",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:15:10+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:15:10+00:00",
+  "files": {
+    "master": "images/corvus-cornix/inat-114176979.jpg",
+    "web": "images/corvus-cornix/inat-114176979.webp",
+    "thumbnail": "images/corvus-cornix/inat-114176979-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1282
+    ],
+    "master": [
+      2048,
+      1282
+    ],
+    "web": [
+      1400,
+      876
+    ]
+  },
+  "bytes": {
+    "master": 651469,
+    "web": 144172,
+    "thumbnail": 13472
+  },
+  "sha256": {
+    "download": "546c9748fb33b8f5f92ab02b5efdb9cc9bb6957e1076faf50050529d2a57383f",
+    "master": "e77a33b50c806a4519f9afcb47e53a4a2b86bf4c6bd6524580076fc571dbfdcf",
+    "web": "1111dcdc39ffd51ab89abcf056c3cfb34f024dcdb8e7feb26e3920558d8fad8b"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Corvus cornix [Corvus cornix] — hedera.baltica / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/114176979. Original attribution: (c) hedera.baltica, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Corvus cornix",
+  "sourceId": "114176979",
+  "photoUrl": "https://www.inaturalist.org/photos/114176979",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/114176979/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/114176979/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "hedera.baltica",
+  "originalAttribution": "(c) hedera.baltica, some rights reserved (CC BY-SA)",
+  "taxonId": 144757,
+  "acceptedScientificName": "Corvus cornix",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 9.831428571428571,
+  "photoApiEvidence": {
+    "id": 114176979,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) hedera.baltica, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114176979/square.jpg",
+    "original_dimensions": {
+      "height": 1282,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "hedera.baltica",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114176979/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114176979/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/corvus-cornix/inat-114176979.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY-SA 4.0",
+  "metadataPath": "collection/metadata/corvus-cornix--inat-114176979.json"
+}

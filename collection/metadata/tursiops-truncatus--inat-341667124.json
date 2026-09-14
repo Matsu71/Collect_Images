@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-341667124",
+  "targetId": "org-tursiops-truncatus",
+  "scientificName": "Tursiops truncatus",
+  "nameJa": "ハンドウイルカ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:10:07+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:10:07+00:00",
+  "files": {
+    "master": "images/tursiops-truncatus/inat-341667124.jpg",
+    "web": "images/tursiops-truncatus/inat-341667124.webp",
+    "thumbnail": "images/tursiops-truncatus/inat-341667124-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1447
+    ],
+    "master": [
+      2048,
+      1447
+    ],
+    "web": [
+      1400,
+      989
+    ]
+  },
+  "bytes": {
+    "master": 824367,
+    "web": 174304,
+    "thumbnail": 22032
+  },
+  "sha256": {
+    "download": "2c224a162348e23e7f604f0e6c9a791e4bc1ce2d7c0182ca0b0eb6ec5204cef2",
+    "master": "20048813ec4b316c267a8bc61d92045ecf90c4305289fabe47d5867146f48d17",
+    "web": "f952dc8af33660cc002d4b781ed882e39867ba9e889e840e1ed2231af3ce8f50"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Tursiops truncatus [Tursiops truncatus] — Punkus / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/341667124. Original attribution: (c) Punkus, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Tursiops truncatus",
+  "sourceId": "341667124",
+  "photoUrl": "https://www.inaturalist.org/photos/341667124",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/341667124/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/341667124/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Punkus",
+  "originalAttribution": "(c) Punkus, some rights reserved (CC BY)",
+  "taxonId": 41482,
+  "acceptedScientificName": "Tursiops truncatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/194381645",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.733809523809524,
+  "photoApiEvidence": {
+    "id": 341667124,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1447
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341667124/square.jpg",
+    "attribution": "(c) Punkus, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/925158/152871/424322/1317261/41479/1317267/41480",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,152870,925158,152871,424322,1317261,41479,1317267,41480,41482",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 41482,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 41480,
+    "name": "Tursiops truncatus",
+    "rank": "species",
+    "extinct": false,
+    "id": 41482,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      152870,
+      925158,
+      152871,
+      424322,
+      1317261,
+      41479,
+      1317267,
+      41480,
+      41482
+    ],
+    "provisional": false,
+    "created_at": "2008-03-19T00:33:09+00:00",
+    "default_photo": {
+      "id": 611231392,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Frank Krasovec, some rights reserved (CC BY-NC), uploaded by Frank Krasovec",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611231392/square.jpg",
+      "original_dimensions": {
+        "height": 1080,
+        "width": 1626
+      },
+      "flags": [],
+      "attribution_name": "Frank Krasovec",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611231392/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611231392/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 8,
+    "observations_count": 25653,
+    "photos_locked": false,
+    "universal_search_rank": 25653,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_bottlenose_dolphin",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Common Bottlenose Dolphin"
+  },
+  "rawMetadataPath": "metadata/tursiops-truncatus/inat-341667124.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/tursiops-truncatus--inat-341667124.json"
+}

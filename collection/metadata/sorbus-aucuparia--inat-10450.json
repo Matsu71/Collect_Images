@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-10450",
+  "targetId": "inat-taxon-56063",
+  "scientificName": "Sorbus aucuparia",
+  "nameJa": "セイヨウナナカマド",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:18:50+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:18:50+00:00",
+  "files": {
+    "master": "images/sorbus-aucuparia/inat-10450.jpg",
+    "web": "images/sorbus-aucuparia/inat-10450.webp",
+    "thumbnail": "images/sorbus-aucuparia/inat-10450-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1024,
+      768
+    ],
+    "master": [
+      1024,
+      768
+    ],
+    "web": [
+      1024,
+      768
+    ]
+  },
+  "bytes": {
+    "master": 279722,
+    "web": 166770,
+    "thumbnail": 27410
+  },
+  "sha256": {
+    "download": "beefe4e4c3c5f9604a4f3d10c18dd532ada7006884ae32e7bc607b48602422a4",
+    "master": "d36fac05a67ac7c83d10c00a8b67139428349117e6d4b16f75972b78176dc87c",
+    "web": "f41bfa91fced3eedfef326ccf282cb808c4ef0f801580055148f35db44a5c397"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Sorbus aucuparia [Sorbus aucuparia] — Hans Kylberg / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/10450. Original attribution: (c) Hans Kylberg, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Sorbus aucuparia",
+  "sourceId": "10450",
+  "photoUrl": "https://www.inaturalist.org/photos/10450",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10450/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10450/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Hans Kylberg",
+  "originalAttribution": "(c) Hans Kylberg, some rights reserved (CC BY)",
+  "taxonId": 56063,
+  "acceptedScientificName": "Sorbus aucuparia",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 11.097142857142858,
+  "photoApiEvidence": {
+    "id": 10450,
+    "license_code": "cc-by",
+    "attribution": "(c) Hans Kylberg, some rights reserved (CC BY)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10450/square.jpg",
+    "original_dimensions": {
+      "height": 768,
+      "width": 1024
+    },
+    "flags": [],
+    "attribution_name": "Hans Kylberg",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10450/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10450/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/sorbus-aucuparia/inat-10450.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/sorbus-aucuparia--inat-10450.json"
+}

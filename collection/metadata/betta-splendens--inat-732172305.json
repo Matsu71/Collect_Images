@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-732172305",
+  "targetId": "org-betta-splendens",
+  "scientificName": "Betta splendens",
+  "nameJa": "ベタ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 61,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:55:08+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:55:08+00:00",
+  "files": {
+    "master": "images/betta-splendens/inat-732172305.jpg",
+    "web": "images/betta-splendens/inat-732172305.webp",
+    "thumbnail": "images/betta-splendens/inat-732172305-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 984004,
+    "web": 255158,
+    "thumbnail": 25286
+  },
+  "sha256": {
+    "download": "14db3d31c0a7455c98af385d9ab49426997b000580266015b846a69d61d0dbd2",
+    "master": "68a9c6f2246d51fb82e8d95c5b6481abf131a23bb5e3c2962b22c07deb4b4a58",
+    "web": "1857774596040ecfe02c5fef5002d071fcbd9bf810e56f9cb40d861661edd88f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Betta splendens [Betta splendens] — Marcello Mastroianni Albuquerque Araújo / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/732172305. Original attribution: (c) Marcello Mastroianni Albuquerque Araújo, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Betta splendens",
+  "sourceId": "732172305",
+  "photoUrl": "https://www.inaturalist.org/photos/732172305",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/732172305/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/732172305/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Marcello Mastroianni Albuquerque Araújo",
+  "originalAttribution": "(c) Marcello Mastroianni Albuquerque Araújo, some rights reserved (CC BY)",
+  "taxonId": 95748,
+  "acceptedScientificName": "Betta splendens",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Actinopterygii",
+  "observationUrl": "https://www.inaturalist.org/observations/399090452",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.194285714285714,
+  "photoApiEvidence": {
+    "id": 732172305,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/732172305/square.jpg",
+    "attribution": "(c) Marcello Mastroianni Albuquerque Araújo, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/47178/1632273/1303738/1303744/84690/788536/86963",
+    "min_species_ancestry": "48460,1,2,355675,47178,1632273,1303738,1303744,84690,788536,86963,95748",
+    "endemic": false,
+    "iconic_taxon_id": 47178,
+    "min_species_taxon_id": 95748,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 86963,
+    "name": "Betta splendens",
+    "rank": "species",
+    "extinct": false,
+    "id": 95748,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      47178,
+      1632273,
+      1303738,
+      1303744,
+      84690,
+      788536,
+      86963,
+      95748
+    ],
+    "created_at": "2011-08-04T07:18:20+00:00",
+    "default_photo": {
+      "id": 564865375,
+      "license_code": null,
+      "attribution": "(c) Andaman Kaosung, all rights reserved, uploaded by Andaman Kaosung",
+      "url": "https://static.inaturalist.org/photos/564865375/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Andaman Kaosung",
+      "square_url": "https://static.inaturalist.org/photos/564865375/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/564865375/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 3654,
+    "photos_locked": false,
+    "universal_search_rank": 3654,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Siamese_fighting_fish",
+    "iconic_taxon_name": "Actinopterygii",
+    "preferred_common_name": "Siamese Fighting Fish",
+    "conservation_status": {
+      "id": 27137,
+      "place_id": null,
+      "source_id": 4,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": null,
+      "iucn": 30
+    }
+  },
+  "rawMetadataPath": "metadata/betta-splendens/inat-732172305.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/betta-splendens--inat-732172305.json"
+}

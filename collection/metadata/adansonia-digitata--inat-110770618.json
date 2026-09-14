@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-110770618",
+  "targetId": "org-adansonia-digitata",
+  "scientificName": "Adansonia digitata",
+  "nameJa": "アフリカバオバブ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 6,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:53:16+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:53:16+00:00",
+  "files": {
+    "master": "images/adansonia-digitata/inat-110770618.jpg",
+    "web": "images/adansonia-digitata/inat-110770618.webp",
+    "thumbnail": "images/adansonia-digitata/inat-110770618-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1930,
+      2048
+    ],
+    "master": [
+      1930,
+      2048
+    ],
+    "web": [
+      1319,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1340809,
+    "web": 246636,
+    "thumbnail": 15222
+  },
+  "sha256": {
+    "download": "53df879437c7f4a70e337e5e8087626c24ef749baf7973b6146b9115317571f3",
+    "master": "63c1d682fcc5f3331463587ff946eff623f1245de639324c7092fdf505def171",
+    "web": "e8db6bd6e8dfa3d7a85809be70901845c61d65068b0799bc118081b8117c65ac"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Adansonia digitata [Adansonia digitata] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/110770618. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Adansonia digitata",
+  "sourceId": "110770618",
+  "photoUrl": "https://www.inaturalist.org/photos/110770618",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110770618/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110770618/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 81500,
+  "acceptedScientificName": "Adansonia digitata",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/68413329",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.09047619047619,
+  "photoApiEvidence": {
+    "id": 110770618,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1930,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110770618/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48796/48797/520305/81507",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48796,48797,520305,81507,81500",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 81500,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 81507,
+    "name": "Adansonia digitata",
+    "rank": "species",
+    "extinct": false,
+    "id": 81500,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48796,
+      48797,
+      520305,
+      81507,
+      81500
+    ],
+    "provisional": false,
+    "created_at": "2011-05-15T11:21:35+00:00",
+    "default_photo": {
+      "id": 249827419,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) leuli, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249827419/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "leuli",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249827419/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249827419/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 1,
+    "observations_count": 8476,
+    "photos_locked": false,
+    "universal_search_rank": 8476,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Adansonia_digitata",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "African baobab"
+  },
+  "rawMetadataPath": "metadata/adansonia-digitata/inat-110770618.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生植物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/adansonia-digitata--inat-110770618.json"
+}

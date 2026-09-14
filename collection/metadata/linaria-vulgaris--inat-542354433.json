@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-542354433",
+  "targetId": "inat-taxon-50790",
+  "scientificName": "Linaria vulgaris",
+  "nameJa": "シロバナセイヨウウンラン",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:16:22+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:16:22+00:00",
+  "files": {
+    "master": "images/linaria-vulgaris/inat-542354433.jpg",
+    "web": "images/linaria-vulgaris/inat-542354433.webp",
+    "thumbnail": "images/linaria-vulgaris/inat-542354433-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1365,
+      2048
+    ],
+    "master": [
+      1365,
+      2048
+    ],
+    "web": [
+      933,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 369663,
+    "web": 56876,
+    "thumbnail": 6116
+  },
+  "sha256": {
+    "download": "4bf52088196a58722cda23955ebacd97d2c60f9718a0e90d8bb11dcd54bf98ca",
+    "master": "38fbcf51377e923432a99514965462d134267988485c76a16ad492d193ec8a35",
+    "web": "42de7b1d843c5bb8bfb7e0dd526ea57e78236de9b288144d11a3cc6b3e49f1f4"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Linaria vulgaris [Linaria vulgaris] — Maja Dumat / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/542354433. Original attribution: (c) Maja Dumat, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Linaria vulgaris",
+  "sourceId": "542354433",
+  "photoUrl": "https://www.inaturalist.org/photos/542354433",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/542354433/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/542354433/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Maja Dumat",
+  "originalAttribution": "(c) Maja Dumat, some rights reserved (CC BY)",
+  "taxonId": 50790,
+  "acceptedScientificName": "Linaria vulgaris",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 11.95,
+  "photoApiEvidence": {
+    "id": 542354433,
+    "license_code": "cc-by",
+    "attribution": "(c) Maja Dumat, some rights reserved (CC BY)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542354433/square.jpg",
+    "original_dimensions": {
+      "height": 2048,
+      "width": 1365
+    },
+    "flags": [],
+    "attribution_name": "Maja Dumat",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542354433/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542354433/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/linaria-vulgaris/inat-542354433.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/linaria-vulgaris--inat-542354433.json"
+}

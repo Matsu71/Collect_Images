@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-638440764",
+  "targetId": "inat-taxon-52391",
+  "scientificName": "Pinus strobus",
+  "nameJa": "ストローブマツ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:12:58+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:12:58+00:00",
+  "files": {
+    "master": "images/pinus-strobus/inat-638440764.jpg",
+    "web": "images/pinus-strobus/inat-638440764.webp",
+    "thumbnail": "images/pinus-strobus/inat-638440764-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1223214,
+    "web": 223236,
+    "thumbnail": 33686
+  },
+  "sha256": {
+    "download": "dd465b462482e4fdc1a730a73c9e393e5dc192223d930780f09080434b7a3b7d",
+    "master": "06594b6572f970f7f6462e02001d36de7ba0d63059376d3faeb7c2cfdc0a4217",
+    "web": "608b59ab68e207f7e97dcceac25ebc84ef6669fda354e6ede2e6effad9dc3c41"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Pinus strobus [Pinus strobus] — Forest and Kim Starr / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/638440764. Original attribution: (c) Forest and Kim Starr, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Pinus strobus",
+  "sourceId": "638440764",
+  "photoUrl": "https://www.inaturalist.org/photos/638440764",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/638440764/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/638440764/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Forest and Kim Starr",
+  "originalAttribution": "(c) Forest and Kim Starr, some rights reserved (CC BY)",
+  "taxonId": 52391,
+  "acceptedScientificName": "Pinus strobus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.194285714285714,
+  "photoApiEvidence": {
+    "id": 638440764,
+    "license_code": "cc-by",
+    "attribution": "(c) Forest and Kim Starr, some rights reserved (CC BY)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/638440764/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Forest and Kim Starr",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/638440764/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/638440764/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/pinus-strobus/inat-638440764.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/pinus-strobus--inat-638440764.json"
+}

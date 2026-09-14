@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-29864565",
+  "targetId": "org-prunus-serrulata",
+  "scientificName": "Prunus serrulata",
+  "nameJa": "サトザクラ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:07:01+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:07:01+00:00",
+  "files": {
+    "master": "images/prunus-serrulata/inat-29864565.jpg",
+    "web": "images/prunus-serrulata/inat-29864565.webp",
+    "thumbnail": "images/prunus-serrulata/inat-29864565-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1324477,
+    "web": 327924,
+    "thumbnail": 37666
+  },
+  "sha256": {
+    "download": "d6a7cefdcd44fa7006897acb10f0d4e9fa9d1360907a0ebc463ac0991a7f928f",
+    "master": "e33d8466e930ce59cbc459e4d2c498b313c890015ed8b505261a04bbf1281fb8",
+    "web": "07c8f794a222eb523061240b7215994b2b6a454d18949ab36fbc9ba0569f79e3"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Prunus serrulata [Prunus serrulata] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/29864565. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Prunus serrulata",
+  "sourceId": "29864565",
+  "photoUrl": "https://www.inaturalist.org/photos/29864565",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29864565/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29864565/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 125742,
+  "acceptedScientificName": "Prunus serrulata",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/19415559",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 29864565,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29864565/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47132/47148/922110/922113/47351/886528",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47132,47148,922110,922113,47351,886528,125742",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 125742,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 886528,
+    "name": "Prunus serrulata",
+    "rank": "species",
+    "extinct": false,
+    "id": 125742,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47132,
+      47148,
+      922110,
+      922113,
+      47351,
+      886528,
+      125742
+    ],
+    "provisional": false,
+    "created_at": "2012-03-09T05:46:14+00:00",
+    "default_photo": {
+      "id": 30191276,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) John Luck, some rights reserved (CC BY-NC), uploaded by John Luck",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30191276/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "John Luck",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30191276/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30191276/medium.jpeg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 5,
+    "observations_count": 42812,
+    "photos_locked": false,
+    "universal_search_rank": 42812,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Prunus_serrulata",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Japanese Cherry"
+  },
+  "rawMetadataPath": "metadata/prunus-serrulata/inat-29864565.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/prunus-serrulata--inat-29864565.json"
+}

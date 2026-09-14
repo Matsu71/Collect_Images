@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-28348393",
+  "targetId": "org-glycine-max",
+  "scientificName": "Glycine max",
+  "nameJa": "ダイズ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:00:20+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:00:20+00:00",
+  "files": {
+    "master": "images/glycine-max/inat-28348393.jpg",
+    "web": "images/glycine-max/inat-28348393.webp",
+    "thumbnail": "images/glycine-max/inat-28348393-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 331217,
+    "web": 38216,
+    "thumbnail": 4020
+  },
+  "sha256": {
+    "download": "40316278a9ac9d219a6fc92498ca374f7f7586e09836fc34b3b0f3e11beeb5b8",
+    "master": "00eba48e63e036f291a02833ffac12e2d677a3d3ae62e2b71718da92b2d527d5",
+    "web": "9e053788975af7234c8270ce98cb1943c0d7207f1f92b3be5abf38eba367b669"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Glycine max [Glycine max] — 葉子 / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/28348393. Original attribution: no rights reserved, uploaded by 葉子. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Glycine max",
+  "sourceId": "28348393",
+  "photoUrl": "https://www.inaturalist.org/photos/28348393",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28348393/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28348393/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "葉子",
+  "originalAttribution": "no rights reserved, uploaded by 葉子",
+  "taxonId": 122902,
+  "acceptedScientificName": "Glycine max",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 13.194285714285714,
+  "photoApiEvidence": {
+    "id": 28348393,
+    "license_code": "cc0",
+    "attribution": "no rights reserved, uploaded by 葉子",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28348393/square.jpeg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "葉子",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28348393/square.jpeg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28348393/medium.jpeg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/glycine-max/inat-28348393.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/glycine-max--inat-28348393.json"
+}

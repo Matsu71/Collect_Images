@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-19063248",
+  "targetId": "org-iguana-iguana",
+  "scientificName": "Iguana iguana",
+  "nameJa": "グリーンイグアナ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:01:38+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:01:38+00:00",
+  "files": {
+    "master": "images/iguana-iguana/inat-19063248.jpg",
+    "web": "images/iguana-iguana/inat-19063248.webp",
+    "thumbnail": "images/iguana-iguana/inat-19063248-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1893
+    ],
+    "master": [
+      2048,
+      1893
+    ],
+    "web": [
+      1400,
+      1294
+    ]
+  },
+  "bytes": {
+    "master": 450763,
+    "web": 95740,
+    "thumbnail": 9048
+  },
+  "sha256": {
+    "download": "4ff6e4ea1074f64ad70657f1eb780c60bf603d9b3efa507dc2997e15d7bbf712",
+    "master": "74392fdf9f7b412229ca37efc37cee49ef107a69a474a932da7601313553b730",
+    "web": "4fffb2740dd2945ef0f7a373faef2b6770ecdb7ff35ffa09add9e45dd07a0950"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Iguana iguana [Iguana iguana] — Richard Stovall / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/19063248. Original attribution: (c) Richard Stovall, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Iguana iguana",
+  "sourceId": "19063248",
+  "photoUrl": "https://www.inaturalist.org/photos/19063248",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Richard Stovall",
+  "originalAttribution": "(c) Richard Stovall, some rights reserved (CC BY)",
+  "taxonId": 35342,
+  "acceptedScientificName": "Iguana iguana",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": "https://www.inaturalist.org/observations/13085946",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.704285714285714,
+  "photoApiEvidence": {
+    "id": 19063248,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1893
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/square.jpeg",
+    "attribution": "(c) Richard Stovall, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/26172/85552/1563907/1567779/35278/35341",
+    "min_species_ancestry": "48460,1,2,355675,26036,26172,85552,1563907,1567779,35278,35341,35342",
+    "endemic": false,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 35342,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 35341,
+    "name": "Iguana iguana",
+    "rank": "species",
+    "extinct": false,
+    "id": 35342,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      26172,
+      85552,
+      1563907,
+      1567779,
+      35278,
+      35341,
+      35342
+    ],
+    "created_at": "2008-03-18T02:24:42+00:00",
+    "default_photo": {
+      "id": 356025444,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Rainer Hungershausen, some rights reserved (CC BY-NC-ND)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356025444/square.jpg",
+      "original_dimensions": {
+        "height": 1065,
+        "width": 1600
+      },
+      "flags": [],
+      "attribution_name": "Rainer Hungershausen",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356025444/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356025444/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 5,
+    "observations_count": 92331,
+    "photos_locked": false,
+    "universal_search_rank": 92331,
+    "flag_counts": {
+      "resolved": 6,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 855,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Green_iguana",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "Green Iguana"
+  },
+  "rawMetadataPath": "metadata/iguana-iguana/inat-19063248.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生爬虫類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/iguana-iguana--inat-19063248.json"
+}

@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-103610074",
+  "targetId": "org-cocos-nucifera",
+  "scientificName": "Cocos nucifera",
+  "nameJa": "ココヤシ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 123,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:57:21+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:57:21+00:00",
+  "files": {
+    "master": "images/cocos-nucifera/inat-103610074.jpg",
+    "web": "images/cocos-nucifera/inat-103610074.webp",
+    "thumbnail": "images/cocos-nucifera/inat-103610074-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1800,
+      1192
+    ],
+    "master": [
+      1800,
+      1192
+    ],
+    "web": [
+      1400,
+      927
+    ]
+  },
+  "bytes": {
+    "master": 606921,
+    "web": 189982,
+    "thumbnail": 20650
+  },
+  "sha256": {
+    "download": "70cd5fa7452561d5487b58ae5e481ea8572238bb92ca06c1d31fd0f66691635d",
+    "master": "17f749c17bc0769aca7f8c5bbbba8d5d04bf2f5b261975b4fe3453e3747947f6",
+    "web": "9da77d7174d66f1db46559692f711123b9b3bc1d1f15fd2241b4f44f8a1b49af"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 71,
+  "credit": "Cocos nucifera [Cocos nucifera] — David Anderson / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/103610074. Original attribution: (c) David Anderson, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Cocos nucifera",
+  "sourceId": "103610074",
+  "photoUrl": "https://www.inaturalist.org/photos/103610074",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/103610074/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/103610074/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "David Anderson",
+  "originalAttribution": "(c) David Anderson, some rights reserved (CC BY)",
+  "taxonId": 48865,
+  "acceptedScientificName": "Cocos nucifera",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/64444824",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.036190476190476,
+  "photoApiEvidence": {
+    "id": 103610074,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1800,
+      "height": 1192
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/103610074/square.jpg",
+    "attribution": "(c) David Anderson, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47163/48866/48867/154972/544534/1535490/48868",
+    "min_species_ancestry": "48460,47126,211194,47125,47163,48866,48867,154972,544534,1535490,48868,48865",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 48865,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 48868,
+    "name": "Cocos nucifera",
+    "rank": "species",
+    "extinct": false,
+    "id": 48865,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47163,
+      48866,
+      48867,
+      154972,
+      544534,
+      1535490,
+      48868,
+      48865
+    ],
+    "created_at": "2008-12-23T01:46:10+00:00",
+    "default_photo": {
+      "id": 2373013,
+      "license_code": "cc-by-nd",
+      "attribution": "(c) Kimberlie Sasan, some rights reserved (CC BY-ND), uploaded by Kimberlie Sasan",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2373013/square.JPG",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Kimberlie Sasan",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2373013/square.JPG",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2373013/medium.JPG"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 46077,
+    "photos_locked": false,
+    "universal_search_rank": 46077,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 130598,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Coconut",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "coconut palm"
+  },
+  "rawMetadataPath": "metadata/cocos-nucifera/inat-103610074.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生植物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/cocos-nucifera--inat-103610074.json"
+}

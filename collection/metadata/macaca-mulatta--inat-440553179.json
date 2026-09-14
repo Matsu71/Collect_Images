@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-440553179",
+  "targetId": "org-macaca-mulatta",
+  "scientificName": "Macaca mulatta",
+  "nameJa": "アカゲザル",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:02:44+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:02:44+00:00",
+  "files": {
+    "master": "images/macaca-mulatta/inat-440553179.jpg",
+    "web": "images/macaca-mulatta/inat-440553179.webp",
+    "thumbnail": "images/macaca-mulatta/inat-440553179-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 732129,
+    "web": 133666,
+    "thumbnail": 8802
+  },
+  "sha256": {
+    "download": "95976a2c97e9ffc87d4ac9da22c6adbde7dbc8d9bdf9e1be091bc1dc5d993175",
+    "master": "9cbbbe48ba0a039eb618850c92a4ccf444508b1f6d2ce2201a8f433d8043fc50",
+    "web": "0b8e359630fd294f6cd435b8ba7ae45f65af2a35da07987aaed963603e7d31fd"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Macaca mulatta [Macaca mulatta] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/440553179. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Macaca mulatta",
+  "sourceId": "440553179",
+  "photoUrl": "https://www.inaturalist.org/photos/440553179",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/440553179/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/440553179/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 43460,
+  "acceptedScientificName": "Macaca mulatta",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/246743255",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.194285714285714,
+  "photoApiEvidence": {
+    "id": 440553179,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/440553179/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43367/786045/936377/936369/43443/479424/846334/43444",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43367,786045,936377,936369,43443,479424,846334,43444,43460",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43460,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 43444,
+    "name": "Macaca mulatta",
+    "rank": "species",
+    "extinct": false,
+    "id": 43460,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43367,
+      786045,
+      936377,
+      936369,
+      43443,
+      479424,
+      846334,
+      43444,
+      43460
+    ],
+    "provisional": false,
+    "created_at": "2008-03-19T00:54:58+00:00",
+    "default_photo": {
+      "id": 8739674,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Markus  Lilje, some rights reserved (CC BY-NC-ND), uploaded by Markus  Lilje",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8739674/square.jpg",
+      "original_dimensions": {
+        "height": 768,
+        "width": 1024
+      },
+      "flags": [],
+      "attribution_name": "Markus  Lilje",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8739674/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8739674/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 10745,
+    "photos_locked": false,
+    "universal_search_rank": 10745,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rhesus_macaque",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Rhesus Macaque"
+  },
+  "rawMetadataPath": "metadata/macaca-mulatta/inat-440553179.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/macaca-mulatta--inat-440553179.json"
+}

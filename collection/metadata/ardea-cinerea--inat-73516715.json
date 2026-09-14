@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-73516715",
+  "targetId": "inat-taxon-4954",
+  "scientificName": "Ardea cinerea",
+  "nameJa": "アオサギ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:12:42+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:12:42+00:00",
+  "files": {
+    "master": "images/ardea-cinerea/inat-73516715.jpg",
+    "web": "images/ardea-cinerea/inat-73516715.webp",
+    "thumbnail": "images/ardea-cinerea/inat-73516715-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 565163,
+    "web": 141346,
+    "thumbnail": 13154
+  },
+  "sha256": {
+    "download": "b57004b7b917ace410dfa9ccd958e171ad19d6ea8116d2402421c31f51c71640",
+    "master": "851e1e8e3af50177c561a954bc72609195faaa84c41a82222ccee6527f941458",
+    "web": "7bfb757d5193f1c0856149f64e0c6b79c7a39913a440c3e7e2a491d9c5db0c3c"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Ardea cinerea [Ardea cinerea] — Frank Sengpiel / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/73516715. Original attribution: (c) Frank Sengpiel, some rights reserved (CC BY), uploaded by Frank Sengpiel. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ardea cinerea",
+  "sourceId": "73516715",
+  "photoUrl": "https://www.inaturalist.org/photos/73516715",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/73516715/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/73516715/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Frank Sengpiel",
+  "originalAttribution": "(c) Frank Sengpiel, some rights reserved (CC BY), uploaded by Frank Sengpiel",
+  "taxonId": 4954,
+  "acceptedScientificName": "Ardea cinerea",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 11.95,
+  "photoApiEvidence": {
+    "id": 73516715,
+    "license_code": "cc-by",
+    "attribution": "(c) Frank Sengpiel, some rights reserved (CC BY), uploaded by Frank Sengpiel",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/73516715/square.jpg",
+    "original_dimensions": {
+      "height": 1365,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Frank Sengpiel",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/73516715/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/73516715/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/ardea-cinerea/inat-73516715.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/ardea-cinerea--inat-73516715.json"
+}

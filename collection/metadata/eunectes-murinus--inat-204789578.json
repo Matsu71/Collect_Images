@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-204789578",
+  "targetId": "org-eunectes-murinus",
+  "scientificName": "Eunectes murinus",
+  "nameJa": "オオアナコンダ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 188,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "部分・生態・環境等の補足用。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:59:38+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:59:38+00:00",
+  "files": {
+    "master": "images/eunectes-murinus/inat-204789578.jpg",
+    "web": "images/eunectes-murinus/inat-204789578.webp",
+    "thumbnail": "images/eunectes-murinus/inat-204789578-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1342
+    ],
+    "master": [
+      2048,
+      1342
+    ],
+    "web": [
+      1400,
+      917
+    ]
+  },
+  "bytes": {
+    "master": 1019185,
+    "web": 186492,
+    "thumbnail": 23126
+  },
+  "sha256": {
+    "download": "366df2401d38960301a88c475ab188acf3c7ed46a76bb2f8838045215adaf1fc",
+    "master": "3ad2389dec7ea725fcff033ca54e2e69dd8ec2b3b7171a2c383b852d9afa0525",
+    "web": "c3cc9bc85b7fb5376f434c1c95643132cece1112931510c764c272e71bd88376"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 71,
+  "credit": "Eunectes murinus [Eunectes murinus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/204789578. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Eunectes murinus",
+  "sourceId": "204789578",
+  "photoUrl": "https://www.inaturalist.org/photos/204789578",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/204789578/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/204789578/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 32213,
+  "acceptedScientificName": "Eunectes murinus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": "https://www.inaturalist.org/observations/121043022",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.25047619047619,
+  "photoApiEvidence": {
+    "id": 204789578,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1342
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/204789578/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/26172/85553/32080/797534/32211",
+    "min_species_ancestry": "48460,1,2,355675,26036,26172,85553,32080,797534,32211,32213",
+    "endemic": false,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 32213,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 32211,
+    "name": "Eunectes murinus",
+    "rank": "species",
+    "extinct": false,
+    "id": 32213,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      26172,
+      85553,
+      32080,
+      797534,
+      32211,
+      32213
+    ],
+    "created_at": "2008-03-18T01:44:38+00:00",
+    "default_photo": {
+      "id": 253683723,
+      "license_code": null,
+      "attribution": "(c) Luis F. C. de Lima, all rights reserved, uploaded by Luis F. C. de Lima",
+      "url": "https://static.inaturalist.org/photos/253683723/square.jpeg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Luis F. C. de Lima",
+      "square_url": "https://static.inaturalist.org/photos/253683723/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/253683723/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 2167,
+    "photos_locked": false,
+    "universal_search_rank": 2167,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 2293,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Green_anaconda",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "Green Anaconda"
+  },
+  "rawMetadataPath": "metadata/eunectes-murinus/inat-204789578.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生爬虫類",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/eunectes-murinus--inat-204789578.json"
+}

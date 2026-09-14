@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-205592455",
+  "targetId": "inat-taxon-58961",
+  "scientificName": "Plantago major",
+  "nameJa": "セイヨウオオバコ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:13:36+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:13:36+00:00",
+  "files": {
+    "master": "images/plantago-major/inat-205592455.jpg",
+    "web": "images/plantago-major/inat-205592455.webp",
+    "thumbnail": "images/plantago-major/inat-205592455-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1099356,
+    "web": 270268,
+    "thumbnail": 12564
+  },
+  "sha256": {
+    "download": "96c54d814d44e1668aaca97adb995bfc22662ca4711289c7e146dc01804d5e78",
+    "master": "0ab546f5c3b04dc73bea338b71c84687558050b40ae6a1709872a09c200d90bf",
+    "web": "5987a61205bfd83c8aba9b528fe50e5b68991c28664f69f1ae63f5d48390c367"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Plantago major [Plantago major] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/205592455. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Plantago major",
+  "sourceId": "205592455",
+  "photoUrl": "https://www.inaturalist.org/photos/205592455",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/205592455/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/205592455/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 58961,
+  "acceptedScientificName": "Plantago major",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/121494688",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.527619047619048,
+  "photoApiEvidence": {
+    "id": 205592455,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/205592455/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48151/50638/840983/50636/1045683/1421895",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48151,50638,840983,50636,1045683,1421895,58961",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 58961,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1421895,
+    "name": "Plantago major",
+    "rank": "species",
+    "extinct": false,
+    "id": 58961,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48151,
+      50638,
+      840983,
+      50636,
+      1045683,
+      1421895,
+      58961
+    ],
+    "provisional": false,
+    "created_at": "2010-04-02T06:03:10+00:00",
+    "default_photo": {
+      "id": 349979346,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Reiner Richter, some rights reserved (CC BY-NC-SA), uploaded by Reiner Richter",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349979346/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Reiner Richter",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349979346/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349979346/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 7,
+    "observations_count": 131263,
+    "photos_locked": false,
+    "universal_search_rank": 131263,
+    "flag_counts": {
+      "resolved": 5,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Plantago_major",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "greater plantain"
+  },
+  "rawMetadataPath": "metadata/plantago-major/inat-205592455.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/plantago-major--inat-205592455.json"
+}

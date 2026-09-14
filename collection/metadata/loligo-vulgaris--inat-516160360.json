@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-516160360",
+  "targetId": "org-loligo-vulgaris",
+  "scientificName": "Loligo vulgaris",
+  "nameJa": "ヨーロッパヤリイカ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:02:31+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:02:31+00:00",
+  "files": {
+    "master": "images/loligo-vulgaris/inat-516160360.jpg",
+    "web": "images/loligo-vulgaris/inat-516160360.webp",
+    "thumbnail": "images/loligo-vulgaris/inat-516160360-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1384,
+      878
+    ],
+    "master": [
+      1384,
+      878
+    ],
+    "web": [
+      1384,
+      878
+    ]
+  },
+  "bytes": {
+    "master": 415660,
+    "web": 165022,
+    "thumbnail": 11176
+  },
+  "sha256": {
+    "download": "c316624b22b9aeb1ca50337334202ee838ad941150f693e789cb52fd83efe81c",
+    "master": "14b87ed7a76eeeb97567ba9ffaa2e537b424f6aece69e1a643f8c6fd776e776c",
+    "web": "01bf7573ecb3fa2fbd1bf5a9df29a2222bfb09446a682a6462f60fd018783c4f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Loligo vulgaris [Loligo vulgaris] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/516160360. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Loligo vulgaris",
+  "sourceId": "516160360",
+  "photoUrl": "https://www.inaturalist.org/photos/516160360",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/516160360/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/516160360/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 324558,
+  "acceptedScientificName": "Loligo vulgaris",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mollusca",
+  "observationUrl": "https://www.inaturalist.org/observations/287079928",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.2542857142857144,
+  "photoApiEvidence": {
+    "id": 516160360,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1384,
+      "height": 878
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516160360/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47115/47459/372759/127352/246133/49441/82337",
+    "min_species_ancestry": "48460,1,47115,47459,372759,127352,246133,49441,82337,324558",
+    "endemic": false,
+    "iconic_taxon_id": 47115,
+    "min_species_taxon_id": 324558,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 82337,
+    "name": "Loligo vulgaris",
+    "rank": "species",
+    "extinct": false,
+    "id": 324558,
+    "ancestor_ids": [
+      48460,
+      1,
+      47115,
+      47459,
+      372759,
+      127352,
+      246133,
+      49441,
+      82337,
+      324558
+    ],
+    "created_at": "2013-07-25T14:30:27+00:00",
+    "default_photo": {
+      "id": 102663129,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) josepvilanova, some rights reserved (CC BY-NC), uploaded by josepvilanova",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102663129/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "josepvilanova",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102663129/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102663129/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 1,
+    "observations_count": 1108,
+    "photos_locked": false,
+    "universal_search_rank": 1108,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_squid",
+    "iconic_taxon_name": "Mollusca",
+    "preferred_common_name": "European Squid"
+  },
+  "rawMetadataPath": "metadata/loligo-vulgaris/inat-516160360.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/loligo-vulgaris--inat-516160360.json"
+}

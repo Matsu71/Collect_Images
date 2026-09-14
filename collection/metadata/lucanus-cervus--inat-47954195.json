@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-47954195",
+  "targetId": "org-lucanus-cervus",
+  "scientificName": "Lucanus cervus",
+  "nameJa": "ヨーロッパミヤマクワガタ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:02:32+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:02:32+00:00",
+  "files": {
+    "master": "images/lucanus-cervus/inat-47954195.jpg",
+    "web": "images/lucanus-cervus/inat-47954195.webp",
+    "thumbnail": "images/lucanus-cervus/inat-47954195-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 724711,
+    "web": 172718,
+    "thumbnail": 21646
+  },
+  "sha256": {
+    "download": "8a8f8751d345d77324aec7e9a5d0ff26841867810eec758e26aa644473ece766",
+    "master": "8d70c731cb0b83bff8be85c305cbfdeca6ac41a860c9867bdfdd1335fac2c940",
+    "web": "889dd53bdf3685850d1e7ca058739b2da334449e660b6c837d073753cf208adc"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Lucanus cervus [Lucanus cervus] — Carminda Santos / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/47954195. Original attribution: (c) Carminda Santos, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Lucanus cervus",
+  "sourceId": "47954195",
+  "photoUrl": "https://www.inaturalist.org/photos/47954195",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/47954195/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/47954195/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Carminda Santos",
+  "originalAttribution": "(c) Carminda Santos, some rights reserved (CC BY)",
+  "taxonId": 61749,
+  "acceptedScientificName": "Lucanus cervus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/30687363",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 47954195,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47954195/square.jpeg",
+    "attribution": "(c) Carminda Santos, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47208/71130/702480/48202/49083/373469/794938/60813/1107301",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47208,71130,702480,48202,49083,373469,794938,60813,1107301,61749",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 61749,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1107301,
+    "name": "Lucanus cervus",
+    "rank": "species",
+    "extinct": false,
+    "id": 61749,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47208,
+      71130,
+      702480,
+      48202,
+      49083,
+      373469,
+      794938,
+      60813,
+      1107301,
+      61749
+    ],
+    "created_at": "2010-06-08T06:57:19+00:00",
+    "default_photo": {
+      "id": 348296511,
+      "license_code": null,
+      "attribution": "(c) Marek R. Swadzba, all rights reserved, uploaded by Marek R. Swadzba",
+      "url": "https://static.inaturalist.org/photos/348296511/square.jpg",
+      "original_dimensions": {
+        "height": 1181,
+        "width": 1772
+      },
+      "flags": [],
+      "attribution_name": "Marek R. Swadzba",
+      "square_url": "https://static.inaturalist.org/photos/348296511/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/348296511/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 58525,
+    "photos_locked": false,
+    "universal_search_rank": 58525,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lucanus_cervus",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "European Stag Beetle"
+  },
+  "rawMetadataPath": "metadata/lucanus-cervus/inat-47954195.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/lucanus-cervus--inat-47954195.json"
+}

@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-2765460",
+  "targetId": "org-tridacna-gigas",
+  "scientificName": "Tridacna gigas",
+  "nameJa": "オオシャコガイ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:09:56+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:09:56+00:00",
+  "files": {
+    "master": "images/tridacna-gigas/inat-2765460.jpg",
+    "web": "images/tridacna-gigas/inat-2765460.webp",
+    "thumbnail": "images/tridacna-gigas/inat-2765460-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 634281,
+    "web": 176428,
+    "thumbnail": 13826
+  },
+  "sha256": {
+    "download": "d6c3b0d1e1b6db7954c1046cd629500602d27eacb76c831ab8148efe66029fff",
+    "master": "5ea376a7bf2f3a4619fae472c0938b2ce51a3f8b8121297568b4f8eaaea0dc74",
+    "web": "b893ea90f93933a093156c7644f07db4b5a91dca47e15462945a64b4ffcb7712"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Tridacna gigas [Tridacna gigas] — botanygirl / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/2765460. Original attribution: (c) botanygirl, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Tridacna gigas",
+  "sourceId": "2765460",
+  "photoUrl": "https://www.inaturalist.org/photos/2765460",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2765460/original.JPG",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2765460/original.JPG",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "botanygirl",
+  "originalAttribution": "(c) botanygirl, some rights reserved (CC BY)",
+  "taxonId": 114396,
+  "acceptedScientificName": "Tridacna gigas",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mollusca",
+  "observationUrl": "https://www.inaturalist.org/observations/2470623",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.194285714285714,
+  "photoApiEvidence": {
+    "id": 2765460,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2765460/square.JPG",
+    "attribution": "(c) botanygirl, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/47115/47584/1051154/1051155/551316/551317/488959/461816/50597/67969/50592",
+    "min_species_ancestry": "48460,1,47115,47584,1051154,1051155,551316,551317,488959,461816,50597,67969,50592,114396",
+    "endemic": false,
+    "iconic_taxon_id": 47115,
+    "min_species_taxon_id": 114396,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 50592,
+    "name": "Tridacna gigas",
+    "rank": "species",
+    "extinct": false,
+    "id": 114396,
+    "ancestor_ids": [
+      48460,
+      1,
+      47115,
+      47584,
+      1051154,
+      1051155,
+      551316,
+      551317,
+      488959,
+      461816,
+      50597,
+      67969,
+      50592,
+      114396
+    ],
+    "provisional": false,
+    "created_at": "2011-08-04T09:44:25+00:00",
+    "default_photo": {
+      "id": 238306910,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) uwkwaj, some rights reserved (CC BY-NC), uploaded by uwkwaj",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/238306910/square.jpg",
+      "original_dimensions": {
+        "height": 957,
+        "width": 1200
+      },
+      "flags": [],
+      "attribution_name": "uwkwaj",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/238306910/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/238306910/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 1724,
+    "photos_locked": false,
+    "universal_search_rank": 1724,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Giant_clam",
+    "iconic_taxon_name": "Mollusca",
+    "preferred_common_name": "Gigas Giant Clam",
+    "conservation_status": {
+      "id": 43897,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "cr",
+      "status_name": "critically endangered",
+      "geoprivacy": "obscured",
+      "iucn": 50
+    }
+  },
+  "rawMetadataPath": "metadata/tridacna-gigas/inat-2765460.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生無脊椎動物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/tridacna-gigas--inat-2765460.json"
+}

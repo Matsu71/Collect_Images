@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-34825790",
+  "targetId": "org-sus-scrofa",
+  "scientificName": "Sus scrofa",
+  "nameJa": "イノシシ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:09:16+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:09:16+00:00",
+  "files": {
+    "master": "images/sus-scrofa/inat-34825790.jpg",
+    "web": "images/sus-scrofa/inat-34825790.webp",
+    "thumbnail": "images/sus-scrofa/inat-34825790-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1677
+    ],
+    "master": [
+      2048,
+      1677
+    ],
+    "web": [
+      1400,
+      1146
+    ]
+  },
+  "bytes": {
+    "master": 996043,
+    "web": 184410,
+    "thumbnail": 21360
+  },
+  "sha256": {
+    "download": "112a5028dd32734aa97754a0690960e8809a2cc4c223b2218ea13abe03d5f0a7",
+    "master": "1b5f9ee0390a47ee578d73b0caa595aa23d3cf05083eed154c52c6b5e8043561",
+    "web": "45436820451baacdab092e4a83e25b6ac6e565941e529e4295c1057392c39d17"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Sus scrofa [Sus scrofa] — Cullen Hanks / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/34825790. Original attribution: (c) Cullen Hanks, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Sus scrofa",
+  "sourceId": "34825790",
+  "photoUrl": "https://www.inaturalist.org/photos/34825790",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34825790/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34825790/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Cullen Hanks",
+  "originalAttribution": "(c) Cullen Hanks, some rights reserved (CC BY)",
+  "taxonId": 42134,
+  "acceptedScientificName": "Sus scrofa",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/22481962",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.395714285714286,
+  "photoApiEvidence": {
+    "id": 34825790,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1677
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34825790/square.jpg",
+    "attribution": "(c) Cullen Hanks, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/848343/42118/1365630/1365636/42126/42134",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,152870,848343,42118,1365630,1365636,42126,42134",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 42134,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": true,
+    "native": false,
+    "parent_id": 42134,
+    "name": "Sus scrofa domesticus",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 324492,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      152870,
+      848343,
+      42118,
+      1365630,
+      1365636,
+      42126,
+      42134,
+      324492
+    ],
+    "created_at": "2013-07-25T01:54:50+00:00",
+    "default_photo": {
+      "id": 267631414,
+      "license_code": "pd",
+      "attribution": "\nSteven Lek, no known copyright restrictions (public domain)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/267631414/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "\nSteven Lek",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/267631414/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/267631414/medium.jpeg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 2,
+    "observations_count": 9640,
+    "photos_locked": false,
+    "universal_search_rank": 9640,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Domestic_pig",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Domestic Pig"
+  },
+  "rawMetadataPath": "metadata/sus-scrofa/inat-34825790.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/sus-scrofa--inat-34825790.json"
+}

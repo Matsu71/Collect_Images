@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-53920757",
+  "targetId": "org-marchantia-polymorpha",
+  "scientificName": "Marchantia polymorpha",
+  "nameJa": "ゼニゴケ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:03:07+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:03:07+00:00",
+  "files": {
+    "master": "images/marchantia-polymorpha/inat-53920757.jpg",
+    "web": "images/marchantia-polymorpha/inat-53920757.webp",
+    "thumbnail": "images/marchantia-polymorpha/inat-53920757-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 724597,
+    "web": 175042,
+    "thumbnail": 31190
+  },
+  "sha256": {
+    "download": "5658cbb24343f7897f2fe2ed57de7ff45a3f87087b03b175f0b6630c5de3a29f",
+    "master": "eee38fa92d1a8472039f0cdc05c56591a9eda36529e40b81f6875b7c3911a60c",
+    "web": "e8f5a383eff5c966238b7d1eac6715c218f8f2859ad4363324d25a4553983499"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Marchantia polymorpha [Marchantia polymorpha] — Alex Abair / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/53920757. Original attribution: (c) Alex Abair, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Marchantia polymorpha",
+  "sourceId": "53920757",
+  "photoUrl": "https://www.inaturalist.org/photos/53920757",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53920757/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53920757/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Alex Abair",
+  "originalAttribution": "(c) Alex Abair, some rights reserved (CC BY)",
+  "taxonId": 56406,
+  "acceptedScientificName": "Marchantia polymorpha",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/34275883",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.194285714285714,
+  "photoApiEvidence": {
+    "id": 53920757,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53920757/square.jpg",
+    "attribution": "(c) Alex Abair, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/64615/152080/1458852/152699/55708/56394",
+    "min_species_ancestry": "48460,47126,64615,152080,1458852,152699,55708,56394,56406",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 56406,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 56394,
+    "name": "Marchantia polymorpha",
+    "rank": "species",
+    "extinct": false,
+    "id": 56406,
+    "ancestor_ids": [
+      48460,
+      47126,
+      64615,
+      152080,
+      1458852,
+      152699,
+      55708,
+      56394,
+      56406
+    ],
+    "created_at": "2010-02-23T07:10:31+00:00",
+    "default_photo": {
+      "id": 41657910,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Bernd Bäumler, some rights reserved (CC BY-NC), uploaded by Bernd Bäumler",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41657910/square.jpeg",
+      "original_dimensions": {
+        "height": 1462,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Bernd Bäumler",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41657910/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41657910/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 30793,
+    "photos_locked": false,
+    "universal_search_rank": 30793,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Marchantia_polymorpha",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Common Liverwort"
+  },
+  "rawMetadataPath": "metadata/marchantia-polymorpha/inat-53920757.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/marchantia-polymorpha--inat-53920757.json"
+}

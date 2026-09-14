@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-491363005",
+  "targetId": "inat-taxon-1024536",
+  "scientificName": "Rabelera holostea",
+  "nameJa": "アワユキハコベ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:19:05+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:19:05+00:00",
+  "files": {
+    "master": "images/rabelera-holostea/inat-491363005.jpg",
+    "web": "images/rabelera-holostea/inat-491363005.webp",
+    "thumbnail": "images/rabelera-holostea/inat-491363005-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1022710,
+    "web": 186342,
+    "thumbnail": 12486
+  },
+  "sha256": {
+    "download": "1a03b3a1db7d85e5b1ce12df09d9c47caa50f6da362ea6f9fd798516ce1c818c",
+    "master": "f915ef9f9c157b97b29dda9e43f4dd9d976145b3ccf31b610349b9bf3849bd1f",
+    "web": "aefccd90f462ef209036ffbe8808a79a42ebf6b0e28e8d8b36519c28255049ab"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Rabelera holostea [Rabelera holostea] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/491363005. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Rabelera holostea",
+  "sourceId": "491363005",
+  "photoUrl": "https://www.inaturalist.org/photos/491363005",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/491363005/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/491363005/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 1024536,
+  "acceptedScientificName": "Rabelera holostea",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/273168776",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.259047619047617,
+  "photoApiEvidence": {
+    "id": 491363005,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491363005/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47366/48567/791419/1024535",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47366,48567,791419,1024535,1024536",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 1024536,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1024535,
+    "name": "Rabelera holostea",
+    "rank": "species",
+    "extinct": false,
+    "id": 1024536,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47366,
+      48567,
+      791419,
+      1024535,
+      1024536
+    ],
+    "created_at": "2020-02-01T02:31:10+00:00",
+    "default_photo": {
+      "id": 731378,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Anne Sorbes, some rights reserved (CC BY-NC-SA), uploaded by Anne Sorbes",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/731378/square.jpg",
+      "original_dimensions": {
+        "height": 1500,
+        "width": 1500
+      },
+      "flags": [],
+      "attribution_name": "Anne Sorbes",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/731378/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/731378/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 0,
+    "observations_count": 69677,
+    "photos_locked": false,
+    "universal_search_rank": 69677,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rabelera",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "greater stitchwort"
+  },
+  "rawMetadataPath": "metadata/rabelera-holostea/inat-491363005.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/rabelera-holostea--inat-491363005.json"
+}

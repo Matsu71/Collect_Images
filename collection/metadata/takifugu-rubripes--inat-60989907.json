@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-60989907",
+  "targetId": "org-takifugu-rubripes",
+  "scientificName": "Takifugu rubripes",
+  "nameJa": "トラフグ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:09:24+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:09:24+00:00",
+  "files": {
+    "master": "images/takifugu-rubripes/inat-60989907.jpg",
+    "web": "images/takifugu-rubripes/inat-60989907.webp",
+    "thumbnail": "images/takifugu-rubripes/inat-60989907-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      776
+    ],
+    "master": [
+      2048,
+      776
+    ],
+    "web": [
+      1400,
+      530
+    ]
+  },
+  "bytes": {
+    "master": 520129,
+    "web": 124374,
+    "thumbnail": 9762
+  },
+  "sha256": {
+    "download": "1b73d37adfe08b188379bee6f6314fc7150612b0be055c0f13783af39cf128b9",
+    "master": "cc1fd8687884c9ec31491e758b08bf15e1c5f1cccd0ad4443cd586b7825a24bc",
+    "web": "829f4229f5b6ac6eb26fa770784915a857784db030138c2d025a7a700cfa264e"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Takifugu rubripes [Takifugu rubripes] — Totti / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/60989907. Original attribution: (c) Totti, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Takifugu rubripes",
+  "sourceId": "60989907",
+  "photoUrl": "https://www.inaturalist.org/photos/60989907",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60989907/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60989907/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Totti",
+  "originalAttribution": "(c) Totti, some rights reserved (CC BY-SA)",
+  "taxonId": 119404,
+  "acceptedScientificName": "Takifugu rubripes",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Actinopterygii",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 4.1085714285714285,
+  "photoApiEvidence": {
+    "id": 60989907,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Totti, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60989907/square.jpg",
+    "original_dimensions": {
+      "height": 776,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Totti",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60989907/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60989907/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/takifugu-rubripes/inat-60989907.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY-SA 4.0",
+  "metadataPath": "collection/metadata/takifugu-rubripes--inat-60989907.json"
+}

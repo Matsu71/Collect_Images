@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-615864130",
+  "targetId": "org-balaenoptera-musculus",
+  "scientificName": "Balaenoptera musculus",
+  "nameJa": "シロナガスクジラ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 57,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "部分・生態・環境等の補足用。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:54:59+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:54:59+00:00",
+  "files": {
+    "master": "images/balaenoptera-musculus/inat-615864130.jpg",
+    "web": "images/balaenoptera-musculus/inat-615864130.webp",
+    "thumbnail": "images/balaenoptera-musculus/inat-615864130-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 661603,
+    "web": 172334,
+    "thumbnail": 10812
+  },
+  "sha256": {
+    "download": "053ba546881e9c4fd6fe741728ea2657439f6aa97ef82b9b81dd1a0a3e5fa6eb",
+    "master": "5dd6c9375cd74d60357038a417e70897f5b645d23e8ed959758e4a66b2f2786a",
+    "web": "54da32de2ab9c8e945c2849050ac00fba0688c82bbdefba91273564b5306a1bf"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Balaenoptera musculus [Balaenoptera musculus] — Tomás Tamagno / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/615864130. Original attribution: (c) Tomás Tamagno, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Balaenoptera musculus",
+  "sourceId": "615864130",
+  "photoUrl": "https://www.inaturalist.org/photos/615864130",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/615864130/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/615864130/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Tomás Tamagno",
+  "originalAttribution": "(c) Tomás Tamagno, some rights reserved (CC BY)",
+  "taxonId": 41553,
+  "acceptedScientificName": "Balaenoptera musculus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/338634606",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 615864130,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615864130/square.jpg",
+    "attribution": "(c) Tomás Tamagno, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/925158/152871/424321/41546/41547/41553",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,152870,925158,152871,424321,41546,41547,41553",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 41553,
+    "threatened": true,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 41553,
+    "name": "Balaenoptera musculus intermedia",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 147551,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      152870,
+      925158,
+      152871,
+      424321,
+      41546,
+      41547,
+      41553,
+      147551
+    ],
+    "created_at": "2012-09-08T01:22:25+00:00",
+    "default_photo": {
+      "id": 464391289,
+      "license_code": null,
+      "attribution": "(c) Alice Forrest, all rights reserved, uploaded by Alice Forrest",
+      "url": "https://static.inaturalist.org/photos/464391289/square.jpg",
+      "original_dimensions": {
+        "height": 900,
+        "width": 1600
+      },
+      "flags": [],
+      "attribution_name": "Alice Forrest",
+      "square_url": "https://static.inaturalist.org/photos/464391289/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/464391289/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 36,
+    "photos_locked": false,
+    "universal_search_rank": 36,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Blue_whale",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Antarctic Blue Whale",
+    "conservation_status": {
+      "id": 45856,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "cr",
+      "status_name": "critically endangered",
+      "geoprivacy": "obscured",
+      "iucn": 50
+    }
+  },
+  "rawMetadataPath": "metadata/balaenoptera-musculus/inat-615864130.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/balaenoptera-musculus--inat-615864130.json"
+}

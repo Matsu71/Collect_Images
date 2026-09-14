@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-268440866",
+  "targetId": "org-phalacrocorax-carbo",
+  "scientificName": "Phalacrocorax carbo",
+  "nameJa": "カワウ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:05:49+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:05:49+00:00",
+  "files": {
+    "master": "images/phalacrocorax-carbo/inat-268440866.jpg",
+    "web": "images/phalacrocorax-carbo/inat-268440866.webp",
+    "thumbnail": "images/phalacrocorax-carbo/inat-268440866-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1638,
+      2048
+    ],
+    "master": [
+      1638,
+      2048
+    ],
+    "web": [
+      1120,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 958784,
+    "web": 159954,
+    "thumbnail": 9848
+  },
+  "sha256": {
+    "download": "ada60f8a69f60518681dce7b6b4867d93d38a4276b8f49ea6c6cdd90bdf308a6",
+    "master": "4ce76e3be1cf7817a36ce80d4a6906987626cd4a070f6a2a3042581980d3f9b5",
+    "web": "de2267cef78edacfa4be2e66924ad11ddd75ca112dd7ad5b96da2866abad085f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Phalacrocorax carbo [Phalacrocorax carbo] — Pavan P Bharadwaj / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/268440866. Original attribution: (c) Pavan P Bharadwaj, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Phalacrocorax carbo",
+  "sourceId": "268440866",
+  "photoUrl": "https://www.inaturalist.org/photos/268440866",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/268440866/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/268440866/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Pavan P Bharadwaj",
+  "originalAttribution": "(c) Pavan P Bharadwaj, some rights reserved (CC BY)",
+  "taxonId": 4270,
+  "acceptedScientificName": "Phalacrocorax carbo",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/155304815",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.006666666666667,
+  "photoApiEvidence": {
+    "id": 268440866,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1638,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268440866/square.jpeg",
+    "attribution": "(c) Pavan P Bharadwaj, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/71268/4262/4263",
+    "min_species_ancestry": "48460,1,2,355675,3,71268,4262,4263,4270",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 4270,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 4263,
+    "name": "Phalacrocorax carbo",
+    "rank": "species",
+    "extinct": false,
+    "id": 4270,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      71268,
+      4262,
+      4263,
+      4270
+    ],
+    "provisional": false,
+    "created_at": "2008-03-13T02:44:52+00:00",
+    "default_photo": {
+      "id": 141367445,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Дмитрий Осипов, some rights reserved (CC BY-NC), uploaded by Дмитрий Осипов",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141367445/square.jpg",
+      "original_dimensions": {
+        "height": 1366,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Дмитрий Осипов",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141367445/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141367445/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 8,
+    "observations_count": 174546,
+    "photos_locked": false,
+    "universal_search_rank": 174546,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 142974,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_cormorant",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Great Cormorant"
+  },
+  "rawMetadataPath": "metadata/phalacrocorax-carbo/inat-268440866.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/phalacrocorax-carbo--inat-268440866.json"
+}

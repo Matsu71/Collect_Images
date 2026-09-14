@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-323206572",
+  "targetId": "org-pseudonaja-textilis",
+  "scientificName": "Pseudonaja textilis",
+  "nameJa": "イースタンブラウンスネーク",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:07:02+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:07:02+00:00",
+  "files": {
+    "master": "images/pseudonaja-textilis/inat-323206572.jpg",
+    "web": "images/pseudonaja-textilis/inat-323206572.webp",
+    "thumbnail": "images/pseudonaja-textilis/inat-323206572-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1077417,
+    "web": 315902,
+    "thumbnail": 19152
+  },
+  "sha256": {
+    "download": "79fc54733997ebf1f2256485cfb8d39f9a8b80b1685be06dab23f7161f8ab9bb",
+    "master": "1f246c44faf3fcdc6cc7ad98c4de72a6a452a27ddecd75010002f36d6ae6cd89",
+    "web": "8fb34a1b606fdaeb0e2b63e1f61954158ffa426a62a5abf9d87282496e09afbb"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Pseudonaja textilis [Pseudonaja textilis] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/323206572. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Pseudonaja textilis",
+  "sourceId": "323206572",
+  "photoUrl": "https://www.inaturalist.org/photos/323206572",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/323206572/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/323206572/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 35140,
+  "acceptedScientificName": "Pseudonaja textilis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": "https://www.inaturalist.org/observations/185095426",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 323206572,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/323206572/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/26172/85553/30403/492346/35139",
+    "min_species_ancestry": "48460,1,2,355675,26036,26172,85553,30403,492346,35139,35140",
+    "endemic": false,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 35140,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 35139,
+    "name": "Pseudonaja textilis",
+    "rank": "species",
+    "extinct": false,
+    "id": 35140,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      26172,
+      85553,
+      30403,
+      492346,
+      35139,
+      35140
+    ],
+    "created_at": "2008-03-18T02:21:23+00:00",
+    "default_photo": {
+      "id": 388848890,
+      "license_code": null,
+      "attribution": "(c) Tom Frisby, all rights reserved, uploaded by Tom Frisby",
+      "url": "https://static.inaturalist.org/photos/388848890/square.jpg",
+      "original_dimensions": {
+        "height": 1324,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Tom Frisby",
+      "square_url": "https://static.inaturalist.org/photos/388848890/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/388848890/medium.jpg"
+    },
+    "taxon_changes_count": 3,
+    "taxon_schemes_count": 3,
+    "observations_count": 5147,
+    "photos_locked": false,
+    "universal_search_rank": 5147,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eastern_brown_snake",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "Eastern Brown Snake"
+  },
+  "rawMetadataPath": "metadata/pseudonaja-textilis/inat-323206572.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/pseudonaja-textilis--inat-323206572.json"
+}

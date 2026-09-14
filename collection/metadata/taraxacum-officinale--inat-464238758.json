@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-464238758",
+  "targetId": "inat-taxon-47602",
+  "scientificName": "Taraxacum officinale",
+  "nameJa": "セイヨウタンポポ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:13:23+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:13:23+00:00",
+  "files": {
+    "master": "images/taraxacum-officinale/inat-464238758.jpg",
+    "web": "images/taraxacum-officinale/inat-464238758.webp",
+    "thumbnail": "images/taraxacum-officinale/inat-464238758-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1932
+    ],
+    "master": [
+      2048,
+      1932
+    ],
+    "web": [
+      1400,
+      1321
+    ]
+  },
+  "bytes": {
+    "master": 852386,
+    "web": 193868,
+    "thumbnail": 27834
+  },
+  "sha256": {
+    "download": "2b005822cff540bfdaff0776213b33a6c9107935e72f873f0db9d1dcf69b74c4",
+    "master": "c79b1a0362da1088fa33a921a901d2af325987b0e86935187327943d230d982f",
+    "web": "20d3d32142341d6b8ccd7fc4c9088eec5c4944d3c683b8a6373501c92ba5f916"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Taraxacum officinale [Taraxacum officinale] — Daughter Dad / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/464238758. Original attribution: (c) Daughter Dad, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Taraxacum officinale",
+  "sourceId": "464238758",
+  "photoUrl": "https://www.inaturalist.org/photos/464238758",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/464238758/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/464238758/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Daughter Dad",
+  "originalAttribution": "(c) Daughter Dad, some rights reserved (CC BY)",
+  "taxonId": 47602,
+  "acceptedScientificName": "Taraxacum officinale",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/258709999",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.76,
+  "photoApiEvidence": {
+    "id": 464238758,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1932
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464238758/square.jpg",
+    "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47605/47604/447425/359450/632701/47603/967514",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47605,47604,447425,359450,632701,47603,967514,47602",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 47602,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 967514,
+    "name": "Taraxacum officinale",
+    "rank": "species",
+    "extinct": false,
+    "id": 47602,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47605,
+      47604,
+      447425,
+      359450,
+      632701,
+      47603,
+      967514,
+      47602
+    ],
+    "created_at": "2008-06-03T13:52:07+00:00",
+    "default_photo": {
+      "id": 23575133,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Paul Reeves, some rights reserved (CC BY-NC-SA), uploaded by Paul Reeves",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23575133/square.jpg",
+      "original_dimensions": {
+        "height": 1200,
+        "width": 1800
+      },
+      "flags": [],
+      "attribution_name": "Paul Reeves",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23575133/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23575133/medium.jpg"
+    },
+    "taxon_changes_count": 4,
+    "taxon_schemes_count": 7,
+    "observations_count": 286782,
+    "photos_locked": false,
+    "universal_search_rank": 286782,
+    "flag_counts": {
+      "resolved": 5,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Taraxacum_officinale",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "common dandelion"
+  },
+  "rawMetadataPath": "metadata/taraxacum-officinale/inat-464238758.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/taraxacum-officinale--inat-464238758.json"
+}

@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-27141847",
+  "targetId": "org-aedes-aegypti",
+  "scientificName": "Aedes aegypti",
+  "nameJa": "ネッタイシマカ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 7,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:53:16+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:53:16+00:00",
+  "files": {
+    "master": "images/aedes-aegypti/inat-27141847.jpg",
+    "web": "images/aedes-aegypti/inat-27141847.webp",
+    "thumbnail": "images/aedes-aegypti/inat-27141847-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1989,
+      2048
+    ],
+    "master": [
+      1989,
+      2048
+    ],
+    "web": [
+      1360,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 482721,
+    "web": 84092,
+    "thumbnail": 7610
+  },
+  "sha256": {
+    "download": "b473dea461386f629ed147f3bd6cf6976adb52894f7bdf74c2bf63ca117622e0",
+    "master": "bedd1e11a312f14b3d5fd814007eac6c0de2e5e298dbcb3b66d16a5f3de36fc5",
+    "web": "de99015357a004488a1efe898c5baad574ec601a1b7837db393237dfcb91a2b1"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Aedes aegypti [Aedes aegypti] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/27141847. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Aedes aegypti",
+  "sourceId": "27141847",
+  "photoUrl": "https://www.inaturalist.org/photos/27141847",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/27141847/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/27141847/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 155453,
+  "acceptedScientificName": "Aedes aegypti",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/17789627",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.174761904761905,
+  "photoApiEvidence": {
+    "id": 27141847,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1989,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27141847/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47822/154259/153429/513826/52134/357355/505234/62989/1112153",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47822,154259,153429,513826,52134,357355,505234,62989,1112153,155453",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 155453,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1112153,
+    "name": "Aedes aegypti",
+    "rank": "species",
+    "extinct": false,
+    "id": 155453,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47822,
+      154259,
+      153429,
+      513826,
+      52134,
+      357355,
+      505234,
+      62989,
+      1112153,
+      155453
+    ],
+    "provisional": false,
+    "created_at": "2012-10-19T10:19:06+00:00",
+    "default_photo": {
+      "id": 184123743,
+      "license_code": null,
+      "attribution": "(c) Consuelo Hernández, all rights reserved, uploaded by Consuelo Hernández",
+      "url": "https://static.inaturalist.org/photos/184123743/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Consuelo Hernández",
+      "square_url": "https://static.inaturalist.org/photos/184123743/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/184123743/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 2,
+    "observations_count": 7789,
+    "photos_locked": false,
+    "universal_search_rank": 7789,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 28785,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aedes_aegypti",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Yellow Fever Mosquito"
+  },
+  "rawMetadataPath": "metadata/aedes-aegypti/inat-27141847.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/aedes-aegypti--inat-27141847.json"
+}

@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-115808000",
+  "targetId": "org-acetabularia-acetabulum",
+  "scientificName": "Acetabularia acetabulum",
+  "nameJa": "カサノリ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 3,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:53:05+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:53:05+00:00",
+  "files": {
+    "master": "images/acetabularia-acetabulum/inat-115808000.jpg",
+    "web": "images/acetabularia-acetabulum/inat-115808000.webp",
+    "thumbnail": "images/acetabularia-acetabulum/inat-115808000-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2000,
+      1330
+    ],
+    "master": [
+      2000,
+      1330
+    ],
+    "web": [
+      1400,
+      931
+    ]
+  },
+  "bytes": {
+    "master": 785622,
+    "web": 185194,
+    "thumbnail": 21758
+  },
+  "sha256": {
+    "download": "9833fc6f24af6ff6074f58a0ca36c8a62799ac62906e67d789b53b015792befb",
+    "master": "39eedd11f38c72a99247cab1bdb080faa4d0146d5314ae06a5c558e82c084616",
+    "web": "8968872acf3fc966cb800601f0b77dd5cbbc22608f0bed642a78bbcf2be49b74"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Acetabularia acetabulum [Acetabularia acetabulum] — Bernard Picton / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/115808000. Original attribution: (c) Bernard Picton, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Acetabularia acetabulum",
+  "sourceId": "115808000",
+  "photoUrl": "https://www.inaturalist.org/photos/115808000",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/115808000/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/115808000/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Bernard Picton",
+  "originalAttribution": "(c) Bernard Picton, some rights reserved (CC BY)",
+  "taxonId": 59704,
+  "acceptedScientificName": "Acetabularia acetabulum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/71158259",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.9,
+  "photoApiEvidence": {
+    "id": 115808000,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2000,
+      "height": 1330
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115808000/square.jpg",
+    "attribution": "(c) Bernard Picton, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/50863/51429/152730/59720/59718",
+    "min_species_ancestry": "48460,47126,50863,51429,152730,59720,59718,59704",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 59704,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 59718,
+    "name": "Acetabularia acetabulum",
+    "rank": "species",
+    "extinct": false,
+    "id": 59704,
+    "ancestor_ids": [
+      48460,
+      47126,
+      50863,
+      51429,
+      152730,
+      59720,
+      59718,
+      59704
+    ],
+    "provisional": false,
+    "created_at": "2010-04-19T18:29:08+02:00",
+    "default_photo": {
+      "id": 184359972,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Falk Viczian Solarboot-Projekte gGmbH, sommige rechten voorbehouden (CC BY-NC), geüpload door Falk Viczian Solarboot-Projekte gGmbH",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184359972/square.jpg",
+      "original_dimensions": {
+        "height": 1152,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Falk Viczian Solarboot-Projekte gGmbH",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184359972/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184359972/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 1849,
+    "photos_locked": false,
+    "universal_search_rank": 1849,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Acetabularia_acetabulum",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Mermaid's wine glass"
+  },
+  "rawMetadataPath": "metadata/acetabularia-acetabulum/inat-115808000.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/acetabularia-acetabulum--inat-115808000.json"
+}

@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-421927710",
+  "targetId": "org-crotalus-atrox",
+  "scientificName": "Crotalus atrox",
+  "nameJa": "ニシダイヤガラガラヘビ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 136,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:57:52+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:57:52+00:00",
+  "files": {
+    "master": "images/crotalus-atrox/inat-421927710.jpg",
+    "web": "images/crotalus-atrox/inat-421927710.webp",
+    "thumbnail": "images/crotalus-atrox/inat-421927710-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1160265,
+    "web": 298946,
+    "thumbnail": 23746
+  },
+  "sha256": {
+    "download": "0754f1faf821aee886cb348c8c1ebc38055d77ddfe94fabf41b1f77049847ead",
+    "master": "576b4db0f78fde0b0f80277ccb0351f6f025ecdd6d14656faa85a1314a2ddf63",
+    "web": "8042af85cccee4a994bfbe44183b49a897c43ed5663dd588785a30ce5c56ac87"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Crotalus atrox [Crotalus atrox] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/421927710. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Crotalus atrox",
+  "sourceId": "421927710",
+  "photoUrl": "https://www.inaturalist.org/photos/421927710",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/421927710/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/421927710/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 30764,
+  "acceptedScientificName": "Crotalus atrox",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": "https://www.inaturalist.org/observations/237106295",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 421927710,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/421927710/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797576/30692",
+    "min_species_ancestry": "48460,1,2,355675,26036,26172,85553,30667,797576,30692,30764",
+    "endemic": false,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 30764,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 30692,
+    "name": "Crotalus atrox",
+    "rank": "species",
+    "extinct": false,
+    "id": 30764,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      26172,
+      85553,
+      30667,
+      797576,
+      30692,
+      30764
+    ],
+    "created_at": "2008-03-18T01:27:46+00:00",
+    "default_photo": {
+      "id": 3113494,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Gerson Herrera, some rights reserved (CC BY-NC), uploaded by Gerson Herrera",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3113494/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Gerson Herrera",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3113494/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3113494/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 7,
+    "observations_count": 31854,
+    "photos_locked": false,
+    "universal_search_rank": 31854,
+    "flag_counts": {
+      "resolved": 4,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 147,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Western_diamondback_rattlesnake",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "Western Diamond-backed Rattlesnake"
+  },
+  "rawMetadataPath": "metadata/crotalus-atrox/inat-421927710.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/crotalus-atrox--inat-421927710.json"
+}

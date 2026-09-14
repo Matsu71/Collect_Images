@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-10227172",
+  "targetId": "org-nymphaea-alba",
+  "scientificName": "Nymphaea alba",
+  "nameJa": "セイヨウスイレン",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:04:25+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:04:25+00:00",
+  "files": {
+    "master": "images/nymphaea-alba/inat-10227172.jpg",
+    "web": "images/nymphaea-alba/inat-10227172.webp",
+    "thumbnail": "images/nymphaea-alba/inat-10227172-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 515200,
+    "web": 106990,
+    "thumbnail": 12390
+  },
+  "sha256": {
+    "download": "694c050ee9e965aab0a052b994ca6fe4d66a48e30a69a82e3fb8737b061067f1",
+    "master": "5b89001df8de19f8db3ec382b8f7e66c825bc5847c4f5ec1979df17ebb1ca6b2",
+    "web": "983e0a4a4084f115e396537721cc8e850a29b2f7989307523896ca29c9d8217c"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Nymphaea alba [Nymphaea alba] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/10227172. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Nymphaea alba",
+  "sourceId": "10227172",
+  "photoUrl": "https://www.inaturalist.org/photos/10227172",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10227172/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10227172/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 62009,
+  "acceptedScientificName": "Nymphaea alba",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/7782539",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.194285714285714,
+  "photoApiEvidence": {
+    "id": 10227172,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10227172/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/51120/51121/51122/1693361/1693360",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,51120,51121,51122,1693361,1693360,62009",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 62009,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1693360,
+    "name": "Nymphaea alba",
+    "rank": "species",
+    "extinct": false,
+    "id": 62009,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      51120,
+      51121,
+      51122,
+      1693361,
+      1693360,
+      62009
+    ],
+    "created_at": "2010-06-26T12:49:58+00:00",
+    "default_photo": {
+      "id": 169681028,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Kristin A. Bakkegard, some rights reserved (CC BY-NC), uploaded by Kristin A. Bakkegard",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/169681028/square.jpeg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Kristin A. Bakkegard",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/169681028/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/169681028/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 14715,
+    "photos_locked": false,
+    "universal_search_rank": 14715,
+    "flag_counts": {
+      "resolved": 6,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nymphaea_alba",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "European White Waterlily"
+  },
+  "rawMetadataPath": "metadata/nymphaea-alba/inat-10227172.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生植物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/nymphaea-alba--inat-10227172.json"
+}

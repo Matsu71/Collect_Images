@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-32948726",
+  "targetId": "inat-taxon-1579017",
+  "scientificName": "Astur cooperii",
+  "nameJa": "クーパーハイタカ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:18:56+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:18:56+00:00",
+  "files": {
+    "master": "images/astur-cooperii/inat-32948726.jpg",
+    "web": "images/astur-cooperii/inat-32948726.webp",
+    "thumbnail": "images/astur-cooperii/inat-32948726-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1562
+    ],
+    "master": [
+      2048,
+      1562
+    ],
+    "web": [
+      1400,
+      1068
+    ]
+  },
+  "bytes": {
+    "master": 583744,
+    "web": 123758,
+    "thumbnail": 12406
+  },
+  "sha256": {
+    "download": "27db56b1f6d81aa3e79ed4aa62890a5ec8718c0c659e08307928ff86edfcbf82",
+    "master": "3583338b65e3d10680ed19a0ac9284c9f73764c536ddc59a1bbba0e375c16e75",
+    "web": "5d32d7b340efc5d8a10d18bb51f4d51793fab33f8fc8a21eeee5d1ba5f298675"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Astur cooperii [Astur cooperii] — Annika Lindqvist / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/32948726. Original attribution: (c) Annika Lindqvist, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Astur cooperii",
+  "sourceId": "32948726",
+  "photoUrl": "https://www.inaturalist.org/photos/32948726",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32948726/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32948726/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Annika Lindqvist",
+  "originalAttribution": "(c) Annika Lindqvist, some rights reserved (CC BY)",
+  "taxonId": 1579017,
+  "acceptedScientificName": "Astur cooperii",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/21306664",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.231428571428571,
+  "photoApiEvidence": {
+    "id": 32948726,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1562
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32948726/square.jpeg",
+    "attribution": "(c) Annika Lindqvist, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/71261/5067/1541538/1577581",
+    "min_species_ancestry": "48460,1,2,355675,3,71261,5067,1541538,1577581,1579017",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 1579017,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1577581,
+    "name": "Astur cooperii",
+    "rank": "species",
+    "extinct": false,
+    "id": 1579017,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      71261,
+      5067,
+      1541538,
+      1577581,
+      1579017
+    ],
+    "created_at": "2024-09-30T19:45:03+00:00",
+    "default_photo": {
+      "id": 170370008,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Abby Sesselberg, some rights reserved (CC BY-NC), uploaded by Abby Sesselberg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/170370008/square.jpg",
+      "original_dimensions": {
+        "height": 1828,
+        "width": 2044
+      },
+      "flags": [],
+      "attribution_name": "Abby Sesselberg",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/170370008/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/170370008/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 0,
+    "observations_count": 157419,
+    "photos_locked": false,
+    "universal_search_rank": 157419,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 145074,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cooper's_hawk",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Cooper's Hawk"
+  },
+  "rawMetadataPath": "metadata/astur-cooperii/inat-32948726.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/astur-cooperii--inat-32948726.json"
+}

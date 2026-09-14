@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-474812609",
+  "targetId": "org-lutra-lutra",
+  "scientificName": "Lutra lutra",
+  "nameJa": "ユーラシアカワウソ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:02:38+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:02:38+00:00",
+  "files": {
+    "master": "images/lutra-lutra/inat-474812609.jpg",
+    "web": "images/lutra-lutra/inat-474812609.webp",
+    "thumbnail": "images/lutra-lutra/inat-474812609-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1366
+    ],
+    "master": [
+      2048,
+      1366
+    ],
+    "web": [
+      1400,
+      934
+    ]
+  },
+  "bytes": {
+    "master": 822164,
+    "web": 182474,
+    "thumbnail": 22916
+  },
+  "sha256": {
+    "download": "e81046ab3bc613df95962bc059d3986b1b5359514cf1b3e4ac0d72f2444113c4",
+    "master": "97e4e2713e0b968b58f72a1885b6f368f442ad46a305dd2283facf57679ff53d",
+    "web": "d464ef0bcde0def4d5a9af1a85e6f8d05032399bb9c49a64637e440aa1a745a5"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Lutra lutra [Lutra lutra] — Diego González Dopico / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/474812609. Original attribution: (c) Diego González Dopico, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Lutra lutra",
+  "sourceId": "474812609",
+  "photoUrl": "https://www.inaturalist.org/photos/474812609",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/474812609/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/474812609/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Diego González Dopico",
+  "originalAttribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+  "taxonId": 41850,
+  "acceptedScientificName": "Lutra lutra",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/226887382",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.284761904761906,
+  "photoApiEvidence": {
+    "id": 474812609,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1366
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474812609/square.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/41770/526556/41848",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,41770,526556,41848,41850",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 41850,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 41848,
+    "name": "Lutra lutra",
+    "rank": "species",
+    "extinct": false,
+    "id": 41850,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      41770,
+      526556,
+      41848,
+      41850
+    ],
+    "created_at": "2008-03-19T00:36:51+00:00",
+    "default_photo": {
+      "id": 100389336,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Tomi Tirkkonen, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100389336/square.jpg",
+      "original_dimensions": {
+        "height": 800,
+        "width": 1200
+      },
+      "flags": [],
+      "attribution_name": "Tomi Tirkkonen",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100389336/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100389336/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 11508,
+    "photos_locked": false,
+    "universal_search_rank": 11508,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 13184,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_otter",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Eurasian Otter",
+    "conservation_status": {
+      "id": 15824,
+      "place_id": null,
+      "source_id": 15286,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "nt",
+      "status_name": "near threatened",
+      "geoprivacy": "obscured",
+      "iucn": 20
+    }
+  },
+  "rawMetadataPath": "metadata/lutra-lutra/inat-474812609.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/lutra-lutra--inat-474812609.json"
+}

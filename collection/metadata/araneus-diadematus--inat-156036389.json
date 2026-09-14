@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-156036389",
+  "targetId": "inat-taxon-52628",
+  "scientificName": "Araneus diadematus",
+  "nameJa": "ニワオニグモ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:16:03+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:16:03+00:00",
+  "files": {
+    "master": "images/araneus-diadematus/inat-156036389.jpg",
+    "web": "images/araneus-diadematus/inat-156036389.webp",
+    "thumbnail": "images/araneus-diadematus/inat-156036389-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1701
+    ],
+    "master": [
+      2048,
+      1701
+    ],
+    "web": [
+      1400,
+      1163
+    ]
+  },
+  "bytes": {
+    "master": 779950,
+    "web": 150834,
+    "thumbnail": 10626
+  },
+  "sha256": {
+    "download": "b4d796320714af8ab66db5ae6340787cd6e9c78e6d3385065b95a47c065dc84a",
+    "master": "f7516642a61893636984035b02bb3897c25ee4de0dd3692791cd3977e7b67e1d",
+    "web": "ff9eb0d02cd0b0d7298d29128cc2f6a050f849c9804ee675f879a60bedc2bd67"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Araneus diadematus [Araneus diadematus] — hedera.baltica / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/156036389. Original attribution: (c) hedera.baltica, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Araneus diadematus",
+  "sourceId": "156036389",
+  "photoUrl": "https://www.inaturalist.org/photos/156036389",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/156036389/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/156036389/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "hedera.baltica",
+  "originalAttribution": "(c) hedera.baltica, some rights reserved (CC BY-SA)",
+  "taxonId": 52628,
+  "acceptedScientificName": "Araneus diadematus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Arachnida",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.43,
+  "photoApiEvidence": {
+    "id": 156036389,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) hedera.baltica, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/156036389/square.jpg",
+    "original_dimensions": {
+      "height": 1701,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "hedera.baltica",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/156036389/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/156036389/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/araneus-diadematus/inat-156036389.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY-SA 4.0",
+  "metadataPath": "collection/metadata/araneus-diadematus--inat-156036389.json"
+}

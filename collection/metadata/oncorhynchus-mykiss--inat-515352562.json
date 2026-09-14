@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-515352562",
+  "targetId": "org-oncorhynchus-mykiss",
+  "scientificName": "Oncorhynchus mykiss",
+  "nameJa": "ニジマス",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:04:38+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:04:38+00:00",
+  "files": {
+    "master": "images/oncorhynchus-mykiss/inat-515352562.jpg",
+    "web": "images/oncorhynchus-mykiss/inat-515352562.webp",
+    "thumbnail": "images/oncorhynchus-mykiss/inat-515352562-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1920,
+      1080
+    ],
+    "master": [
+      1920,
+      1080
+    ],
+    "web": [
+      1400,
+      788
+    ]
+  },
+  "bytes": {
+    "master": 206269,
+    "web": 49798,
+    "thumbnail": 3606
+  },
+  "sha256": {
+    "download": "1e916086a1cf1468b63ad502c38d5af92701f1d2045e215d4d55ca98186fb11c",
+    "master": "2efb4c9947dcf311b6d18502b5668ced367b8743cd8819c5d6e6083ff30d9db3",
+    "web": "471fcc8eef9294cb62a4f119bbd26857ec8587e3b1485588851b3ecf2c5269b7"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Oncorhynchus mykiss [Oncorhynchus mykiss] — Mike Heine / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/515352562. Original attribution: (c) Mike Heine, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Oncorhynchus mykiss",
+  "sourceId": "515352562",
+  "photoUrl": "https://www.inaturalist.org/photos/515352562",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/515352562/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/515352562/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Mike Heine",
+  "originalAttribution": "(c) Mike Heine, some rights reserved (CC BY)",
+  "taxonId": 47516,
+  "acceptedScientificName": "Oncorhynchus mykiss",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Actinopterygii",
+  "observationUrl": "https://www.inaturalist.org/observations/286654424",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.876190476190477,
+  "photoApiEvidence": {
+    "id": 515352562,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1920,
+      "height": 1080
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515352562/square.jpg",
+    "attribution": "(c) Mike Heine, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/47178/47521/1555655/47520/342904/47522/47516",
+    "min_species_ancestry": "48460,1,2,355675,47178,47521,1555655,47520,342904,47522,47516",
+    "endemic": false,
+    "iconic_taxon_id": 47178,
+    "min_species_taxon_id": 47516,
+    "threatened": true,
+    "rank_level": 5,
+    "introduced": false,
+    "native": true,
+    "parent_id": 47516,
+    "name": "Oncorhynchus mykiss irideus",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 143607,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      47178,
+      47521,
+      1555655,
+      47520,
+      342904,
+      47522,
+      47516,
+      143607
+    ],
+    "created_at": "2012-08-14T22:05:10+00:00",
+    "default_photo": {
+      "id": 630803558,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) fuzzy little duckling, some rights reserved (CC BY-NC), uploaded by fuzzy little duckling",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630803558/square.jpg",
+      "original_dimensions": {
+        "height": 1325,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "fuzzy little duckling",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630803558/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630803558/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 2399,
+    "photos_locked": false,
+    "universal_search_rank": 2399,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rainbow_trout",
+    "iconic_taxon_name": "Actinopterygii",
+    "preferred_common_name": "Coastal Rainbow Trout"
+  },
+  "rawMetadataPath": "metadata/oncorhynchus-mykiss/inat-515352562.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/oncorhynchus-mykiss--inat-515352562.json"
+}

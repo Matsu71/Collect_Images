@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-09-14T01:22:30+00:00",
+  "targetCount": 1000,
+  "chronoearthTargetCount": 532,
+  "downloadedTargetCoverage": 727,
+  "chronoearthDownloadedCoverage": 518,
+  "rawStoredMetadataRecords": 1053,
+  "uniqueTaxonPhotoPairs": 1049,
+  "uniqueDownloadedImageAssets": 1048,
+  "duplicateStoredCopies": 4,
+  "visuallyScreenedTaxonPhotoPairs": 521,
+  "acceptedPhotographs": 491,
+  "acceptedTaxonCoverage": 389,
+  "primaryCandidatePhotoPairs": 372,
+  "primaryReadyTaxa": 322,
+  "chronoearthPrimaryReadyTaxa": 322,
+  "supplementaryPhotoPairs": 119,
+  "excludedPhotoPairs": 30,
+  "pendingReviewPhotoPairs": 528,
+  "acceptedLicenseCounts": {
+    "CC BY 4.0": 91,
+    "CC0 1.0": 67,
+    "CC BY 2.0": 41,
+    "CC BY-SA 3.0": 110,
+    "CC BY-SA 4.0": 140,
+    "CC BY-SA 2.0": 15,
+    "CC BY 3.0": 12,
+    "CC BY-SA 2.5": 9,
+    "CC BY 2.5": 6
+  },
+  "selectedPrimaryLicenseCounts": {
+    "CC0 1.0": 35,
+    "CC BY 4.0": 49,
+    "CC BY-SA 4.0": 106,
+    "CC BY-SA 3.0": 69,
+    "CC BY 2.0": 30,
+    "CC BY 3.0": 8,
+    "CC BY-SA 2.5": 8,
+    "CC BY 2.5": 5,
+    "CC BY-SA 2.0": 12
+  },
+  "imageFileHashAndDecodeValidation": "pass",
+  "attributionAndLicenseUrlValidation": "pass",
+  "reviewEvidence": [
+    {
+      "file": "reviews/screening-194.json",
+      "count": 194,
+      "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e"
+    },
+    {
+      "file": "reviews/screening-reference329.json",
+      "count": 329,
+      "snapshotCommit": "d2b536b235f86d76ab95961b3ac0b1b8357be1e8"
+    }
+  ],
+  "limitations": "Primary means composition-screened candidate, not expert re-identification, full-resolution audit, or a warranty of all possible third-party rights. Separate variants, life stages and microscopy are documented."
+}

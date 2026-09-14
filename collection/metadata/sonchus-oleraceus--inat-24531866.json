@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-24531866",
+  "targetId": "inat-taxon-53294",
+  "scientificName": "Sonchus oleraceus",
+  "nameJa": "ノゲシ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:16:19+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:16:19+00:00",
+  "files": {
+    "master": "images/sonchus-oleraceus/inat-24531866.jpg",
+    "web": "images/sonchus-oleraceus/inat-24531866.webp",
+    "thumbnail": "images/sonchus-oleraceus/inat-24531866-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 399749,
+    "web": 77280,
+    "thumbnail": 6982
+  },
+  "sha256": {
+    "download": "d8196f7d479e940dfb889e6544c1672d7d8924b3988cacf3048cf27c89e2424d",
+    "master": "606c359552d642ffa077f6f71f30a2119e086e4ec09f16097a495e2a4d84a347",
+    "web": "264d5fa09a6baf039d2c6c5479b1b67caf68611ed7fee4d9e9522bfac1f97815"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Sonchus oleraceus [Sonchus oleraceus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/24531866. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Sonchus oleraceus",
+  "sourceId": "24531866",
+  "photoUrl": "https://www.inaturalist.org/photos/24531866",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24531866/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24531866/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 53294,
+  "acceptedScientificName": "Sonchus oleraceus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/16327158",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 24531866,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24531866/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47605/47604/447425/359450/632703/53270",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47605,47604,447425,359450,632703,53270,53294",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 53294,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 53270,
+    "name": "Sonchus oleraceus",
+    "rank": "species",
+    "extinct": false,
+    "id": 53294,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47605,
+      47604,
+      447425,
+      359450,
+      632703,
+      53270,
+      53294
+    ],
+    "created_at": "2009-09-24T05:37:56+00:00",
+    "default_photo": {
+      "id": 131297526,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Jean-Philippe BASUYAUX, some rights reserved (CC BY-NC), uploaded by Jean-Philippe BASUYAUX",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131297526/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Jean-Philippe BASUYAUX",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131297526/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131297526/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 7,
+    "observations_count": 112236,
+    "photos_locked": false,
+    "universal_search_rank": 112236,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Sonchus_oleraceus",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Common Sow-thistle"
+  },
+  "rawMetadataPath": "metadata/sonchus-oleraceus/inat-24531866.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/sonchus-oleraceus--inat-24531866.json"
+}

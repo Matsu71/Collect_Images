@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-137233980",
+  "targetId": "inat-taxon-9744",
+  "scientificName": "Agelaius phoeniceus",
+  "nameJa": "ハゴロモガラス",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:12:23+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:12:23+00:00",
+  "files": {
+    "master": "images/agelaius-phoeniceus/inat-137233980.jpg",
+    "web": "images/agelaius-phoeniceus/inat-137233980.webp",
+    "thumbnail": "images/agelaius-phoeniceus/inat-137233980-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1933,
+      1933
+    ],
+    "master": [
+      1933,
+      1933
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 804342,
+    "web": 169416,
+    "thumbnail": 8436
+  },
+  "sha256": {
+    "download": "ba46fe19dcf368fa08292ba893a92faf370dcbf8209d10f4381a1c37ad1eb3ee",
+    "master": "9d3e66087fd247635533594849fd6c29c1c6f572298b65b79dbbb8437d203df7",
+    "web": "120dc704bb4ae5bab18fca5c84704a498d1cfaec04b9b04b506f774dafeb1a0d"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Agelaius phoeniceus [Agelaius phoeniceus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/137233980. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Agelaius phoeniceus",
+  "sourceId": "137233980",
+  "photoUrl": "https://www.inaturalist.org/photos/137233980",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/137233980/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/137233980/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 9744,
+  "acceptedScientificName": "Agelaius phoeniceus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/83552302",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.76142857142857,
+  "photoApiEvidence": {
+    "id": 137233980,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1933,
+      "height": 1933
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137233980/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/11989/9740",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,11989,9740,9744",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 9744,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 9740,
+    "name": "Agelaius phoeniceus",
+    "rank": "species",
+    "extinct": false,
+    "id": 9744,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      11989,
+      9740,
+      9744
+    ],
+    "created_at": "2008-03-13T03:02:26+00:00",
+    "default_photo": {
+      "id": 368048127,
+      "license_code": null,
+      "attribution": "(c) sdrov, all rights reserved, uploaded by sdrov",
+      "url": "https://static.inaturalist.org/photos/368048127/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "sdrov",
+      "square_url": "https://static.inaturalist.org/photos/368048127/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/368048127/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 9,
+    "observations_count": 314951,
+    "photos_locked": false,
+    "universal_search_rank": 314951,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 20815,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red-winged_blackbird",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Red-winged Blackbird"
+  },
+  "rawMetadataPath": "metadata/agelaius-phoeniceus/inat-137233980.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/agelaius-phoeniceus--inat-137233980.json"
+}

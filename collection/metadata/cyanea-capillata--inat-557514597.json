@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-557514597",
+  "targetId": "org-cyanea-capillata",
+  "scientificName": "Cyanea capillata",
+  "nameJa": "キタユウレイクラゲ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 140,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:57:57+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:57:57+00:00",
+  "files": {
+    "master": "images/cyanea-capillata/inat-557514597.jpg",
+    "web": "images/cyanea-capillata/inat-557514597.webp",
+    "thumbnail": "images/cyanea-capillata/inat-557514597-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 320644,
+    "web": 33306,
+    "thumbnail": 3880
+  },
+  "sha256": {
+    "download": "bc8f84cd3c5062b6b6ef35c30bcf1828301333755d15564422c27439aab22965",
+    "master": "801af4556478df7f602560179865ec23fea107d634263b1b791e8709360e3cab",
+    "web": "71312bf78c9f4f2affd882912def1f29ae03925d37e623a58d068fb635bbbb9f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Cyanea capillata [Cyanea capillata] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/557514597. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Cyanea capillata",
+  "sourceId": "557514597",
+  "photoUrl": "https://www.inaturalist.org/photos/557514597",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/557514597/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/557514597/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 69838,
+  "acceptedScientificName": "Cyanea capillata",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": "https://www.inaturalist.org/observations/308983497",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 557514597,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557514597/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/47534/48332/551480/48331/154710/154711",
+    "min_species_ancestry": "48460,1,47534,48332,551480,48331,154710,154711,69838",
+    "endemic": false,
+    "iconic_taxon_id": 1,
+    "min_species_taxon_id": 69838,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 154711,
+    "name": "Cyanea capillata",
+    "rank": "species",
+    "extinct": false,
+    "id": 69838,
+    "ancestor_ids": [
+      48460,
+      1,
+      47534,
+      48332,
+      551480,
+      48331,
+      154710,
+      154711,
+      69838
+    ],
+    "provisional": false,
+    "created_at": "2011-04-17T21:03:15+00:00",
+    "default_photo": {
+      "id": 112465681,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Daniel Rodrigues, some rights reserved (CC BY-NC), uploaded by Daniel Rodrigues",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112465681/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Daniel Rodrigues",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112465681/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112465681/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 5517,
+    "photos_locked": false,
+    "universal_search_rank": 5517,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lion's_mane_jellyfish",
+    "iconic_taxon_name": "Animalia",
+    "preferred_common_name": "Lion's Mane Jelly"
+  },
+  "rawMetadataPath": "metadata/cyanea-capillata/inat-557514597.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/cyanea-capillata--inat-557514597.json"
+}

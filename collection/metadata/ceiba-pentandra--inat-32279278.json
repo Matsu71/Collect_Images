@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-32279278",
+  "targetId": "org-ceiba-pentandra",
+  "scientificName": "Ceiba pentandra",
+  "nameJa": "カポック",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 106,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:56:45+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:56:45+00:00",
+  "files": {
+    "master": "images/ceiba-pentandra/inat-32279278.jpg",
+    "web": "images/ceiba-pentandra/inat-32279278.webp",
+    "thumbnail": "images/ceiba-pentandra/inat-32279278-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2000,
+      1428
+    ],
+    "master": [
+      2000,
+      1428
+    ],
+    "web": [
+      1400,
+      1000
+    ]
+  },
+  "bytes": {
+    "master": 686682,
+    "web": 182506,
+    "thumbnail": 17266
+  },
+  "sha256": {
+    "download": "251a47138db060ffd642878b29933bef647600cb3ba421d1c311164705049ea9",
+    "master": "a366953298b7ef81f50a291bb95ec7dd3ecf16916ad9465ac891dfac93543307",
+    "web": "0b7da7f22ea3fcc4f80247be73aafff31ef31bb37b9905a16bfe563caab2c3b5"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Ceiba pentandra [Ceiba pentandra] — Manuel Ortiz / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/32279278. Original attribution: no rights reserved, uploaded by Manuel Ortiz. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ceiba pentandra",
+  "sourceId": "32279278",
+  "photoUrl": "https://www.inaturalist.org/photos/32279278",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32279278/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32279278/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "Manuel Ortiz",
+  "originalAttribution": "no rights reserved, uploaded by Manuel Ortiz",
+  "taxonId": 62809,
+  "acceptedScientificName": "Ceiba pentandra",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 13.04,
+  "photoApiEvidence": {
+    "id": 32279278,
+    "license_code": "cc0",
+    "attribution": "no rights reserved, uploaded by Manuel Ortiz",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32279278/square.jpg",
+    "original_dimensions": {
+      "height": 1428,
+      "width": 2000
+    },
+    "flags": [],
+    "attribution_name": "Manuel Ortiz",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32279278/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32279278/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/ceiba-pentandra/inat-32279278.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/ceiba-pentandra--inat-32279278.json"
+}

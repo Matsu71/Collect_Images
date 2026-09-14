@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-632127459",
+  "targetId": "org-ovis-aries",
+  "scientificName": "Ovis aries",
+  "nameJa": "ヒツジ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:05:09+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:05:09+00:00",
+  "files": {
+    "master": "images/ovis-aries/inat-632127459.jpg",
+    "web": "images/ovis-aries/inat-632127459.webp",
+    "thumbnail": "images/ovis-aries/inat-632127459-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 455963,
+    "web": 103774,
+    "thumbnail": 11054
+  },
+  "sha256": {
+    "download": "d527ea1b13baa5c08cf20180babf8fc1690ee02061de33dfa943d32d6bdaff1d",
+    "master": "6047e14fb3a9ed45cdcbeef045aff3a10a34333ff086a1b2a2105ac8d5a7cfdf",
+    "web": "d8a1fd69e2d3c4d6bc01c7e8d552b580eaf6cbcd629f0b11496cdf5516542a77"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Ovis aries [Ovis aries] — Christopher Stephens / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/632127459. Original attribution: (c) Christopher Stephens, some rights reserved (CC BY-SA), uploaded by Christopher Stephens. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ovis aries",
+  "sourceId": "632127459",
+  "photoUrl": "https://www.inaturalist.org/photos/632127459",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/632127459/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/632127459/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Christopher Stephens",
+  "originalAttribution": "(c) Christopher Stephens, some rights reserved (CC BY-SA), uploaded by Christopher Stephens",
+  "taxonId": 121578,
+  "acceptedScientificName": "Ovis aries",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 9.95,
+  "photoApiEvidence": {
+    "id": 632127459,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Christopher Stephens, some rights reserved (CC BY-SA), uploaded by Christopher Stephens",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632127459/square.jpg",
+    "original_dimensions": {
+      "height": 1365,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Christopher Stephens",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632127459/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632127459/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/ovis-aries/inat-632127459.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY-SA 4.0",
+  "metadataPath": "collection/metadata/ovis-aries--inat-632127459.json"
+}

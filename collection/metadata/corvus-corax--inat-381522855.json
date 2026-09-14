@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-381522855",
+  "targetId": "org-corvus-corax",
+  "scientificName": "Corvus corax",
+  "nameJa": "ワタリガラス",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 131,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "部分・生態・環境等の補足用。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:57:38+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:57:38+00:00",
+  "files": {
+    "master": "images/corvus-corax/inat-381522855.jpg",
+    "web": "images/corvus-corax/inat-381522855.webp",
+    "thumbnail": "images/corvus-corax/inat-381522855-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 264165,
+    "web": 27094,
+    "thumbnail": 2484
+  },
+  "sha256": {
+    "download": "1c90483cb37ef1f66e2728c4cf7f1008fb26bd3f0e21941f907ec0ba00530617",
+    "master": "730b3db46d9dbf3cafb2baacaf39d4d9978275ed0f7bb8b92e8600ab5b0c8c9b",
+    "web": "30c224858b6bc8a935ffaebc071884974f29645cbc75c3060bb0fbe59fa6c612"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Corvus corax [Corvus corax] — Mila C. / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/381522855. Original attribution: (c) Mila C., some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Corvus corax",
+  "sourceId": "381522855",
+  "photoUrl": "https://www.inaturalist.org/photos/381522855",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/381522855/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/381522855/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Mila C.",
+  "originalAttribution": "(c) Mila C., some rights reserved (CC BY)",
+  "taxonId": 8010,
+  "acceptedScientificName": "Corvus corax",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/215780666",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.194285714285714,
+  "photoApiEvidence": {
+    "id": 381522855,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/381522855/square.jpeg",
+    "attribution": "(c) Mila C., some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/7823/7998",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,7823,7998,8010",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 8010,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 7998,
+    "name": "Corvus corax",
+    "rank": "species",
+    "extinct": false,
+    "id": 8010,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      7823,
+      7998,
+      8010
+    ],
+    "created_at": "2008-03-13T02:56:20+00:00",
+    "default_photo": {
+      "id": 54389687,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) arbyreed, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54389687/square.jpg",
+      "original_dimensions": {
+        "height": 1474,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "arbyreed",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54389687/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54389687/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 9,
+    "observations_count": 190601,
+    "photos_locked": false,
+    "universal_search_rank": 190601,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_raven",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Common Raven"
+  },
+  "rawMetadataPath": "metadata/corvus-corax/inat-381522855.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生鳥類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/corvus-corax--inat-381522855.json"
+}

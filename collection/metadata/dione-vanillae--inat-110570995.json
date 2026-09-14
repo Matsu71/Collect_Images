@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-110570995",
+  "targetId": "inat-taxon-49150",
+  "scientificName": "Dione vanillae",
+  "nameJa": "ヒョウモンドクチョウ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:15:51+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:15:51+00:00",
+  "files": {
+    "master": "images/dione-vanillae/inat-110570995.jpg",
+    "web": "images/dione-vanillae/inat-110570995.webp",
+    "thumbnail": "images/dione-vanillae/inat-110570995-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1690,
+      1591
+    ],
+    "master": [
+      1690,
+      1591
+    ],
+    "web": [
+      1400,
+      1318
+    ]
+  },
+  "bytes": {
+    "master": 849051,
+    "web": 210194,
+    "thumbnail": 22058
+  },
+  "sha256": {
+    "download": "7e16e123527e6aa6f31d8f175f13bc18ff5891f60a0c9a40f4e76d25a0b57cce",
+    "master": "4da443c225d1792aadfcef7f505964abba95734ec5fb452b286d93dda7ced43d",
+    "web": "792c5c17d20f19bdabe91ae44de1814d2253ef5f0267609733dc1804ad544528"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Dione vanillae [Dione vanillae] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/110570995. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Dione vanillae",
+  "sourceId": "110570995",
+  "photoUrl": "https://www.inaturalist.org/photos/110570995",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110570995/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110570995/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 49150,
+  "acceptedScientificName": "Dione vanillae",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/68307350",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.272857142857143,
+  "photoApiEvidence": {
+    "id": 110570995,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1690,
+      "height": 1591
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110570995/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47157/47224/47922/60854/134173/130349/49151/49150",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47157,47224,47922,60854,134173,130349,49151,49150",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 49150,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 49150,
+    "name": "Dione vanillae maculosa",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 461059,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47157,
+      47224,
+      47922,
+      60854,
+      134173,
+      130349,
+      49151,
+      49150,
+      461059
+    ],
+    "created_at": "2015-04-20T04:47:50+00:00",
+    "default_photo": {
+      "id": 1742474,
+      "license_code": null,
+      "attribution": "(c) Jay Keller, all rights reserved, uploaded by Jay Keller",
+      "url": "https://static.inaturalist.org/photos/1742474/square.jpg",
+      "original_dimensions": {
+        "height": 999,
+        "width": 1415
+      },
+      "flags": [],
+      "attribution_name": "Jay Keller",
+      "square_url": "https://static.inaturalist.org/photos/1742474/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/1742474/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 1,
+    "observations_count": 3793,
+    "photos_locked": false,
+    "universal_search_rank": 3793,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Insecta"
+  },
+  "rawMetadataPath": "metadata/dione-vanillae/inat-110570995.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/dione-vanillae--inat-110570995.json"
+}

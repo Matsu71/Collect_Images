@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-154300663",
+  "targetId": "inat-taxon-7428",
+  "scientificName": "Bombycilla cedrorum",
+  "nameJa": "ヒメレンジャク",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:18:51+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:18:51+00:00",
+  "files": {
+    "master": "images/bombycilla-cedrorum/inat-154300663.jpg",
+    "web": "images/bombycilla-cedrorum/inat-154300663.webp",
+    "thumbnail": "images/bombycilla-cedrorum/inat-154300663-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 620811,
+    "web": 142050,
+    "thumbnail": 16054
+  },
+  "sha256": {
+    "download": "a190edd78dee516e7c6c05d5392e82098a9ac891ead2bc490e254b4feb4c1caf",
+    "master": "a3113b98fb5356d23a338a089e1ca51959274cbdfcb2440ca4fc58453f48985b",
+    "web": "464a83f126936ac5dfa45d70987810d59c2998ba83d88697825a77adb4178cf0"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Bombycilla cedrorum [Bombycilla cedrorum] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/154300663. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Bombycilla cedrorum",
+  "sourceId": "154300663",
+  "photoUrl": "https://www.inaturalist.org/photos/154300663",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154300663/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154300663/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 7428,
+  "acceptedScientificName": "Bombycilla cedrorum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/93124845",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.95,
+  "photoApiEvidence": {
+    "id": 154300663,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154300663/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/7423/7427",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,7423,7427,7428",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 7428,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 7427,
+    "name": "Bombycilla cedrorum",
+    "rank": "species",
+    "extinct": false,
+    "id": 7428,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      7423,
+      7427,
+      7428
+    ],
+    "created_at": "2008-03-13T02:54:23+00:00",
+    "default_photo": {
+      "id": 450146514,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Manny Salas, some rights reserved (CC BY-NC), uploaded by Manny Salas",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/450146514/square.jpeg",
+      "original_dimensions": {
+        "height": 1366,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Manny Salas",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/450146514/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/450146514/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 123601,
+    "photos_locked": false,
+    "universal_search_rank": 123601,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cedar_waxwing",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Cedar Waxwing"
+  },
+  "rawMetadataPath": "metadata/bombycilla-cedrorum/inat-154300663.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/bombycilla-cedrorum--inat-154300663.json"
+}

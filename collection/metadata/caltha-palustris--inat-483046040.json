@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-483046040",
+  "targetId": "inat-taxon-56224",
+  "scientificName": "Caltha palustris",
+  "nameJa": "リュウキンカ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:17:32+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:17:32+00:00",
+  "files": {
+    "master": "images/caltha-palustris/inat-483046040.jpg",
+    "web": "images/caltha-palustris/inat-483046040.webp",
+    "thumbnail": "images/caltha-palustris/inat-483046040-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1210702,
+    "web": 205154,
+    "thumbnail": 20524
+  },
+  "sha256": {
+    "download": "ab2e965e535bb14da54e46f982f186c426f1d851044d04831f9bbbea5b6affdc",
+    "master": "cbbeec7f03af145f35f16c2ed44e129b8a8f58603eb707d3d6ab0da4c67c4898",
+    "web": "6f69227afa860f16090e6adc0da4c3e4abf311f399a41c44df57287133121ad6"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Caltha palustris [Caltha palustris] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/483046040. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Caltha palustris",
+  "sourceId": "483046040",
+  "photoUrl": "https://www.inaturalist.org/photos/483046040",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/483046040/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/483046040/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 56224,
+  "acceptedScientificName": "Caltha palustris",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/268711867",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 483046040,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483046040/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48232/48231/746709/746720/49869/1045281",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48232,48231,746709,746720,49869,1045281,56224",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 56224,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1045281,
+    "name": "Caltha palustris",
+    "rank": "species",
+    "extinct": false,
+    "id": 56224,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48232,
+      48231,
+      746709,
+      746720,
+      49869,
+      1045281,
+      56224
+    ],
+    "created_at": "2010-02-20T15:49:25+00:00",
+    "default_photo": {
+      "id": 324010734,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) eeyipes, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/324010734/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "eeyipes",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/324010734/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/324010734/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 6,
+    "observations_count": 95209,
+    "photos_locked": false,
+    "universal_search_rank": 95209,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caltha_palustris",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "marsh marigold"
+  },
+  "rawMetadataPath": "metadata/caltha-palustris/inat-483046040.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/caltha-palustris--inat-483046040.json"
+}

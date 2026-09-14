@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-463769389",
+  "targetId": "org-oryza-sativa",
+  "scientificName": "Oryza sativa",
+  "nameJa": "イネ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:04:58+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:04:58+00:00",
+  "files": {
+    "master": "images/oryza-sativa/inat-463769389.jpg",
+    "web": "images/oryza-sativa/inat-463769389.webp",
+    "thumbnail": "images/oryza-sativa/inat-463769389-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 750223,
+    "web": 166596,
+    "thumbnail": 7946
+  },
+  "sha256": {
+    "download": "90879904088076cb0e24a844e7aba4351d51e4bbaaaafa40c52c5fcedc9a8e25",
+    "master": "b0cdd32081adb6f70b2a50fa27ed6aa4dcb8190b088b072c795b133c53a5f87f",
+    "web": "1bfbcf5f67c8710db69105d2642733d5f9b327fa047828ddaef6775de0a440c4"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Oryza sativa [Oryza sativa] — Utain Pummarin / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/463769389. Original attribution: (c) Utain Pummarin, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Oryza sativa",
+  "sourceId": "463769389",
+  "photoUrl": "https://www.inaturalist.org/photos/463769389",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/463769389/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/463769389/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Utain Pummarin",
+  "originalAttribution": "(c) Utain Pummarin, some rights reserved (CC BY)",
+  "taxonId": 61381,
+  "acceptedScientificName": "Oryza sativa",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/258486978",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.925714285714285,
+  "photoApiEvidence": {
+    "id": 463769389,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463769389/square.jpeg",
+    "attribution": "(c) Utain Pummarin, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47163/47162/47434/1136674/1136711/1138095/61382",
+    "min_species_ancestry": "48460,47126,211194,47125,47163,47162,47434,1136674,1136711,1138095,61382,61381",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 61381,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 61382,
+    "name": "Oryza sativa",
+    "rank": "species",
+    "extinct": false,
+    "id": 61381,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47163,
+      47162,
+      47434,
+      1136674,
+      1136711,
+      1138095,
+      61382,
+      61381
+    ],
+    "created_at": "2010-05-29T00:55:35+00:00",
+    "default_photo": {
+      "id": 48742632,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Luis Mata, some rights reserved (CC BY-NC), uploaded by Luis Mata",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48742632/square.jpg",
+      "original_dimensions": {
+        "height": 1361,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Luis Mata",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48742632/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48742632/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 3609,
+    "photos_locked": false,
+    "universal_search_rank": 3609,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Oryza_sativa",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Asian Rice"
+  },
+  "rawMetadataPath": "metadata/oryza-sativa/inat-463769389.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生植物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/oryza-sativa--inat-463769389.json"
+}

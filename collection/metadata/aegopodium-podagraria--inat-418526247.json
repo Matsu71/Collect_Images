@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-418526247",
+  "targetId": "inat-taxon-51741",
+  "scientificName": "Aegopodium podagraria",
+  "nameJa": "イワミツバ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:17:33+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:17:33+00:00",
+  "files": {
+    "master": "images/aegopodium-podagraria/inat-418526247.jpg",
+    "web": "images/aegopodium-podagraria/inat-418526247.webp",
+    "thumbnail": "images/aegopodium-podagraria/inat-418526247-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1688516,
+    "web": 431772,
+    "thumbnail": 26568
+  },
+  "sha256": {
+    "download": "cfd43281290dea904e403a5acde08f9ffe7bda85b8ec2934d0a9bdf319258c84",
+    "master": "f9e5861206fbfa7ea3680bab7fc22a177de081c3eac2b591efd72dc0b8f8cb17",
+    "web": "2ed6cf5a6919690774ccf795e78088b27e735f0d321fd894690b06a3ef961e44"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Aegopodium podagraria [Aegopodium podagraria] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/418526247. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Aegopodium podagraria",
+  "sourceId": "418526247",
+  "photoUrl": "https://www.inaturalist.org/photos/418526247",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/418526247/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/418526247/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 51741,
+  "acceptedScientificName": "Aegopodium podagraria",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/235343067",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 418526247,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418526247/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48700/48699/790553/790559/51742",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48700,48699,790553,790559,51742,51741",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 51741,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 51742,
+    "name": "Aegopodium podagraria",
+    "rank": "species",
+    "extinct": false,
+    "id": 51741,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48700,
+      48699,
+      790553,
+      790559,
+      51742,
+      51741
+    ],
+    "created_at": "2009-06-06T03:52:15+00:00",
+    "default_photo": {
+      "id": 229844810,
+      "license_code": null,
+      "attribution": "(c) Chris Dale, all rights reserved, uploaded by Chris Dale",
+      "url": "https://static.inaturalist.org/photos/229844810/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Chris Dale",
+      "square_url": "https://static.inaturalist.org/photos/229844810/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/229844810/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 94780,
+    "photos_locked": false,
+    "universal_search_rank": 94780,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Aegopodium_podagraria",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Goutweed"
+  },
+  "rawMetadataPath": "metadata/aegopodium-podagraria/inat-418526247.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/aegopodium-podagraria--inat-418526247.json"
+}

@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-137117302",
+  "targetId": "inat-taxon-55719",
+  "scientificName": "Eristalis tenax",
+  "nameJa": "ナミハナアブ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:14:58+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:14:58+00:00",
+  "files": {
+    "master": "images/eristalis-tenax/inat-137117302.jpg",
+    "web": "images/eristalis-tenax/inat-137117302.webp",
+    "thumbnail": "images/eristalis-tenax/inat-137117302-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1625,
+      1706
+    ],
+    "master": [
+      1625,
+      1706
+    ],
+    "web": [
+      1334,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 658095,
+    "web": 180580,
+    "thumbnail": 9820
+  },
+  "sha256": {
+    "download": "5d388fab9056b3366a9e2c479829744cd3ba8577c5ac894861489f7d15b86153",
+    "master": "e357425675734b32c728927325d5b537fa8ccba2e25e7717cc048eb022a0c6c2",
+    "web": "ff003f72a724d07ec7ec501b9e43052f23170ded327e41b2ca34c2058986f18d"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Eristalis tenax [Eristalis tenax] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/137117302. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Eristalis tenax",
+  "sourceId": "137117302",
+  "photoUrl": "https://www.inaturalist.org/photos/137117302",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/137117302/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/137117302/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 55719,
+  "acceptedScientificName": "Eristalis tenax",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/83483079",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.654761904761904,
+  "photoApiEvidence": {
+    "id": 137117302,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1625,
+      "height": 1706
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137117302/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47822/48091/372853/414448/49995/326181/364082/520020/52491/520029",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47822,48091,372853,414448,49995,326181,364082,520020,52491,520029,55719",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 55719,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 520029,
+    "name": "Eristalis tenax",
+    "rank": "species",
+    "extinct": false,
+    "id": 55719,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47822,
+      48091,
+      372853,
+      414448,
+      49995,
+      326181,
+      364082,
+      520020,
+      52491,
+      520029,
+      55719
+    ],
+    "created_at": "2010-02-09T19:14:28+00:00",
+    "default_photo": {
+      "id": 19770890,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) hobiecat, some rights reserved (CC BY-NC), uploaded by hobiecat",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19770890/square.jpg",
+      "original_dimensions": {
+        "height": 1391,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "hobiecat",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19770890/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19770890/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 3,
+    "observations_count": 114842,
+    "photos_locked": false,
+    "universal_search_rank": 114842,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 28736,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eristalis_tenax",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Common Drone Fly"
+  },
+  "rawMetadataPath": "metadata/eristalis-tenax/inat-137117302.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/eristalis-tenax--inat-137117302.json"
+}

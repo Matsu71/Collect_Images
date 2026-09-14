@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-53221252",
+  "targetId": "org-macropus-giganteus",
+  "scientificName": "Macropus giganteus",
+  "nameJa": "オオカンガルー",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:02:49+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:02:49+00:00",
+  "files": {
+    "master": "images/macropus-giganteus/inat-53221252.jpg",
+    "web": "images/macropus-giganteus/inat-53221252.webp",
+    "thumbnail": "images/macropus-giganteus/inat-53221252-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1500,
+      997
+    ],
+    "master": [
+      1500,
+      997
+    ],
+    "web": [
+      1400,
+      931
+    ]
+  },
+  "bytes": {
+    "master": 343022,
+    "web": 177604,
+    "thumbnail": 11476
+  },
+  "sha256": {
+    "download": "b787122bc21ac2922fd220d2e2e216925fff12dad05b24bdd8a7a109610b6cb6",
+    "master": "747de692517267a9f588f891c79729a9243aefb013840ac9d77fcd6f2a23f23c",
+    "web": "2c272572dd13e190728ac55828fc8cd01c0c7d1249a720ad92fa00e191b04ceb"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Macropus giganteus [Macropus giganteus] — Shane Walker / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/53221252. Original attribution: (c) Shane Walker, some rights reserved (CC BY), uploaded by Shane Walker. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Macropus giganteus",
+  "sourceId": "53221252",
+  "photoUrl": "https://www.inaturalist.org/photos/53221252",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53221252/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53221252/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Shane Walker",
+  "originalAttribution": "(c) Shane Walker, some rights reserved (CC BY), uploaded by Shane Walker",
+  "taxonId": 42888,
+  "acceptedScientificName": "Macropus giganteus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 11.424285714285714,
+  "photoApiEvidence": {
+    "id": 53221252,
+    "license_code": "cc-by",
+    "attribution": "(c) Shane Walker, some rights reserved (CC BY), uploaded by Shane Walker",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53221252/square.jpg",
+    "original_dimensions": {
+      "height": 997,
+      "width": 1500
+    },
+    "flags": [],
+    "attribution_name": "Shane Walker",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53221252/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53221252/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/macropus-giganteus/inat-53221252.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/macropus-giganteus--inat-53221252.json"
+}

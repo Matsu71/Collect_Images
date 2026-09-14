@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-296056732",
+  "targetId": "inat-taxon-52989",
+  "scientificName": "Cirsium vulgare",
+  "nameJa": "アメリカオニアザミ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:12:48+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:12:48+00:00",
+  "files": {
+    "master": "images/cirsium-vulgare/inat-296056732.jpg",
+    "web": "images/cirsium-vulgare/inat-296056732.webp",
+    "thumbnail": "images/cirsium-vulgare/inat-296056732-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 617379,
+    "web": 189378,
+    "thumbnail": 18696
+  },
+  "sha256": {
+    "download": "a87bcf27ccf327525f89af72cf4d4ba2b7b0a8c0653bffbdf0da8c9dab90f9d3",
+    "master": "b6c264b5631bfc6eda685d5c1dc3ebb46ef5a989c20b6b845879e738a739eed6",
+    "web": "006819df3bd819d9c5942bc16b2be1daec9c608ec29d785f8fc8e6f7314ee596"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Cirsium vulgare [Cirsium vulgare] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/296056732. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Cirsium vulgare",
+  "sourceId": "296056732",
+  "photoUrl": "https://www.inaturalist.org/photos/296056732",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/296056732/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/296056732/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 52989,
+  "acceptedScientificName": "Cirsium vulgare",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/170674313",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.95,
+  "photoApiEvidence": {
+    "id": 296056732,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/296056732/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47605/47604/201654/632883/632885/48561",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47605,47604,201654,632883,632885,48561,52989",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 52989,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 48561,
+    "name": "Cirsium vulgare",
+    "rank": "species",
+    "extinct": false,
+    "id": 52989,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47605,
+      47604,
+      201654,
+      632883,
+      632885,
+      48561,
+      52989
+    ],
+    "created_at": "2009-09-11T02:38:01+00:00",
+    "default_photo": {
+      "id": 306770747,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Sabine Atteln, some rights reserved (CC BY-NC), uploaded by Sabine Atteln",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/306770747/square.jpeg",
+      "original_dimensions": {
+        "height": 1080,
+        "width": 1620
+      },
+      "flags": [],
+      "attribution_name": "Sabine Atteln",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/306770747/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/306770747/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 6,
+    "observations_count": 190738,
+    "photos_locked": false,
+    "universal_search_rank": 190738,
+    "flag_counts": {
+      "resolved": 5,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cirsium_vulgare",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Bull Thistle"
+  },
+  "rawMetadataPath": "metadata/cirsium-vulgare/inat-296056732.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/cirsium-vulgare--inat-296056732.json"
+}

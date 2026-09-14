@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-701872066",
+  "targetId": "inat-taxon-55727",
+  "scientificName": "Cymbalaria muralis",
+  "nameJa": "ツタバウンラン",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:17:24+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:17:24+00:00",
+  "files": {
+    "master": "images/cymbalaria-muralis/inat-701872066.jpg",
+    "web": "images/cymbalaria-muralis/inat-701872066.webp",
+    "thumbnail": "images/cymbalaria-muralis/inat-701872066-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 443147,
+    "web": 90654,
+    "thumbnail": 10086
+  },
+  "sha256": {
+    "download": "8b6a3bbdf7c86529314d314c12f599fe71f61394b3ae3addbb86effccb742728",
+    "master": "e5b97c4a924234ae50edc47dc32d3ec26b5909febb790c59906a7a913bad0203",
+    "web": "fd65529510b6aef000bc85af1ccd0caf695db86a21dc273b71932d11807fbb29"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Cymbalaria muralis [Cymbalaria muralis] — zebedeugalinha / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/701872066. Original attribution: (c) zebedeugalinha, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Cymbalaria muralis",
+  "sourceId": "701872066",
+  "photoUrl": "https://www.inaturalist.org/photos/701872066",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/701872066/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/701872066/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "zebedeugalinha",
+  "originalAttribution": "(c) zebedeugalinha, some rights reserved (CC BY)",
+  "taxonId": 55727,
+  "acceptedScientificName": "Cymbalaria muralis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/383476663",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.860952380952381,
+  "photoApiEvidence": {
+    "id": 701872066,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/701872066/square.jpg",
+    "attribution": "(c) zebedeugalinha, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48151/50638/556743/55728",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48151,50638,556743,55728,55727",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 55727,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 55728,
+    "name": "Cymbalaria muralis",
+    "rank": "species",
+    "extinct": false,
+    "id": 55727,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48151,
+      50638,
+      556743,
+      55728,
+      55727
+    ],
+    "created_at": "2010-02-09T19:54:32+00:00",
+    "default_photo": {
+      "id": 3555545,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Muriel Bendel, some rights reserved (CC BY-NC), uploaded by Muriel Bendel",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3555545/square.JPG",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Muriel Bendel",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3555545/square.JPG",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3555545/medium.JPG"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 6,
+    "observations_count": 62949,
+    "photos_locked": false,
+    "universal_search_rank": 62949,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cymbalaria_muralis",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Ivy-leaved toadflax"
+  },
+  "rawMetadataPath": "metadata/cymbalaria-muralis/inat-701872066.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/cymbalaria-muralis--inat-701872066.json"
+}

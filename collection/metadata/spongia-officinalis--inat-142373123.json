@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-142373123",
+  "targetId": "org-spongia-officinalis",
+  "scientificName": "Spongia officinalis",
+  "nameJa": "モクヨクカイメン",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:08:58+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:08:58+00:00",
+  "files": {
+    "master": "images/spongia-officinalis/inat-142373123.jpg",
+    "web": "images/spongia-officinalis/inat-142373123.webp",
+    "thumbnail": "images/spongia-officinalis/inat-142373123-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1275,
+      980
+    ],
+    "master": [
+      1275,
+      980
+    ],
+    "web": [
+      1275,
+      980
+    ]
+  },
+  "bytes": {
+    "master": 351012,
+    "web": 188950,
+    "thumbnail": 27610
+  },
+  "sha256": {
+    "download": "90f1c2c6330592755400a6aa2e920671735092484626921a973a8245a4448e73",
+    "master": "bbd081ea45723dfab32ff5d40e11bb79016b544e1260a6cd14ab18a061860800",
+    "web": "7ca7aa7a87bec94a183edc84853eda6dd5c95aaf2edb98c920af388238c455df"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Spongia officinalis [Spongia officinalis] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/142373123. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Spongia officinalis",
+  "sourceId": "142373123",
+  "photoUrl": "https://www.inaturalist.org/photos/142373123",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/142373123/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/142373123/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 357376,
+  "acceptedScientificName": "Spongia officinalis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": "https://www.inaturalist.org/observations/86425910",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.4,
+  "photoApiEvidence": {
+    "id": 142373123,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1275,
+      "height": 980
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/142373123/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/48824/57736/551715/118780/126518/126519",
+    "min_species_ancestry": "48460,1,48824,57736,551715,118780,126518,126519,357376",
+    "endemic": false,
+    "iconic_taxon_id": 1,
+    "min_species_taxon_id": 357376,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 126519,
+    "name": "Spongia officinalis",
+    "rank": "species",
+    "extinct": false,
+    "id": 357376,
+    "ancestor_ids": [
+      48460,
+      1,
+      48824,
+      57736,
+      551715,
+      118780,
+      126518,
+      126519,
+      357376
+    ],
+    "provisional": false,
+    "created_at": "2014-05-24T13:44:50+00:00",
+    "default_photo": {
+      "id": 154760564,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Sylvain Le Bris, some rights reserved (CC BY-NC), uploaded by Sylvain Le Bris",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154760564/square.jpeg",
+      "original_dimensions": {
+        "height": 1534,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Sylvain Le Bris",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154760564/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154760564/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 85,
+    "photos_locked": false,
+    "universal_search_rank": 85,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Spongia_officinalis",
+    "iconic_taxon_name": "Animalia",
+    "preferred_common_name": "Glove Sponge"
+  },
+  "rawMetadataPath": "metadata/spongia-officinalis/inat-142373123.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/spongia-officinalis--inat-142373123.json"
+}

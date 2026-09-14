@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-142435504",
+  "targetId": "inat-taxon-56077",
+  "scientificName": "Hypericum perforatum",
+  "nameJa": "セイヨウオトギリ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:18:43+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:18:43+00:00",
+  "files": {
+    "master": "images/hypericum-perforatum/inat-142435504.jpg",
+    "web": "images/hypericum-perforatum/inat-142435504.webp",
+    "thumbnail": "images/hypericum-perforatum/inat-142435504-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 622223,
+    "web": 126940,
+    "thumbnail": 10442
+  },
+  "sha256": {
+    "download": "07c4e2edd590f3bff323007f5686d2942511055dd671e95feb940b1d71e2b7c9",
+    "master": "1e63eaac316f2a22bb6c092fd253cc46e95249174ec8fb45b60c92ef51963197",
+    "web": "98059e68eb3532cdb725f1934b075eed5bacdfb7d4764ffc9a78b573bc410dc1"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Hypericum perforatum [Hypericum perforatum] — Alan Prather / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/142435504. Original attribution: (c) Alan Prather, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Hypericum perforatum",
+  "sourceId": "142435504",
+  "photoUrl": "https://www.inaturalist.org/photos/142435504",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/142435504/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/142435504/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Alan Prather",
+  "originalAttribution": "(c) Alan Prather, some rights reserved (CC BY)",
+  "taxonId": 56077,
+  "acceptedScientificName": "Hypericum perforatum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/86461024",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.860952380952381,
+  "photoApiEvidence": {
+    "id": 142435504,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/142435504/square.jpeg",
+    "attribution": "(c) Alan Prather, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/51820/71412/858902/52761/1503792/1526590",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,51820,71412,858902,52761,1503792,1526590,56077",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 56077,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1526590,
+    "name": "Hypericum perforatum",
+    "rank": "species",
+    "extinct": false,
+    "id": 56077,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      51820,
+      71412,
+      858902,
+      52761,
+      1503792,
+      1526590,
+      56077
+    ],
+    "created_at": "2010-02-17T05:41:22+00:00",
+    "default_photo": {
+      "id": 283622526,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) akolter, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/283622526/square.jpg",
+      "original_dimensions": {
+        "height": 977,
+        "width": 952
+      },
+      "flags": [],
+      "attribution_name": "akolter",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/283622526/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/283622526/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 5,
+    "observations_count": 137693,
+    "photos_locked": false,
+    "universal_search_rank": 137693,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Hypericum_perforatum",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Common St. John's Wort"
+  },
+  "rawMetadataPath": "metadata/hypericum-perforatum/inat-142435504.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/hypericum-perforatum--inat-142435504.json"
+}

@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-632701749",
+  "targetId": "inat-taxon-56222",
+  "scientificName": "Tussilago farfara",
+  "nameJa": "フキタンポポ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:13:14+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:13:14+00:00",
+  "files": {
+    "master": "images/tussilago-farfara/inat-632701749.jpg",
+    "web": "images/tussilago-farfara/inat-632701749.webp",
+    "thumbnail": "images/tussilago-farfara/inat-632701749-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1250305,
+    "web": 254340,
+    "thumbnail": 23700
+  },
+  "sha256": {
+    "download": "439cba255270c3f4c3450b2b1cacd1bb73293f09fbf593ae592a3d3721617c7d",
+    "master": "db7aa5cabbf4626fa6f8c3aeafc9f03de01e0e4266a2bfe16462918b5dfe660e",
+    "web": "1734d172758394627a79d227179f3c1671eff81d4f3fc6537eeab813329c15b6"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Tussilago farfara [Tussilago farfara] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/632701749. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Tussilago farfara",
+  "sourceId": "632701749",
+  "photoUrl": "https://www.inaturalist.org/photos/632701749",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/632701749/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/632701749/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 56222,
+  "acceptedScientificName": "Tussilago farfara",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/347041416",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 632701749,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632701749/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47605/47604/632790/568270/936861/56223",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47605,47604,632790,568270,936861,56223,56222",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 56222,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 56223,
+    "name": "Tussilago farfara",
+    "rank": "species",
+    "extinct": false,
+    "id": 56222,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47605,
+      47604,
+      632790,
+      568270,
+      936861,
+      56223,
+      56222
+    ],
+    "created_at": "2010-02-20T15:45:07+00:00",
+    "default_photo": {
+      "id": 597146847,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) snsergeevna, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597146847/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "snsergeevna",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597146847/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597146847/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 139120,
+    "photos_locked": false,
+    "universal_search_rank": 139120,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Tussilago",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "colt's-foot"
+  },
+  "rawMetadataPath": "metadata/tussilago-farfara/inat-632701749.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/tussilago-farfara--inat-632701749.json"
+}

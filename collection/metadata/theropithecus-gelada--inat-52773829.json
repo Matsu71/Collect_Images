@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-52773829",
+  "targetId": "org-theropithecus-gelada",
+  "scientificName": "Theropithecus gelada",
+  "nameJa": "ゲラダヒヒ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:09:39+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:09:39+00:00",
+  "files": {
+    "master": "images/theropithecus-gelada/inat-52773829.jpg",
+    "web": "images/theropithecus-gelada/inat-52773829.webp",
+    "thumbnail": "images/theropithecus-gelada/inat-52773829-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 639379,
+    "web": 173832,
+    "thumbnail": 27322
+  },
+  "sha256": {
+    "download": "b6ef6b8371a34653acdb12139d7e1778bf3461eb74d24bb47fd109bd73c4b243",
+    "master": "f2af96a501089bd0de0d17c54ca1a33524acd840ffc65298f6251a31aca468a6",
+    "web": "7842cae899762edfdc99cc4744f928bd66c6ea3f7f027fe288b3ef1d4d9c7e22"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Theropithecus gelada [Theropithecus gelada] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/52773829. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Theropithecus gelada",
+  "sourceId": "52773829",
+  "photoUrl": "https://www.inaturalist.org/photos/52773829",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52773829/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52773829/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 43530,
+  "acceptedScientificName": "Theropithecus gelada",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/33592953",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.194285714285714,
+  "photoApiEvidence": {
+    "id": 52773829,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52773829/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43367/786045/936377/936369/43443/479424/846334/43529/43530",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43367,786045,936377,936369,43443,479424,846334,43529,43530",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43530,
+    "threatened": true,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 43530,
+    "name": "Theropithecus gelada gelada",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 147850,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43367,
+      786045,
+      936377,
+      936369,
+      43443,
+      479424,
+      846334,
+      43529,
+      43530,
+      147850
+    ],
+    "created_at": "2012-09-08T01:23:36+00:00",
+    "default_photo": {
+      "id": 632889,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) copepodo, some rights reserved (CC BY-NC-ND)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632889/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "copepodo",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632889/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632889/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 114,
+    "photos_locked": false,
+    "universal_search_rank": 114,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Northern Gelada",
+    "conservation_status": {
+      "id": 46154,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "obscured",
+      "iucn": 30
+    }
+  },
+  "rawMetadataPath": "metadata/theropithecus-gelada/inat-52773829.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/theropithecus-gelada--inat-52773829.json"
+}

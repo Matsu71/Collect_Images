@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-28100377",
+  "targetId": "org-vultur-gryphus",
+  "scientificName": "Vultur gryphus",
+  "nameJa": "アンデスコンドル",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:10:47+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:10:47+00:00",
+  "files": {
+    "master": "images/vultur-gryphus/inat-28100377.jpg",
+    "web": "images/vultur-gryphus/inat-28100377.webp",
+    "thumbnail": "images/vultur-gryphus/inat-28100377-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 709099,
+    "web": 181346,
+    "thumbnail": 11480
+  },
+  "sha256": {
+    "download": "bf6b3b2b023d04a227ee48b2b1676552e67dc2c4f58c5018deedc8fc9bb1f697",
+    "master": "f99a847d830186e1b3045550c4e1698abf3ee070696d16d3ce7d56b4f46d18b5",
+    "web": "6363e310b4239d93425f4e8276add4a259de1a15743ac3b3b0f9e1b5c26875a0"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Vultur gryphus [Vultur gryphus] — Sebastian Serna Muñoz / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/28100377. Original attribution: (c) Sebastian Serna Muñoz, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Vultur gryphus",
+  "sourceId": "28100377",
+  "photoUrl": "https://www.inaturalist.org/photos/28100377",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28100377/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28100377/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Sebastian Serna Muñoz",
+  "originalAttribution": "(c) Sebastian Serna Muñoz, some rights reserved (CC BY)",
+  "taxonId": 4747,
+  "acceptedScientificName": "Vultur gryphus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/18386019",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.95,
+  "photoApiEvidence": {
+    "id": 28100377,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28100377/square.jpg",
+    "attribution": "(c) Sebastian Serna Muñoz, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/559244/71306/4746",
+    "min_species_ancestry": "48460,1,2,355675,3,559244,71306,4746,4747",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 4747,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 4746,
+    "name": "Vultur gryphus",
+    "rank": "species",
+    "extinct": false,
+    "id": 4747,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      559244,
+      71306,
+      4746,
+      4747
+    ],
+    "created_at": "2008-03-13T02:46:18+00:00",
+    "default_photo": {
+      "id": 90906598,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Juan Rodolfo Lillo Lobos, some rights reserved (CC BY-NC), uploaded by Juan Rodolfo Lillo Lobos",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/90906598/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Juan Rodolfo Lillo Lobos",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/90906598/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/90906598/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 8186,
+    "photos_locked": false,
+    "universal_search_rank": 8186,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andean_condor",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Andean Condor",
+    "conservation_status": {
+      "id": 1568,
+      "place_id": null,
+      "source_id": 18766,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "obscured",
+      "iucn": 30
+    }
+  },
+  "rawMetadataPath": "metadata/vultur-gryphus/inat-28100377.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/vultur-gryphus--inat-28100377.json"
+}

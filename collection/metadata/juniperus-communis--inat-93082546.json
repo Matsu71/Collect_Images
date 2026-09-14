@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-93082546",
+  "targetId": "inat-taxon-58725",
+  "scientificName": "Juniperus communis",
+  "nameJa": "セイヨウネズ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:17:56+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:17:56+00:00",
+  "files": {
+    "master": "images/juniperus-communis/inat-93082546.jpg",
+    "web": "images/juniperus-communis/inat-93082546.webp",
+    "thumbnail": "images/juniperus-communis/inat-93082546-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1420673,
+    "web": 350838,
+    "thumbnail": 24548
+  },
+  "sha256": {
+    "download": "26546826c5d8390ae86300ee91fde00a49375756972aa6b1b938a7ef2bb3198d",
+    "master": "374a4d28a7c01f993d44d1cef048d1dd2064f0ff0cbda7d6a5947622ac5bc6e4",
+    "web": "213241d299dcf62f050889aaa41706b2187da3367051f29c95cad33f3b158d54"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Juniperus communis [Juniperus communis] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/93082546. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Juniperus communis",
+  "sourceId": "93082546",
+  "photoUrl": "https://www.inaturalist.org/photos/93082546",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/93082546/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/93082546/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 58725,
+  "acceptedScientificName": "Juniperus communis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/58309607",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 93082546,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/93082546/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/136329/47375/47374/1150915/47574/701535",
+    "min_species_ancestry": "48460,47126,211194,136329,47375,47374,1150915,47574,701535,58725",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 58725,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 701535,
+    "name": "Juniperus communis",
+    "rank": "species",
+    "extinct": false,
+    "id": 58725,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      136329,
+      47375,
+      47374,
+      1150915,
+      47574,
+      701535,
+      58725
+    ],
+    "provisional": false,
+    "created_at": "2010-04-02T00:18:36+00:00",
+    "default_photo": {
+      "id": 61660329,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) FreckLes, some rights reserved (CC BY-NC), uploaded by FreckLes",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61660329/square.jpg",
+      "original_dimensions": {
+        "height": 1360,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "FreckLes",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61660329/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61660329/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 8,
+    "observations_count": 89288,
+    "photos_locked": false,
+    "universal_search_rank": 89288,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Juniperus_communis",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "common juniper"
+  },
+  "rawMetadataPath": "metadata/juniperus-communis/inat-93082546.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/juniperus-communis--inat-93082546.json"
+}

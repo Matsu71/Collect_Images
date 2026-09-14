@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-3431826",
+  "targetId": "org-camellia-sinensis",
+  "scientificName": "Camellia sinensis",
+  "nameJa": "チャノキ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 85,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "部分・生態・環境等の補足用。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:55:56+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:55:56+00:00",
+  "files": {
+    "master": "images/camellia-sinensis/inat-3431826.jpg",
+    "web": "images/camellia-sinensis/inat-3431826.webp",
+    "thumbnail": "images/camellia-sinensis/inat-3431826-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1152
+    ],
+    "master": [
+      2048,
+      1152
+    ],
+    "web": [
+      1400,
+      788
+    ]
+  },
+  "bytes": {
+    "master": 443366,
+    "web": 95782,
+    "thumbnail": 10182
+  },
+  "sha256": {
+    "download": "06d832d5d6a3f4e3d09aa0a368a826e3020e32c0895d60e3fb7c95eb5fd7ad9a",
+    "master": "a55171ad359545461ba754b2add03833547833e08b2a6fbc92e1417c7bf27c86",
+    "web": "44f78a0b1a3eb5f5e94e01db0922e370efe597235f2b11eefa570193f16fb498"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Camellia sinensis [Camellia sinensis] — Stuart Cable / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/3431826. Original attribution: (c) Stuart Cable, some rights reserved (CC BY), uploaded by Stuart Cable. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Camellia sinensis",
+  "sourceId": "3431826",
+  "photoUrl": "https://www.inaturalist.org/photos/3431826",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3431826/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3431826/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Stuart Cable",
+  "originalAttribution": "(c) Stuart Cable, some rights reserved (CC BY), uploaded by Stuart Cable",
+  "taxonId": 123005,
+  "acceptedScientificName": "Camellia sinensis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 11.645714285714286,
+  "photoApiEvidence": {
+    "id": 3431826,
+    "license_code": "cc-by",
+    "attribution": "(c) Stuart Cable, some rights reserved (CC BY), uploaded by Stuart Cable",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3431826/square.jpeg",
+    "original_dimensions": {
+      "height": 1152,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Stuart Cable",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3431826/square.jpeg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3431826/medium.jpeg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/camellia-sinensis/inat-3431826.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/camellia-sinensis--inat-3431826.json"
+}

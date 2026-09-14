@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-81827961",
+  "targetId": "org-daphnia-magna",
+  "scientificName": "Daphnia magna",
+  "nameJa": "オオミジンコ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 149,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:58:17+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:58:17+00:00",
+  "files": {
+    "master": "images/daphnia-magna/inat-81827961.jpg",
+    "web": "images/daphnia-magna/inat-81827961.webp",
+    "thumbnail": "images/daphnia-magna/inat-81827961-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1677,
+      1309
+    ],
+    "master": [
+      1677,
+      1309
+    ],
+    "web": [
+      1400,
+      1093
+    ]
+  },
+  "bytes": {
+    "master": 574638,
+    "web": 166442,
+    "thumbnail": 7806
+  },
+  "sha256": {
+    "download": "6ff64c9ce187b88b66cb98cb4540ff7935fe65d38c0e987b5ebd21f583c0ad3b",
+    "master": "5c860f20e18e48cc9d5bd72948604569795eedacc68f5e84323f30095b829534",
+    "web": "0ddd2bafbe26da9cb1d3e15eaaa43e3d2b1f3ece0232dafbcb06ce5ceb30e9de"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Daphnia magna [Daphnia magna] — Dieter Ebert, Basel, Switzerland / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/81827961. Original attribution: (c) Dieter Ebert, Basel, Switzerland, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Daphnia magna",
+  "sourceId": "81827961",
+  "photoUrl": "https://www.inaturalist.org/photos/81827961",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/81827961/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/81827961/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Dieter Ebert, Basel, Switzerland",
+  "originalAttribution": "(c) Dieter Ebert, Basel, Switzerland, some rights reserved (CC BY-SA)",
+  "taxonId": 460374,
+  "acceptedScientificName": "Daphnia magna",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 9.870000000000001,
+  "photoApiEvidence": {
+    "id": 81827961,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Dieter Ebert, Basel, Switzerland, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/81827961/square.jpg",
+    "original_dimensions": {
+      "height": 1309,
+      "width": 1677
+    },
+    "flags": [],
+    "attribution_name": "Dieter Ebert, Basel, Switzerland",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/81827961/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/81827961/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/daphnia-magna/inat-81827961.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY-SA 4.0",
+  "metadataPath": "collection/metadata/daphnia-magna--inat-81827961.json"
+}

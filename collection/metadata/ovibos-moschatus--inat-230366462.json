@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-230366462",
+  "targetId": "org-ovibos-moschatus",
+  "scientificName": "Ovibos moschatus",
+  "nameJa": "ジャコウウシ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:05:05+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:05:05+00:00",
+  "files": {
+    "master": "images/ovibos-moschatus/inat-230366462.jpg",
+    "web": "images/ovibos-moschatus/inat-230366462.webp",
+    "thumbnail": "images/ovibos-moschatus/inat-230366462-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1200,
+      800
+    ],
+    "master": [
+      1200,
+      800
+    ],
+    "web": [
+      1200,
+      800
+    ]
+  },
+  "bytes": {
+    "master": 296208,
+    "web": 189804,
+    "thumbnail": 15140
+  },
+  "sha256": {
+    "download": "737ed4b3c294af7a52d702231046784282e14c663f04bc5a0f8b857235918ec2",
+    "master": "96189aaeac2f905b6726bd5a2089df6f6fa19eead0565fd5d00c438c7fce1042",
+    "web": "83fed60960abef18bee4f7ab5e99ab5f2394af0c02ed988413a68c1783c37c54"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Ovibos moschatus [Ovibos moschatus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/230366462. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ovibos moschatus",
+  "sourceId": "230366462",
+  "photoUrl": "https://www.inaturalist.org/photos/230366462",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/230366462/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/230366462/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 42412,
+  "acceptedScientificName": "Ovibos moschatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/135090513",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.809523809523809,
+  "photoApiEvidence": {
+    "id": 230366462,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1200,
+      "height": 800
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/230366462/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/424850/42241/568847/846307/42411",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,152870,424850,42241,568847,846307,42411,42412",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 42412,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 42411,
+    "name": "Ovibos moschatus",
+    "rank": "species",
+    "extinct": false,
+    "id": 42412,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      152870,
+      424850,
+      42241,
+      568847,
+      846307,
+      42411,
+      42412
+    ],
+    "created_at": "2008-03-19T00:43:23+00:00",
+    "default_photo": {
+      "id": 348194143,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Yinan Li, some rights reserved (CC BY-NC), uploaded by Yinan Li",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348194143/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Yinan Li",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348194143/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348194143/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 2459,
+    "photos_locked": false,
+    "universal_search_rank": 2459,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 12946,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Muskox",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Muskox"
+  },
+  "rawMetadataPath": "metadata/ovibos-moschatus/inat-230366462.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/ovibos-moschatus--inat-230366462.json"
+}

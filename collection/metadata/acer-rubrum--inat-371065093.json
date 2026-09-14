@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-371065093",
+  "targetId": "inat-taxon-48098",
+  "scientificName": "Acer rubrum",
+  "nameJa": "アカカエデ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:16:58+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:16:58+00:00",
+  "files": {
+    "master": "images/acer-rubrum/inat-371065093.jpg",
+    "web": "images/acer-rubrum/inat-371065093.webp",
+    "thumbnail": "images/acer-rubrum/inat-371065093-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 381405,
+    "web": 88108,
+    "thumbnail": 10974
+  },
+  "sha256": {
+    "download": "5dcb267b751d8b33d8130023794adc7a09d98971bd573ab3070764343e8d0da0",
+    "master": "15589c4e611683a1193425efb651f7ada2a9e7c1e801d40628f0f4c8d2d3a3c9",
+    "web": "5ae9ed72f02c8693a96116dc68a1a41d2b6aa755d5d6089ac4cde70779362afd"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Acer rubrum [Acer rubrum] — mefisher / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/371065093. Original attribution: no rights reserved, uploaded by mefisher. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Acer rubrum",
+  "sourceId": "371065093",
+  "photoUrl": "https://www.inaturalist.org/photos/371065093",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/371065093/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/371065093/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "mefisher",
+  "originalAttribution": "no rights reserved, uploaded by mefisher",
+  "taxonId": 48098,
+  "acceptedScientificName": "Acer rubrum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 13.194285714285714,
+  "photoApiEvidence": {
+    "id": 371065093,
+    "license_code": "cc0",
+    "attribution": "no rights reserved, uploaded by mefisher",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/371065093/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "mefisher",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/371065093/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/371065093/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/acer-rubrum/inat-371065093.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/acer-rubrum--inat-371065093.json"
+}

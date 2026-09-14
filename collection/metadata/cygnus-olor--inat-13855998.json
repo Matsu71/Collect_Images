@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-13855998",
+  "targetId": "org-cygnus-olor",
+  "scientificName": "Cygnus olor",
+  "nameJa": "コブハクチョウ",
+  "collectionTier": "chronoearth",
+  "origin": "rejected_asset",
+  "status": "excluded",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "exclude",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 144,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "人物と歩道が中心で、対象の白鳥の姿を確認できない。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:58:04+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:58:04+00:00",
+  "files": {
+    "master": "images/cygnus-olor/inat-13855998.jpg",
+    "web": "images/cygnus-olor/inat-13855998.webp",
+    "thumbnail": "images/cygnus-olor/inat-13855998-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2006,
+      1596
+    ],
+    "master": [
+      2006,
+      1596
+    ],
+    "web": [
+      1400,
+      1114
+    ]
+  },
+  "bytes": {
+    "master": 917710,
+    "web": 188808,
+    "thumbnail": 17238
+  },
+  "sha256": {
+    "download": "019bbd73c08307371505e1ee6c0a0c5d412451937b1d457c5eff9a328672d661",
+    "master": "adafa7841529f4a7456d96f3296184ff37b6b782b510df2ee0b3caaadab57ec4",
+    "web": "363e64893434c75e4c220f3b10f217d31f9c925bde80cac78122e59be516f0ba"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Cygnus olor [Cygnus olor] — carnifex / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/13855998. Original attribution: (c) carnifex, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Cygnus olor",
+  "sourceId": "13855998",
+  "photoUrl": "https://www.inaturalist.org/photos/13855998",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13855998/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13855998/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "carnifex",
+  "originalAttribution": "(c) carnifex, some rights reserved (CC BY)",
+  "taxonId": 6921,
+  "acceptedScientificName": "Cygnus olor",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/10064753",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.28,
+  "photoApiEvidence": {
+    "id": 13855998,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2006,
+      "height": 1596
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13855998/square.jpg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/6888/6912/6913",
+    "min_species_ancestry": "48460,1,2,355675,3,6888,6912,6913,6921",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 6921,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 6913,
+    "name": "Cygnus olor",
+    "rank": "species",
+    "extinct": false,
+    "id": 6921,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      6888,
+      6912,
+      6913,
+      6921
+    ],
+    "created_at": "2008-03-13T02:52:42+00:00",
+    "default_photo": {
+      "id": 264781420,
+      "license_code": null,
+      "attribution": "(c) Mark Sikking, all rights reserved, uploaded by Mark Sikking",
+      "url": "https://static.inaturalist.org/photos/264781420/square.jpg",
+      "original_dimensions": {
+        "height": 1366,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Mark Sikking",
+      "square_url": "https://static.inaturalist.org/photos/264781420/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/264781420/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 9,
+    "observations_count": 187039,
+    "photos_locked": false,
+    "universal_search_rank": 187039,
+    "flag_counts": {
+      "resolved": 7,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 144444,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mute_swan",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Mute Swan"
+  },
+  "rawMetadataPath": "metadata/cygnus-olor/inat-13855998.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生鳥類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/cygnus-olor--inat-13855998.json"
+}

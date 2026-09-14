@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-530721418",
+  "targetId": "org-cyanocitta-cristata",
+  "scientificName": "Cyanocitta cristata",
+  "nameJa": "アオカケス",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 141,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:58:00+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:58:00+00:00",
+  "files": {
+    "master": "images/cyanocitta-cristata/inat-530721418.jpg",
+    "web": "images/cyanocitta-cristata/inat-530721418.webp",
+    "thumbnail": "images/cyanocitta-cristata/inat-530721418-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1508
+    ],
+    "master": [
+      2048,
+      1508
+    ],
+    "web": [
+      1400,
+      1031
+    ]
+  },
+  "bytes": {
+    "master": 975256,
+    "web": 183884,
+    "thumbnail": 13706
+  },
+  "sha256": {
+    "download": "074595f68862baa9a4c2831f757ea092763e90574b857258f48b0d751026f117",
+    "master": "72e6e1a56b28b498876b79e3e655b2b86cd8112a4ed0a9c12f55bb0415f49680",
+    "web": "99bb042fdd80b63ee24e0926b364e7023e041d0eda494cc65d457e49ba80e5ed"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Cyanocitta cristata [Cyanocitta cristata] — Judy Gallagher / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/530721418. Original attribution: (c) Judy Gallagher, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Cyanocitta cristata",
+  "sourceId": "530721418",
+  "photoUrl": "https://www.inaturalist.org/photos/530721418",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Judy Gallagher",
+  "originalAttribution": "(c) Judy Gallagher, some rights reserved (CC BY)",
+  "taxonId": 8229,
+  "acceptedScientificName": "Cyanocitta cristata",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.154285714285715,
+  "photoApiEvidence": {
+    "id": 530721418,
+    "license_code": "cc-by",
+    "attribution": "(c) Judy Gallagher, some rights reserved (CC BY)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/square.jpg",
+    "original_dimensions": {
+      "height": 1508,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Judy Gallagher",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/cyanocitta-cristata/inat-530721418.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/cyanocitta-cristata--inat-530721418.json"
+}

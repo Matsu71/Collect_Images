@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-353767251",
+  "targetId": "org-sphyrna-mokarran",
+  "scientificName": "Sphyrna mokarran",
+  "nameJa": "ヒラシュモクザメ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:08:57+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:08:57+00:00",
+  "files": {
+    "master": "images/sphyrna-mokarran/inat-353767251.jpg",
+    "web": "images/sphyrna-mokarran/inat-353767251.webp",
+    "thumbnail": "images/sphyrna-mokarran/inat-353767251-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1069013,
+    "web": 291248,
+    "thumbnail": 13190
+  },
+  "sha256": {
+    "download": "70107d99d6d5ac696ddc0079632752562dd96546001fafb5a6c99ac9d6e75415",
+    "master": "69e984aebaf41815feded51e31f8ed5a3a43442a34f706e0cff15dde9e4d769e",
+    "web": "7a46db71586a591952bc367598077bfbed2f4765c7203133e9be8b2412b2f4d9"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Sphyrna mokarran [Sphyrna mokarran] — Robin White / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/353767251. Original attribution: (c) Robin White, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Sphyrna mokarran",
+  "sourceId": "353767251",
+  "photoUrl": "https://www.inaturalist.org/photos/353767251",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/353767251/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/353767251/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Robin White",
+  "originalAttribution": "(c) Robin White, some rights reserved (CC BY)",
+  "taxonId": 56766,
+  "acceptedScientificName": "Sphyrna mokarran",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": "https://www.inaturalist.org/observations/200503015",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.592380952380952,
+  "photoApiEvidence": {
+    "id": 353767251,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/353767251/square.jpg",
+    "attribution": "(c) Robin White, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/196614/47273/551307/551308/48069/48068/56767",
+    "min_species_ancestry": "48460,1,2,355675,196614,47273,551307,551308,48069,48068,56767,56766",
+    "endemic": false,
+    "iconic_taxon_id": 1,
+    "min_species_taxon_id": 56766,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 56767,
+    "name": "Sphyrna mokarran",
+    "rank": "species",
+    "extinct": false,
+    "id": 56766,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      196614,
+      47273,
+      551307,
+      551308,
+      48069,
+      48068,
+      56767,
+      56766
+    ],
+    "created_at": "2010-03-08T20:46:31+00:00",
+    "default_photo": {
+      "id": 12399600,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Christa Rohrbach, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12399600/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Christa Rohrbach",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12399600/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12399600/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 423,
+    "photos_locked": false,
+    "universal_search_rank": 423,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_hammerhead",
+    "iconic_taxon_name": "Animalia",
+    "preferred_common_name": "Great Hammerhead",
+    "conservation_status": {
+      "id": 19249,
+      "place_id": null,
+      "source_id": 4,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "cr",
+      "status_name": "critically endangered",
+      "geoprivacy": "obscured",
+      "iucn": 50
+    }
+  },
+  "rawMetadataPath": "metadata/sphyrna-mokarran/inat-353767251.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生魚類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/sphyrna-mokarran--inat-353767251.json"
+}

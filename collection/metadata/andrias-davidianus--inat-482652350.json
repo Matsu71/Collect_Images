@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-482652350",
+  "targetId": "org-andrias-davidianus",
+  "scientificName": "Andrias davidianus",
+  "nameJa": "チュウゴクオオサンショウウオ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 28,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "部分・生態・環境等の補足用。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:53:59+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:53:59+00:00",
+  "files": {
+    "master": "images/andrias-davidianus/inat-482652350.jpg",
+    "web": "images/andrias-davidianus/inat-482652350.webp",
+    "thumbnail": "images/andrias-davidianus/inat-482652350-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1542
+    ],
+    "master": [
+      2048,
+      1542
+    ],
+    "web": [
+      1400,
+      1054
+    ]
+  },
+  "bytes": {
+    "master": 699615,
+    "web": 189150,
+    "thumbnail": 19178
+  },
+  "sha256": {
+    "download": "f046df6e9274d187289be27f6abe2dea75e967f3271cc64e88ca6c03e53ae9c3",
+    "master": "eedacdd71af042ab833ef4497ec235bf7d1c9c538d51d62955b7b04045ad7820",
+    "web": "ccde3e02eb3673f05527faccad92a46d89ef72134c00fe801e0757f135690383"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Andrias davidianus [Andrias davidianus] — Stefano Menchetti / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/482652350. Original attribution: (c) Stefano Menchetti, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Andrias davidianus",
+  "sourceId": "482652350",
+  "photoUrl": "https://www.inaturalist.org/photos/482652350",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/482652350/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/482652350/original.jpeg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Stefano Menchetti",
+  "originalAttribution": "(c) Stefano Menchetti, some rights reserved (CC BY-SA)",
+  "taxonId": 1688535,
+  "acceptedScientificName": "Andrias davidianus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "complex",
+  "iconicTaxonName": "Amphibia",
+  "observationUrl": "https://www.inaturalist.org/observations/268505842",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 4.869523809523809,
+  "photoApiEvidence": {
+    "id": 482652350,
+    "license_code": "cc-by-sa",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1542
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482652350/square.jpeg",
+    "attribution": "(c) Stefano Menchetti, some rights reserved (CC BY-SA)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/20978/26718/26802/26809/1688535",
+    "min_species_ancestry": "48460,1,2,355675,20978,26718,26802,26809,1688535,26813",
+    "endemic": false,
+    "iconic_taxon_id": 20978,
+    "min_species_taxon_id": 26813,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 1688535,
+    "name": "Andrias davidianus",
+    "rank": "species",
+    "extinct": false,
+    "id": 26813,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      20978,
+      26718,
+      26802,
+      26809,
+      1688535,
+      26813
+    ],
+    "created_at": "2008-03-18T00:56:07+00:00",
+    "default_photo": {
+      "id": 179361521,
+      "license_code": null,
+      "attribution": "(c) Maoliang, all rights reserved, uploaded by Maoliang",
+      "url": "https://static.inaturalist.org/photos/179361521/square.jpeg",
+      "original_dimensions": {
+        "height": 1366,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Maoliang",
+      "square_url": "https://static.inaturalist.org/photos/179361521/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/179361521/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 7,
+    "observations_count": 60,
+    "photos_locked": false,
+    "universal_search_rank": 60,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 5011,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Chinese_giant_salamander",
+    "iconic_taxon_name": "Amphibia",
+    "preferred_common_name": "Chinese Giant Salamander",
+    "conservation_status": {
+      "id": 11567,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "cr",
+      "status_name": "critically endangered",
+      "geoprivacy": "obscured",
+      "iucn": 50
+    }
+  },
+  "rawMetadataPath": "metadata/andrias-davidianus/inat-482652350.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生両生類",
+  "contextFlags": [],
+  "licenseName": "CC BY-SA 4.0",
+  "metadataPath": "collection/metadata/andrias-davidianus--inat-482652350.json"
+}

@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-2996372",
+  "targetId": "org-gorilla-gorilla",
+  "scientificName": "Gorilla gorilla",
+  "nameJa": "ニシゴリラ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:00:31+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:00:31+00:00",
+  "files": {
+    "master": "images/gorilla-gorilla/inat-2996372.jpg",
+    "web": "images/gorilla-gorilla/inat-2996372.webp",
+    "thumbnail": "images/gorilla-gorilla/inat-2996372-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1125240,
+    "web": 308312,
+    "thumbnail": 26072
+  },
+  "sha256": {
+    "download": "c1663f5a335eb3cbdf4f3f728ac0adde89c8cba57a1f3cb1a170983248cb1006",
+    "master": "2a6e0db3f55e439dd879d9a7e14b423312564f8fb67dffad4f59dbac74723212",
+    "web": "25c88517460803b3cd018dbeb3827764843a1139ed11ac1cdd2fd914c23a3769"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Gorilla gorilla [Gorilla gorilla] — John P Friel / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/2996372. Original attribution: (c) John P Friel, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Gorilla gorilla",
+  "sourceId": "2996372",
+  "photoUrl": "https://www.inaturalist.org/photos/2996372",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2996372/original.JPG",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2996372/original.JPG",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "John P Friel",
+  "originalAttribution": "(c) John P Friel, some rights reserved (CC BY)",
+  "taxonId": 43580,
+  "acceptedScientificName": "Gorilla gorilla",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/2665319",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.194285714285714,
+  "photoApiEvidence": {
+    "id": 2996372,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2996372/square.JPG",
+    "attribution": "(c) John P Friel, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43367/786045/936377/936369/1036675/43575/846252/43579/43580",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43367,786045,936377,936369,1036675,43575,846252,43579,43580",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43580,
+    "threatened": true,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 43580,
+    "name": "Gorilla gorilla gorilla",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 147662,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43367,
+      786045,
+      936377,
+      936369,
+      1036675,
+      43575,
+      846252,
+      43579,
+      43580,
+      147662
+    ],
+    "created_at": "2012-09-08T01:22:50+00:00",
+    "default_photo": {
+      "id": 282241201,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) simben, some rights reserved (CC BY-NC-ND), uploaded by simben",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/282241201/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "simben",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/282241201/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/282241201/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 973,
+    "photos_locked": false,
+    "universal_search_rank": 973,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Western_lowland_gorilla",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Western Lowland Gorilla",
+    "conservation_status": {
+      "id": 45967,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "cr",
+      "status_name": "critically endangered",
+      "geoprivacy": "obscured",
+      "iucn": 50
+    }
+  },
+  "rawMetadataPath": "metadata/gorilla-gorilla/inat-2996372.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/gorilla-gorilla--inat-2996372.json"
+}

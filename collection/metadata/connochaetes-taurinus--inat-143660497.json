@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-143660497",
+  "targetId": "org-connochaetes-taurinus",
+  "scientificName": "Connochaetes taurinus",
+  "nameJa": "オグロヌー",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 126,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:57:27+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:57:27+00:00",
+  "files": {
+    "master": "images/connochaetes-taurinus/inat-143660497.jpg",
+    "web": "images/connochaetes-taurinus/inat-143660497.webp",
+    "thumbnail": "images/connochaetes-taurinus/inat-143660497-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1936,
+      1296
+    ],
+    "master": [
+      1936,
+      1296
+    ],
+    "web": [
+      1400,
+      937
+    ]
+  },
+  "bytes": {
+    "master": 586058,
+    "web": 189530,
+    "thumbnail": 15240
+  },
+  "sha256": {
+    "download": "18c1bb79ba305059ca3d668e5becfa83ac696fcf1d247c86972235469ce42bad",
+    "master": "32477e5c9b1b477936491d6683988ddc3fb8e21fbfb6f417e4079fb92cf68e44",
+    "web": "897b17e5962a20740e7fd7383f119756a642e76644bacbb111cc3a2a2a16cc7d"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Connochaetes taurinus [Connochaetes taurinus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/143660497. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Connochaetes taurinus",
+  "sourceId": "143660497",
+  "photoUrl": "https://www.inaturalist.org/photos/143660497",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/143660497/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/143660497/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 42280,
+  "acceptedScientificName": "Connochaetes taurinus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/87163145",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.518095238095238,
+  "photoApiEvidence": {
+    "id": 143660497,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1936,
+      "height": 1296
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/143660497/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/424850/42241/568847/846320/42279/42280",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,152870,424850,42241,568847,846320,42279,42280",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 42280,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 42280,
+    "name": "Connochaetes taurinus taurinus",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 528081,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      152870,
+      424850,
+      42241,
+      568847,
+      846320,
+      42279,
+      42280,
+      528081
+    ],
+    "created_at": "2017-02-06T15:13:07+00:00",
+    "default_photo": {
+      "id": 77702635,
+      "license_code": null,
+      "attribution": "(c) Ashlee Cribb, all rights reserved, uploaded by Ashlee Cribb",
+      "url": "https://static.inaturalist.org/photos/77702635/square.jpeg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Ashlee Cribb",
+      "square_url": "https://static.inaturalist.org/photos/77702635/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/77702635/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 6816,
+    "photos_locked": false,
+    "universal_search_rank": 6816,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Blue_wildebeest",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Blue Wildebeest"
+  },
+  "rawMetadataPath": "metadata/connochaetes-taurinus/inat-143660497.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/connochaetes-taurinus--inat-143660497.json"
+}

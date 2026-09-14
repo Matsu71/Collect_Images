@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-5686033",
+  "targetId": "org-gymnogyps-californianus",
+  "scientificName": "Gymnogyps californianus",
+  "nameJa": "カリフォルニアコンドル",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:00:44+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:00:44+00:00",
+  "files": {
+    "master": "images/gymnogyps-californianus/inat-5686033.jpg",
+    "web": "images/gymnogyps-californianus/inat-5686033.webp",
+    "thumbnail": "images/gymnogyps-californianus/inat-5686033-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1535
+    ],
+    "master": [
+      2048,
+      1535
+    ],
+    "web": [
+      1400,
+      1049
+    ]
+  },
+  "bytes": {
+    "master": 1071860,
+    "web": 256218,
+    "thumbnail": 29880
+  },
+  "sha256": {
+    "download": "d6785cca301c10600d06218e938ac13584904bd71ba3924703af8ee79634c532",
+    "master": "bfc500de67569b4c002c63ddc4bc073fba59e4b283092dceb625bc034508c9cf",
+    "web": "a333491009bdb0503171ff5bb8cf787a215987d8a9cea29b829b4ed4dcbfe6b5"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Gymnogyps californianus [Gymnogyps californianus] — Marcus Rosten / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/5686033. Original attribution: (c) Marcus Rosten, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Gymnogyps californianus",
+  "sourceId": "5686033",
+  "photoUrl": "https://www.inaturalist.org/photos/5686033",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5686033/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5686033/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Marcus Rosten",
+  "originalAttribution": "(c) Marcus Rosten, some rights reserved (CC BY)",
+  "taxonId": 4778,
+  "acceptedScientificName": "Gymnogyps californianus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/4683505",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.85952380952381,
+  "photoApiEvidence": {
+    "id": 5686033,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1535
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5686033/square.jpg",
+    "attribution": "(c) Marcus Rosten, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/559244/71306/4777",
+    "min_species_ancestry": "48460,1,2,355675,3,559244,71306,4777,4778",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 4778,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 4777,
+    "name": "Gymnogyps californianus",
+    "rank": "species",
+    "extinct": false,
+    "id": 4778,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      559244,
+      71306,
+      4777,
+      4778
+    ],
+    "created_at": "2008-03-13T02:46:22+00:00",
+    "default_photo": {
+      "id": 205288597,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Andrea Carpio, some rights reserved (CC BY-NC), uploaded by Andrea Carpio",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/205288597/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Andrea Carpio",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/205288597/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/205288597/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 10,
+    "observations_count": 7142,
+    "photos_locked": false,
+    "universal_search_rank": 7142,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/California_condor",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "California Condor",
+    "conservation_status": {
+      "id": 543553,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": 477,
+      "authority": "IUCN Red List",
+      "status": "cr",
+      "status_name": "critically endangered",
+      "geoprivacy": "open",
+      "iucn": 50
+    }
+  },
+  "rawMetadataPath": "metadata/gymnogyps-californianus/inat-5686033.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/gymnogyps-californianus--inat-5686033.json"
+}

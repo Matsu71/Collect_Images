@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-724559941",
+  "targetId": "inat-taxon-51147",
+  "scientificName": "Crataegus monogyna",
+  "nameJa": "アカバナサンザシ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:18:24+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:18:24+00:00",
+  "files": {
+    "master": "images/crataegus-monogyna/inat-724559941.jpg",
+    "web": "images/crataegus-monogyna/inat-724559941.webp",
+    "thumbnail": "images/crataegus-monogyna/inat-724559941-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 729641,
+    "web": 180292,
+    "thumbnail": 18074
+  },
+  "sha256": {
+    "download": "08e5f7a27192bd1f59f956458319100c9a9387e5b6def65fbf2e2692afb9fa6a",
+    "master": "931627b7af95f4c3330f95552b03620f6ba4dd4017e9470025f7aaec54a67dea",
+    "web": "a7da962d378b11251b75e6b34c8b68fbbc5583f7ef42aee01115fcb2217410d5"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Crataegus monogyna [Crataegus monogyna] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/724559941. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Crataegus monogyna",
+  "sourceId": "724559941",
+  "photoUrl": "https://www.inaturalist.org/photos/724559941",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/724559941/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/724559941/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 51147,
+  "acceptedScientificName": "Crataegus monogyna",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/395172894",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 724559941,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/724559941/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47132/47148/922110/723302/51148/1437484/1437522/1577961/1437600",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47132,47148,922110,723302,51148,1437484,1437522,1577961,1437600,51147",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 51147,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1437600,
+    "name": "Crataegus monogyna",
+    "rank": "species",
+    "extinct": false,
+    "id": 51147,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47132,
+      47148,
+      922110,
+      723302,
+      51148,
+      1437484,
+      1437522,
+      1577961,
+      1437600,
+      51147
+    ],
+    "created_at": "2009-05-02T07:56:02+00:00",
+    "default_photo": {
+      "id": 73530064,
+      "license_code": null,
+      "attribution": "(c) Annice Bridgett, all rights reserved, uploaded by Annice Bridgett",
+      "url": "https://static.inaturalist.org/photos/73530064/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "Annice Bridgett",
+      "square_url": "https://static.inaturalist.org/photos/73530064/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/73530064/medium.jpeg"
+    },
+    "taxon_changes_count": 3,
+    "taxon_schemes_count": 5,
+    "observations_count": 108283,
+    "photos_locked": false,
+    "universal_search_rank": 108283,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Crataegus_monogyna",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "common hawthorn"
+  },
+  "rawMetadataPath": "metadata/crataegus-monogyna/inat-724559941.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/crataegus-monogyna--inat-724559941.json"
+}

@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-266710766",
+  "targetId": "org-saimiri-sciureus",
+  "scientificName": "Saimiri sciureus",
+  "nameJa": "コモンリスザル",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:08:09+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:08:09+00:00",
+  "files": {
+    "master": "images/saimiri-sciureus/inat-266710766.jpg",
+    "web": "images/saimiri-sciureus/inat-266710766.webp",
+    "thumbnail": "images/saimiri-sciureus/inat-266710766-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 448091,
+    "web": 85594,
+    "thumbnail": 12782
+  },
+  "sha256": {
+    "download": "ce36f73c8c1a0e4019c596dd18474062560bfa6acc7be22ca285218068654be0",
+    "master": "c7b1d5e7a10be80e49c2de1a13e0d8d086230b7773694cbe4e8236c5f80855e6",
+    "web": "aeac4004d96c2c6172a3ba49c146d2c8178c21449c1c829ca4a1658696e82f25"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Saimiri sciureus [Saimiri sciureus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/266710766. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Saimiri sciureus",
+  "sourceId": "266710766",
+  "photoUrl": "https://www.inaturalist.org/photos/266710766",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/266710766/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/266710766/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 43428,
+  "acceptedScientificName": "Saimiri sciureus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/154364570",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 266710766,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/266710766/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43367/786045/936377/554251/43399/846286/43423",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43367,786045,936377,554251,43399,846286,43423,43428",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43428,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 43423,
+    "name": "Saimiri sciureus",
+    "rank": "species",
+    "extinct": false,
+    "id": 43428,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43367,
+      786045,
+      936377,
+      554251,
+      43399,
+      846286,
+      43423,
+      43428
+    ],
+    "provisional": false,
+    "created_at": "2008-03-19T00:54:34+00:00",
+    "default_photo": {
+      "id": 263697810,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Ingmar van der Brugge, some rights reserved (CC BY-NC-ND), uploaded by Ingmar van der Brugge",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/263697810/square.jpg",
+      "original_dimensions": {
+        "height": 667,
+        "width": 1000
+      },
+      "flags": [],
+      "attribution_name": "Ingmar van der Brugge",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/263697810/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/263697810/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 4,
+    "observations_count": 1286,
+    "photos_locked": false,
+    "universal_search_rank": 1286,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 14929,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_squirrel_monkey",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Common Squirrel Monkey"
+  },
+  "rawMetadataPath": "metadata/saimiri-sciureus/inat-266710766.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "動物園主要補完",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/saimiri-sciureus--inat-266710766.json"
+}

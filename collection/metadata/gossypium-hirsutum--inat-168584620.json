@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-168584620",
+  "targetId": "org-gossypium-hirsutum",
+  "scientificName": "Gossypium hirsutum",
+  "nameJa": "リクチメン",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:00:32+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:00:32+00:00",
+  "files": {
+    "master": "images/gossypium-hirsutum/inat-168584620.jpg",
+    "web": "images/gossypium-hirsutum/inat-168584620.webp",
+    "thumbnail": "images/gossypium-hirsutum/inat-168584620-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 715883,
+    "web": 168638,
+    "thumbnail": 12604
+  },
+  "sha256": {
+    "download": "aaf22d06ae0bf9ca497b76f55c30ccb94f4d7f2837ee26ffea0690952b8d26c1",
+    "master": "d7c74f1ac5bb07587c8724f616050d8cd02b09cd7fb264603594ad48807a2716",
+    "web": "092504bf43c094cede86d83a732828703615bd8fd3ae9d44a7fe081552a15d36"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Gossypium hirsutum [Gossypium hirsutum] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/168584620. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Gossypium hirsutum",
+  "sourceId": "168584620",
+  "photoUrl": "https://www.inaturalist.org/photos/168584620",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/168584620/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/168584620/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 77299,
+  "acceptedScientificName": "Gossypium hirsutum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/100974375",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 168584620,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168584620/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48796/48797/860115/860844/72151",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48796,48797,860115,860844,72151,77299",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 77299,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 72151,
+    "name": "Gossypium hirsutum",
+    "rank": "species",
+    "extinct": false,
+    "id": 77299,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48796,
+      48797,
+      860115,
+      860844,
+      72151,
+      77299
+    ],
+    "created_at": "2011-05-13T21:41:42+00:00",
+    "default_photo": {
+      "id": 121677327,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Riley Fortier, some rights reserved (CC BY-NC), uploaded by Riley Fortier",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/121677327/square.jpeg",
+      "original_dimensions": {
+        "height": 1366,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Riley Fortier",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/121677327/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/121677327/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 5764,
+    "photos_locked": false,
+    "universal_search_rank": 5764,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gossypium_hirsutum",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Upland Cotton",
+    "conservation_status": {
+      "id": 548760,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": 477,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "open",
+      "iucn": 30
+    }
+  },
+  "rawMetadataPath": "metadata/gossypium-hirsutum/inat-168584620.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/gossypium-hirsutum--inat-168584620.json"
+}

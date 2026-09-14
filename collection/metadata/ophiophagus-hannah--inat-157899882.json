@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-157899882",
+  "targetId": "org-ophiophagus-hannah",
+  "scientificName": "Ophiophagus hannah",
+  "nameJa": "キングコブラ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:04:45+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:04:45+00:00",
+  "files": {
+    "master": "images/ophiophagus-hannah/inat-157899882.jpg",
+    "web": "images/ophiophagus-hannah/inat-157899882.webp",
+    "thumbnail": "images/ophiophagus-hannah/inat-157899882-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1638,
+      2048
+    ],
+    "master": [
+      1638,
+      2048
+    ],
+    "web": [
+      1120,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 745878,
+    "web": 169884,
+    "thumbnail": 11664
+  },
+  "sha256": {
+    "download": "46e7f813e34bc325e0a5d17190bb9f01fe877ea4598e2e74605dfdbf4aa6a760",
+    "master": "ea7ca575cf98366c1f42e133ba6fe5dec85092d0e2e012159fce6414453a279a",
+    "web": "84c50455862dd295b65a5bb716e926e63d633039e5085376a017955726e9f61e"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Ophiophagus hannah [Ophiophagus hannah] — Lawrence Hylton / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/157899882. Original attribution: (c) Lawrence Hylton, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ophiophagus hannah",
+  "sourceId": "157899882",
+  "photoUrl": "https://www.inaturalist.org/photos/157899882",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/157899882/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/157899882/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Lawrence Hylton",
+  "originalAttribution": "(c) Lawrence Hylton, some rights reserved (CC BY)",
+  "taxonId": 30472,
+  "acceptedScientificName": "Ophiophagus hannah",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": "https://www.inaturalist.org/observations/95133147",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.34,
+  "photoApiEvidence": {
+    "id": 157899882,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1638,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157899882/square.jpg",
+    "attribution": "(c) Lawrence Hylton, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/26172/85553/30403/30471",
+    "min_species_ancestry": "48460,1,2,355675,26036,26172,85553,30403,30471,30472",
+    "endemic": false,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 30472,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 30471,
+    "name": "Ophiophagus hannah",
+    "rank": "species",
+    "extinct": false,
+    "id": 30472,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      26172,
+      85553,
+      30403,
+      30471,
+      30472
+    ],
+    "created_at": "2008-03-18T01:24:25+00:00",
+    "default_photo": {
+      "id": 307874083,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Daniel Liepack, some rights reserved (CC BY-NC), uploaded by Daniel Liepack",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307874083/square.jpeg",
+      "original_dimensions": {
+        "height": 1364,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Daniel Liepack",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307874083/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307874083/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 4,
+    "observations_count": 629,
+    "photos_locked": false,
+    "universal_search_rank": 629,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 135435,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/King_cobra",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "Northern King Cobra",
+    "conservation_status": {
+      "id": 12788,
+      "place_id": null,
+      "source_id": 26,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": null,
+      "iucn": 30
+    }
+  },
+  "rawMetadataPath": "metadata/ophiophagus-hannah/inat-157899882.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生爬虫類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/ophiophagus-hannah--inat-157899882.json"
+}

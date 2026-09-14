@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-218996387",
+  "targetId": "org-istiophorus-platypterus",
+  "scientificName": "Istiophorus platypterus",
+  "nameJa": "バショウカジキ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:01:42+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:01:42+00:00",
+  "files": {
+    "master": "images/istiophorus-platypterus/inat-218996387.jpg",
+    "web": "images/istiophorus-platypterus/inat-218996387.webp",
+    "thumbnail": "images/istiophorus-platypterus/inat-218996387-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 534809,
+    "web": 116212,
+    "thumbnail": 12244
+  },
+  "sha256": {
+    "download": "51bb324099797602d6fb280c73f15686371c7f548026fe4b10eb9aa94b94f7ed",
+    "master": "3bcf3b1045db0b0d1e45af862e713f444bf8214bbb70ffefa6b9aa23b14230ba",
+    "web": "679f0a457703cc5a70a48359396e3196b301f2fb77e452b837dbbc120d8dec10"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Istiophorus platypterus [Istiophorus platypterus] — harrier / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/218996387. Original attribution: (c) harrier, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Istiophorus platypterus",
+  "sourceId": "218996387",
+  "photoUrl": "https://www.inaturalist.org/photos/218996387",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/218996387/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/218996387/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "harrier",
+  "originalAttribution": "(c) harrier, some rights reserved (CC BY)",
+  "taxonId": 119719,
+  "acceptedScientificName": "Istiophorus platypterus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Actinopterygii",
+  "observationUrl": "https://www.inaturalist.org/observations/128905528",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.95,
+  "photoApiEvidence": {
+    "id": 218996387,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218996387/square.jpeg",
+    "attribution": "(c) harrier, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/47178/1632273/1303727/1303748/47542/89166",
+    "min_species_ancestry": "48460,1,2,355675,47178,1632273,1303727,1303748,47542,89166,119719",
+    "endemic": false,
+    "iconic_taxon_id": 47178,
+    "min_species_taxon_id": 119719,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 89166,
+    "name": "Istiophorus platypterus",
+    "rank": "species",
+    "extinct": false,
+    "id": 119719,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      47178,
+      1632273,
+      1303727,
+      1303748,
+      47542,
+      89166,
+      119719
+    ],
+    "created_at": "2011-09-30T03:31:09+03:00",
+    "default_photo": {
+      "id": 152543,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Robin Hughes, bazı hakları saklıdır (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/152543/square.jpg",
+      "original_dimensions": {
+        "height": 333,
+        "width": 500
+      },
+      "flags": [],
+      "attribution_name": "Robin Hughes",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/152543/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/152543/medium.jpg"
+    },
+    "taxon_changes_count": 3,
+    "taxon_schemes_count": 4,
+    "observations_count": 540,
+    "photos_locked": false,
+    "universal_search_rank": 540,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 140234,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Indo-Pacific_sailfish",
+    "iconic_taxon_name": "Actinopterygii",
+    "preferred_common_name": "Sailfish",
+    "conservation_status": {
+      "id": 93263,
+      "place_id": null,
+      "source_id": 9164,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "obscured",
+      "iucn": 30
+    }
+  },
+  "rawMetadataPath": "metadata/istiophorus-platypterus/inat-218996387.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/istiophorus-platypterus--inat-218996387.json"
+}

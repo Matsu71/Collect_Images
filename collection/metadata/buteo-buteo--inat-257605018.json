@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-257605018",
+  "targetId": "inat-taxon-204472",
+  "scientificName": "Buteo buteo",
+  "nameJa": "ヨーロッパノスリ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:15:07+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:15:07+00:00",
+  "files": {
+    "master": "images/buteo-buteo/inat-257605018.jpg",
+    "web": "images/buteo-buteo/inat-257605018.webp",
+    "thumbnail": "images/buteo-buteo/inat-257605018-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1080,
+      1080
+    ],
+    "master": [
+      1080,
+      1080
+    ],
+    "web": [
+      1080,
+      1080
+    ]
+  },
+  "bytes": {
+    "master": 170621,
+    "web": 27606,
+    "thumbnail": 2684
+  },
+  "sha256": {
+    "download": "ba17f423aedd20cf9839087e98f378c862475564ad7fcf4d6f6527a1807a7a4e",
+    "master": "727fedf684ebd29b5c7cb292b4563b84b742642fc7f0f1d07bb63cf8dfaf8d8f",
+    "web": "96c021912e103a18c38c3bc3c1ee4d1bf38c009210f15cd919fe3b027f64bba4"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Buteo buteo [Buteo buteo] — Alexis Williams / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/257605018. Original attribution: (c) Alexis Williams, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Buteo buteo",
+  "sourceId": "257605018",
+  "photoUrl": "https://www.inaturalist.org/photos/257605018",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/257605018/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/257605018/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Alexis Williams",
+  "originalAttribution": "(c) Alexis Williams, some rights reserved (CC BY)",
+  "taxonId": 204472,
+  "acceptedScientificName": "Buteo buteo",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/149490364",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.542857142857143,
+  "photoApiEvidence": {
+    "id": 257605018,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1080,
+      "height": 1080
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257605018/square.jpeg",
+    "attribution": "(c) Alexis Williams, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/71261/5067/1542783/5179",
+    "min_species_ancestry": "48460,1,2,355675,3,71261,5067,1542783,5179,204472",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 204472,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 5179,
+    "name": "Buteo buteo",
+    "rank": "species",
+    "extinct": false,
+    "id": 204472,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      71261,
+      5067,
+      1542783,
+      5179,
+      204472
+    ],
+    "created_at": "2013-02-03T04:49:16+00:00",
+    "default_photo": {
+      "id": 192398523,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) rociomar, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/192398523/square.jpeg",
+      "original_dimensions": {
+        "height": 1576,
+        "width": 1971
+      },
+      "flags": [],
+      "attribution_name": "rociomar",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/192398523/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/192398523/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 5,
+    "observations_count": 167535,
+    "photos_locked": false,
+    "universal_search_rank": 167535,
+    "flag_counts": {
+      "resolved": 4,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_buzzard",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Common Buzzard"
+  },
+  "rawMetadataPath": "metadata/buteo-buteo/inat-257605018.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/buteo-buteo--inat-257605018.json"
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-178725362",
+  "targetId": "inat-taxon-55745",
+  "scientificName": "Trifolium repens",
+  "nameJa": "シロツメクサ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:12:13+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:12:13+00:00",
+  "files": {
+    "master": "images/trifolium-repens/inat-178725362.jpg",
+    "web": "images/trifolium-repens/inat-178725362.webp",
+    "thumbnail": "images/trifolium-repens/inat-178725362-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 573967,
+    "web": 119018,
+    "thumbnail": 11108
+  },
+  "sha256": {
+    "download": "421a45824db4993fba738ac12548db7c1cb4eb8b8127e4c45fe6f52b87ec4db8",
+    "master": "fa767848bfca7b3a1ae43720119b33a3df58eb3f59b0c32b4e543dfc08d2dbac",
+    "web": "4bb2a4d7d1d7a9aa6de49c56a0107f4cc61e15a3e6a3ab61c37bf18e2b5582f3"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Trifolium repens [Trifolium repens] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/178725362. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Trifolium repens",
+  "sourceId": "178725362",
+  "photoUrl": "https://www.inaturalist.org/photos/178725362",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/178725362/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/178725362/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 55745,
+  "acceptedScientificName": "Trifolium repens",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/106397808",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 178725362,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178725362/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47123/47122/507502/512504/51876/967289/1582396",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47123,47122,507502,512504,51876,967289,1582396,55745",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 55745,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1582396,
+    "name": "Trifolium repens",
+    "rank": "species",
+    "extinct": false,
+    "id": 55745,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47123,
+      47122,
+      507502,
+      512504,
+      51876,
+      967289,
+      1582396,
+      55745
+    ],
+    "provisional": false,
+    "created_at": "2010-02-09T20:36:10+00:00",
+    "default_photo": {
+      "id": 687662617,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Gennadiy Okatov, some rights reserved (CC BY-NC), uploaded by Gennadiy Okatov",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/687662617/square.jpg",
+      "original_dimensions": {
+        "height": 1561,
+        "width": 2045
+      },
+      "flags": [],
+      "attribution_name": "Gennadiy Okatov",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/687662617/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/687662617/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 6,
+    "observations_count": 259927,
+    "photos_locked": false,
+    "universal_search_rank": 259927,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 141095,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Trifolium_repens",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "white clover"
+  },
+  "rawMetadataPath": "metadata/trifolium-repens/inat-178725362.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/trifolium-repens--inat-178725362.json"
+}

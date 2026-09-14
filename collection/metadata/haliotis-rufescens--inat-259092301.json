@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-259092301",
+  "targetId": "org-haliotis-rufescens",
+  "scientificName": "Haliotis rufescens",
+  "nameJa": "アカネアワビ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:00:49+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:00:49+00:00",
+  "files": {
+    "master": "images/haliotis-rufescens/inat-259092301.jpg",
+    "web": "images/haliotis-rufescens/inat-259092301.webp",
+    "thumbnail": "images/haliotis-rufescens/inat-259092301-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 709958,
+    "web": 175582,
+    "thumbnail": 13380
+  },
+  "sha256": {
+    "download": "39f909327b93419bbf64a9c842864714a5b30eb350fb84c4bc9a6be043374d55",
+    "master": "f08ac76bf65072412cd93428235d25abfb267328b488ec7bb40a047e43630496",
+    "web": "5d40cbd97c1dbd6f003d93fb8745c681b89aeaf1a64d1fdf59f443eeb1babbb0"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Haliotis rufescens [Haliotis rufescens] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/259092301. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Haliotis rufescens",
+  "sourceId": "259092301",
+  "photoUrl": "https://www.inaturalist.org/photos/259092301",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/259092301/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/259092301/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 56652,
+  "acceptedScientificName": "Haliotis rufescens",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mollusca",
+  "observationUrl": "https://www.inaturalist.org/observations/150278589",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 259092301,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/259092301/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47115/47114/85549/775846/551442/245560/56651",
+    "min_species_ancestry": "48460,1,47115,47114,85549,775846,551442,245560,56651,56652",
+    "endemic": false,
+    "iconic_taxon_id": 47115,
+    "min_species_taxon_id": 56652,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 56651,
+    "name": "Haliotis rufescens",
+    "rank": "species",
+    "extinct": false,
+    "id": 56652,
+    "ancestor_ids": [
+      48460,
+      1,
+      47115,
+      47114,
+      85549,
+      775846,
+      551442,
+      245560,
+      56651,
+      56652
+    ],
+    "created_at": "2010-03-06T02:31:07+00:00",
+    "default_photo": {
+      "id": 468952234,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Alison Young, some rights reserved (CC BY-NC), uploaded by Alison Young",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468952234/square.jpeg",
+      "original_dimensions": {
+        "height": 1957,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Alison Young",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468952234/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468952234/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 4068,
+    "photos_locked": false,
+    "universal_search_rank": 4068,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Haliotis_rufescens",
+    "iconic_taxon_name": "Mollusca",
+    "preferred_common_name": "Red Abalone",
+    "conservation_status": {
+      "id": 496226,
+      "place_id": null,
+      "source_id": null,
+      "user_id": 8233,
+      "authority": "IUCN Redlist 2025",
+      "status": "cr",
+      "status_name": "Critically endangered (CR)",
+      "geoprivacy": "obscured",
+      "iucn": 50
+    }
+  },
+  "rawMetadataPath": "metadata/haliotis-rufescens/inat-259092301.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/haliotis-rufescens--inat-259092301.json"
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-327361077",
+  "targetId": "org-manis-pentadactyla",
+  "scientificName": "Manis pentadactyla",
+  "nameJa": "チュウゴクセンザンコウ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:03:06+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:03:06+00:00",
+  "files": {
+    "master": "images/manis-pentadactyla/inat-327361077.jpg",
+    "web": "images/manis-pentadactyla/inat-327361077.webp",
+    "thumbnail": "images/manis-pentadactyla/inat-327361077-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1147159,
+    "web": 322420,
+    "thumbnail": 21228
+  },
+  "sha256": {
+    "download": "518ae086623971cbeaf4b3cfa73e51479f2a35b6e78000b9cc4e2c16b2946ad5",
+    "master": "fa3bc1fbc6f88372439c56b5b97aefce2b2386653fefbacdd8a26dae6b7e3ec8",
+    "web": "2ede9e9494c62f85381c4135b11e2164b6e2322969bfa84c4a50a521a0665f11"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Manis pentadactyla [Manis pentadactyla] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/327361077. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Manis pentadactyla",
+  "sourceId": "327361077",
+  "photoUrl": "https://www.inaturalist.org/photos/327361077",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/327361077/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/327361077/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 43366,
+  "acceptedScientificName": "Manis pentadactyla",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/187220406",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.194285714285714,
+  "photoApiEvidence": {
+    "id": 327361077,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/327361077/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/43357/43358/43359/43366",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,43357,43358,43359,43366",
+    "endemic": true,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43366,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": true,
+    "parent_id": 43366,
+    "name": "Manis pentadactyla pentadactyla",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 776827,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      43357,
+      43358,
+      43359,
+      43366,
+      776827
+    ],
+    "provisional": false,
+    "created_at": "2018-09-08T04:21:36+00:00",
+    "default_photo": {
+      "id": 560949114,
+      "license_code": null,
+      "attribution": "(c) shaoqi_herp, all rights reserved, uploaded by shaoqi_herp",
+      "url": "https://static.inaturalist.org/photos/560949114/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "shaoqi_herp",
+      "square_url": "https://static.inaturalist.org/photos/560949114/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/560949114/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 554,
+    "photos_locked": false,
+    "universal_search_rank": 554,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Taiwan Pangolin"
+  },
+  "rawMetadataPath": "metadata/manis-pentadactyla/inat-327361077.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/manis-pentadactyla--inat-327361077.json"
+}

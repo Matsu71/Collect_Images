@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-39817844",
+  "targetId": "org-coptotermes-formosanus",
+  "scientificName": "Coptotermes formosanus",
+  "nameJa": "イエシロアリ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 128,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:57:33+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:57:33+00:00",
+  "files": {
+    "master": "images/coptotermes-formosanus/inat-39817844.jpg",
+    "web": "images/coptotermes-formosanus/inat-39817844.webp",
+    "thumbnail": "images/coptotermes-formosanus/inat-39817844-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 661058,
+    "web": 178252,
+    "thumbnail": 26750
+  },
+  "sha256": {
+    "download": "a3bfc6f7ea53d80fb2eec18b0a84def674df3cd048d5a12be8ca1c60d9d301a6",
+    "master": "179a3ad2e856eaa8d08dcbc3ad44279df0fcd069ea99d4703d21d4de01a97842",
+    "web": "4db7cc6f2d428b8efb87dbe678b6492adca3532d18883bdb88042bc0a6fbac9e"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Coptotermes formosanus [Coptotermes formosanus] — Tyler Bishop / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/39817844. Original attribution: (c) Tyler Bishop, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Coptotermes formosanus",
+  "sourceId": "39817844",
+  "photoUrl": "https://www.inaturalist.org/photos/39817844",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/39817844/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/39817844/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Tyler Bishop",
+  "originalAttribution": "(c) Tyler Bishop, some rights reserved (CC BY)",
+  "taxonId": 199393,
+  "acceptedScientificName": "Coptotermes formosanus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/25690326",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.194285714285714,
+  "photoApiEvidence": {
+    "id": 39817844,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/39817844/square.jpg",
+    "attribution": "(c) Tyler Bishop, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/81769/129743/118903/1566816/199405",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,81769,129743,118903,1566816,199405,199393",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 199393,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 199405,
+    "name": "Coptotermes formosanus",
+    "rank": "species",
+    "extinct": false,
+    "id": 199393,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      81769,
+      129743,
+      118903,
+      1566816,
+      199405,
+      199393
+    ],
+    "created_at": "2012-12-29T23:03:19+00:00",
+    "default_photo": {
+      "id": 163595759,
+      "license_code": null,
+      "attribution": "(c) Aleš Buček, all rights reserved, uploaded by Aleš Buček",
+      "url": "https://static.inaturalist.org/photos/163595759/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1521
+      },
+      "flags": [],
+      "attribution_name": "Aleš Buček",
+      "square_url": "https://static.inaturalist.org/photos/163595759/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/163595759/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 1857,
+    "photos_locked": false,
+    "universal_search_rank": 1857,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Formosan_subterranean_termite",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Formosan subterranean termite"
+  },
+  "rawMetadataPath": "metadata/coptotermes-formosanus/inat-39817844.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/coptotermes-formosanus--inat-39817844.json"
+}

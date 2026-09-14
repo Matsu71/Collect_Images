@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-171173",
+  "targetId": "org-rana-temporaria",
+  "scientificName": "Rana temporaria",
+  "nameJa": "ヨーロッパアカガエル",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:07:37+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:07:37+00:00",
+  "files": {
+    "master": "images/rana-temporaria/inat-171173.jpg",
+    "web": "images/rana-temporaria/inat-171173.webp",
+    "thumbnail": "images/rana-temporaria/inat-171173-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1815
+    ],
+    "master": [
+      2048,
+      1815
+    ],
+    "web": [
+      1400,
+      1241
+    ]
+  },
+  "bytes": {
+    "master": 884900,
+    "web": 183026,
+    "thumbnail": 16626
+  },
+  "sha256": {
+    "download": "5dae86e1d6957c5ffe6d2d7c6e06afdfd0eee035ba46b993e3b52eb36401745b",
+    "master": "e2b0e7f54edce6ef8d330f8c5f4dc3c9ed0e879bb7555fcb100229c87894024b",
+    "web": "78b38de13e6aeba06fcd12609099b88381b9b8f347cb8b91fd63e9cbf5b0a694"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Rana temporaria [Rana temporaria] — Jörg Hempel / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/171173. Original attribution: (c) Jörg Hempel, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Rana temporaria",
+  "sourceId": "171173",
+  "photoUrl": "https://www.inaturalist.org/photos/171173",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/171173/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/171173/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Jörg Hempel",
+  "originalAttribution": "(c) Jörg Hempel, some rights reserved (CC BY-SA)",
+  "taxonId": 25591,
+  "acceptedScientificName": "Rana temporaria",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Amphibia",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.592857142857143,
+  "photoApiEvidence": {
+    "id": 171173,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Jörg Hempel, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171173/square.jpg",
+    "original_dimensions": {
+      "height": 1815,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Jörg Hempel",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171173/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171173/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/rana-temporaria/inat-171173.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生両生類",
+  "contextFlags": [],
+  "licenseName": "CC BY-SA 4.0",
+  "metadataPath": "collection/metadata/rana-temporaria--inat-171173.json"
+}

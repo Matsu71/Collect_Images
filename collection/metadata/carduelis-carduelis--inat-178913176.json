@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-178913176",
+  "targetId": "inat-taxon-9398",
+  "scientificName": "Carduelis carduelis",
+  "nameJa": "ゴシキヒワ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:17:54+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:17:54+00:00",
+  "files": {
+    "master": "images/carduelis-carduelis/inat-178913176.jpg",
+    "web": "images/carduelis-carduelis/inat-178913176.webp",
+    "thumbnail": "images/carduelis-carduelis/inat-178913176-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 649929,
+    "web": 133376,
+    "thumbnail": 13300
+  },
+  "sha256": {
+    "download": "3a8cdb2bc024170418a04f445a4e50b9ff90961163fc247bb0bbc0dba23b3989",
+    "master": "5a234900137e199017843ee3bf1089f4ad4a11af2e5b16b0051e38a422fc8b3d",
+    "web": "27735975837f625a514fc37a46ff4ba1f725fb04beb4ae7c2b781b2773b5279c"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Carduelis carduelis [Carduelis carduelis] — Susan Marley / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/178913176. Original attribution: (c) Susan Marley, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Carduelis carduelis",
+  "sourceId": "178913176",
+  "photoUrl": "https://www.inaturalist.org/photos/178913176",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/178913176/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/178913176/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Susan Marley",
+  "originalAttribution": "(c) Susan Marley, some rights reserved (CC BY)",
+  "taxonId": 9398,
+  "acceptedScientificName": "Carduelis carduelis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/106499018",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.194285714285714,
+  "photoApiEvidence": {
+    "id": 178913176,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178913176/square.jpeg",
+    "attribution": "(c) Susan Marley, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/9079/9358",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,9079,9358,9398",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 9398,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 9358,
+    "name": "Carduelis carduelis",
+    "rank": "species",
+    "extinct": false,
+    "id": 9398,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      9079,
+      9358,
+      9398
+    ],
+    "created_at": "2008-03-13T03:01:12+00:00",
+    "default_photo": {
+      "id": 61457230,
+      "license_code": null,
+      "attribution": "(c) Paul, all rights reserved, uploaded by Paul",
+      "url": "https://static.inaturalist.org/photos/61457230/square.jpg",
+      "original_dimensions": {
+        "height": 1173,
+        "width": 1600
+      },
+      "flags": [],
+      "attribution_name": "Paul",
+      "square_url": "https://static.inaturalist.org/photos/61457230/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/61457230/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 8,
+    "observations_count": 128402,
+    "photos_locked": false,
+    "universal_search_rank": 128402,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 123140,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_goldfinch",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "European Goldfinch"
+  },
+  "rawMetadataPath": "metadata/carduelis-carduelis/inat-178913176.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/carduelis-carduelis--inat-178913176.json"
+}

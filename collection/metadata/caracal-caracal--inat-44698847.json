@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-44698847",
+  "targetId": "org-caracal-caracal",
+  "scientificName": "Caracal caracal",
+  "nameJa": "カラカル",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 95,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:56:19+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:56:19+00:00",
+  "files": {
+    "master": "images/caracal-caracal/inat-44698847.jpg",
+    "web": "images/caracal-caracal/inat-44698847.webp",
+    "thumbnail": "images/caracal-caracal/inat-44698847-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1154
+    ],
+    "master": [
+      2048,
+      1154
+    ],
+    "web": [
+      1400,
+      789
+    ]
+  },
+  "bytes": {
+    "master": 506516,
+    "web": 145022,
+    "thumbnail": 13794
+  },
+  "sha256": {
+    "download": "f0ed63f069c7e2a0d67c1c046488c8216a753f48e082fb4ef0f815d57c33cbc0",
+    "master": "bb898af04b94ca52fc8853fa2899829549bc10dfcffd4bcd345bf9dba512eaef",
+    "web": "1e5de9746f4316af6738f482c18d21af68574a234a3612e105dbec7eb7061a43"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Caracal caracal [Caracal caracal] — Shaun Swanepoel / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/44698847. Original attribution: (c) Shaun Swanepoel, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Caracal caracal",
+  "sourceId": "44698847",
+  "photoUrl": "https://www.inaturalist.org/photos/44698847",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/44698847/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/44698847/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Shaun Swanepoel",
+  "originalAttribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+  "taxonId": 42042,
+  "acceptedScientificName": "Caracal caracal",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/28664463",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.64857142857143,
+  "photoApiEvidence": {
+    "id": 44698847,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1154
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44698847/square.jpeg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/41944/846179/42041/42042",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,41944,846179,42041,42042",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 42042,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 42042,
+    "name": "Caracal caracal caracal",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 703804,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      41944,
+      846179,
+      42041,
+      42042,
+      703804
+    ],
+    "created_at": "2018-04-15T02:55:24+00:00",
+    "default_photo": {
+      "id": 114843368,
+      "license_code": null,
+      "attribution": "(c) Marco Anfossi, all rights reserved, uploaded by Marco Anfossi",
+      "url": "https://static.inaturalist.org/photos/114843368/square.jpeg",
+      "original_dimensions": {
+        "height": 1367,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Marco Anfossi",
+      "square_url": "https://static.inaturalist.org/photos/114843368/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/114843368/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 1291,
+    "photos_locked": false,
+    "universal_search_rank": 1291,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caracal",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Southern and Eastern African Caracal"
+  },
+  "rawMetadataPath": "metadata/caracal-caracal/inat-44698847.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/caracal-caracal--inat-44698847.json"
+}

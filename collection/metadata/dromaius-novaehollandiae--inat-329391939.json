@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-329391939",
+  "targetId": "org-dromaius-novaehollandiae",
+  "scientificName": "Dromaius novaehollandiae",
+  "nameJa": "エミュー",
+  "collectionTier": "chronoearth",
+  "origin": "rejected_asset",
+  "status": "excluded",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "exclude",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 165,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "被写体が遠く小さい。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:58:52+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:58:52+00:00",
+  "files": {
+    "master": "images/dromaius-novaehollandiae/inat-329391939.jpg",
+    "web": "images/dromaius-novaehollandiae/inat-329391939.webp",
+    "thumbnail": "images/dromaius-novaehollandiae/inat-329391939-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 805182,
+    "web": 187624,
+    "thumbnail": 30440
+  },
+  "sha256": {
+    "download": "17da0c89fd2e678ed340cd7bc388b523806db1ed31cacd121c3b8231b10bc370",
+    "master": "8becd22fcef0a64fa603530fcd21b1e356c288b21ff2e37264214fe94e9b7181",
+    "web": "5cb83a5e776d273a1b92f9061592790a0ca35c4fa68b2c95a0844fff578fa762"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Dromaius novaehollandiae [Dromaius novaehollandiae] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/329391939. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Dromaius novaehollandiae",
+  "sourceId": "329391939",
+  "photoUrl": "https://www.inaturalist.org/photos/329391939",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/329391939/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/329391939/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 20504,
+  "acceptedScientificName": "Dromaius novaehollandiae",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/188234539",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 329391939,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/329391939/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/367702/508252/20503",
+    "min_species_ancestry": "48460,1,2,355675,3,367702,508252,20503,20504",
+    "endemic": true,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 20504,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 20503,
+    "name": "Dromaius novaehollandiae",
+    "rank": "species",
+    "extinct": false,
+    "id": 20504,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      367702,
+      508252,
+      20503,
+      20504
+    ],
+    "provisional": false,
+    "created_at": "2008-03-13T03:51:07+00:00",
+    "default_photo": {
+      "id": 187562017,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) David Cook, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187562017/square.jpg",
+      "original_dimensions": {
+        "height": 1000,
+        "width": 1502
+      },
+      "flags": [],
+      "attribution_name": "David Cook",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187562017/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187562017/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 8,
+    "observations_count": 12701,
+    "photos_locked": false,
+    "universal_search_rank": 12701,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 144992,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Emu",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Emu"
+  },
+  "rawMetadataPath": "metadata/dromaius-novaehollandiae/inat-329391939.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生鳥類",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/dromaius-novaehollandiae--inat-329391939.json"
+}

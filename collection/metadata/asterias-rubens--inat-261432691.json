@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-261432691",
+  "targetId": "org-asterias-rubens",
+  "scientificName": "Asterias rubens",
+  "nameJa": "ヨーロッパヒトデ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 49,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:54:44+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:54:44+00:00",
+  "files": {
+    "master": "images/asterias-rubens/inat-261432691.jpg",
+    "web": "images/asterias-rubens/inat-261432691.webp",
+    "thumbnail": "images/asterias-rubens/inat-261432691-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1385402,
+    "web": 282402,
+    "thumbnail": 31140
+  },
+  "sha256": {
+    "download": "978d36cfeef94dfe6c40063ba24f2f71d7b69959bf8e29f5a3f9cc2df2dbfc43",
+    "master": "b85bbba7baffbd36940b84e4e23c90dd38e31418dd2d4d673b79a4fe1b35b6d4",
+    "web": "aa8c7e68ba99d196608f56aa05a4f6aa3a59b20b00cca1070fe925fc7ed6c21f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Asterias rubens [Asterias rubens] — Darren Obbard / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/261432691. Original attribution: (c) Darren Obbard, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Asterias rubens",
+  "sourceId": "261432691",
+  "photoUrl": "https://www.inaturalist.org/photos/261432691",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/261432691/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/261432691/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Darren Obbard",
+  "originalAttribution": "(c) Darren Obbard, some rights reserved (CC BY)",
+  "taxonId": 120138,
+  "acceptedScientificName": "Asterias rubens",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": "https://www.inaturalist.org/observations/151512394",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.592380952380952,
+  "photoApiEvidence": {
+    "id": 261432691,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/261432691/square.jpeg",
+    "attribution": "(c) Darren Obbard, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/47549/481959/47668/533697/47672/47671/48903",
+    "min_species_ancestry": "48460,1,47549,481959,47668,533697,47672,47671,48903,120138",
+    "endemic": false,
+    "iconic_taxon_id": 1,
+    "min_species_taxon_id": 120138,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 48903,
+    "name": "Asterias rubens",
+    "rank": "species",
+    "extinct": false,
+    "id": 120138,
+    "ancestor_ids": [
+      48460,
+      1,
+      47549,
+      481959,
+      47668,
+      533697,
+      47672,
+      47671,
+      48903,
+      120138
+    ],
+    "provisional": false,
+    "created_at": "2011-10-12T22:06:47+00:00",
+    "default_photo": {
+      "id": 486710101,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Alexander Semenov, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486710101/square.jpg",
+      "original_dimensions": {
+        "height": 607,
+        "width": 900
+      },
+      "flags": [],
+      "attribution_name": "Alexander Semenov",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486710101/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486710101/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 1,
+    "observations_count": 8043,
+    "photos_locked": false,
+    "universal_search_rank": 8043,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_starfish",
+    "iconic_taxon_name": "Animalia",
+    "preferred_common_name": "Common Sea Star"
+  },
+  "rawMetadataPath": "metadata/asterias-rubens/inat-261432691.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/asterias-rubens--inat-261432691.json"
+}

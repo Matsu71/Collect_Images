@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-3784873",
+  "targetId": "org-gallus-gallus",
+  "scientificName": "Gallus gallus",
+  "nameJa": "セキショクヤケイ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:00:01+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:00:01+00:00",
+  "files": {
+    "master": "images/gallus-gallus/inat-3784873.jpg",
+    "web": "images/gallus-gallus/inat-3784873.webp",
+    "thumbnail": "images/gallus-gallus/inat-3784873-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 723708,
+    "web": 159046,
+    "thumbnail": 18518
+  },
+  "sha256": {
+    "download": "e6843379c27436ba0022a02e2f1ff00a42203e142748b40ae3ecf14f18929aad",
+    "master": "2186fe807f5317e41f8846497dda2b1d226ebdfe3676cc1a2bf20da08843d0db",
+    "web": "2284abb4d02cf1e451fec31bf4dd79514be626cf5e3c43fe252328f1a22e801d"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Gallus gallus [Gallus gallus] — Julien Renoult / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/3784873. Original attribution: (c) Julien Renoult, some rights reserved (CC BY), uploaded by Julien Renoult. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Gallus gallus",
+  "sourceId": "3784873",
+  "photoUrl": "https://www.inaturalist.org/photos/3784873",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3784873/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3784873/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Julien Renoult",
+  "originalAttribution": "(c) Julien Renoult, some rights reserved (CC BY), uploaded by Julien Renoult",
+  "taxonId": 882,
+  "acceptedScientificName": "Gallus gallus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 11.95,
+  "photoApiEvidence": {
+    "id": 3784873,
+    "license_code": "cc-by",
+    "attribution": "(c) Julien Renoult, some rights reserved (CC BY), uploaded by Julien Renoult",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3784873/square.jpg",
+    "original_dimensions": {
+      "height": 1365,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Julien Renoult",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3784873/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3784873/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/gallus-gallus/inat-3784873.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/gallus-gallus--inat-3784873.json"
+}

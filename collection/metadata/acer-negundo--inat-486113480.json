@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-486113480",
+  "targetId": "inat-taxon-47726",
+  "scientificName": "Acer negundo",
+  "nameJa": "トネリコバノカエデ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:13:11+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:13:11+00:00",
+  "files": {
+    "master": "images/acer-negundo/inat-486113480.jpg",
+    "web": "images/acer-negundo/inat-486113480.webp",
+    "thumbnail": "images/acer-negundo/inat-486113480-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1367
+    ],
+    "master": [
+      2048,
+      1367
+    ],
+    "web": [
+      1400,
+      934
+    ]
+  },
+  "bytes": {
+    "master": 357018,
+    "web": 82066,
+    "thumbnail": 9272
+  },
+  "sha256": {
+    "download": "8ebd2c89ed85e18bd04aa33246a15c6405663bcf28ef161afd2826107112b0b6",
+    "master": "2c2718e2e21f842aca7f8101116f940c23ed227a6e6a300352e5fc9384872c7b",
+    "web": "b828897b4848a17695f7d4c2539c57e95ff8c8ccf4e79ee8edfb0034a806a4dc"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Acer negundo [Acer negundo] — Jay Pruett / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/486113480. Original attribution: (c) Jay Pruett, some rights reserved (CC BY), uploaded by Jay Pruett. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Acer negundo",
+  "sourceId": "486113480",
+  "photoUrl": "https://www.inaturalist.org/photos/486113480",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/486113480/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/486113480/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Jay Pruett",
+  "originalAttribution": "(c) Jay Pruett, some rights reserved (CC BY), uploaded by Jay Pruett",
+  "taxonId": 47726,
+  "acceptedScientificName": "Acer negundo",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 11.952857142857143,
+  "photoApiEvidence": {
+    "id": 486113480,
+    "license_code": "cc-by",
+    "attribution": "(c) Jay Pruett, some rights reserved (CC BY), uploaded by Jay Pruett",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486113480/square.jpg",
+    "original_dimensions": {
+      "height": 1367,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Jay Pruett",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486113480/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486113480/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/acer-negundo/inat-486113480.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/acer-negundo--inat-486113480.json"
+}

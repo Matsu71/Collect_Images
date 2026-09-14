@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-219667126",
+  "targetId": "org-physeter-macrocephalus",
+  "scientificName": "Physeter macrocephalus",
+  "nameJa": "マッコウクジラ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:06:10+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:06:10+00:00",
+  "files": {
+    "master": "images/physeter-macrocephalus/inat-219667126.jpg",
+    "web": "images/physeter-macrocephalus/inat-219667126.webp",
+    "thumbnail": "images/physeter-macrocephalus/inat-219667126-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 854788,
+    "web": 171298,
+    "thumbnail": 18380
+  },
+  "sha256": {
+    "download": "913ff4084a03a54c419cc104c371b363223c28a894b96c17d9cff3802b5c90a7",
+    "master": "fc40e85329d8bed678d574994246bfaed473131f6fa2f6dc8f0061f084cf7141",
+    "web": "b8dc73973a81ba47b01ff05cc6e6666fa6c1b9405af425e55cdfdcfa5258da11"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Physeter macrocephalus [Physeter macrocephalus] — Vsevolod Rudyi / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/219667126. Original attribution: (c) Vsevolod Rudyi, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Physeter macrocephalus",
+  "sourceId": "219667126",
+  "photoUrl": "https://www.inaturalist.org/photos/219667126",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/219667126/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/219667126/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Vsevolod Rudyi",
+  "originalAttribution": "(c) Vsevolod Rudyi, some rights reserved (CC BY)",
+  "taxonId": 74890,
+  "acceptedScientificName": "Physeter macrocephalus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/129273061",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.95,
+  "photoApiEvidence": {
+    "id": 219667126,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/219667126/square.jpg",
+    "attribution": "(c) Vsevolod Rudyi, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/925158/152871/424322/1317258/41434/41435",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,152870,925158,152871,424322,1317258,41434,41435,74890",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 74890,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 41435,
+    "name": "Physeter macrocephalus",
+    "rank": "species",
+    "extinct": false,
+    "id": 74890,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      152870,
+      925158,
+      152871,
+      424322,
+      1317258,
+      41434,
+      41435,
+      74890
+    ],
+    "created_at": "2011-05-13T21:35:51+00:00",
+    "default_photo": {
+      "id": 333015482,
+      "license_code": null,
+      "attribution": "(c) Lewis Burnett, all rights reserved, uploaded by Lewis Burnett",
+      "url": "https://static.inaturalist.org/photos/333015482/square.jpeg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Lewis Burnett",
+      "square_url": "https://static.inaturalist.org/photos/333015482/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/333015482/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 8,
+    "observations_count": 4246,
+    "photos_locked": false,
+    "universal_search_rank": 4246,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Sperm_whale",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Sperm Whale",
+    "conservation_status": {
+      "id": 24208,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "obscured",
+      "iucn": 30
+    }
+  },
+  "rawMetadataPath": "metadata/physeter-macrocephalus/inat-219667126.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/physeter-macrocephalus--inat-219667126.json"
+}

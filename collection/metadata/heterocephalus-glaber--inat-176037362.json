@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-176037362",
+  "targetId": "org-heterocephalus-glaber",
+  "scientificName": "Heterocephalus glaber",
+  "nameJa": "ハダカデバネズミ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:01:02+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:01:02+00:00",
+  "files": {
+    "master": "images/heterocephalus-glaber/inat-176037362.jpg",
+    "web": "images/heterocephalus-glaber/inat-176037362.webp",
+    "thumbnail": "images/heterocephalus-glaber/inat-176037362-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1071,
+      1266
+    ],
+    "master": [
+      1071,
+      1266
+    ],
+    "web": [
+      1071,
+      1266
+    ]
+  },
+  "bytes": {
+    "master": 285306,
+    "web": 149442,
+    "thumbnail": 9840
+  },
+  "sha256": {
+    "download": "4a1e1e0209069cf22684a100560de7c9501e2bf740c2752bdb5a7384286c2d00",
+    "master": "4637f7bae50ed4fa1c4c974566823348e80f20a63130b400fa5e8ef387387baa",
+    "web": "caaa1c2b7ac1c08dc85683aef5645996cfd68b958984008793bce10e74d6167b"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Heterocephalus glaber [Heterocephalus glaber] — Jan Ebr & Ivana Ebrová / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/176037362. Original attribution: (c) Jan Ebr & Ivana Ebrová, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Heterocephalus glaber",
+  "sourceId": "176037362",
+  "photoUrl": "https://www.inaturalist.org/photos/176037362",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/176037362/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/176037362/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Jan Ebr & Ivana Ebrová",
+  "originalAttribution": "(c) Jan Ebr & Ivana Ebrová, some rights reserved (CC BY)",
+  "taxonId": 43746,
+  "acceptedScientificName": "Heterocephalus glaber",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/104983325",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 5.863333333333333,
+  "photoApiEvidence": {
+    "id": 176037362,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1071,
+      "height": 1266
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176037362/square.jpeg",
+    "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43698/870765/870767/846054/43745",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43698,870765,870767,846054,43745,43746",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43746,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 43745,
+    "name": "Heterocephalus glaber",
+    "rank": "species",
+    "extinct": false,
+    "id": 43746,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43698,
+      870765,
+      870767,
+      846054,
+      43745,
+      43746
+    ],
+    "created_at": "2008-03-19T00:57:54+00:00",
+    "default_photo": {
+      "id": 129234581,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Smithsonian's National Zoo, some rights reserved (CC BY-NC-ND)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129234581/square.jpg",
+      "original_dimensions": {
+        "height": 1179,
+        "width": 1800
+      },
+      "flags": [],
+      "attribution_name": "Smithsonian's National Zoo",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129234581/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129234581/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 225,
+    "photos_locked": false,
+    "universal_search_rank": 225,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Naked_mole-rat",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Naked Molerat"
+  },
+  "rawMetadataPath": "metadata/heterocephalus-glaber/inat-176037362.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/heterocephalus-glaber--inat-176037362.json"
+}

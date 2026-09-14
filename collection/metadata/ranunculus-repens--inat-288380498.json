@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-288380498",
+  "targetId": "inat-taxon-48229",
+  "scientificName": "Ranunculus repens",
+  "nameJa": "ハイキンポウゲ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:17:12+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:17:12+00:00",
+  "files": {
+    "master": "images/ranunculus-repens/inat-288380498.jpg",
+    "web": "images/ranunculus-repens/inat-288380498.webp",
+    "thumbnail": "images/ranunculus-repens/inat-288380498-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 339479,
+    "web": 50830,
+    "thumbnail": 6612
+  },
+  "sha256": {
+    "download": "be55f569d023d63ccaa201916cdedbeaadb387a984d9f721de3510d04af3175e",
+    "master": "bc1051ecfcc2cbab0e241ebc0a50cf6beca0fe8a3fb9533a9ba390455b675fe7",
+    "web": "2d8a59f072dcc6d7fc2b752bc953a998149c119200e673577a9a6c2d8e32d4d2"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Ranunculus repens [Ranunculus repens] — Gavin Slater / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/288380498. Original attribution: (c) Gavin Slater, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ranunculus repens",
+  "sourceId": "288380498",
+  "photoUrl": "https://www.inaturalist.org/photos/288380498",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/288380498/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/288380498/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Gavin Slater",
+  "originalAttribution": "(c) Gavin Slater, some rights reserved (CC BY)",
+  "taxonId": 48229,
+  "acceptedScientificName": "Ranunculus repens",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/166524074",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 288380498,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288380498/square.jpeg",
+    "attribution": "(c) Gavin Slater, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48232/48231/746709/746715/48230/1365503/1567664",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48232,48231,746709,746715,48230,1365503,1567664,48229",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 48229,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1567664,
+    "name": "Ranunculus repens",
+    "rank": "species",
+    "extinct": false,
+    "id": 48229,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48232,
+      48231,
+      746709,
+      746715,
+      48230,
+      1365503,
+      1567664,
+      48229
+    ],
+    "created_at": "2008-08-29T04:58:12+00:00",
+    "default_photo": {
+      "id": 38652836,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Reiner Richter, some rights reserved (CC BY-NC-SA), uploaded by Reiner Richter",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38652836/square.jpeg",
+      "original_dimensions": {
+        "height": 1511,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Reiner Richter",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38652836/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38652836/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 7,
+    "observations_count": 117204,
+    "photos_locked": false,
+    "universal_search_rank": 117204,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ranunculus_repens",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Creeping buttercup"
+  },
+  "rawMetadataPath": "metadata/ranunculus-repens/inat-288380498.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/ranunculus-repens--inat-288380498.json"
+}

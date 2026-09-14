@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-108375617",
+  "targetId": "org-spheniscus-demersus",
+  "scientificName": "Spheniscus demersus",
+  "nameJa": "ケープペンギン",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:08:53+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:08:53+00:00",
+  "files": {
+    "master": "images/spheniscus-demersus/inat-108375617.jpg",
+    "web": "images/spheniscus-demersus/inat-108375617.webp",
+    "thumbnail": "images/spheniscus-demersus/inat-108375617-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 603681,
+    "web": 138014,
+    "thumbnail": 15420
+  },
+  "sha256": {
+    "download": "73fdf1253bb5c71ed0cdd977638d04ee08aeed910e6531c4ab3b5a4f0c2cd22a",
+    "master": "2fe098ece897e77de72a528d2f0016ecad581f210e0f831057487ffb217849f7",
+    "web": "2df97cd029cd56e5e2e520cdd1a4c1c8a327d241af5e06ab9a59d07a900171c0"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Spheniscus demersus [Spheniscus demersus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/108375617. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Spheniscus demersus",
+  "sourceId": "108375617",
+  "photoUrl": "https://www.inaturalist.org/photos/108375617",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/108375617/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/108375617/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 3813,
+  "acceptedScientificName": "Spheniscus demersus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/67126474",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.283333333333333,
+  "photoApiEvidence": {
+    "id": 108375617,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108375617/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67564/3806/3811",
+    "min_species_ancestry": "48460,1,2,355675,3,67564,3806,3811,3813",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 3813,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 3811,
+    "name": "Spheniscus demersus",
+    "rank": "species",
+    "extinct": false,
+    "id": 3813,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67564,
+      3806,
+      3811,
+      3813
+    ],
+    "created_at": "2008-03-13T02:43:34+00:00",
+    "default_photo": {
+      "id": 79056615,
+      "license_code": null,
+      "attribution": "(c) Don-Jean Leandri-Breton, all rights reserved, uploaded by Don-Jean Leandri-Breton",
+      "url": "https://static.inaturalist.org/photos/79056615/square.jpg",
+      "original_dimensions": {
+        "height": 1364,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Don-Jean Leandri-Breton",
+      "square_url": "https://static.inaturalist.org/photos/79056615/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/79056615/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 6479,
+    "photos_locked": false,
+    "universal_search_rank": 6479,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/African_penguin",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "African Penguin",
+    "conservation_status": {
+      "id": 1102,
+      "place_id": null,
+      "source_id": 18766,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "cr",
+      "status_name": "critically endangered",
+      "geoprivacy": null,
+      "iucn": 50
+    }
+  },
+  "rawMetadataPath": "metadata/spheniscus-demersus/inat-108375617.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/spheniscus-demersus--inat-108375617.json"
+}

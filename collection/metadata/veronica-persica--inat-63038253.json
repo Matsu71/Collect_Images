@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-63038253",
+  "targetId": "inat-taxon-55666",
+  "scientificName": "Veronica persica",
+  "nameJa": "オオイヌノフグリ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:14:54+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:14:54+00:00",
+  "files": {
+    "master": "images/veronica-persica/inat-63038253.jpg",
+    "web": "images/veronica-persica/inat-63038253.webp",
+    "thumbnail": "images/veronica-persica/inat-63038253-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1226202,
+    "web": 231900,
+    "thumbnail": 23334
+  },
+  "sha256": {
+    "download": "3da33e1cdfe015c3798aae331ff2e13d6646625833f52fff5bd857e3ddf50d03",
+    "master": "58a2e93521dbef84916eaa13943131933ba156356493826cc11d56db88cdea00",
+    "web": "4c485ec2c3778c025ffc470da32572472fbce005c5419eb2f1fe9470982c9686"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Veronica persica [Veronica persica] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/63038253. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Veronica persica",
+  "sourceId": "63038253",
+  "photoUrl": "https://www.inaturalist.org/photos/63038253",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/63038253/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/63038253/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 55666,
+  "acceptedScientificName": "Veronica persica",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/39716813",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 63038253,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/63038253/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48151/50638/840955/51611/738398/1450375",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48151,50638,840955,51611,738398,1450375,55666",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 55666,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1450375,
+    "name": "Veronica persica",
+    "rank": "species",
+    "extinct": false,
+    "id": 55666,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48151,
+      50638,
+      840955,
+      51611,
+      738398,
+      1450375,
+      55666
+    ],
+    "created_at": "2010-02-09T01:42:52+00:00",
+    "default_photo": {
+      "id": 472978578,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) liriodendron_tulipifera, some rights reserved (CC BY-NC), uploaded by liriodendron_tulipifera",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472978578/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "liriodendron_tulipifera",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472978578/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472978578/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 6,
+    "observations_count": 123519,
+    "photos_locked": false,
+    "universal_search_rank": 123519,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Veronica_persica",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "bird's-eye speedwell"
+  },
+  "rawMetadataPath": "metadata/veronica-persica/inat-63038253.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/veronica-persica--inat-63038253.json"
+}

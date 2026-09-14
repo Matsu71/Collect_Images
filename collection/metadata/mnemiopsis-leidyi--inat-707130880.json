@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-707130880",
+  "targetId": "org-mnemiopsis-leidyi",
+  "scientificName": "Mnemiopsis leidyi",
+  "nameJa": "ムネミオプシス・レイディ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:03:25+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:03:25+00:00",
+  "files": {
+    "master": "images/mnemiopsis-leidyi/inat-707130880.jpg",
+    "web": "images/mnemiopsis-leidyi/inat-707130880.webp",
+    "thumbnail": "images/mnemiopsis-leidyi/inat-707130880-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1152
+    ],
+    "master": [
+      2048,
+      1152
+    ],
+    "web": [
+      1400,
+      788
+    ]
+  },
+  "bytes": {
+    "master": 416132,
+    "web": 75586,
+    "thumbnail": 4786
+  },
+  "sha256": {
+    "download": "977c401f38171b42f378e20fc0f62f81b0a8e921a1a04df12a07130416c7526f",
+    "master": "0c0902fdd06d3229deffe8f56e2110841f1df041a5e66743abcbb3f097a8b947",
+    "web": "defeeabf855cc43519751ba0a718c4384f0f5bbfd77cfa582040ba55124af9d3"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Mnemiopsis leidyi [Mnemiopsis leidyi] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/707130880. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Mnemiopsis leidyi",
+  "sourceId": "707130880",
+  "photoUrl": "https://www.inaturalist.org/photos/707130880",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/707130880/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/707130880/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 180788,
+  "acceptedScientificName": "Mnemiopsis leidyi",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": "https://www.inaturalist.org/observations/386218479",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.979047619047619,
+  "photoApiEvidence": {
+    "id": 707130880,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1152
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/707130880/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/51508/117708/152925/171735/171725",
+    "min_species_ancestry": "48460,1,51508,117708,152925,171735,171725,180788",
+    "endemic": false,
+    "iconic_taxon_id": 1,
+    "min_species_taxon_id": 180788,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 171725,
+    "name": "Mnemiopsis leidyi",
+    "rank": "species",
+    "extinct": false,
+    "id": 180788,
+    "ancestor_ids": [
+      48460,
+      1,
+      51508,
+      117708,
+      152925,
+      171735,
+      171725,
+      180788
+    ],
+    "created_at": "2012-11-06T01:25:21+00:00",
+    "default_photo": {
+      "id": 9566101,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Vidar@aqua-photos, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9566101/square.jpg",
+      "original_dimensions": {
+        "height": 500,
+        "width": 473
+      },
+      "flags": [],
+      "attribution_name": "Vidar@aqua-photos",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9566101/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9566101/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 2,
+    "observations_count": 3415,
+    "photos_locked": false,
+    "universal_search_rank": 3415,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mnemiopsis",
+    "iconic_taxon_name": "Animalia",
+    "preferred_common_name": "Sea Walnut"
+  },
+  "rawMetadataPath": "metadata/mnemiopsis-leidyi/inat-707130880.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/mnemiopsis-leidyi--inat-707130880.json"
+}

@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-33168991",
+  "targetId": "org-diploria-labyrinthiformis",
+  "scientificName": "Diploria labyrinthiformis",
+  "nameJa": "メイズブレインコーラル",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 164,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:58:45+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:58:45+00:00",
+  "files": {
+    "master": "images/diploria-labyrinthiformis/inat-33168991.jpg",
+    "web": "images/diploria-labyrinthiformis/inat-33168991.webp",
+    "thumbnail": "images/diploria-labyrinthiformis/inat-33168991-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 789149,
+    "web": 180994,
+    "thumbnail": 21310
+  },
+  "sha256": {
+    "download": "3e440358762273f987852d99a62f4d72dff498ce59d8b3b2f2a21b7043c68a1b",
+    "master": "18e227b61c7af79b49cb24d8500de7ddd0d921a7ee75cdf18954ded692accaf2",
+    "web": "508bc4217a31a70c2924feba8ca6a0b7c5bcf9ee52891380a4be6bb823b4f823"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Diploria labyrinthiformis [Diploria labyrinthiformis] — Louis Imbeau / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/33168991. Original attribution: (c) Louis Imbeau, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Diploria labyrinthiformis",
+  "sourceId": "33168991",
+  "photoUrl": "https://www.inaturalist.org/photos/33168991",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33168991/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33168991/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Louis Imbeau",
+  "originalAttribution": "(c) Louis Imbeau, some rights reserved (CC BY)",
+  "taxonId": 504638,
+  "acceptedScientificName": "Diploria labyrinthiformis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": "https://www.inaturalist.org/observations/21438627",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.527619047619047,
+  "photoApiEvidence": {
+    "id": 33168991,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33168991/square.jpg",
+    "attribution": "(c) Louis Imbeau, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47534/47533/202756/47532/503799/503801/504637",
+    "min_species_ancestry": "48460,1,47534,47533,202756,47532,503799,503801,504637,504638",
+    "endemic": false,
+    "iconic_taxon_id": 1,
+    "min_species_taxon_id": 504638,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 504637,
+    "name": "Diploria labyrinthiformis",
+    "rank": "species",
+    "extinct": false,
+    "id": 504638,
+    "ancestor_ids": [
+      48460,
+      1,
+      47534,
+      47533,
+      202756,
+      47532,
+      503799,
+      503801,
+      504637,
+      504638
+    ],
+    "created_at": "2016-08-22T21:46:15+00:00",
+    "default_photo": {
+      "id": 138477,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Steven Severinghaus, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/138477/square.jpg",
+      "original_dimensions": {
+        "height": 900,
+        "width": 1200
+      },
+      "flags": [],
+      "attribution_name": "Steven Severinghaus",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/138477/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/138477/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 1,
+    "observations_count": 1683,
+    "photos_locked": false,
+    "universal_search_rank": 1683,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Diploria_labyrinthiformis",
+    "iconic_taxon_name": "Animalia",
+    "preferred_common_name": "Grooved Brain Coral",
+    "conservation_status": {
+      "id": 130679,
+      "place_id": null,
+      "source_id": 4,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "cr",
+      "status_name": "critically endangered",
+      "geoprivacy": "obscured",
+      "iucn": 50
+    }
+  },
+  "rawMetadataPath": "metadata/diploria-labyrinthiformis/inat-33168991.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/diploria-labyrinthiformis--inat-33168991.json"
+}

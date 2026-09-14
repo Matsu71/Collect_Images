@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-616962195",
+  "targetId": "org-zalophus-californianus",
+  "scientificName": "Zalophus californianus",
+  "nameJa": "カリフォルニアアシカ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:11:03+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:11:03+00:00",
+  "files": {
+    "master": "images/zalophus-californianus/inat-616962195.jpg",
+    "web": "images/zalophus-californianus/inat-616962195.webp",
+    "thumbnail": "images/zalophus-californianus/inat-616962195-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 786329,
+    "web": 193534,
+    "thumbnail": 27274
+  },
+  "sha256": {
+    "download": "e4303eb91d612a6f3be7ee339f39b1ea06728ba7a79ab9b26b50382f5ed9d597",
+    "master": "0900151574747dc4549e700770799036b1b97b7eca160d36b04dde018bbf252a",
+    "web": "c7869e07c377d0cd1ebbd23cf11b170b49aa732bb6f9965e207d209544ffcad3"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Zalophus californianus [Zalophus californianus] — Liam Steele / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/616962195. Original attribution: (c) Liam Steele, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Zalophus californianus",
+  "sourceId": "616962195",
+  "photoUrl": "https://www.inaturalist.org/photos/616962195",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/616962195/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/616962195/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Liam Steele",
+  "originalAttribution": "(c) Liam Steele, some rights reserved (CC BY)",
+  "taxonId": 41740,
+  "acceptedScientificName": "Zalophus californianus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/71767381",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.860952380952381,
+  "photoApiEvidence": {
+    "id": 616962195,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616962195/square.jpg",
+    "attribution": "(c) Liam Steele, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/372843/41736/41737",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,372843,41736,41737,41740",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 41740,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 41737,
+    "name": "Zalophus californianus",
+    "rank": "species",
+    "extinct": false,
+    "id": 41740,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      372843,
+      41736,
+      41737,
+      41740
+    ],
+    "created_at": "2008-03-19T00:35:45+00:00",
+    "default_photo": {
+      "id": 11888923,
+      "license_code": null,
+      "attribution": "(c) Jennifer Digdigan, all rights reserved, uploaded by Jennifer Digdigan",
+      "url": "https://static.inaturalist.org/photos/11888923/square.png",
+      "original_dimensions": {
+        "height": 960,
+        "width": 1280
+      },
+      "flags": [],
+      "attribution_name": "Jennifer Digdigan",
+      "square_url": "https://static.inaturalist.org/photos/11888923/square.png",
+      "medium_url": "https://static.inaturalist.org/photos/11888923/medium.png"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 42752,
+    "photos_locked": false,
+    "universal_search_rank": 42752,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 13194,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/California_sea_lion",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "California Sea Lion"
+  },
+  "rawMetadataPath": "metadata/zalophus-californianus/inat-616962195.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/zalophus-californianus--inat-616962195.json"
+}

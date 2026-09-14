@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-321610",
+  "targetId": "org-ambystoma-mexicanum",
+  "scientificName": "Ambystoma mexicanum",
+  "nameJa": "アホロートル",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 21,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:53:43+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:53:43+00:00",
+  "files": {
+    "master": "images/ambystoma-mexicanum/inat-321610.jpg",
+    "web": "images/ambystoma-mexicanum/inat-321610.webp",
+    "thumbnail": "images/ambystoma-mexicanum/inat-321610-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1080,
+      747
+    ],
+    "master": [
+      1080,
+      747
+    ],
+    "web": [
+      1080,
+      747
+    ]
+  },
+  "bytes": {
+    "master": 178756,
+    "web": 74030,
+    "thumbnail": 9304
+  },
+  "sha256": {
+    "download": "40c2e15f044779a9314d5dcaf6c74ba84e84ac5cb42e196f5aa95fbe8c22b4dd",
+    "master": "f481865fae1464bccf5fba26040f71a7b41fef1a18ef6bcd71aae6085043409f",
+    "web": "8fb7dffb50fa075a1061eb8890e96ffcc8f26947944f0f3dc8392fa5e8b5d870"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Ambystoma mexicanum [Ambystoma mexicanum] — Juan Cruzado Cortés / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/321610. Original attribution: (c) Juan Cruzado Cortés, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ambystoma mexicanum",
+  "sourceId": "321610",
+  "photoUrl": "https://www.inaturalist.org/photos/321610",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/321610/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/321610/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Juan Cruzado Cortés",
+  "originalAttribution": "(c) Juan Cruzado Cortés, some rights reserved (CC BY-SA)",
+  "taxonId": 26777,
+  "acceptedScientificName": "Ambystoma mexicanum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Amphibia",
+  "observationUrl": "https://www.inaturalist.org/observations/259266",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.067142857142857,
+  "photoApiEvidence": {
+    "id": 321610,
+    "license_code": "cc-by-sa",
+    "original_dimensions": {
+      "width": 1080,
+      "height": 747
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/321610/square.jpg",
+    "attribution": "(c) Juan Cruzado Cortés, some rights reserved (CC BY-SA)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/20978/26718/26720/26721",
+    "min_species_ancestry": "48460,1,2,355675,20978,26718,26720,26721,26777",
+    "endemic": true,
+    "iconic_taxon_id": 20978,
+    "min_species_taxon_id": 26777,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 26721,
+    "name": "Ambystoma mexicanum",
+    "rank": "species",
+    "extinct": false,
+    "id": 26777,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      20978,
+      26718,
+      26720,
+      26721,
+      26777
+    ],
+    "created_at": "2008-03-18T00:55:56+00:00",
+    "default_photo": {
+      "id": 87949947,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Seánín Óg, some rights reserved (CC BY-NC-ND)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87949947/square.jpg",
+      "original_dimensions": {
+        "height": 768,
+        "width": 1024
+      },
+      "flags": [],
+      "attribution_name": "Seánín Óg",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87949947/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87949947/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 2914,
+    "photos_locked": false,
+    "universal_search_rank": 2914,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 4993,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Axolotl",
+    "iconic_taxon_name": "Amphibia",
+    "preferred_common_name": "Axolotl",
+    "conservation_status": {
+      "id": 537689,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": 477,
+      "authority": "IUCN Red List",
+      "status": "cr",
+      "status_name": "critically endangered",
+      "geoprivacy": "open",
+      "iucn": 50
+    }
+  },
+  "rawMetadataPath": "metadata/ambystoma-mexicanum/inat-321610.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生両生類",
+  "contextFlags": [],
+  "licenseName": "CC BY-SA 4.0",
+  "metadataPath": "collection/metadata/ambystoma-mexicanum--inat-321610.json"
+}

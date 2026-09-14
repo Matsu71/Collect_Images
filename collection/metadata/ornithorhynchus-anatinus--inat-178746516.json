@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-178746516",
+  "targetId": "org-ornithorhynchus-anatinus",
+  "scientificName": "Ornithorhynchus anatinus",
+  "nameJa": "カモノハシ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:04:52+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:04:52+00:00",
+  "files": {
+    "master": "images/ornithorhynchus-anatinus/inat-178746516.jpg",
+    "web": "images/ornithorhynchus-anatinus/inat-178746516.webp",
+    "thumbnail": "images/ornithorhynchus-anatinus/inat-178746516-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1600,
+      1068
+    ],
+    "master": [
+      1600,
+      1068
+    ],
+    "web": [
+      1400,
+      935
+    ]
+  },
+  "bytes": {
+    "master": 560353,
+    "web": 176804,
+    "thumbnail": 20854
+  },
+  "sha256": {
+    "download": "b29a695adf0903731ad61eb3237ef84c448dacfc8151f8769b4540536c495b3c",
+    "master": "68cfd666630c75f4d7880225436409e84bd310917810c20d5742906f2358956d",
+    "web": "65cc60bfb280b4894decac8f0d32f131ff9f51db2533b2eb0a15ebb3f61309bd"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Ornithorhynchus anatinus [Ornithorhynchus anatinus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/178746516. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ornithorhynchus anatinus",
+  "sourceId": "178746516",
+  "photoUrl": "https://www.inaturalist.org/photos/178746516",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/178746516/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/178746516/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 43236,
+  "acceptedScientificName": "Ornithorhynchus anatinus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/106408816",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.859047619047619,
+  "photoApiEvidence": {
+    "id": 178746516,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1600,
+      "height": 1068
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178746516/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848316/43233/43234/43235",
+    "min_species_ancestry": "48460,1,2,355675,40151,848316,43233,43234,43235,43236",
+    "endemic": true,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43236,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 43235,
+    "name": "Ornithorhynchus anatinus",
+    "rank": "species",
+    "extinct": false,
+    "id": 43236,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848316,
+      43233,
+      43234,
+      43235,
+      43236
+    ],
+    "created_at": "2008-03-19T00:52:31+00:00",
+    "default_photo": {
+      "id": 430934363,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Alec Karcz, some rights reserved (CC BY-NC), uploaded by Alec Karcz",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430934363/square.jpeg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Alec Karcz",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430934363/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430934363/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 5107,
+    "photos_locked": false,
+    "universal_search_rank": 5107,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 12088,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Platypus",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Platypus",
+    "conservation_status": {
+      "id": 16499,
+      "place_id": null,
+      "source_id": 15286,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "nt",
+      "status_name": "near threatened",
+      "geoprivacy": "open",
+      "iucn": 20
+    }
+  },
+  "rawMetadataPath": "metadata/ornithorhynchus-anatinus/inat-178746516.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/ornithorhynchus-anatinus--inat-178746516.json"
+}

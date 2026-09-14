@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-245798442",
+  "targetId": "org-helarctos-malayanus",
+  "scientificName": "Helarctos malayanus",
+  "nameJa": "マレーグマ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:00:52+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:00:52+00:00",
+  "files": {
+    "master": "images/helarctos-malayanus/inat-245798442.jpg",
+    "web": "images/helarctos-malayanus/inat-245798442.webp",
+    "thumbnail": "images/helarctos-malayanus/inat-245798442-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1141610,
+    "web": 173416,
+    "thumbnail": 17406
+  },
+  "sha256": {
+    "download": "0a2b390e9963c839bdf4bae7bf867402583e48374b12efe6113bfde5c7aa7717",
+    "master": "99ea8d9a641f6cf8ec4a86ca3c0b676a0c37189b7235fd5beb9773e8d01343b5",
+    "web": "a1f718ebd2f8db1c7c28705ee6d1451797de0153b9b526f6c932967c3c24a102"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Helarctos malayanus [Helarctos malayanus] — Jan Ebr & Ivana Ebrová / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/245798442. Original attribution: (c) Jan Ebr & Ivana Ebrová, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Helarctos malayanus",
+  "sourceId": "245798442",
+  "photoUrl": "https://www.inaturalist.org/photos/245798442",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/245798442/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/245798442/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Jan Ebr & Ivana Ebrová",
+  "originalAttribution": "(c) Jan Ebr & Ivana Ebrová, some rights reserved (CC BY)",
+  "taxonId": 41655,
+  "acceptedScientificName": "Helarctos malayanus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/143331894",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.259047619047618,
+  "photoApiEvidence": {
+    "id": 245798442,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245798442/square.jpeg",
+    "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/41636/846255/41654/41655",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,41636,846255,41654,41655",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 41655,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": true,
+    "parent_id": 41655,
+    "name": "Helarctos malayanus malayanus",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 624650,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      41636,
+      846255,
+      41654,
+      41655,
+      624650
+    ],
+    "created_at": "2018-01-03T00:46:28+00:00",
+    "default_photo": {
+      "id": 85921248,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC BY-NC), uploaded by Wich’yanan (Jay) Limparungpatthanakij",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/85921248/square.jpg",
+      "original_dimensions": {
+        "height": 800,
+        "width": 1200
+      },
+      "flags": [],
+      "attribution_name": "Wich’yanan (Jay) Limparungpatthanakij",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/85921248/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/85921248/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 395,
+    "photos_locked": false,
+    "universal_search_rank": 395,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Malayan_sun_bear",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Malayan Sun Bear"
+  },
+  "rawMetadataPath": "metadata/helarctos-malayanus/inat-245798442.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/helarctos-malayanus--inat-245798442.json"
+}

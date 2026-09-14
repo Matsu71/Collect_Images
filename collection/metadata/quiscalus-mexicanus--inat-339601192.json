@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-339601192",
+  "targetId": "inat-taxon-9607",
+  "scientificName": "Quiscalus mexicanus",
+  "nameJa": "オナガクロムクドリモドキ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:17:27+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:17:27+00:00",
+  "files": {
+    "master": "images/quiscalus-mexicanus/inat-339601192.jpg",
+    "web": "images/quiscalus-mexicanus/inat-339601192.webp",
+    "thumbnail": "images/quiscalus-mexicanus/inat-339601192-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 412109,
+    "web": 74902,
+    "thumbnail": 7104
+  },
+  "sha256": {
+    "download": "8329de1c0b43f474ef4eaff35e5fc28c2336c1d045a78977cf8ef3af1bb150d2",
+    "master": "401e245433c66b930c415524d1a6df1fedac5170b8e453e38caa95eaf03efbe8",
+    "web": "fd1ba5495ebd4f45c23a1e6bc5598d96598a5352808ebba0febf9a5ff22452b9"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Quiscalus mexicanus [Quiscalus mexicanus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/339601192. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Quiscalus mexicanus",
+  "sourceId": "339601192",
+  "photoUrl": "https://www.inaturalist.org/photos/339601192",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/339601192/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/339601192/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 9607,
+  "acceptedScientificName": "Quiscalus mexicanus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/193327633",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.95,
+  "photoApiEvidence": {
+    "id": 339601192,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/339601192/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/11989/9599",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,11989,9599,9607",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 9607,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 9599,
+    "name": "Quiscalus mexicanus",
+    "rank": "species",
+    "extinct": false,
+    "id": 9607,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      11989,
+      9599,
+      9607
+    ],
+    "provisional": false,
+    "created_at": "2008-03-13T03:01:56+00:00",
+    "default_photo": {
+      "id": 191985938,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/191985938/square.jpg",
+      "original_dimensions": {
+        "height": 1300,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Ad Konings",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/191985938/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/191985938/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 167519,
+    "photos_locked": false,
+    "universal_search_rank": 167519,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Great-tailed_grackle",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Great-tailed Grackle"
+  },
+  "rawMetadataPath": "metadata/quiscalus-mexicanus/inat-339601192.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/quiscalus-mexicanus--inat-339601192.json"
+}

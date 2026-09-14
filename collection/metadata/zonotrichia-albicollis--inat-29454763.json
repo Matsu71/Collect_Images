@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-29454763",
+  "targetId": "inat-taxon-9184",
+  "scientificName": "Zonotrichia albicollis",
+  "nameJa": "ノドジロシトド",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:18:04+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:18:04+00:00",
+  "files": {
+    "master": "images/zonotrichia-albicollis/inat-29454763.jpg",
+    "web": "images/zonotrichia-albicollis/inat-29454763.webp",
+    "thumbnail": "images/zonotrichia-albicollis/inat-29454763-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1747
+    ],
+    "master": [
+      2048,
+      1747
+    ],
+    "web": [
+      1400,
+      1194
+    ]
+  },
+  "bytes": {
+    "master": 1187104,
+    "web": 195310,
+    "thumbnail": 30300
+  },
+  "sha256": {
+    "download": "36ed33d4e5d6bcf7e84d05973f1907afc65ff81a88143d33a6930c5845b0ca77",
+    "master": "b533859bca12b66f202d255e76dbccc757cd3ef1ccab9f090a9bd2057543df09",
+    "web": "0012cf175d6498f2d4ed32864fa9d81ad2c0ce052353df377ecd0deaa1170db1"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Zonotrichia albicollis [Zonotrichia albicollis] — Sandy Wolkenberg / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/29454763. Original attribution: (c) Sandy Wolkenberg, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Zonotrichia albicollis",
+  "sourceId": "29454763",
+  "photoUrl": "https://www.inaturalist.org/photos/29454763",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29454763/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29454763/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Sandy Wolkenberg",
+  "originalAttribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY)",
+  "taxonId": 9184,
+  "acceptedScientificName": "Zonotrichia albicollis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/19178388",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.495714285714286,
+  "photoApiEvidence": {
+    "id": 29454763,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1747
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29454763/square.jpg",
+    "attribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/559248/9175",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,559248,9175,9184",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 9184,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 9175,
+    "name": "Zonotrichia albicollis",
+    "rank": "species",
+    "extinct": false,
+    "id": 9184,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      559248,
+      9175,
+      9184
+    ],
+    "created_at": "2008-03-13T03:00:21+00:00",
+    "default_photo": {
+      "id": 23268661,
+      "license_code": "pd",
+      "attribution": "Shenandoah  National Park, no known copyright restrictions (public domain)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23268661/square.jpg",
+      "original_dimensions": {
+        "height": 1603,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Shenandoah  National Park",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23268661/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23268661/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 124132,
+    "photos_locked": false,
+    "universal_search_rank": 124132,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/White-throated_sparrow",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "White-throated Sparrow"
+  },
+  "rawMetadataPath": "metadata/zonotrichia-albicollis/inat-29454763.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/zonotrichia-albicollis--inat-29454763.json"
+}

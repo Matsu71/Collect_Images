@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-39872800",
+  "targetId": "inat-taxon-765394",
+  "scientificName": "Sambucus nigra",
+  "nameJa": "セイヨウニワトコ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:15:41+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:15:41+00:00",
+  "files": {
+    "master": "images/sambucus-nigra/inat-39872800.jpg",
+    "web": "images/sambucus-nigra/inat-39872800.webp",
+    "thumbnail": "images/sambucus-nigra/inat-39872800-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 575954,
+    "web": 134514,
+    "thumbnail": 18448
+  },
+  "sha256": {
+    "download": "04649d61aa6ae7e28dc6d0e1301eb0a34638afccc6aaffe66b0c09f53d7346fc",
+    "master": "e685fb2b5318eff97c0897afd9955730c0ac8b588356601eb169eae881d78f1d",
+    "web": "3b9c96e9e887685c29151f72f35314cdfc571cbdb3f35b7c14ddd50a3983b788"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Sambucus nigra [Sambucus nigra] — Attila Oláh / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/39872800. Original attribution: (c) Attila Oláh, some rights reserved (CC BY), uploaded by Attila Oláh. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Sambucus nigra",
+  "sourceId": "39872800",
+  "photoUrl": "https://www.inaturalist.org/photos/39872800",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/39872800/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/39872800/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Attila Oláh",
+  "originalAttribution": "(c) Attila Oláh, some rights reserved (CC BY), uploaded by Attila Oláh",
+  "taxonId": 765394,
+  "acceptedScientificName": "Sambucus nigra",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.194285714285714,
+  "photoApiEvidence": {
+    "id": 39872800,
+    "license_code": "cc-by",
+    "attribution": "(c) Attila Oláh, some rights reserved (CC BY), uploaded by Attila Oláh",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/39872800/square.jpeg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Attila Oláh",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/39872800/square.jpeg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/39872800/medium.jpeg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/sambucus-nigra/inat-39872800.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/sambucus-nigra--inat-39872800.json"
+}

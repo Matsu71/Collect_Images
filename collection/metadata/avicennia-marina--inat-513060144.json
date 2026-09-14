@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-513060144",
+  "targetId": "org-avicennia-marina",
+  "scientificName": "Avicennia marina",
+  "nameJa": "ヒルギダマシ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "primary_candidate",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "primary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 53,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "主体と主要な形が一覧上で明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:54:52+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:54:52+00:00",
+  "files": {
+    "master": "images/avicennia-marina/inat-513060144.jpg",
+    "web": "images/avicennia-marina/inat-513060144.webp",
+    "thumbnail": "images/avicennia-marina/inat-513060144-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1203682,
+    "web": 253692,
+    "thumbnail": 19070
+  },
+  "sha256": {
+    "download": "3b6bd92bc91a1732d1b839eed6d5e21070388830d438cca6bc10fd97836e3b6a",
+    "master": "9cd37485e94dcc99c08cd8ba32b806c8aed6165ae79283dd94ba35b523d649a3",
+    "web": "4c99e664c23f4beb34576f3841b6a14a7c449012d4243c0ecd129e6b1621e5dc"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Avicennia marina [Avicennia marina] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/513060144. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Avicennia marina",
+  "sourceId": "513060144",
+  "photoUrl": "https://www.inaturalist.org/photos/513060144",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/513060144/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/513060144/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 75723,
+  "acceptedScientificName": "Avicennia marina",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/285439694",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.194285714285714,
+  "photoApiEvidence": {
+    "id": 513060144,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513060144/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48151/50151/851876/62865",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48151,50151,851876,62865,75723",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 75723,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 62865,
+    "name": "Avicennia marina",
+    "rank": "species",
+    "extinct": false,
+    "id": 75723,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48151,
+      50151,
+      851876,
+      62865,
+      75723
+    ],
+    "provisional": false,
+    "created_at": "2011-05-13T21:38:16+00:00",
+    "default_photo": {
+      "id": 198944722,
+      "license_code": null,
+      "attribution": "(c) Ori Fragman-Sapir, all rights reserved, uploaded by Ori Fragman-Sapir",
+      "url": "https://static.inaturalist.org/photos/198944722/square.jpeg",
+      "original_dimensions": {
+        "height": 1000,
+        "width": 1500
+      },
+      "flags": [],
+      "attribution_name": "Ori Fragman-Sapir",
+      "square_url": "https://static.inaturalist.org/photos/198944722/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/198944722/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 6,
+    "observations_count": 12940,
+    "photos_locked": false,
+    "universal_search_rank": 12940,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Avicennia_marina",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Grey Mangrove"
+  },
+  "rawMetadataPath": "metadata/avicennia-marina/inat-513060144.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/avicennia-marina--inat-513060144.json"
+}

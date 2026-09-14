@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-123762771",
+  "targetId": "org-crocuta-crocuta",
+  "scientificName": "Crocuta crocuta",
+  "nameJa": "ブチハイエナ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 135,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "部分・生態・環境等の補足用。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:57:47+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:57:47+00:00",
+  "files": {
+    "master": "images/crocuta-crocuta/inat-123762771.jpg",
+    "web": "images/crocuta-crocuta/inat-123762771.webp",
+    "thumbnail": "images/crocuta-crocuta/inat-123762771-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 595025,
+    "web": 128130,
+    "thumbnail": 12886
+  },
+  "sha256": {
+    "download": "c9d170ad4356a5609e35903fffc4bb717516a70abb5721a0a4502a5091750314",
+    "master": "fd4787c2285b7a3aae2c58f831e69f51a003465e257823dd171309b758a5dd2a",
+    "web": "ffff889f62443f046ae6ed9c6de9d758c98231c82eea1368008952870d984464"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Crocuta crocuta [Crocuta crocuta] — Amelia Tauber / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/123762771. Original attribution: (c) Amelia Tauber, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Crocuta crocuta",
+  "sourceId": "123762771",
+  "photoUrl": "https://www.inaturalist.org/photos/123762771",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/123762771/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/123762771/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Amelia Tauber",
+  "originalAttribution": "(c) Amelia Tauber, some rights reserved (CC BY)",
+  "taxonId": 41886,
+  "acceptedScientificName": "Crocuta crocuta",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/75631668",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 123762771,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123762771/square.jpg",
+    "attribution": "(c) Amelia Tauber, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/41884/846226/41885",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,41884,846226,41885,41886",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 41886,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 41885,
+    "name": "Crocuta crocuta",
+    "rank": "species",
+    "extinct": false,
+    "id": 41886,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      41884,
+      846226,
+      41885,
+      41886
+    ],
+    "provisional": false,
+    "created_at": "2008-03-19T00:37:13+00:00",
+    "default_photo": {
+      "id": 15526597,
+      "license_code": null,
+      "attribution": "(c) mary-hunter, all rights reserved, uploaded by mary-hunter",
+      "url": "https://static.inaturalist.org/photos/15526597/square.jpg",
+      "original_dimensions": {
+        "height": 566,
+        "width": 800
+      },
+      "flags": [],
+      "attribution_name": "mary-hunter",
+      "square_url": "https://static.inaturalist.org/photos/15526597/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/15526597/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 11395,
+    "photos_locked": false,
+    "universal_search_rank": 11395,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 3278,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Spotted_hyena",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Spotted Hyena"
+  },
+  "rawMetadataPath": "metadata/crocuta-crocuta/inat-123762771.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生哺乳類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/crocuta-crocuta--inat-123762771.json"
+}

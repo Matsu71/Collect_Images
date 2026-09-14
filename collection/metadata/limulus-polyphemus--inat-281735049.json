@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-281735049",
+  "targetId": "org-limulus-polyphemus",
+  "scientificName": "Limulus polyphemus",
+  "nameJa": "アメリカカブトガニ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:02:15+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:02:15+00:00",
+  "files": {
+    "master": "images/limulus-polyphemus/inat-281735049.jpg",
+    "web": "images/limulus-polyphemus/inat-281735049.webp",
+    "thumbnail": "images/limulus-polyphemus/inat-281735049-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      814,
+      1255
+    ],
+    "master": [
+      814,
+      1255
+    ],
+    "web": [
+      814,
+      1255
+    ]
+  },
+  "bytes": {
+    "master": 333833,
+    "web": 169682,
+    "thumbnail": 17270
+  },
+  "sha256": {
+    "download": "a298b840a082e8500a11843660497643cf0da5e3eb59837b3cd721dca209aae3",
+    "master": "637ed39a136b3475f96b269887ef7d446d32634927e853e81cec434bc2899e02",
+    "web": "5380c0f0d186e7acb50b428f99a518a0c6dab5a84ff4652c49084e3330492a55"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Limulus polyphemus [Limulus polyphemus] — Elizabeth Green / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/281735049. Original attribution: (c) Elizabeth Green, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Limulus polyphemus",
+  "sourceId": "281735049",
+  "photoUrl": "https://www.inaturalist.org/photos/281735049",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/281735049/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/281735049/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Elizabeth Green",
+  "originalAttribution": "(c) Elizabeth Green, some rights reserved (CC BY)",
+  "taxonId": 48302,
+  "acceptedScientificName": "Limulus polyphemus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": "https://www.inaturalist.org/observations/162918939",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.162857142857142,
+  "photoApiEvidence": {
+    "id": 281735049,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 814,
+      "height": 1255
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/281735049/square.jpeg",
+    "attribution": "(c) Elizabeth Green, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/245097/48309/246165/326110/472330/326113",
+    "min_species_ancestry": "48460,1,47120,245097,48309,246165,326110,472330,326113,48302",
+    "endemic": false,
+    "iconic_taxon_id": 1,
+    "min_species_taxon_id": 48302,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 326113,
+    "name": "Limulus polyphemus",
+    "rank": "species",
+    "extinct": false,
+    "id": 48302,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      245097,
+      48309,
+      246165,
+      326110,
+      472330,
+      326113,
+      48302
+    ],
+    "created_at": "2008-09-04T21:01:29+00:00",
+    "default_photo": {
+      "id": 186273920,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Hans Hillewaert, some rights reserved (CC BY-NC-ND)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/186273920/square.jpg",
+      "original_dimensions": {
+        "height": 1535,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Hans Hillewaert",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/186273920/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/186273920/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 6,
+    "observations_count": 28217,
+    "photos_locked": false,
+    "universal_search_rank": 28217,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 2200,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Atlantic_horseshoe_crab",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Animalia",
+    "preferred_common_name": "Atlantic Horseshoe Crab",
+    "conservation_status": {
+      "id": 19007,
+      "place_id": null,
+      "source_id": 4,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": null,
+      "iucn": 30
+    }
+  },
+  "rawMetadataPath": "metadata/limulus-polyphemus/inat-281735049.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生無脊椎動物",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/limulus-polyphemus--inat-281735049.json"
+}

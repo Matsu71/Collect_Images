@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-53670697",
+  "targetId": "inat-taxon-51875",
+  "scientificName": "Trifolium pratense",
+  "nameJa": "アカツメクサ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:12:17+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:12:17+00:00",
+  "files": {
+    "master": "images/trifolium-pratense/inat-53670697.jpg",
+    "web": "images/trifolium-pratense/inat-53670697.webp",
+    "thumbnail": "images/trifolium-pratense/inat-53670697-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1981,
+      1981
+    ],
+    "master": [
+      1981,
+      1981
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 448155,
+    "web": 76804,
+    "thumbnail": 6534
+  },
+  "sha256": {
+    "download": "a05d9042685e453e993d6e2919df558b3a73ce1c6c098f20d3d6013b398c69c1",
+    "master": "61b50c2426019906640c360750e5f569930d2c400efcac61c75adddf29a6aacb",
+    "web": "17c201f5a3dba4a56df80f5ce524b9ba73cb8b5d6f658744203aaa17017c0618"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Trifolium pratense [Trifolium pratense] — Mark Apgar / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/53670697. Original attribution: (c) Mark Apgar, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Trifolium pratense",
+  "sourceId": "53670697",
+  "photoUrl": "https://www.inaturalist.org/photos/53670697",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53670697/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53670697/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Mark Apgar",
+  "originalAttribution": "(c) Mark Apgar, some rights reserved (CC BY)",
+  "taxonId": 51875,
+  "acceptedScientificName": "Trifolium pratense",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/34127052",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.83,
+  "photoApiEvidence": {
+    "id": 53670697,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1981,
+      "height": 1981
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53670697/square.jpg",
+    "attribution": "(c) Mark Apgar, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47123/47122/507502/512504/51876/967289/1582389",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47123,47122,507502,512504,51876,967289,1582389,51875",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 51875,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1582389,
+    "name": "Trifolium pratense",
+    "rank": "species",
+    "extinct": false,
+    "id": 51875,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47123,
+      47122,
+      507502,
+      512504,
+      51876,
+      967289,
+      1582389,
+      51875
+    ],
+    "created_at": "2009-06-25T18:17:38+00:00",
+    "default_photo": {
+      "id": 590999108,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Hornbeam Arts, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590999108/square.jpg",
+      "original_dimensions": {
+        "height": 1392,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Hornbeam Arts",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590999108/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590999108/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 8,
+    "observations_count": 243798,
+    "photos_locked": false,
+    "universal_search_rank": 243798,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Trifolium_pratense",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Red Clover"
+  },
+  "rawMetadataPath": "metadata/trifolium-pratense/inat-53670697.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/trifolium-pratense--inat-53670697.json"
+}

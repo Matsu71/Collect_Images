@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-219417340",
+  "targetId": "org-araucaria-araucana",
+  "scientificName": "Araucaria araucana",
+  "nameJa": "チリマツ",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 42,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "部分・生態・環境等の補足用。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:54:32+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:54:32+00:00",
+  "files": {
+    "master": "images/araucaria-araucana/inat-219417340.jpg",
+    "web": "images/araucaria-araucana/inat-219417340.webp",
+    "thumbnail": "images/araucaria-araucana/inat-219417340-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1036020,
+    "web": 232800,
+    "thumbnail": 29988
+  },
+  "sha256": {
+    "download": "a04675e32b068c65015a68f2f871f53289f26b196476997867f0050861b32a87",
+    "master": "0f202186277ac6b2640da5eb56bda3d5650a8d1560698a9f48f5dff1d6e50a00",
+    "web": "a8caedca9ef958e5ed43142f31bf0d7b5d3f863e29ef20cccb2f356b22d8c4ca"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Araucaria araucana [Araucaria araucana] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/219417340. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Araucaria araucana",
+  "sourceId": "219417340",
+  "photoUrl": "https://www.inaturalist.org/photos/219417340",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/219417340/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/219417340/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 126404,
+  "acceptedScientificName": "Araucaria araucana",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/129136456",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 219417340,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/219417340/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/136329/47375/49382/53718/569704",
+    "min_species_ancestry": "48460,47126,211194,136329,47375,49382,53718,569704,126404",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 126404,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 569704,
+    "name": "Araucaria araucana",
+    "rank": "species",
+    "extinct": false,
+    "id": 126404,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      136329,
+      47375,
+      49382,
+      53718,
+      569704,
+      126404
+    ],
+    "provisional": false,
+    "created_at": "2012-03-26T22:14:13+00:00",
+    "default_photo": {
+      "id": 176887961,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) joseluisblazquez, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176887961/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "joseluisblazquez",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176887961/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176887961/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 10131,
+    "photos_locked": false,
+    "universal_search_rank": 10131,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 20528,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Araucaria_araucana",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "monkey-puzzle",
+    "conservation_status": {
+      "id": 547940,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": 477,
+      "authority": "IUCN Red List",
+      "status": "en",
+      "status_name": "endangered",
+      "geoprivacy": "open",
+      "iucn": 40
+    }
+  },
+  "rawMetadataPath": "metadata/araucaria-araucana/inat-219417340.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生植物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/araucaria-araucana--inat-219417340.json"
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-255454786",
+  "targetId": "inat-taxon-1454382",
+  "scientificName": "Nannopterum auritum",
+  "nameJa": "ミミヒメウ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:13:28+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:13:28+00:00",
+  "files": {
+    "master": "images/nannopterum-auritum/inat-255454786.jpg",
+    "web": "images/nannopterum-auritum/inat-255454786.webp",
+    "thumbnail": "images/nannopterum-auritum/inat-255454786-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 279678,
+    "web": 36894,
+    "thumbnail": 3876
+  },
+  "sha256": {
+    "download": "c2a2982233b349271577ffe85fe141439e406e47a56318a0b6dc4f1a68eb3daf",
+    "master": "d2a175e4f8335522ca2cbb72dc80ce2c2a74ed291075255f11fbda0e9a31819a",
+    "web": "a8184a6d5205364764815e5a2167e94f3086ac9cae84830bb60d3059c81b7881"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Nannopterum auritum [Nannopterum auritum] — Peter Abrahamsen / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/255454786. Original attribution: (c) Peter Abrahamsen, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Nannopterum auritum",
+  "sourceId": "255454786",
+  "photoUrl": "https://www.inaturalist.org/photos/255454786",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/255454786/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/255454786/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Peter Abrahamsen",
+  "originalAttribution": "(c) Peter Abrahamsen, some rights reserved (CC BY)",
+  "taxonId": 1454382,
+  "acceptedScientificName": "Nannopterum auritum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/148352422",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.194285714285714,
+  "photoApiEvidence": {
+    "id": 255454786,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255454786/square.jpg",
+    "attribution": "(c) Peter Abrahamsen, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/71268/4262/1289332",
+    "min_species_ancestry": "48460,1,2,355675,3,71268,4262,1289332,1454382",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 1454382,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1289332,
+    "name": "Nannopterum auritum",
+    "rank": "species",
+    "extinct": false,
+    "id": 1454382,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      71268,
+      4262,
+      1289332,
+      1454382
+    ],
+    "created_at": "2023-03-01T05:39:54+00:00",
+    "default_photo": {
+      "id": 541600012,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Ben Martin Mortimer, some rights reserved (CC BY-NC), uploaded by Ben Martin Mortimer",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541600012/square.jpg",
+      "original_dimensions": {
+        "height": 1280,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Ben Martin Mortimer",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541600012/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541600012/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 0,
+    "observations_count": 212485,
+    "photos_locked": false,
+    "universal_search_rank": 212485,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 81701,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Double-crested_cormorant",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Double-crested Cormorant"
+  },
+  "rawMetadataPath": "metadata/nannopterum-auritum/inat-255454786.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/nannopterum-auritum--inat-255454786.json"
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-181193021",
+  "targetId": "inat-taxon-12942",
+  "scientificName": "Sialia sialis",
+  "nameJa": "ルリツグミ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:16:29+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:16:29+00:00",
+  "files": {
+    "master": "images/sialia-sialis/inat-181193021.jpg",
+    "web": "images/sialia-sialis/inat-181193021.webp",
+    "thumbnail": "images/sialia-sialis/inat-181193021-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 628461,
+    "web": 160658,
+    "thumbnail": 19556
+  },
+  "sha256": {
+    "download": "8c8a91f34861b31190e4418bafdfff2230f4e66752a22fe968c5010b09684354",
+    "master": "6c21d77b35ecb77fe551a9ec4c9ec00bf639409c2a94bce8fbe3a5faaed3dd23",
+    "web": "acb257eb2fae3163a849c5adf9ed68545671da77185d9a0a0311bb767deb3ff2"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Sialia sialis [Sialia sialis] — Chelsea Carroll / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/181193021. Original attribution: (c) Chelsea Carroll, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Sialia sialis",
+  "sourceId": "181193021",
+  "photoUrl": "https://www.inaturalist.org/photos/181193021",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/181193021/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/181193021/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Chelsea Carroll",
+  "originalAttribution": "(c) Chelsea Carroll, some rights reserved (CC BY)",
+  "taxonId": 12942,
+  "acceptedScientificName": "Sialia sialis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/107700686",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.194285714285714,
+  "photoApiEvidence": {
+    "id": 181193021,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/181193021/square.jpeg",
+    "attribution": "(c) Chelsea Carroll, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/15977/12935/12942",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,15977,12935,12942",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 12942,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 12942,
+    "name": "Sialia sialis sialis",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 238513,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      15977,
+      12935,
+      12942,
+      238513
+    ],
+    "created_at": "2013-03-29T02:19:11+00:00",
+    "default_photo": {
+      "id": 38082597,
+      "license_code": "cc0",
+      "attribution": "no rights reserved, uploaded by Adam Kranz",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38082597/square.jpeg",
+      "original_dimensions": {
+        "height": 1686,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Adam Kranz",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38082597/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38082597/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 550,
+    "photos_locked": false,
+    "universal_search_rank": 550,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Common Eastern Bluebird"
+  },
+  "rawMetadataPath": "metadata/sialia-sialis/inat-181193021.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/sialia-sialis--inat-181193021.json"
+}

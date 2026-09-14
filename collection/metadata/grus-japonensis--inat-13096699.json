@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-13096699",
+  "targetId": "org-grus-japonensis",
+  "scientificName": "Grus japonensis",
+  "nameJa": "タンチョウ",
+  "collectionTier": "chronoearth",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:00:38+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:00:38+00:00",
+  "files": {
+    "master": "images/grus-japonensis/inat-13096699.jpg",
+    "web": "images/grus-japonensis/inat-13096699.webp",
+    "thumbnail": "images/grus-japonensis/inat-13096699-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1366
+    ],
+    "master": [
+      2048,
+      1366
+    ],
+    "web": [
+      1400,
+      934
+    ]
+  },
+  "bytes": {
+    "master": 725622,
+    "web": 176200,
+    "thumbnail": 19164
+  },
+  "sha256": {
+    "download": "167961a669e0bd17178b7edc850e539e1e366494b0de9f18ab20e6ed67246ef3",
+    "master": "50706cd33353fb304005202357c10557ec32ea5afa7c7d0933598d1c19e2673e",
+    "web": "636d4fea221ab632572f05c18927d2d2d2957c75f11eac33a71406d08bfa0754"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Grus japonensis [Grus japonensis] — Austin 0201 / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/13096699. Original attribution: (c) Austin 0201, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Grus japonensis",
+  "sourceId": "13096699",
+  "photoUrl": "https://www.inaturalist.org/photos/13096699",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13096699/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13096699/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Austin 0201",
+  "originalAttribution": "(c) Austin 0201, some rights reserved (CC BY)",
+  "taxonId": 39,
+  "acceptedScientificName": "Grus japonensis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/9600943",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.618095238095239,
+  "photoApiEvidence": {
+    "id": 13096699,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1366
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13096699/square.jpg",
+    "attribution": "(c) Austin 0201, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/4/23/508058",
+    "min_species_ancestry": "48460,1,2,355675,3,4,23,508058,39",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 39,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 508058,
+    "name": "Grus japonensis",
+    "rank": "species",
+    "extinct": false,
+    "id": 39,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      4,
+      23,
+      508058,
+      39
+    ],
+    "created_at": "2008-03-13T02:35:12+00:00",
+    "default_photo": {
+      "id": 122932380,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) naturepower2021, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122932380/square.jpg",
+      "original_dimensions": {
+        "height": 1390,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "naturepower2021",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122932380/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122932380/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 1722,
+    "photos_locked": false,
+    "universal_search_rank": 1722,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red-crowned_crane",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Red-crowned Crane",
+    "conservation_status": {
+      "id": 10,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "open",
+      "iucn": 30
+    }
+  },
+  "rawMetadataPath": "metadata/grus-japonensis/inat-13096699.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生鳥類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/grus-japonensis--inat-13096699.json"
+}

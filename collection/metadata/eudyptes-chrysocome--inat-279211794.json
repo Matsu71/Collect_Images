@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-279211794",
+  "targetId": "org-eudyptes-chrysocome",
+  "scientificName": "Eudyptes chrysocome",
+  "nameJa": "イワトビペンギン",
+  "collectionTier": "chronoearth",
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "4856ee2b7d85d3dbdc4aafd17eea8c2dc272981e",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 185,
+    "reviewFile": "reviews/screening-194.json",
+    "noteJa": "部分・生態・環境等の補足用。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:59:34+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:59:34+00:00",
+  "files": {
+    "master": "images/eudyptes-chrysocome/inat-279211794.jpg",
+    "web": "images/eudyptes-chrysocome/inat-279211794.webp",
+    "thumbnail": "images/eudyptes-chrysocome/inat-279211794-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1959
+    ],
+    "master": [
+      2048,
+      1959
+    ],
+    "web": [
+      1400,
+      1339
+    ]
+  },
+  "bytes": {
+    "master": 1109909,
+    "web": 168472,
+    "thumbnail": 11226
+  },
+  "sha256": {
+    "download": "c7e5d512acd4dbddca8bcad669bc133f99ee3cc7a98bc66f82e6813b84a2b40c",
+    "master": "732e14af2da88b729e42acc1f5b41098768c996187603c3735282c44844e6224",
+    "web": "5987f28aa911129936ac53b0a28afef8bca6d230ecc2961372ed291ec8a372a2"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Eudyptes chrysocome [Eudyptes chrysocome] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/279211794. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Eudyptes chrysocome",
+  "sourceId": "279211794",
+  "photoUrl": "https://www.inaturalist.org/photos/279211794",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/279211794/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/279211794/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 3827,
+  "acceptedScientificName": "Eudyptes chrysocome",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/161530713",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.465238095238094,
+  "photoApiEvidence": {
+    "id": 279211794,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1959
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/279211794/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67564/3806/3822",
+    "min_species_ancestry": "48460,1,2,355675,3,67564,3806,3822,3827",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 3827,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 3822,
+    "name": "Eudyptes chrysocome",
+    "rank": "species",
+    "extinct": false,
+    "id": 3827,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67564,
+      3806,
+      3822,
+      3827
+    ],
+    "provisional": false,
+    "created_at": "2008-03-13T02:43:36+00:00",
+    "default_photo": {
+      "id": 112102893,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Paul Steeves, some rights reserved (CC BY-NC), uploaded by Paul Steeves",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112102893/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1682
+      },
+      "flags": [],
+      "attribution_name": "Paul Steeves",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112102893/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112102893/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 8,
+    "observations_count": 729,
+    "photos_locked": false,
+    "universal_search_rank": 729,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 136771,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Southern_rockhopper_penguin",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Western Rockhopper Penguin",
+    "conservation_status": {
+      "id": 1111,
+      "place_id": null,
+      "source_id": 18766,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "open",
+      "iucn": 30
+    }
+  },
+  "rawMetadataPath": "metadata/eudyptes-chrysocome/inat-279211794.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生生物",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/eudyptes-chrysocome--inat-279211794.json"
+}
