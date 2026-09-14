@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-21578937",
+  "targetId": "inat-taxon-50278",
+  "scientificName": "Parthenocissus quinquefolia",
+  "nameJa": "アメリカヅタ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:19:27+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:19:27+00:00",
+  "files": {
+    "master": "images/parthenocissus-quinquefolia/inat-21578937.jpg",
+    "web": "images/parthenocissus-quinquefolia/inat-21578937.webp",
+    "thumbnail": "images/parthenocissus-quinquefolia/inat-21578937-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1832,
+      2048
+    ],
+    "master": [
+      1832,
+      2048
+    ],
+    "web": [
+      1252,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 585090,
+    "web": 131346,
+    "thumbnail": 6062
+  },
+  "sha256": {
+    "download": "51cc08216b311900639251ab9021e1640fc1cbbb0282882ae829429473f36e06",
+    "master": "ea26e47068d9bf5e83fb93582a80b3059bb7a1245ec405932a9917c5c94258a9",
+    "web": "2f67022224f78dba64ca9935289e40e4cf3c08dbc8fd1622b2eb61011eb5fc62"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Parthenocissus quinquefolia [Parthenocissus quinquefolia] — earl woolsey / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/21578937. Original attribution: (c) earl woolsey, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Parthenocissus quinquefolia",
+  "sourceId": "21578937",
+  "photoUrl": "https://www.inaturalist.org/photos/21578937",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21578937/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21578937/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "earl woolsey",
+  "originalAttribution": "(c) earl woolsey, some rights reserved (CC BY)",
+  "taxonId": 50278,
+  "acceptedScientificName": "Parthenocissus quinquefolia",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/14497733",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.617142857142857,
+  "photoApiEvidence": {
+    "id": 21578937,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1832,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21578937/square.jpeg",
+    "attribution": "(c) earl woolsey, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/71291/50279/50280",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,71291,50279,50280,50278",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 50278,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 50280,
+    "name": "Parthenocissus quinquefolia",
+    "rank": "species",
+    "extinct": false,
+    "id": 50278,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      71291,
+      50279,
+      50280,
+      50278
+    ],
+    "created_at": "2009-03-15T00:42:48+00:00",
+    "default_photo": {
+      "id": 428768,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Suzanne Cadwell, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/428768/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1152
+      },
+      "flags": [],
+      "attribution_name": "Suzanne Cadwell",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/428768/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/428768/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 6,
+    "observations_count": 163642,
+    "photos_locked": false,
+    "universal_search_rank": 163642,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 2189,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Parthenocissus_quinquefolia",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Virginia creeper"
+  }
+}

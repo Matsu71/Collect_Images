@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-147569404",
+  "targetId": "inat-taxon-58907",
+  "scientificName": "Melilotus albus",
+  "nameJa": "シロバナシナガワハギ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:18:37+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:18:37+00:00",
+  "files": {
+    "master": "images/melilotus-albus/inat-147569404.jpg",
+    "web": "images/melilotus-albus/inat-147569404.webp",
+    "thumbnail": "images/melilotus-albus/inat-147569404-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 764964,
+    "web": 146934,
+    "thumbnail": 13304
+  },
+  "sha256": {
+    "download": "be792688845893556e1681f04b5b72c1f25953013de9f3425fb27230738b84a9",
+    "master": "0433d3284a0ee1bd7e9f39cb0dd8a15c9f6bef24128d1b64b3bf1bdb305b7815",
+    "web": "7291222ceeae755787f2626207fce3c2d0a0a50ff21a41001731f08f81d4d98e"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Melilotus albus [Melilotus albus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/147569404. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Melilotus albus",
+  "sourceId": "147569404",
+  "photoUrl": "https://www.inaturalist.org/photos/147569404",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/147569404/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/147569404/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 58907,
+  "acceptedScientificName": "Melilotus albus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/89368000",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 147569404,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147569404/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47123/47122/507502/512504/57067",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47123,47122,507502,512504,57067,58907",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 58907,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 57067,
+    "name": "Melilotus albus",
+    "rank": "species",
+    "extinct": false,
+    "id": 58907,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47123,
+      47122,
+      507502,
+      512504,
+      57067,
+      58907
+    ],
+    "provisional": false,
+    "created_at": "2010-04-02T05:44:24+00:00",
+    "default_photo": {
+      "id": 88013456,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Sarah Gregg, some rights reserved (CC BY-NC-SA), uploaded by Sarah Gregg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/88013456/square.jpg",
+      "original_dimensions": {
+        "height": 800,
+        "width": 533
+      },
+      "flags": [],
+      "attribution_name": "Sarah Gregg",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/88013456/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/88013456/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 5,
+    "observations_count": 95760,
+    "photos_locked": false,
+    "universal_search_rank": 95760,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Melilotus_albus",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "White Sweetclover"
+  }
+}

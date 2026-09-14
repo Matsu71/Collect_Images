@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-395244167",
+  "targetId": "inat-taxon-163682",
+  "scientificName": "Heracleum sphondylium",
+  "nameJa": "ハナウド（広義）",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:19:15+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:19:15+00:00",
+  "files": {
+    "master": "images/heracleum-sphondylium/inat-395244167.jpg",
+    "web": "images/heracleum-sphondylium/inat-395244167.webp",
+    "thumbnail": "images/heracleum-sphondylium/inat-395244167-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 659635,
+    "web": 182788,
+    "thumbnail": 15150
+  },
+  "sha256": {
+    "download": "ffb4ec4ce196df8c14d59888f51a3112995bdbda3d3b4561486005d929724505",
+    "master": "56e6693e0fd15174c2a84fc97a9079b03055cbd6fc8fd84eb2e6d3cfd704b81f",
+    "web": "15a1388401d2343452d1ab1a17b0589f756399f7f344c97c820bd9941c570e4b"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Heracleum sphondylium [Heracleum sphondylium] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/395244167. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Heracleum sphondylium",
+  "sourceId": "395244167",
+  "photoUrl": "https://www.inaturalist.org/photos/395244167",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/395244167/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/395244167/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 163682,
+  "acceptedScientificName": "Heracleum sphondylium",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/223087929",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 395244167,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/395244167/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48700/48699/790553/790594/53095",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48700,48699,790553,790594,53095,163682",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 163682,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 53095,
+    "name": "Heracleum sphondylium",
+    "rank": "species",
+    "extinct": false,
+    "id": 163682,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48700,
+      48699,
+      790553,
+      790594,
+      53095,
+      163682
+    ],
+    "provisional": false,
+    "created_at": "2012-10-22T21:48:20+00:00",
+    "default_photo": {
+      "id": 298976196,
+      "license_code": null,
+      "attribution": "(c) msundue, all rights reserved, uploaded by msundue",
+      "url": "https://static.inaturalist.org/photos/298976196/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "msundue",
+      "square_url": "https://static.inaturalist.org/photos/298976196/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/298976196/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 55909,
+    "photos_locked": false,
+    "universal_search_rank": 55909,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Heracleum_sphondylium",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "hogweed"
+  }
+}

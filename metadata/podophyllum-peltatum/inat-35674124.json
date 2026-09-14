@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-35674124",
+  "targetId": "inat-taxon-49288",
+  "scientificName": "Podophyllum peltatum",
+  "nameJa": "アメリカミヤオソウ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:18:17+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:18:17+00:00",
+  "files": {
+    "master": "images/podophyllum-peltatum/inat-35674124.jpg",
+    "web": "images/podophyllum-peltatum/inat-35674124.webp",
+    "thumbnail": "images/podophyllum-peltatum/inat-35674124-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 405383,
+    "web": 88566,
+    "thumbnail": 10990
+  },
+  "sha256": {
+    "download": "da5153d0c14c0c6ef9988639d0b54a84c9ec6835e8021f198262618b52ef1261",
+    "master": "e28984cf228b66d30923661cca4d654fd21cb60f31e24fcfe13a92780b1a86b1",
+    "web": "5a5fee3d1c7a966030164c7712f55c1918bbf2f29005c2dc4e86caa778bb0c90"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Podophyllum peltatum [Podophyllum peltatum] — mefisher / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/35674124. Original attribution: no rights reserved, uploaded by mefisher. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Podophyllum peltatum",
+  "sourceId": "35674124",
+  "photoUrl": "https://www.inaturalist.org/photos/35674124",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35674124/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35674124/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "mefisher",
+  "originalAttribution": "no rights reserved, uploaded by mefisher",
+  "taxonId": 49288,
+  "acceptedScientificName": "Podophyllum peltatum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 13.194285714285714,
+  "photoApiEvidence": {
+    "id": 35674124,
+    "license_code": "cc0",
+    "attribution": "no rights reserved, uploaded by mefisher",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35674124/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "mefisher",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35674124/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35674124/medium.jpg"
+  },
+  "observationTaxon": null
+}

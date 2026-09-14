@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-252269472",
+  "targetId": "inat-taxon-81923",
+  "scientificName": "Halyomorpha halys",
+  "nameJa": "クサギカメムシ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:19:12+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:19:12+00:00",
+  "files": {
+    "master": "images/halyomorpha-halys/inat-252269472.jpg",
+    "web": "images/halyomorpha-halys/inat-252269472.webp",
+    "thumbnail": "images/halyomorpha-halys/inat-252269472-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1494,
+      1992
+    ],
+    "master": [
+      1494,
+      1992
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 441246,
+    "web": 123420,
+    "thumbnail": 7306
+  },
+  "sha256": {
+    "download": "30b82208120015eb533bb1ba715b81143f1dec353549b611576cc205526ee6a4",
+    "master": "b8d96079787df819934ab54b9a8dcc301e54b49abd8a28ebcec7dbb90bf8cd5a",
+    "web": "2e21efdb121c439bf0976cf816a2fe16d4325b7b8a97382e6b79c30b86333464"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Halyomorpha halys [Halyomorpha halys] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/252269472. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Halyomorpha halys",
+  "sourceId": "252269472",
+  "photoUrl": "https://www.inaturalist.org/photos/252269472",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/252269472/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/252269472/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 81923,
+  "acceptedScientificName": "Halyomorpha halys",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/146696385",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.800952380952381,
+  "photoApiEvidence": {
+    "id": 252269472,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1494,
+      "height": 1992
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/252269472/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47744/61267/372868/47743/47742/51276/528234/81924",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47744,61267,372868,47743,47742,51276,528234,81924,81923",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 81923,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 81924,
+    "name": "Halyomorpha halys",
+    "rank": "species",
+    "extinct": false,
+    "id": 81923,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47744,
+      61267,
+      372868,
+      47743,
+      47742,
+      51276,
+      528234,
+      81924,
+      81923
+    ],
+    "created_at": "2011-05-27T16:11:06+00:00",
+    "default_photo": {
+      "id": 251561287,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Konrad Zobel, some rights reserved (CC BY-NC-ND), uploaded by Konrad Zobel",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251561287/square.jpeg",
+      "original_dimensions": {
+        "height": 1638,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Konrad Zobel",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251561287/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251561287/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 2,
+    "observations_count": 127223,
+    "photos_locked": false,
+    "universal_search_rank": 127223,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 85769,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brown_marmorated_stink_bug",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Brown Marmorated Stink Bug"
+  }
+}

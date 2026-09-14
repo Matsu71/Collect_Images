@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-139346819",
+  "targetId": "inat-taxon-50298",
+  "scientificName": "Fragaria vesca",
+  "nameJa": "エゾヘビイチゴ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:19:25+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:19:25+00:00",
+  "files": {
+    "master": "images/fragaria-vesca/inat-139346819.jpg",
+    "web": "images/fragaria-vesca/inat-139346819.webp",
+    "thumbnail": "images/fragaria-vesca/inat-139346819-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 678908,
+    "web": 137772,
+    "thumbnail": 10048
+  },
+  "sha256": {
+    "download": "458af7d31bfcbc3af6e48506306fd25a4fb004027edd79685fb671b43930432a",
+    "master": "e6035540941935bfe9f0de9adfd8f54d54103b6d54b31c2bceca8ccd6fd40233",
+    "web": "e0a2529e92b5eb0df9bdeffe85a361835c1374fb3f6540643ea7fbdcc7185d10"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Fragaria vesca [Fragaria vesca] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/139346819. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Fragaria vesca",
+  "sourceId": "139346819",
+  "photoUrl": "https://www.inaturalist.org/photos/139346819",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/139346819/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/139346819/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 50298,
+  "acceptedScientificName": "Fragaria vesca",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/84762208",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 139346819,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/139346819/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47132/47148/415343/885411/975959/50299/50298",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47132,47148,415343,885411,975959,50299,50298",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 50298,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": true,
+    "parent_id": 50298,
+    "name": "Fragaria vesca americana",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 126801,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47132,
+      47148,
+      415343,
+      885411,
+      975959,
+      50299,
+      50298,
+      126801
+    ],
+    "provisional": false,
+    "created_at": "2012-04-07T23:15:21+00:00",
+    "default_photo": {
+      "id": 82821145,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Sean Blaney, some rights reserved (CC BY-NC), uploaded by Sean Blaney",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82821145/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Sean Blaney",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82821145/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82821145/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 2,
+    "observations_count": 227,
+    "photos_locked": false,
+    "universal_search_rank": 227,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "American woodland strawberry"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-8717084",
+  "targetId": "inat-taxon-9135",
+  "scientificName": "Spizella passerina",
+  "nameJa": "チャガシラヒメドリ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:18:07+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:18:07+00:00",
+  "files": {
+    "master": "images/spizella-passerina/inat-8717084.jpg",
+    "web": "images/spizella-passerina/inat-8717084.webp",
+    "thumbnail": "images/spizella-passerina/inat-8717084-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1257
+    ],
+    "master": [
+      2048,
+      1257
+    ],
+    "web": [
+      1400,
+      859
+    ]
+  },
+  "bytes": {
+    "master": 414738,
+    "web": 76692,
+    "thumbnail": 7210
+  },
+  "sha256": {
+    "download": "c6b1418b9129eefd7f5f18810d91a63dd84b1b8e27d4dc0f540a98ee7ab06f50",
+    "master": "5e2e4eab82d9abf1588ce81b53c0968057653aa4dfd0b42ba6c5319334dae0e3",
+    "web": "1bd8d899b05fe3cc0e7a3728bde32a822313af22d07cc57ad21632ce6b4d5c12"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Spizella passerina [Spizella passerina] — Shirley Zundell / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/8717084. Original attribution: (c) Shirley Zundell, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Spizella passerina",
+  "sourceId": "8717084",
+  "photoUrl": "https://www.inaturalist.org/photos/8717084",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8717084/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8717084/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Shirley Zundell",
+  "originalAttribution": "(c) Shirley Zundell, some rights reserved (CC BY)",
+  "taxonId": 9135,
+  "acceptedScientificName": "Spizella passerina",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/6843333",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.795714285714286,
+  "photoApiEvidence": {
+    "id": 8717084,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1257
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8717084/square.jpeg",
+    "attribution": "(c) Shirley Zundell, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/559248/9132",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,559248,9132,9135",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 9135,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 9132,
+    "name": "Spizella passerina",
+    "rank": "species",
+    "extinct": false,
+    "id": 9135,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      559248,
+      9132,
+      9135
+    ],
+    "provisional": false,
+    "created_at": "2008-03-13T03:00:10+00:00",
+    "default_photo": {
+      "id": 273251789,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Weston Barker, some rights reserved (CC BY-NC), uploaded by Weston Barker",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/273251789/square.jpg",
+      "original_dimensions": {
+        "height": 1297,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Weston Barker",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/273251789/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/273251789/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 129927,
+    "photos_locked": false,
+    "universal_search_rank": 129927,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Chipping_sparrow",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Chipping Sparrow"
+  }
+}

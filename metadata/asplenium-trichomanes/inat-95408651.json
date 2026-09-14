@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-95408651",
+  "targetId": "inat-taxon-75609",
+  "scientificName": "Asplenium trichomanes",
+  "nameJa": "チャセンシダ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:18:58+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:18:58+00:00",
+  "files": {
+    "master": "images/asplenium-trichomanes/inat-95408651.jpg",
+    "web": "images/asplenium-trichomanes/inat-95408651.webp",
+    "thumbnail": "images/asplenium-trichomanes/inat-95408651-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1365,
+      2048
+    ],
+    "master": [
+      1365,
+      2048
+    ],
+    "web": [
+      933,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 929411,
+    "web": 206634,
+    "thumbnail": 19790
+  },
+  "sha256": {
+    "download": "22d2d837bb47b07f18a8be510818ac9ead4c3d373dd1f89b3479d1d71e89acb1",
+    "master": "a49dd5de6bd05b8b7fab8f4a64864eff562d24dd9539a9b2af866e58599a76f0",
+    "web": "8c0e768841520b08c3e7824a602004a8d0acf174a020c1efac14d1a9f0139e4b"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Asplenium trichomanes [Asplenium trichomanes] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/95408651. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Asplenium trichomanes",
+  "sourceId": "95408651",
+  "photoUrl": "https://www.inaturalist.org/photos/95408651",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/95408651/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/95408651/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 75609,
+  "acceptedScientificName": "Asplenium trichomanes",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/59701895",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.616666666666667,
+  "photoApiEvidence": {
+    "id": 95408651,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95408651/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/121943/764796/47754/1224540/64662/71992",
+    "min_species_ancestry": "48460,47126,211194,121943,764796,47754,1224540,64662,71992,75609",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 75609,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 71992,
+    "name": "Asplenium trichomanes",
+    "rank": "species",
+    "extinct": false,
+    "id": 75609,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      121943,
+      764796,
+      47754,
+      1224540,
+      64662,
+      71992,
+      75609
+    ],
+    "provisional": false,
+    "created_at": "2011-05-13T21:37:56+00:00",
+    "default_photo": {
+      "id": 511602695,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) David Claro, some rights reserved (CC BY-NC), uploaded by David Claro",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511602695/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "David Claro",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511602695/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511602695/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 6,
+    "observations_count": 61227,
+    "photos_locked": false,
+    "universal_search_rank": 61227,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Asplenium_trichomanes",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "maidenhair spleenwort"
+  }
+}

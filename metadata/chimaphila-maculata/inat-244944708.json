@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-244944708",
+  "targetId": "inat-taxon-82358",
+  "scientificName": "Chimaphila maculata",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:18:05+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:18:05+00:00",
+  "files": {
+    "master": "images/chimaphila-maculata/inat-244944708.jpg",
+    "web": "images/chimaphila-maculata/inat-244944708.webp",
+    "thumbnail": "images/chimaphila-maculata/inat-244944708-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1371
+    ],
+    "master": [
+      2048,
+      1371
+    ],
+    "web": [
+      1400,
+      937
+    ]
+  },
+  "bytes": {
+    "master": 616135,
+    "web": 138214,
+    "thumbnail": 17378
+  },
+  "sha256": {
+    "download": "bd519df0b6cf712b2200304461f4b1b085789e94a655db8e84b305ecbb033be5",
+    "master": "7061d81ec9a83116bcddf29f55fd6c262a841d6e0c3b02a9c8910e58869ebab2",
+    "web": "cc22b3b3bf157ab484a86adc5f5211d69d989a5479f448bd583c5ed10aece466"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Chimaphila maculata [Chimaphila maculata] — Douglas Goldman / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/244944708. Original attribution: (c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Chimaphila maculata",
+  "sourceId": "244944708",
+  "photoUrl": "https://www.inaturalist.org/photos/244944708",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/244944708/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/244944708/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Douglas Goldman",
+  "originalAttribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+  "taxonId": 82358,
+  "acceptedScientificName": "Chimaphila maculata",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 9.958571428571428,
+  "photoApiEvidence": {
+    "id": 244944708,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244944708/square.jpg",
+    "original_dimensions": {
+      "height": 1371,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Douglas Goldman",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244944708/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244944708/medium.jpg"
+  },
+  "observationTaxon": null
+}

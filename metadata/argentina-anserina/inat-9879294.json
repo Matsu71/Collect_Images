@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-9879294",
+  "targetId": "inat-taxon-158615",
+  "scientificName": "Argentina anserina",
+  "nameJa": "トウツルキンバイ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:19:35+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:19:35+00:00",
+  "files": {
+    "master": "images/argentina-anserina/inat-9879294.jpg",
+    "web": "images/argentina-anserina/inat-9879294.webp",
+    "thumbnail": "images/argentina-anserina/inat-9879294-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1768,
+      1768
+    ],
+    "master": [
+      1768,
+      1768
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1419936,
+    "web": 383660,
+    "thumbnail": 33038
+  },
+  "sha256": {
+    "download": "31bf5dc1c4d4daffa123ecdc6a09817c92ec7d931503a0dd8ea90fa6e6cdc723",
+    "master": "a12104415575bb0c1bdc037c20fd6a9b5d4eccb4d2ad36dbd1d65a8291615777",
+    "web": "056f72d3fd697c9ca59fff4c03d3bfbb38b43018fb83a6a20c4bdcf07bceeca1"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Argentina anserina [Argentina anserina] — Mary Krieger / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/9879294. Original attribution: (c) Mary Krieger, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Argentina anserina",
+  "sourceId": "9879294",
+  "photoUrl": "https://www.inaturalist.org/photos/9879294",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9879294/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9879294/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Mary Krieger",
+  "originalAttribution": "(c) Mary Krieger, some rights reserved (CC BY)",
+  "taxonId": 158615,
+  "acceptedScientificName": "Argentina anserina",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/7566347",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.192380952380953,
+  "photoApiEvidence": {
+    "id": 9879294,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1768,
+      "height": 1768
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9879294/square.jpg",
+    "attribution": "(c) Mary Krieger, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47132/47148/415343/885411/975960/156879",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47132,47148,415343,885411,975960,156879,158615",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 158615,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 156879,
+    "name": "Argentina anserina",
+    "rank": "species",
+    "extinct": false,
+    "id": 158615,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47132,
+      47148,
+      415343,
+      885411,
+      975960,
+      156879,
+      158615
+    ],
+    "created_at": "2012-10-22T20:38:08+00:00",
+    "default_photo": {
+      "id": 43334473,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Zdeňka Nováková, some rights reserved (CC BY-NC), uploaded by Zdeňka Nováková",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/43334473/square.jpeg",
+      "original_dimensions": {
+        "height": 1024,
+        "width": 768
+      },
+      "flags": [],
+      "attribution_name": "Zdeňka Nováková",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/43334473/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/43334473/medium.jpeg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 1,
+    "observations_count": 65541,
+    "photos_locked": false,
+    "universal_search_rank": 65541,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Argentina_anserina",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "common silverweed"
+  }
+}

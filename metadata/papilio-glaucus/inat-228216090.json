@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-228216090",
+  "targetId": "inat-taxon-60551",
+  "scientificName": "Papilio glaucus",
+  "nameJa": "メスグロトラフアゲハ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:18:34+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:18:34+00:00",
+  "files": {
+    "master": "images/papilio-glaucus/inat-228216090.jpg",
+    "web": "images/papilio-glaucus/inat-228216090.webp",
+    "thumbnail": "images/papilio-glaucus/inat-228216090-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 782165,
+    "web": 177038,
+    "thumbnail": 30870
+  },
+  "sha256": {
+    "download": "ccd6e3397c2da4486e6ebf68f6a68b9b0ad23cb6c9e66ef720513cfc1eaab22f",
+    "master": "6fa56216bfae76a46d88235381a441b372babcd74fecf152759e3903643873d3",
+    "web": "c07639b08ab835dad6d1247d09fad8b028af35e6cbe246311d82228c887de56e"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Papilio glaucus [Papilio glaucus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/228216090. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Papilio glaucus",
+  "sourceId": "228216090",
+  "photoUrl": "https://www.inaturalist.org/photos/228216090",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/228216090/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/228216090/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 60551,
+  "acceptedScientificName": "Papilio glaucus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/133937446",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.86095238095238,
+  "photoApiEvidence": {
+    "id": 228216090,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/228216090/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47157/47224/47223/49973/207785/47225/545186/1613196",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47157,47224,47223,49973,207785,47225,545186,1613196,60551",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 60551,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1613196,
+    "name": "Papilio glaucus",
+    "rank": "species",
+    "extinct": false,
+    "id": 60551,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47157,
+      47224,
+      47223,
+      49973,
+      207785,
+      47225,
+      545186,
+      1613196,
+      60551
+    ],
+    "created_at": "2010-05-15T00:28:04+00:00",
+    "default_photo": {
+      "id": 147896974,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) David Alan Rogers, some rights reserved (CC BY-NC), uploaded by David Alan Rogers",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147896974/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "David Alan Rogers",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147896974/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147896974/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 2,
+    "observations_count": 172249,
+    "photos_locked": false,
+    "universal_search_rank": 172249,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 2196,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Papilio_glaucus",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Eastern Tiger Swallowtail"
+  }
+}

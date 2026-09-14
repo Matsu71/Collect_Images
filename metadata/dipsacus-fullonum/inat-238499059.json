@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-238499059",
+  "targetId": "inat-taxon-56002",
+  "scientificName": "Dipsacus fullonum",
+  "nameJa": "オニナベナ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:18:52+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:18:52+00:00",
+  "files": {
+    "master": "images/dipsacus-fullonum/inat-238499059.jpg",
+    "web": "images/dipsacus-fullonum/inat-238499059.webp",
+    "thumbnail": "images/dipsacus-fullonum/inat-238499059-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1571
+    ],
+    "master": [
+      2048,
+      1571
+    ],
+    "web": [
+      1400,
+      1074
+    ]
+  },
+  "bytes": {
+    "master": 578610,
+    "web": 132800,
+    "thumbnail": 15024
+  },
+  "sha256": {
+    "download": "f0e2e75e2e2ec3abd637ebac4abaded94cfd0a58d6f42d264b7fd32aed2a9977",
+    "master": "b301e3ff276d13a76632cc66b7e152bc637beb7a9a0ae0b3d97957121fddfc68",
+    "web": "d6375acdf3a221cb252699163b47ce4dd85354365212ed3228e95b49d5669961"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Dipsacus fullonum [Dipsacus fullonum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/238499059. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Dipsacus fullonum",
+  "sourceId": "238499059",
+  "photoUrl": "https://www.inaturalist.org/photos/238499059",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/238499059/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/238499059/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 56002,
+  "acceptedScientificName": "Dipsacus fullonum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/139442338",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.577619047619048,
+  "photoApiEvidence": {
+    "id": 238499059,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1571
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/238499059/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48526/48527/345608/53030",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48526,48527,345608,53030,56002",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 56002,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 53030,
+    "name": "Dipsacus fullonum",
+    "rank": "species",
+    "extinct": false,
+    "id": 56002,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48526,
+      48527,
+      345608,
+      53030,
+      56002
+    ],
+    "provisional": false,
+    "created_at": "2010-02-14T15:18:37+00:00",
+    "default_photo": {
+      "id": 4385824,
+      "license_code": null,
+      "attribution": "(c) BJ Stacey, all rights reserved",
+      "url": "https://static.inaturalist.org/photos/4385824/square.jpg",
+      "original_dimensions": {
+        "height": 1367,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "BJ Stacey",
+      "square_url": "https://static.inaturalist.org/photos/4385824/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/4385824/medium.jpg"
+    },
+    "taxon_changes_count": 3,
+    "taxon_schemes_count": 5,
+    "observations_count": 82530,
+    "photos_locked": false,
+    "universal_search_rank": 82530,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Dipsacus_fullonum",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "wild teasel"
+  }
+}
