@@ -39,13 +39,18 @@ jobs:
       - run: pip install 'requests>=2.32,<3' 'Pillow>=11,<13'
       - name: Collect new candidates or save explicitly reviewed photographs
         run: |
-          python -m py_compile curation/round2_photos.py
+          python -m py_compile curation/round2_photos.py curation/finalize_round2.py
           if [ -f reviews/round2-decisions-20260914.json ]; then
             git sparse-checkout disable
             python -u curation/round2_photos.py adopt
             python -u curation/round2_photos.py rebuild
+            python -u curation/finalize_round2.py
             python tools/export_collection.py --output "$RUNNER_TEMP/round2-portable"
             python tools/build_export_gallery.py "$RUNNER_TEMP/round2-portable"
+            cp reports/curation-status.json "$RUNNER_TEMP/round2-portable/collection-status.json"
+            cp reports/continuation-round2-20260914.json "$RUNNER_TEMP/round2-portable/collection-progress.json"
+            cp reports/round2-validation.json "$RUNNER_TEMP/round2-portable/validation.json"
+            git rev-parse HEAD > "$RUNNER_TEMP/round2-portable/source-code-commit.txt"
           elif [ ! -f batches/gaps-round2-20260914/candidates.json ]; then
             python -u curation/round2_photos.py gather
           else
@@ -59,13 +64,16 @@ jobs:
           git add --sparse batches/gaps-round2-20260914 reference/metadata reports/ README.md
           if [ -d reference/images ]; then git add reference/images collection; fi
           if ! git diff --cached --quiet; then
-            git commit -m 'Save round-2 photo assets and review evidence [skip ci]'
+            git commit -m 'Save visually selected round-2 photo files, verified credits and measured coverage [skip ci]'
             pushed=false
             for attempt in 1 2 3 4 5; do
               if git pull --rebase origin main && git push origin HEAD:main; then pushed=true; break; fi
               sleep $((attempt * 5))
             done
             test "$pushed" = true
+          fi
+          if [ -d "$RUNNER_TEMP/round2-portable" ]; then
+            git rev-parse HEAD > "$RUNNER_TEMP/round2-portable/source-commit.txt"
           fi
       - uses: actions/upload-artifact@v4
         if: always()
@@ -79,6 +87,7 @@ jobs:
             batches/gaps-round2-20260914/adoption.json
             reports/continuation-round2-20260914.json
             reports/curation-status.json
+            reports/round2-validation.json
           retention-days: 7
       - uses: actions/upload-artifact@v4
         if: success()
