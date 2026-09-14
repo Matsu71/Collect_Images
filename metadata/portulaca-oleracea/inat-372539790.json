@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-372539790",
+  "targetId": "inat-taxon-58991",
+  "scientificName": "Portulaca oleracea",
+  "nameJa": "スベリヒユ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:20:38+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:20:38+00:00",
+  "files": {
+    "master": "images/portulaca-oleracea/inat-372539790.jpg",
+    "web": "images/portulaca-oleracea/inat-372539790.webp",
+    "thumbnail": "images/portulaca-oleracea/inat-372539790-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1022952,
+    "web": 195776,
+    "thumbnail": 25824
+  },
+  "sha256": {
+    "download": "49d201a56f9c9568b772d3fc558253d71d753e5b201f73a7b933856b0fbf396f",
+    "master": "728b2daf897790b038148b243d917b41fbb253c9178a7a09e118b388d8c5f6d3",
+    "web": "8e6fdc2663317ae819fe45a2de6a36c51557d1ef2a530653d1d413576d0d8fce"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Portulaca oleracea [Portulaca oleracea] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/372539790. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Portulaca oleracea",
+  "sourceId": "372539790",
+  "photoUrl": "https://www.inaturalist.org/photos/372539790",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/372539790/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/372539790/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 58991,
+  "acceptedScientificName": "Portulaca oleracea",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/210634425",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.259047619047617,
+  "photoApiEvidence": {
+    "id": 372539790,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/372539790/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47366/47365/58992/1571188",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47366,47365,58992,1571188,58991",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 58991,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1571188,
+    "name": "Portulaca oleracea",
+    "rank": "species",
+    "extinct": false,
+    "id": 58991,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47366,
+      47365,
+      58992,
+      1571188,
+      58991
+    ],
+    "created_at": "2010-04-02T06:18:23+00:00",
+    "default_photo": {
+      "id": 157729445,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Pierre Corbrion, some rights reserved (CC BY-NC-SA), uploaded by Pierre Corbrion",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157729445/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Pierre Corbrion",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157729445/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157729445/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 76447,
+    "photos_locked": false,
+    "universal_search_rank": 76447,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 2
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Portulaca_oleracea",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Common Purslane"
+  }
+}

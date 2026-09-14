@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-523928837",
+  "targetId": "inat-taxon-36514",
+  "scientificName": "Anolis carolinensis",
+  "nameJa": "グリーンアノール",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:20:07+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:20:07+00:00",
+  "files": {
+    "master": "images/anolis-carolinensis/inat-523928837.jpg",
+    "web": "images/anolis-carolinensis/inat-523928837.webp",
+    "thumbnail": "images/anolis-carolinensis/inat-523928837-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 526730,
+    "web": 107776,
+    "thumbnail": 12558
+  },
+  "sha256": {
+    "download": "f2b3aca73468ee1a57163f3bf80a98bf35056d5b213eae216bcbbfd2b9023a6b",
+    "master": "9602fed703aa5a21f32ffd260d1051d1209f15572563b36fdafefd3737eaad60",
+    "web": "aab269c918c38ee48d50f7fc745d39d354c8c7e50269b7deec88fda83647acd9"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Anolis carolinensis [Anolis carolinensis] — Texas Bird Family / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/523928837. Original attribution: (c) Texas Bird Family, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Anolis carolinensis",
+  "sourceId": "523928837",
+  "photoUrl": "https://www.inaturalist.org/photos/523928837",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/523928837/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/523928837/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Texas Bird Family",
+  "originalAttribution": "(c) Texas Bird Family, some rights reserved (CC BY)",
+  "taxonId": 36514,
+  "acceptedScientificName": "Anolis carolinensis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": "https://www.inaturalist.org/observations/291209300",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.194285714285714,
+  "photoApiEvidence": {
+    "id": 523928837,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523928837/square.jpg",
+    "attribution": "(c) Texas Bird Family, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/26172/85552/1563907/1567779/200152/36362",
+    "min_species_ancestry": "48460,1,2,355675,26036,26172,85552,1563907,1567779,200152,36362,36514",
+    "endemic": false,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 36514,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 36362,
+    "name": "Anolis carolinensis",
+    "rank": "species",
+    "extinct": false,
+    "id": 36514,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      26172,
+      85552,
+      1563907,
+      1567779,
+      200152,
+      36362,
+      36514
+    ],
+    "created_at": "2008-03-18T02:39:03+00:00",
+    "default_photo": {
+      "id": 2626904,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Roberto R. Calderón, some rights reserved (CC BY-NC), uploaded by Roberto R. Calderón",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2626904/square.jpg",
+      "original_dimensions": {
+        "height": 761,
+        "width": 1000
+      },
+      "flags": [],
+      "attribution_name": "Roberto R. Calderón",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2626904/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2626904/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 6,
+    "observations_count": 151397,
+    "photos_locked": false,
+    "universal_search_rank": 151397,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 2,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Carolina_anole",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "Green Anole"
+  }
+}

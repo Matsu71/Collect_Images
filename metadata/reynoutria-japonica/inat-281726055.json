@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-281726055",
+  "targetId": "inat-taxon-914922",
+  "scientificName": "Reynoutria japonica",
+  "nameJa": "イタドリ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:20:07+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:20:07+00:00",
+  "files": {
+    "master": "images/reynoutria-japonica/inat-281726055.jpg",
+    "web": "images/reynoutria-japonica/inat-281726055.webp",
+    "thumbnail": "images/reynoutria-japonica/inat-281726055-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1542,
+      2048
+    ],
+    "master": [
+      1542,
+      2048
+    ],
+    "web": [
+      1054,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 401911,
+    "web": 72756,
+    "thumbnail": 6096
+  },
+  "sha256": {
+    "download": "669928ea59caa3ed7e0e4422206b61f8d567675e5a4d2458da2412bfaa0acd5e",
+    "master": "d7bc4de4a9fa40a205416d959df9e3ee3a005af942a093600ae5baa979ac35e4",
+    "web": "827443a5da1c54cacd20805557150fa62edbe843f52ee8b6f060140ea3edb899"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Reynoutria japonica [Reynoutria japonica] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/281726055. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Reynoutria japonica",
+  "sourceId": "281726055",
+  "photoUrl": "https://www.inaturalist.org/photos/281726055",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/281726055/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/281726055/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 914922,
+  "acceptedScientificName": "Reynoutria japonica",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/162913738",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.536190476190476,
+  "photoApiEvidence": {
+    "id": 281726055,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1542,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/281726055/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47366/48382/922206/922238/922240/379255",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47366,48382,922206,922238,922240,379255,914922",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 914922,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 379255,
+    "name": "Reynoutria japonica",
+    "rank": "species",
+    "extinct": false,
+    "id": 914922,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47366,
+      48382,
+      922206,
+      922238,
+      922240,
+      379255,
+      914922
+    ],
+    "provisional": false,
+    "created_at": "2019-07-30T17:17:59+00:00",
+    "default_photo": {
+      "id": 74418856,
+      "license_code": "pd",
+      "attribution": "AnRo0002, no known copyright restrictions (public domain)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/74418856/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "AnRo0002",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/74418856/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/74418856/medium.jpg"
+    },
+    "taxon_changes_count": 3,
+    "taxon_schemes_count": 1,
+    "observations_count": 96380,
+    "photos_locked": false,
+    "universal_search_rank": 96380,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Reynoutria_japonica",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Japanese knotweed"
+  }
+}

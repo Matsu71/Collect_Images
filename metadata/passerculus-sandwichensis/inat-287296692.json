@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-287296692",
+  "targetId": "inat-taxon-9981",
+  "scientificName": "Passerculus sandwichensis",
+  "nameJa": "クサチヒメドリ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:12+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:12+00:00",
+  "files": {
+    "master": "images/passerculus-sandwichensis/inat-287296692.jpg",
+    "web": "images/passerculus-sandwichensis/inat-287296692.webp",
+    "thumbnail": "images/passerculus-sandwichensis/inat-287296692-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 168904,
+    "web": 35366,
+    "thumbnail": 3890
+  },
+  "sha256": {
+    "download": "195443dbccd953447b3d5b624688a96ce27c029518fe7f377411f5dd3b432d33",
+    "master": "4c52f63819ee9c7c3a9546bd8f3f3512894892897dbfba176c68bd7d7ee58329",
+    "web": "156ef57f3ae1860f3eeb6f1bb5898144b2942cdd280da3963c6d332e8e4c40d9"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Passerculus sandwichensis [Passerculus sandwichensis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/287296692. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Passerculus sandwichensis",
+  "sourceId": "287296692",
+  "photoUrl": "https://www.inaturalist.org/photos/287296692",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/287296692/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/287296692/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 9981,
+  "acceptedScientificName": "Passerculus sandwichensis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/165939268",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.616666666666667,
+  "photoApiEvidence": {
+    "id": 287296692,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/287296692/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/559248/9980",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,559248,9980,9981",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 9981,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 9980,
+    "name": "Passerculus sandwichensis",
+    "rank": "species",
+    "extinct": false,
+    "id": 9981,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      559248,
+      9980,
+      9981
+    ],
+    "provisional": false,
+    "created_at": "2008-03-13T03:03:24+00:00",
+    "default_photo": {
+      "id": 110795333,
+      "license_code": null,
+      "attribution": "(c) Juan Miguel Artigas Azas, all rights reserved, uploaded by Juan Miguel Artigas Azas",
+      "url": "https://static.inaturalist.org/photos/110795333/square.jpg",
+      "original_dimensions": {
+        "height": 800,
+        "width": 1200
+      },
+      "flags": [],
+      "attribution_name": "Juan Miguel Artigas Azas",
+      "square_url": "https://static.inaturalist.org/photos/110795333/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/110795333/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 83347,
+    "photos_locked": false,
+    "universal_search_rank": 83347,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Savannah_sparrow",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Savannah Sparrow"
+  }
+}

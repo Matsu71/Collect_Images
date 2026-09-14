@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-8717158",
+  "targetId": "inat-taxon-10373",
+  "scientificName": "Molothrus ater",
+  "nameJa": "コウウチョウ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:19:58+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:19:58+00:00",
+  "files": {
+    "master": "images/molothrus-ater/inat-8717158.jpg",
+    "web": "images/molothrus-ater/inat-8717158.webp",
+    "thumbnail": "images/molothrus-ater/inat-8717158-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1952,
+      2027
+    ],
+    "master": [
+      1952,
+      2027
+    ],
+    "web": [
+      1348,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 626054,
+    "web": 125018,
+    "thumbnail": 7570
+  },
+  "sha256": {
+    "download": "8cccd488ea0d7a34f0242f95d5541560171ec78a55915a1b4885c1a44d712217",
+    "master": "ca754b4df8b33c2a4775b62734577ee0e081caa08245926f5a35c0a953b2e22e",
+    "web": "28d6924cf6bef89e7048eb113137e73daed01d70d781805a4cbc0d0391b3ad71"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Molothrus ater [Molothrus ater] — Shirley Zundell / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/8717158. Original attribution: (c) Shirley Zundell, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Molothrus ater",
+  "sourceId": "8717158",
+  "photoUrl": "https://www.inaturalist.org/photos/8717158",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8717158/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8717158/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Shirley Zundell",
+  "originalAttribution": "(c) Shirley Zundell, some rights reserved (CC BY)",
+  "taxonId": 10373,
+  "acceptedScientificName": "Molothrus ater",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/6843342",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.788571428571428,
+  "photoApiEvidence": {
+    "id": 8717158,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1952,
+      "height": 2027
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8717158/square.jpeg",
+    "attribution": "(c) Shirley Zundell, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/11989/10368",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,11989,10368,10373",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 10373,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 10368,
+    "name": "Molothrus ater",
+    "rank": "species",
+    "extinct": false,
+    "id": 10373,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      11989,
+      10368,
+      10373
+    ],
+    "created_at": "2008-03-13T03:04:53+00:00",
+    "default_photo": {
+      "id": 471179764,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471179764/square.jpg",
+      "original_dimensions": {
+        "height": 960,
+        "width": 1440
+      },
+      "flags": [],
+      "attribution_name": "Tom Murray",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471179764/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471179764/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 108687,
+    "photos_locked": false,
+    "universal_search_rank": 108687,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Brown-headed_cowbird",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Brown-headed Cowbird"
+  }
+}

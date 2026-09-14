@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-134904248",
+  "targetId": "inat-taxon-55972",
+  "scientificName": "Frangula alnus",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:22+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:22+00:00",
+  "files": {
+    "master": "images/frangula-alnus/inat-134904248.jpg",
+    "web": "images/frangula-alnus/inat-134904248.webp",
+    "thumbnail": "images/frangula-alnus/inat-134904248-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 910534,
+    "web": 174426,
+    "thumbnail": 25534
+  },
+  "sha256": {
+    "download": "af6495d8c6732ae4819084afbb048dffa07671e1f90cd5bbafaa6a3516f308d6",
+    "master": "26015e0c1c76a4fca77d5235d507d77c55c6cfd423c8b51e7cb052b4cf0de3d1",
+    "web": "52ab4fd4ea546156e333d8af0e3bd9694c0f4dd6505939b6b430ae991ff2423c"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Frangula alnus [Frangula alnus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/134904248. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Frangula alnus",
+  "sourceId": "134904248",
+  "photoUrl": "https://www.inaturalist.org/photos/134904248",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/134904248/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/134904248/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 55972,
+  "acceptedScientificName": "Frangula alnus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/82206245",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 134904248,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/134904248/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47132/49041/1256740/53424",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47132,49041,1256740,53424,55972",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 55972,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 53424,
+    "name": "Frangula alnus",
+    "rank": "species",
+    "extinct": false,
+    "id": 55972,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47132,
+      49041,
+      1256740,
+      53424,
+      55972
+    ],
+    "provisional": false,
+    "created_at": "2010-02-12T12:51:31+00:00",
+    "default_photo": {
+      "id": 313256179,
+      "license_code": null,
+      "attribution": "(c) laotriton, all rights reserved, uploaded by laotriton",
+      "url": "https://static.inaturalist.org/photos/313256179/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1152
+      },
+      "flags": [],
+      "attribution_name": "laotriton",
+      "square_url": "https://static.inaturalist.org/photos/313256179/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/313256179/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 3,
+    "observations_count": 71961,
+    "photos_locked": false,
+    "universal_search_rank": 71961,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Frangula_alnus",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "alder buckthorn"
+  }
+}

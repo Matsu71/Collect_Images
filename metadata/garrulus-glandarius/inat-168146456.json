@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-168146456",
+  "targetId": "inat-taxon-8088",
+  "scientificName": "Garrulus glandarius",
+  "nameJa": "カケス",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:22+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:22+00:00",
+  "files": {
+    "master": "images/garrulus-glandarius/inat-168146456.jpg",
+    "web": "images/garrulus-glandarius/inat-168146456.webp",
+    "thumbnail": "images/garrulus-glandarius/inat-168146456-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1440
+    ],
+    "master": [
+      2048,
+      1440
+    ],
+    "web": [
+      1400,
+      984
+    ]
+  },
+  "bytes": {
+    "master": 590410,
+    "web": 121676,
+    "thumbnail": 8470
+  },
+  "sha256": {
+    "download": "ffa11b1d9ae8cb5d68f988ca57f003e7b2072fb4aec66ec2b4f157a9d5364458",
+    "master": "e638f5c1489ddb2baf858610ff312daf89a37ae34ccb72cfc7ce59d8d0561105",
+    "web": "c37b878807acc74692830a69fb7ca4cae303a02470fff5f65e38035e2bff69e4"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Garrulus glandarius [Garrulus glandarius] — Luc Viatour / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/168146456. Original attribution: (c) Luc Viatour, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Garrulus glandarius",
+  "sourceId": "168146456",
+  "photoUrl": "https://www.inaturalist.org/photos/168146456",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/168146456/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/168146456/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Luc Viatour",
+  "originalAttribution": "(c) Luc Viatour, some rights reserved (CC BY-SA)",
+  "taxonId": 8088,
+  "acceptedScientificName": "Garrulus glandarius",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.057142857142857,
+  "photoApiEvidence": {
+    "id": 168146456,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Luc Viatour, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168146456/square.jpg",
+    "original_dimensions": {
+      "height": 1440,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Luc Viatour",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168146456/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168146456/medium.jpg"
+  },
+  "observationTaxon": null
+}

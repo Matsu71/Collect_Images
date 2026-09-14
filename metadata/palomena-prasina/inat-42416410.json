@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-42416410",
+  "targetId": "inat-taxon-62060",
+  "scientificName": "Palomena prasina",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:19:48+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:19:48+00:00",
+  "files": {
+    "master": "images/palomena-prasina/inat-42416410.jpg",
+    "web": "images/palomena-prasina/inat-42416410.webp",
+    "thumbnail": "images/palomena-prasina/inat-42416410-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 435459,
+    "web": 93084,
+    "thumbnail": 7036
+  },
+  "sha256": {
+    "download": "eeada20c490c7bceffe2407d61cc0e6a64c6657a9d09a9f6f9d0a49fe7d52623",
+    "master": "0aa1220a4ec8e299d49403c0d95cf0669c4e43f3d1df8022fc32756316a50eb9",
+    "web": "5e9372638cf479bbbaf20354f02903307b339fd3562055a5fb161788aaa74c71"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Palomena prasina [Palomena prasina] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/42416410. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Palomena prasina",
+  "sourceId": "42416410",
+  "photoUrl": "https://www.inaturalist.org/photos/42416410",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/42416410/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/42416410/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 62060,
+  "acceptedScientificName": "Palomena prasina",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/27273249",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 42416410,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/42416410/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47744/61267/372868/47743/47742/51276/712842/62061",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47744,61267,372868,47743,47742,51276,712842,62061,62060",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 62060,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 62061,
+    "name": "Palomena prasina",
+    "rank": "species",
+    "extinct": false,
+    "id": 62060,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47744,
+      61267,
+      372868,
+      47743,
+      47742,
+      51276,
+      712842,
+      62061,
+      62060
+    ],
+    "provisional": false,
+    "created_at": "2010-06-28T19:16:31+00:00",
+    "default_photo": {
+      "id": 558104784,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Christian Sørensen, some rights reserved (CC BY-NC), uploaded by Christian Sørensen",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558104784/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Christian Sørensen",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558104784/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558104784/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 1,
+    "observations_count": 74844,
+    "photos_locked": false,
+    "universal_search_rank": 74844,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Green_shield_bug",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Green Shield Bug"
+  }
+}

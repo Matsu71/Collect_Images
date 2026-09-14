@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-41228670",
+  "targetId": "inat-taxon-48586",
+  "scientificName": "Cepaea nemoralis",
+  "nameJa": "モリノオウシュウマイマイ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:19:51+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:19:51+00:00",
+  "files": {
+    "master": "images/cepaea-nemoralis/inat-41228670.jpg",
+    "web": "images/cepaea-nemoralis/inat-41228670.webp",
+    "thumbnail": "images/cepaea-nemoralis/inat-41228670-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1363
+    ],
+    "master": [
+      2048,
+      1363
+    ],
+    "web": [
+      1400,
+      932
+    ]
+  },
+  "bytes": {
+    "master": 238468,
+    "web": 35826,
+    "thumbnail": 4860
+  },
+  "sha256": {
+    "download": "47f5ca3cffc24d442097813792deb7a6f6db66cce9273a808fd2ca22cc19f779",
+    "master": "6d01cfd4e72438068a3dd6bae2ef237cdc4b8d5ce083e0529ed760eb38d32288",
+    "web": "12f179847d29db95d7b74ff98ac3914c714799101a8d0eda9f089d1e0421c4c7"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Cepaea nemoralis [Cepaea nemoralis] — Steven Bodzin / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/41228670. Original attribution: (c) Steven Bodzin, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Cepaea nemoralis",
+  "sourceId": "41228670",
+  "photoUrl": "https://www.inaturalist.org/photos/41228670",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41228670/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41228670/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Steven Bodzin",
+  "originalAttribution": "(c) Steven Bodzin, some rights reserved (CC BY)",
+  "taxonId": 48586,
+  "acceptedScientificName": "Cepaea nemoralis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mollusca",
+  "observationUrl": "https://www.inaturalist.org/observations/26548512",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.2804761904761905,
+  "photoApiEvidence": {
+    "id": 41228670,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41228670/square.jpeg",
+    "attribution": "(c) Steven Bodzin, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47115/47114/551391/775797/775800/775812/47485/781349/781352/68625/47484/906896/910283/48587",
+    "min_species_ancestry": "48460,1,47115,47114,551391,775797,775800,775812,47485,781349,781352,68625,47484,906896,910283,48587,48586",
+    "endemic": false,
+    "iconic_taxon_id": 47115,
+    "min_species_taxon_id": 48586,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 48587,
+    "name": "Cepaea nemoralis",
+    "rank": "species",
+    "extinct": false,
+    "id": 48586,
+    "ancestor_ids": [
+      48460,
+      1,
+      47115,
+      47114,
+      551391,
+      775797,
+      775800,
+      775812,
+      47485,
+      781349,
+      781352,
+      68625,
+      47484,
+      906896,
+      910283,
+      48587,
+      48586
+    ],
+    "created_at": "2008-10-11T20:28:55+00:00",
+    "default_photo": {
+      "id": 6050328,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Gary Yankech, some rights reserved (CC BY-NC-SA), uploaded by Gary Yankech",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6050328/square.jpg",
+      "original_dimensions": {
+        "height": 1962,
+        "width": 1341
+      },
+      "flags": [],
+      "attribution_name": "Gary Yankech",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6050328/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6050328/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 106250,
+    "photos_locked": false,
+    "universal_search_rank": 106250,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 18246,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Grove_snail",
+    "iconic_taxon_name": "Mollusca",
+    "preferred_common_name": "Brown-lipped Snail"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-48011428",
+  "targetId": "inat-taxon-54468",
+  "scientificName": "Aglais urticae",
+  "nameJa": "コヒオドシ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:20:30+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:20:30+00:00",
+  "files": {
+    "master": "images/aglais-urticae/inat-48011428.jpg",
+    "web": "images/aglais-urticae/inat-48011428.webp",
+    "thumbnail": "images/aglais-urticae/inat-48011428-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1535
+    ],
+    "master": [
+      2048,
+      1535
+    ],
+    "web": [
+      1400,
+      1049
+    ]
+  },
+  "bytes": {
+    "master": 609870,
+    "web": 150270,
+    "thumbnail": 11718
+  },
+  "sha256": {
+    "download": "ece9cb03c8bf1ed8762ab6b144a3e0fa0052fe11cefe5e40aa1c10d4864aa043",
+    "master": "185d4d0650aabd2586f68b086e21aaa1abfff6824a70312e68f072e973b2d180",
+    "web": "4e16712f28dfb2eb5b63b0ed165082bac2d44c708453df2544f3e410287a01dd"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Aglais urticae [Aglais urticae] — Jon Sullivan / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/48011428. Original attribution: (c) Jon Sullivan, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Aglais urticae",
+  "sourceId": "48011428",
+  "photoUrl": "https://www.inaturalist.org/photos/48011428",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48011428/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48011428/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Jon Sullivan",
+  "originalAttribution": "(c) Jon Sullivan, some rights reserved (CC BY)",
+  "taxonId": 54468,
+  "acceptedScientificName": "Aglais urticae",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/30721349",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.192857142857143,
+  "photoApiEvidence": {
+    "id": 48011428,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1535
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48011428/square.jpg",
+    "attribution": "(c) Jon Sullivan, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47157/47224/47922/202067/202066/54469",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47157,47224,47922,202067,202066,54469,54468",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 54468,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 54469,
+    "name": "Aglais urticae",
+    "rank": "species",
+    "extinct": false,
+    "id": 54468,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47157,
+      47224,
+      47922,
+      202067,
+      202066,
+      54469,
+      54468
+    ],
+    "created_at": "2009-12-01T17:01:54+00:00",
+    "default_photo": {
+      "id": 257869609,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) simben, some rights reserved (CC BY-NC-ND), uploaded by simben",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257869609/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "simben",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257869609/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257869609/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 1,
+    "observations_count": 92794,
+    "photos_locked": false,
+    "universal_search_rank": 92794,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Small_tortoiseshell",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Small Tortoiseshell"
+  }
+}

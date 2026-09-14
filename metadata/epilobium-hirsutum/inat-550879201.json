@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-550879201",
+  "targetId": "inat-taxon-84517",
+  "scientificName": "Epilobium hirsutum",
+  "nameJa": "オオアカバナ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:18+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:18+00:00",
+  "files": {
+    "master": "images/epilobium-hirsutum/inat-550879201.jpg",
+    "web": "images/epilobium-hirsutum/inat-550879201.webp",
+    "thumbnail": "images/epilobium-hirsutum/inat-550879201-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1366,
+      2048
+    ],
+    "master": [
+      1366,
+      2048
+    ],
+    "web": [
+      934,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1208332,
+    "web": 255930,
+    "thumbnail": 20304
+  },
+  "sha256": {
+    "download": "a5c1542047dc7eaed52e62080f10c18ca8da46f5a0a384dc3c397b136ac63425",
+    "master": "93ac4b98211fb1063c7a13aa2b44b44266da6871ab6b4bb469b224795abd324d",
+    "web": "1e2fb307943ab9ca2e3201c1ba86362a50f1d1cc42276f338a415b15c2bc24ad"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Epilobium hirsutum [Epilobium hirsutum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/550879201. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Epilobium hirsutum",
+  "sourceId": "550879201",
+  "photoUrl": "https://www.inaturalist.org/photos/550879201",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/550879201/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/550879201/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 84517,
+  "acceptedScientificName": "Epilobium hirsutum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/305528498",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.284761904761905,
+  "photoApiEvidence": {
+    "id": 550879201,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1366,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550879201/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47791/47790/52972/1565946",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47791,47790,52972,1565946,84517",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 84517,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1565946,
+    "name": "Epilobium hirsutum",
+    "rank": "species",
+    "extinct": false,
+    "id": 84517,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47791,
+      47790,
+      52972,
+      1565946,
+      84517
+    ],
+    "created_at": "2011-07-10T07:13:03+00:00",
+    "default_photo": {
+      "id": 83743780,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Sergey Mayorov, some rights reserved (CC BY-NC), uploaded by Sergey Mayorov",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/83743780/square.jpg",
+      "original_dimensions": {
+        "height": 1000,
+        "width": 679
+      },
+      "flags": [],
+      "attribution_name": "Sergey Mayorov",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/83743780/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/83743780/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 57619,
+    "photos_locked": false,
+    "universal_search_rank": 57619,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Epilobium_hirsutum",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Great Willowherb"
+  }
+}

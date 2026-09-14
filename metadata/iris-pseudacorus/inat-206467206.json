@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-206467206",
+  "targetId": "inat-taxon-47779",
+  "scientificName": "Iris pseudacorus",
+  "nameJa": "キショウブ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:19:53+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:19:53+00:00",
+  "files": {
+    "master": "images/iris-pseudacorus/inat-206467206.jpg",
+    "web": "images/iris-pseudacorus/inat-206467206.webp",
+    "thumbnail": "images/iris-pseudacorus/inat-206467206-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1733357,
+    "web": 374258,
+    "thumbnail": 24366
+  },
+  "sha256": {
+    "download": "a39607f73fee013fc1bc8bb34b99bafee349205b57155e00de81a7f2a1ee565f",
+    "master": "b66e5e0f27a5d540507d012ff1c9409026849b7adb2daa39b04c259e977bcbf6",
+    "web": "6ce3974955204fea3d8cf8061105ee89f4981d94b6282d09a7f3493fea747249"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Iris pseudacorus [Iris pseudacorus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/206467206. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Iris pseudacorus",
+  "sourceId": "206467206",
+  "photoUrl": "https://www.inaturalist.org/photos/206467206",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/206467206/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/206467206/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 47779,
+  "acceptedScientificName": "Iris pseudacorus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/121977853",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.259047619047617,
+  "photoApiEvidence": {
+    "id": 206467206,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/206467206/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47163/47218/47781/790617/790633/47780/1184311/1351803/1557187",
+    "min_species_ancestry": "48460,47126,211194,47125,47163,47218,47781,790617,790633,47780,1184311,1351803,1557187,47779",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 47779,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1557187,
+    "name": "Iris pseudacorus",
+    "rank": "species",
+    "extinct": false,
+    "id": 47779,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47163,
+      47218,
+      47781,
+      790617,
+      790633,
+      47780,
+      1184311,
+      1351803,
+      1557187,
+      47779
+    ],
+    "provisional": false,
+    "created_at": "2008-06-21T20:51:37+00:00",
+    "default_photo": {
+      "id": 132791736,
+      "license_code": null,
+      "attribution": "(c) Junyan Xu, all rights reserved, uploaded by Junyan Xu",
+      "url": "https://static.inaturalist.org/photos/132791736/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "Junyan Xu",
+      "square_url": "https://static.inaturalist.org/photos/132791736/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/132791736/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 6,
+    "observations_count": 85552,
+    "photos_locked": false,
+    "universal_search_rank": 85552,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Iris_pseudacorus",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Yellow Iris"
+  }
+}

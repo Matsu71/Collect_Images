@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-618535654",
+  "targetId": "inat-taxon-7018",
+  "scientificName": "Anser anser",
+  "nameJa": "ハイイロガン",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:20:31+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:20:31+00:00",
+  "files": {
+    "master": "images/anser-anser/inat-618535654.jpg",
+    "web": "images/anser-anser/inat-618535654.webp",
+    "thumbnail": "images/anser-anser/inat-618535654-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1106407,
+    "web": 152418,
+    "thumbnail": 14626
+  },
+  "sha256": {
+    "download": "11e01af93413b5375cece9f356377430c45b2422d364c385d1c50aa2f17fc386",
+    "master": "8993f4df2da4444625c6e27809ecf3c0c68012f416b0a72b9511d32fbc1c281f",
+    "web": "b2daed9634dd08ec2f7ab98dc572e0da35f4e82b22dc150197ca5c86e76dde88"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Anser anser [Anser anser] — Rhys / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/618535654. Original attribution: (c) Rhys, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Anser anser",
+  "sourceId": "618535654",
+  "photoUrl": "https://www.inaturalist.org/photos/618535654",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/618535654/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/618535654/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Rhys",
+  "originalAttribution": "(c) Rhys, some rights reserved (CC BY)",
+  "taxonId": 7018,
+  "acceptedScientificName": "Anser anser",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/339953969",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.194285714285714,
+  "photoApiEvidence": {
+    "id": 618535654,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618535654/square.jpg",
+    "attribution": "(c) Rhys, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/6888/6912/7006",
+    "min_species_ancestry": "48460,1,2,355675,3,6888,6912,7006,7018",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 7018,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 7006,
+    "name": "Anser anser",
+    "rank": "species",
+    "extinct": false,
+    "id": 7018,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      6888,
+      6912,
+      7006,
+      7018
+    ],
+    "created_at": "2008-03-13T02:53:02+00:00",
+    "default_photo": {
+      "id": 61334030,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Frans Vandewalle, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61334030/square.jpg",
+      "original_dimensions": {
+        "height": 1311,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Frans Vandewalle",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61334030/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61334030/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 8,
+    "observations_count": 102521,
+    "photos_locked": false,
+    "universal_search_rank": 102521,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 143906,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Greylag_goose",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Greylag Goose"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-24201619",
+  "targetId": "inat-taxon-47192",
+  "scientificName": "Cornus canadensis",
+  "nameJa": "ゴゼンタチバナ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:17+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:17+00:00",
+  "files": {
+    "master": "images/cornus-canadensis/inat-24201619.jpg",
+    "web": "images/cornus-canadensis/inat-24201619.webp",
+    "thumbnail": "images/cornus-canadensis/inat-24201619-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1787733,
+    "web": 460638,
+    "thumbnail": 35550
+  },
+  "sha256": {
+    "download": "06d7ef94768f4b7aaf0a88a3fba05e6079a382c27ba0eeb1406b94f8bcdfd71c",
+    "master": "f20e9e1ab65a4b6ba4241d5a18e1ed2fa8917c6fd8fcdd4ef208ce420d457be1",
+    "web": "b8973f7776be7329c6b4f1c62b3cd4bf9f6e083cc1bc7fe42557a7808ae20696"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Cornus canadensis [Cornus canadensis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/24201619. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Cornus canadensis",
+  "sourceId": "24201619",
+  "photoUrl": "https://www.inaturalist.org/photos/24201619",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24201619/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24201619/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 47192,
+  "acceptedScientificName": "Cornus canadensis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/16146395",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 24201619,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24201619/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47195/47194/47193/1296980",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47195,47194,47193,1296980,47192",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 47192,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1296980,
+    "name": "Cornus canadensis",
+    "rank": "species",
+    "extinct": false,
+    "id": 47192,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47195,
+      47194,
+      47193,
+      1296980,
+      47192
+    ],
+    "provisional": false,
+    "created_at": "2008-04-06T20:39:02+00:00",
+    "default_photo": {
+      "id": 133028168,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) rangerkelly, some rights reserved (CC BY-NC), uploaded by rangerkelly",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133028168/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "rangerkelly",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133028168/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133028168/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 3,
+    "observations_count": 70070,
+    "photos_locked": false,
+    "universal_search_rank": 70070,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cornus_canadensis",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Canadian bunchberry"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-11119533",
+  "targetId": "inat-taxon-55655",
+  "scientificName": "Lycaena phlaeas",
+  "nameJa": "ベニシジミ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:03+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:03+00:00",
+  "files": {
+    "master": "images/lycaena-phlaeas/inat-11119533.jpg",
+    "web": "images/lycaena-phlaeas/inat-11119533.webp",
+    "thumbnail": "images/lycaena-phlaeas/inat-11119533-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1634,
+      1656
+    ],
+    "master": [
+      1634,
+      1656
+    ],
+    "web": [
+      1381,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 859510,
+    "web": 194132,
+    "thumbnail": 19640
+  },
+  "sha256": {
+    "download": "f531001890ec591ddc36d05c6ac2ebc44c574e1cf8fd973efb46be3d81b60b8d",
+    "master": "b4676bb1ad3423402ad513b077b3529efa18b27974345509ec77dd0a755b5dad",
+    "web": "f60f78ab151df252463dae4f4b0e5c938d6f2e9c6dd03e0094666465b1832559"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Lycaena phlaeas [Lycaena phlaeas] — Kostas Zontanos / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/11119533. Original attribution: (c) Kostas Zontanos, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Lycaena phlaeas",
+  "sourceId": "11119533",
+  "photoUrl": "https://www.inaturalist.org/photos/11119533",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11119533/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11119533/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Kostas Zontanos",
+  "originalAttribution": "(c) Kostas Zontanos, some rights reserved (CC BY)",
+  "taxonId": 55655,
+  "acceptedScientificName": "Lycaena phlaeas",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/8364654",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.00095238095238,
+  "photoApiEvidence": {
+    "id": 11119533,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1634,
+      "height": 1656
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11119533/square.jpg",
+    "attribution": "(c) Kostas Zontanos, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47157/47224/47923/125835/125818/54010/1360268",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47157,47224,47923,125835,125818,54010,1360268,55655",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 55655,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1360268,
+    "name": "Lycaena phlaeas",
+    "rank": "species",
+    "extinct": false,
+    "id": 55655,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47157,
+      47224,
+      47923,
+      125835,
+      125818,
+      54010,
+      1360268,
+      55655
+    ],
+    "created_at": "2010-02-08T22:19:32+00:00",
+    "default_photo": {
+      "id": 9450,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) scarabaeus_58, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9450/square.jpg",
+      "original_dimensions": {
+        "height": 683,
+        "width": 1024
+      },
+      "flags": [],
+      "attribution_name": "scarabaeus_58",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9450/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9450/medium.jpg"
+    },
+    "taxon_changes_count": 3,
+    "taxon_schemes_count": 2,
+    "observations_count": 78850,
+    "photos_locked": false,
+    "universal_search_rank": 78850,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 83658,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lycaena_phlaeas",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Small Copper"
+  }
+}

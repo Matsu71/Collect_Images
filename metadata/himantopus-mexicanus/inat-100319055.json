@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-100319055",
+  "targetId": "inat-taxon-4836",
+  "scientificName": "Himantopus mexicanus",
+  "nameJa": "クロエリセイタカシギ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:20:59+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:20:59+00:00",
+  "files": {
+    "master": "images/himantopus-mexicanus/inat-100319055.jpg",
+    "web": "images/himantopus-mexicanus/inat-100319055.webp",
+    "thumbnail": "images/himantopus-mexicanus/inat-100319055-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1961
+    ],
+    "master": [
+      2048,
+      1961
+    ],
+    "web": [
+      1400,
+      1341
+    ]
+  },
+  "bytes": {
+    "master": 912169,
+    "web": 138224,
+    "thumbnail": 3702
+  },
+  "sha256": {
+    "download": "0751793b97c34161b6094396c676cc2a8647da0547f44dbc637b69805301d53a",
+    "master": "9485addddbbdbaa3d63ce9cc21953ff728b47fcacfae110dd5d855d002f39c8d",
+    "web": "0771c31e66d865a50edc2743ab206acea1e18622f97b2985a45ffaaf871739d7"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Himantopus mexicanus [Himantopus mexicanus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/100319055. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Himantopus mexicanus",
+  "sourceId": "100319055",
+  "photoUrl": "https://www.inaturalist.org/photos/100319055",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/100319055/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/100319055/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 4836,
+  "acceptedScientificName": "Himantopus mexicanus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/62596895",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.468095238095238,
+  "photoApiEvidence": {
+    "id": 100319055,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1961
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100319055/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67561/71361/4831",
+    "min_species_ancestry": "48460,1,2,355675,3,67561,71361,4831,4836",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 4836,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 4831,
+    "name": "Himantopus mexicanus",
+    "rank": "species",
+    "extinct": false,
+    "id": 4836,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67561,
+      71361,
+      4831,
+      4836
+    ],
+    "provisional": false,
+    "created_at": "2008-03-13T02:46:32+00:00",
+    "default_photo": {
+      "id": 114045609,
+      "license_code": null,
+      "attribution": "(c) Hayath Mohammed, all rights reserved, uploaded by Hayath Mohammed",
+      "url": "https://static.inaturalist.org/photos/114045609/square.jpeg",
+      "original_dimensions": {
+        "height": 824,
+        "width": 1280
+      },
+      "flags": [],
+      "attribution_name": "Hayath Mohammed",
+      "square_url": "https://static.inaturalist.org/photos/114045609/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/114045609/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 86046,
+    "photos_locked": false,
+    "universal_search_rank": 86046,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black-necked_stilt",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Black-necked Stilt"
+  }
+}

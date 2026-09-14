@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-408459425",
+  "targetId": "inat-taxon-54227",
+  "scientificName": "Fagus sylvatica",
+  "nameJa": "ヨーロッパブナ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:19:45+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:19:45+00:00",
+  "files": {
+    "master": "images/fagus-sylvatica/inat-408459425.jpg",
+    "web": "images/fagus-sylvatica/inat-408459425.webp",
+    "thumbnail": "images/fagus-sylvatica/inat-408459425-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 803106,
+    "web": 180918,
+    "thumbnail": 12588
+  },
+  "sha256": {
+    "download": "75992ff26a104708e9d05efe575971394ee850d518722a75dddc7b01c98a396d",
+    "master": "707f8b7a2324c2417e554ba8b975565a4cac794791482373744a1564261a411a",
+    "web": "03bc7c67dd5c61f1a7e0b1f3e0bc69afcf1e336db6fe58b4b0af085e4020c55a"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Fagus sylvatica [Fagus sylvatica] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/408459425. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Fagus sylvatica",
+  "sourceId": "408459425",
+  "photoUrl": "https://www.inaturalist.org/photos/408459425",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/408459425/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/408459425/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 54227,
+  "acceptedScientificName": "Fagus sylvatica",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/230066466",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.616666666666667,
+  "photoApiEvidence": {
+    "id": 408459425,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408459425/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47853/47852/49203",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47853,47852,49203,54227",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 54227,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 49203,
+    "name": "Fagus sylvatica",
+    "rank": "species",
+    "extinct": false,
+    "id": 54227,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47853,
+      47852,
+      49203,
+      54227
+    ],
+    "provisional": false,
+    "created_at": "2009-11-25T05:40:39+00:00",
+    "default_photo": {
+      "id": 199420434,
+      "license_code": null,
+      "attribution": "(c) Ross Carlin, all rights reserved, uploaded by Ross Carlin",
+      "url": "https://static.inaturalist.org/photos/199420434/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "Ross Carlin",
+      "square_url": "https://static.inaturalist.org/photos/199420434/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/199420434/medium.jpg"
+    },
+    "taxon_changes_count": 5,
+    "taxon_schemes_count": 4,
+    "observations_count": 88771,
+    "photos_locked": false,
+    "universal_search_rank": 88771,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Fagus_sylvatica",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "European beech"
+  }
+}

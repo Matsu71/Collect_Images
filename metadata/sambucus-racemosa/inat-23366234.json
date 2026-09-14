@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-23366234",
+  "targetId": "inat-taxon-57824",
+  "scientificName": "Sambucus racemosa",
+  "nameJa": "セイヨウアカミニワトコ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:02+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:02+00:00",
+  "files": {
+    "master": "images/sambucus-racemosa/inat-23366234.jpg",
+    "web": "images/sambucus-racemosa/inat-23366234.webp",
+    "thumbnail": "images/sambucus-racemosa/inat-23366234-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 794387,
+    "web": 180384,
+    "thumbnail": 16116
+  },
+  "sha256": {
+    "download": "4c5c756409103d4b0a0f9af18f78a0aae803ad67853c4327498f6852bb4a8b11",
+    "master": "7496143ff9de1185b8495803f557af4b8c6d286cd9ef3ee395d71705487e1b71",
+    "web": "d4d8fc770919d7b405f72f8e92f6a6515f27c7706d171d2a24f1dbf490e32fdb"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Sambucus racemosa [Sambucus racemosa] — neotrigonia / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/23366234. Original attribution: no rights reserved, uploaded by neotrigonia. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Sambucus racemosa",
+  "sourceId": "23366234",
+  "photoUrl": "https://www.inaturalist.org/photos/23366234",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23366234/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23366234/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "neotrigonia",
+  "originalAttribution": "no rights reserved, uploaded by neotrigonia",
+  "taxonId": 57824,
+  "acceptedScientificName": "Sambucus racemosa",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 13.194285714285714,
+  "photoApiEvidence": {
+    "id": 23366234,
+    "license_code": "cc0",
+    "attribution": "no rights reserved, uploaded by neotrigonia",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23366234/square.jpg",
+    "original_dimensions": {
+      "height": 2048,
+      "width": 1536
+    },
+    "flags": [],
+    "attribution_name": "neotrigonia",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23366234/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23366234/medium.jpg"
+  },
+  "observationTaxon": null
+}

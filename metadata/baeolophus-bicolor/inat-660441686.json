@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-660441686",
+  "targetId": "inat-taxon-13632",
+  "scientificName": "Baeolophus bicolor",
+  "nameJa": "エボシガラ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:20:18+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:20:18+00:00",
+  "files": {
+    "master": "images/baeolophus-bicolor/inat-660441686.jpg",
+    "web": "images/baeolophus-bicolor/inat-660441686.webp",
+    "thumbnail": "images/baeolophus-bicolor/inat-660441686-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1506,
+      2048
+    ],
+    "master": [
+      1506,
+      2048
+    ],
+    "web": [
+      1029,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 843674,
+    "web": 181644,
+    "thumbnail": 17104
+  },
+  "sha256": {
+    "download": "a2afc1a18f63580c3cff05c3d3cb08d190e45115cfbd69cc25159063be650a95",
+    "master": "c27a8e0257691df5ffd04f2099ad86540ec8e42e5d3c3ae1b32ed51bf80957b6",
+    "web": "7b0e4383d7c298fe5136d9d4bae806af1e2dba74e20605fa13496d7edec5f0db"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Baeolophus bicolor [Baeolophus bicolor] — froggymum / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/660441686. Original attribution: (c) froggymum, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Baeolophus bicolor",
+  "sourceId": "660441686",
+  "photoUrl": "https://www.inaturalist.org/photos/660441686",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/660441686/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/660441686/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "froggymum",
+  "originalAttribution": "(c) froggymum, some rights reserved (CC BY)",
+  "taxonId": 13632,
+  "acceptedScientificName": "Baeolophus bicolor",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/361868671",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.818095238095237,
+  "photoApiEvidence": {
+    "id": 660441686,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1506,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/660441686/square.jpg",
+    "attribution": "(c) froggymum, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/13547/13629",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,13547,13629,13632",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 13632,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 13629,
+    "name": "Baeolophus bicolor",
+    "rank": "species",
+    "extinct": false,
+    "id": 13632,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      13547,
+      13629,
+      13632
+    ],
+    "created_at": "2008-03-13T03:17:48+00:00",
+    "default_photo": {
+      "id": 178382206,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Stephen Taylor, some rights reserved (CC BY-NC), uploaded by Stephen Taylor",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178382206/square.jpeg",
+      "original_dimensions": {
+        "height": 1463,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Stephen Taylor",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178382206/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178382206/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 8,
+    "observations_count": 97431,
+    "photos_locked": false,
+    "universal_search_rank": 97431,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 144440,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tufted_titmouse",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Tufted Titmouse"
+  }
+}

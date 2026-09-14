@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-2187404",
+  "targetId": "inat-taxon-119828",
+  "scientificName": "Aralia nudicaulis",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:20:44+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:20:44+00:00",
+  "files": {
+    "master": "images/aralia-nudicaulis/inat-2187404.jpg",
+    "web": "images/aralia-nudicaulis/inat-2187404.webp",
+    "thumbnail": "images/aralia-nudicaulis/inat-2187404-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 987798,
+    "web": 187886,
+    "thumbnail": 18278
+  },
+  "sha256": {
+    "download": "65bf8a766c09937f8855ae4b45a6f20da024b651e62b50832c1b8edb76a3e405",
+    "master": "03db1f4d7b584af45aca08743b71ac82058382f20b52cc9b6c7fe88f5813879b",
+    "web": "d7ee2706ad5435acf236182fdbb54f4a51c41a98b7ebd9077585623f3f295b79"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Aralia nudicaulis [Aralia nudicaulis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/2187404. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Aralia nudicaulis",
+  "sourceId": "2187404",
+  "photoUrl": "https://www.inaturalist.org/photos/2187404",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2187404/original.JPG",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2187404/original.JPG",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 119828,
+  "acceptedScientificName": "Aralia nudicaulis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/1805209",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 2187404,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2187404/square.JPG",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48700/52849/525719/52850",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48700,52849,525719,52850,119828",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 119828,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 52850,
+    "name": "Aralia nudicaulis",
+    "rank": "species",
+    "extinct": false,
+    "id": 119828,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48700,
+      52849,
+      525719,
+      52850,
+      119828
+    ],
+    "provisional": false,
+    "created_at": "2011-10-03T01:07:58+00:00",
+    "default_photo": {
+      "id": 724384712,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) birdie111, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/724384712/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "birdie111",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/724384712/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/724384712/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 64028,
+    "photos_locked": false,
+    "universal_search_rank": 64028,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Aralia_nudicaulis",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "wild sarsaparilla"
+  }
+}

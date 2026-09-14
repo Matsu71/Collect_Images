@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-572855981",
+  "targetId": "inat-taxon-12707",
+  "scientificName": "Turdus pilaris",
+  "nameJa": "ノハラツグミ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:08+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:08+00:00",
+  "files": {
+    "master": "images/turdus-pilaris/inat-572855981.jpg",
+    "web": "images/turdus-pilaris/inat-572855981.webp",
+    "thumbnail": "images/turdus-pilaris/inat-572855981-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1387,
+      2048
+    ],
+    "master": [
+      1387,
+      2048
+    ],
+    "web": [
+      948,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 700185,
+    "web": 171312,
+    "thumbnail": 9112
+  },
+  "sha256": {
+    "download": "d12791e622b01878b50be1b79cc796d52bcbaf95057ba2c62e3f352a2625d30b",
+    "master": "8953a12fa1a6156c3689a258a87616b1463a2e56778a84da4dd78e785c4ca09c",
+    "web": "2793c7d4ac14445f0f28bceffd655861d00e689edf73b758f1bf241ee350c3a1"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Turdus pilaris [Turdus pilaris] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/572855981. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Turdus pilaris",
+  "sourceId": "572855981",
+  "photoUrl": "https://www.inaturalist.org/photos/572855981",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/572855981/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/572855981/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 12707,
+  "acceptedScientificName": "Turdus pilaris",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/317049465",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.648095238095238,
+  "photoApiEvidence": {
+    "id": 572855981,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1387,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/572855981/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/15977/12705",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,15977,12705,12707",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 12707,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 12705,
+    "name": "Turdus pilaris",
+    "rank": "species",
+    "extinct": false,
+    "id": 12707,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      15977,
+      12705,
+      12707
+    ],
+    "created_at": "2008-03-13T03:13:50+00:00",
+    "default_photo": {
+      "id": 6651903,
+      "license_code": null,
+      "attribution": "(c) František Bednár, all rights reserved, uploaded by František Bednár",
+      "url": "https://static.inaturalist.org/photos/6651903/square.jpg",
+      "original_dimensions": {
+        "height": 896,
+        "width": 1344
+      },
+      "flags": [],
+      "attribution_name": "František Bednár",
+      "square_url": "https://static.inaturalist.org/photos/6651903/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/6651903/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 103702,
+    "photos_locked": false,
+    "universal_search_rank": 103702,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Fieldfare",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Fieldfare"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-34300437",
+  "targetId": "inat-taxon-48256",
+  "scientificName": "Pseudotsuga menziesii",
+  "nameJa": "ベイマツ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:20:24+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:20:24+00:00",
+  "files": {
+    "master": "images/pseudotsuga-menziesii/inat-34300437.jpg",
+    "web": "images/pseudotsuga-menziesii/inat-34300437.webp",
+    "thumbnail": "images/pseudotsuga-menziesii/inat-34300437-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 539577,
+    "web": 133906,
+    "thumbnail": 17974
+  },
+  "sha256": {
+    "download": "1977a1a531052e83912f94bdd503b5be26c30f5c639fae42da63e5686ea4bb04",
+    "master": "96508a098dea483d4730a238627d3e543de048961c159d12dea64f860751d0c3",
+    "web": "09110e26c133ca3a42f4e4923dd624852d63b15dd38518b0d47f8fb8bb35b64b"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Pseudotsuga menziesii [Pseudotsuga menziesii] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/34300437. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Pseudotsuga menziesii",
+  "sourceId": "34300437",
+  "photoUrl": "https://www.inaturalist.org/photos/34300437",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34300437/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34300437/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 48256,
+  "acceptedScientificName": "Pseudotsuga menziesii",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/22156714",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 34300437,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34300437/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/136329/47375/47562/1456301/48257",
+    "min_species_ancestry": "48460,47126,211194,136329,47375,47562,1456301,48257,48256",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 48256,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 48257,
+    "name": "Pseudotsuga menziesii",
+    "rank": "species",
+    "extinct": false,
+    "id": 48256,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      136329,
+      47375,
+      47562,
+      1456301,
+      48257,
+      48256
+    ],
+    "provisional": false,
+    "created_at": "2008-08-29T16:29:31+00:00",
+    "default_photo": {
+      "id": 140217013,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Tracy S., some rights reserved (CC BY-NC), uploaded by Tracy S.",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140217013/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "Tracy S.",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140217013/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140217013/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 8,
+    "observations_count": 90172,
+    "photos_locked": false,
+    "universal_search_rank": 90172,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Douglas_fir",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Douglas-fir"
+  }
+}
