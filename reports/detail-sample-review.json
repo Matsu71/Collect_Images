@@ -1,0 +1,18 @@
+{
+  "schemaVersion":1,
+  "reviewedAt":"2026-09-14",
+  "reviewer":"ChatGPT visual screening",
+  "method":"individual_saved_jpeg_visual_review",
+  "sampleSize":8,
+  "limitations":"Saved JPEGs displayed individually. This is not a pixel-by-pixel inspection of every collected photograph, expert re-identification, or independent rights ownership verification.",
+  "records":[
+    {"targetId":"org-danaus-plexippus","assetId":"inat-169360078","scientificName":"Danaus plexippus","masterSha256":"7472ec9dc5cf2102da3ffe208bca6858541f47757fdf695461270cba6ef6b958","recommendedRole":"supplementary","noteJa":"枝葉に集まった複数個体の写真。翅の模様は見えますが、葉と重なって個体ごとの頭部・体が不明瞭で、画像もやや軟調です。単独個体の姿を明瞭に示す主画像ではなく、集団で休む様子の補足写真に限定します。"},
+    {"targetId":"org-ginkgo-biloba","assetId":"commons-16362112","scientificName":"Ginkgo biloba","masterSha256":"5449ee13012195153d22073f10c441215f996a55d05193f8e5bf86e9e01c3fb4","recommendedRole":"primary","noteJa":"樹冠から幹の根元まで大きく写り、樹形が分かります。個々の葉の形態を示す接写は別に必要です。"},
+    {"targetId":"org-loxodonta-africana","assetId":"inat-405618934","scientificName":"Loxodonta africana","masterSha256":"58f835253196f015194f832c0cb5a894dc420a7d68e706c18e5935410926e20f","recommendedRole":"primary","noteJa":"頭部、耳、牙、胴体、皮膚の特徴が大きく明瞭です。脚の下部や鼻先の一部は草木に隠れています。背景に小さな個体も写ります。"},
+    {"targetId":"org-octopus-vulgaris","assetId":"inat-322883970","scientificName":"Octopus vulgaris","masterSha256":"4bfc600620d59fbbf43df7116cbe48850d305780db39361b69ec49c05eb0fd41","recommendedRole":"primary","noteJa":"水中で頭部、眼、外套、腕、吸盤が明瞭です。腕は重なり、すべての先端が見えているわけではありません。水中の青い光の影響があります。"},
+    {"targetId":"org-panthera-leo","assetId":"commons-151312926","scientificName":"Panthera leo","masterSha256":"8f775b534c9001b71db59e8e350e068e938a0ef33f25cf4c1123861c8e72587d","recommendedRole":"primary","noteJa":"休息中の雄の頭部、たてがみ、胴体、前後肢、尾の主要な形が明瞭です。立位の体高を示す写真ではありません。"},
+    {"targetId":"org-passer-domesticus","assetId":"commons-125462845","scientificName":"Passer domesticus","masterSha256":"73360d549711ba20748ec1b04c5cdbf13cc82a0fb5c169762e2fb0e8c80d4dcf","recommendedRole":"primary","noteJa":"頭部、嘴、胴体、翼、尾が明瞭で背景から十分に分離されています。脚の指の一部は止まり場に隠れています。"},
+    {"targetId":"org-pongo-pygmaeus","assetId":"commons-41696089","scientificName":"Pongo pygmaeus","masterSha256":"882d9911db1dfeab8606689765fd3307922e86b9d0352f6f57d1b0ee202c22f4","recommendedRole":"supplementary","noteJa":"顔、頬の張り出し、体毛の特徴は分かりますが、幹や葉に隠れて腕・脚・体の輪郭の大部分が見えません。顔や樹上生活を示す補足用とし、全体の姿を示す主画像には使いません。"},
+    {"targetId":"org-rana-temporaria","assetId":"commons-4336610","scientificName":"Rana temporaria","masterSha256":"785a27f60c43a22eb737fdd8b9fa6fe9ea587d373eda2ac62166d14f0d9d46d2","recommendedRole":"primary","noteJa":"頭部、眼、鼓膜付近、胴体、前後肢と指の主要な形が明瞭です。反対側の肢は体に隠れています。"}
+  ]
+}
