@@ -25,11 +25,11 @@ jobs:
       - run: pip install 'requests>=2.32,<3' 'Pillow>=11,<13'
       - name: Acquire or adopt according to explicit review
         run: |
-          python -m py_compile curation/gap_photos_20260914.py
+          python -m py_compile curation/gap_photos_20260914.py curation/adopt_gap_review_20260914.py curation/report_gap_progress_20260914.py curation/gap_review_loader.py
           if [ -f reviews/gap-20260914.json ]; then
-            python -u curation/gap_photos_20260914.py adopt
+            python -u curation/adopt_gap_review_20260914.py
             python -u curation/run_reviewed_build.py
-            python tools/export_collection.py --output "$RUNNER_TEMP/gap-improved-export"
+            python -u curation/report_gap_progress_20260914.py
           elif [ ! -f batches/gaps-20260914/candidates.json ]; then
             python -u curation/gap_photos_20260914.py gather
           else
@@ -40,9 +40,9 @@ jobs:
         run: |
           git config user.name 'Collect Images bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add batches/ reference/ collection/ reports/
+          git add batches/ reference/ collection/ reports/ README.md
           if ! git diff --cached --quiet; then
-            git commit -m 'Save gap-first licensed photographs and review evidence [skip ci]'
+            git commit -m 'Save reviewed gap photos, complete provenance and validated coverage gains [skip ci]'
             success=false
             for attempt in 1 2 3 4 5; do
               if git pull --rebase origin main && git push origin HEAD:main; then success=true; break; fi
@@ -58,8 +58,12 @@ jobs:
             batches/gaps-20260914/sheets/
             batches/gaps-20260914/candidates.json
             batches/gaps-20260914/status.json
-            batches/gaps-20260914/results.json
             batches/gaps-20260914/adoption.json
             reports/curation-status.json
+            reports/continuation-result-20260914.json
+            reports/export-validation.json
+            reports/curation-validation-errors.json
+            collection/primary.json
             collection/taxa.json
+            review-detail-gap/
           retention-days: 7
