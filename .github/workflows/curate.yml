@@ -6,6 +6,8 @@ on:
     paths:
       - .github/workflows/curate.yml
       - curation/build_collection.py
+      - curation/run_reviewed_build.py
+      - reports/detail-sample-review.json
       - tools/export_collection.py
       - reviews/**
       - curation-requests/**
@@ -32,14 +34,14 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install 'requests>=2.32,<3' 'Pillow>=11,<13'
-      - name: Apply actual visual decisions, deduplicate and verify provenance
-        run: python -u curation/build_collection.py
+      - name: Apply actual visual decisions, individual JPEG corrections and credit checks
+        run: python -u curation/run_reviewed_build.py
       - name: Verify portable exports and local gallery assets
         run: |
           python tools/export_collection.py --output "$RUNNER_TEMP/species-export-all" > /tmp/export-all.json
           python tools/export_collection.py --output "$RUNNER_TEMP/species-export-by" --licenses cc0,cc-by > /tmp/export-by.json
           python - <<'PY'
-          import json,pathlib,shutil,datetime
+          import json,pathlib,datetime
           from html.parser import HTMLParser
           root=pathlib.Path.cwd();links=[]
           class Links(HTMLParser):
@@ -52,16 +54,11 @@ jobs:
           assert not missing,missing[:10]
           all_info=json.loads(pathlib.Path('/tmp/export-all.json').read_text());by_info=json.loads(pathlib.Path('/tmp/export-by.json').read_text())
           result={'validatedAt':datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='seconds'),'allLicensePrimaryExport':all_info,'cc0AndByPrimaryExport':by_info,'galleryLocalLinksChecked':len(links),'galleryMissingAssets':missing,'exportCopyAndHashes':'pass'}
+          assets=json.loads((root/'collection/assets.json').read_text())['records']
+          invalid=[r['assetId'] for r in assets if r.get('author','').lower()=='no rights reserved']
+          assert not invalid,invalid
+          result['rightsNoticesMisrepresentedAsAuthors']=len(invalid)
           (root/'reports/export-validation.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
-          chosen=json.loads((root/'collection/primary.json').read_text())['records'];sample=[]
-          names={'Loxodonta africana','Panthera leo','Canis lupus familiaris','Ginkgo biloba','Pongo pygmaeus','Octopus vulgaris','Danaus plexippus','Rana temporaria','Passer domesticus','Triticum aestivum','Escherichia coli','Acer pennsylvanicum'}
-          out=root/'review-detail';out.mkdir(exist_ok=True)
-          for r in chosen:
-              if r['scientificName'] not in names:continue
-              dest=r['scientificName'].replace(' ','-')+'--'+r['assetId']+'.jpg'
-              shutil.copy2(root/r['files']['master'],out/dest)
-              sample.append({'scientificName':r['scientificName'],'targetId':r['targetId'],'assetId':r['assetId'],'file':dest,'sourceMetadata':r['metadataPath'],'masterSha256':r['sha256']['master'],'license':r['licenseName']})
-          (out/'index.json').write_text(json.dumps(sample,ensure_ascii=False,indent=2)+'\n')
           print(json.dumps(result,ensure_ascii=False))
           PY
       - name: Commit reviewed catalogue and evidence
@@ -70,7 +67,7 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add collection reports/curation-status.json reports/duplicate-photo-copies.json reports/primary-gaps.json reports/export-validation.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Publish screened photo collection and validated portable exports [skip ci]'
+            git commit -m 'Publish screened collection with individual review and corrected credits [skip ci]'
             for attempt in 1 2 3 4 5; do
               git pull --rebase origin main && git push origin HEAD:main && break
               sleep $((attempt * 5))
@@ -89,5 +86,5 @@ jobs:
             reports/curation-status.json
             reports/export-validation.json
             reports/curation-validation-errors.json
-            review-detail/
+            reports/detail-sample-review.json
           retention-days: 7
