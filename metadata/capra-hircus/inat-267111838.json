@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-267111838",
+  "targetId": "org-capra-hircus",
+  "scientificName": "Capra hircus",
+  "nameJa": "ヤギ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:56:13+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:56:13+00:00",
+  "files": {
+    "master": "images/capra-hircus/inat-267111838.jpg",
+    "web": "images/capra-hircus/inat-267111838.webp",
+    "thumbnail": "images/capra-hircus/inat-267111838-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 1055383,
+    "web": 189474,
+    "thumbnail": 15656
+  },
+  "sha256": {
+    "download": "52631830eaba347f8b580a816b4db3aa462defdcec958d1a66717872d4b8738c",
+    "master": "a74aa86345837bf472539bef4711939f4d1c32193678888511a248f85ce31ae5",
+    "web": "8bb0224997b5dd9272b3bcb125b0034e1a6c4bbe9af7abb0bb39e018a2df8216"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Capra hircus [Capra hircus] — Roy Lowry / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/267111838. Original attribution: (c) Roy Lowry, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Capra hircus",
+  "sourceId": "267111838",
+  "photoUrl": "https://www.inaturalist.org/photos/267111838",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/267111838/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/267111838/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Roy Lowry",
+  "originalAttribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+  "taxonId": 123070,
+  "acceptedScientificName": "Capra hircus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/154582235",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.95,
+  "photoApiEvidence": {
+    "id": 267111838,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/267111838/square.jpeg",
+    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/424850/42241/568847/846307/42348",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,152870,424850,42241,568847,846307,42348,123070",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 123070,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 42348,
+    "name": "Capra hircus",
+    "rank": "species",
+    "extinct": false,
+    "id": 123070,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      152870,
+      424850,
+      42241,
+      568847,
+      846307,
+      42348,
+      123070
+    ],
+    "created_at": "2012-01-13T09:08:41+00:00",
+    "default_photo": {
+      "id": 6035700,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Jakob Fahr, some rights reserved (CC BY-NC), uploaded by Jakob Fahr",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6035700/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 2047
+      },
+      "flags": [],
+      "attribution_name": "Jakob Fahr",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6035700/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6035700/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 30316,
+    "photos_locked": false,
+    "universal_search_rank": 30316,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Goat",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Domestic Goat"
+  }
+}

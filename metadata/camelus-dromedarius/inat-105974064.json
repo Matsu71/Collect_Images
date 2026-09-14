@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-105974064",
+  "targetId": "org-camelus-dromedarius",
+  "scientificName": "Camelus dromedarius",
+  "nameJa": "ヒトコブラクダ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:55:56+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:55:56+00:00",
+  "files": {
+    "master": "images/camelus-dromedarius/inat-105974064.jpg",
+    "web": "images/camelus-dromedarius/inat-105974064.webp",
+    "thumbnail": "images/camelus-dromedarius/inat-105974064-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 479453,
+    "web": 109164,
+    "thumbnail": 10418
+  },
+  "sha256": {
+    "download": "75dd576a7da4126e06982667426a9824ab4ad8b809d90bbe85d185ec9e96cde9",
+    "master": "9c9e3d96329a6748d88a6b58ea50c3d628548e6f078e6c3a770d9250fa5ef914",
+    "web": "e461e8ed0e049855de68b39abf9bd307f38d8f367e6d990adadbd1c1b5c3c933"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Camelus dromedarius [Camelus dromedarius] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/105974064. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Camelus dromedarius",
+  "sourceId": "105974064",
+  "photoUrl": "https://www.inaturalist.org/photos/105974064",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/105974064/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/105974064/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 81542,
+  "acceptedScientificName": "Camelus dromedarius",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/65803331",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.95,
+  "photoApiEvidence": {
+    "id": 105974064,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105974064/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/925150/42231/1317268/846209/42232",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,152870,925150,42231,1317268,846209,42232,81542",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 81542,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 42232,
+    "name": "Camelus dromedarius",
+    "rank": "species",
+    "extinct": false,
+    "id": 81542,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      152870,
+      925150,
+      42231,
+      1317268,
+      846209,
+      42232,
+      81542
+    ],
+    "created_at": "2011-05-18T06:10:31+00:00",
+    "default_photo": {
+      "id": 254331474,
+      "license_code": null,
+      "attribution": "(c) Ondřej Prosický, all rights reserved, uploaded by Ondřej Prosický",
+      "url": "https://static.inaturalist.org/photos/254331474/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Ondřej Prosický",
+      "square_url": "https://static.inaturalist.org/photos/254331474/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/254331474/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 4964,
+    "photos_locked": false,
+    "universal_search_rank": 4964,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 19333,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Dromedary",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Dromedary Camel"
+  }
+}

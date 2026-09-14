@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-60587910",
+  "targetId": "org-bradypus-variegatus",
+  "scientificName": "Bradypus variegatus",
+  "nameJa": "ノドチャミユビナマケモノ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:55:26+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:55:26+00:00",
+  "files": {
+    "master": "images/bradypus-variegatus/inat-60587910.jpg",
+    "web": "images/bradypus-variegatus/inat-60587910.webp",
+    "thumbnail": "images/bradypus-variegatus/inat-60587910-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1473979,
+    "web": 280976,
+    "thumbnail": 19362
+  },
+  "sha256": {
+    "download": "f441f1424b6d1fbfba7a5200ffb6ebc22713915c2d8e82dea9d24071449ff272",
+    "master": "2d844801898a3d3c39a3284aea945bf5a295e8f3f15054eea5349d3dd9ca102e",
+    "web": "3aa59b23f318cb3daa4687327173ac899f2f6832f9ffb68aa9355296c6d704af"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Bradypus variegatus [Bradypus variegatus] — Aitor / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/60587910. Original attribution: (c) Aitor, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Bradypus variegatus",
+  "sourceId": "60587910",
+  "photoUrl": "https://www.inaturalist.org/photos/60587910",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60587910/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60587910/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Aitor",
+  "originalAttribution": "(c) Aitor, some rights reserved (CC BY)",
+  "taxonId": 47067,
+  "acceptedScientificName": "Bradypus variegatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/38147039",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.925714285714285,
+  "photoApiEvidence": {
+    "id": 60587910,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60587910/square.jpg",
+    "attribution": "(c) Aitor, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848322/53537/1317251/47064/47065",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848322,53537,1317251,47064,47065,47067",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 47067,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 47065,
+    "name": "Bradypus variegatus",
+    "rank": "species",
+    "extinct": false,
+    "id": 47067,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848322,
+      53537,
+      1317251,
+      47064,
+      47065,
+      47067
+    ],
+    "created_at": "2008-03-19T01:40:24+00:00",
+    "default_photo": {
+      "id": 73892662,
+      "license_code": null,
+      "attribution": "(c) Siegfried Baesler, all rights reserved, uploaded by Siegfried Baesler",
+      "url": "https://static.inaturalist.org/photos/73892662/square.jpg",
+      "original_dimensions": {
+        "height": 1275,
+        "width": 1920
+      },
+      "flags": [],
+      "attribution_name": "Siegfried Baesler",
+      "square_url": "https://static.inaturalist.org/photos/73892662/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/73892662/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 14660,
+    "photos_locked": false,
+    "universal_search_rank": 14660,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 15750,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Brown-throated_sloth",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Brown-throated Three-toed Sloth"
+  }
+}

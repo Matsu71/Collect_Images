@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-343832881",
+  "targetId": "org-bubo-scandiacus",
+  "scientificName": "Bubo scandiacus",
+  "nameJa": "シロフクロウ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:55:34+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:55:34+00:00",
+  "files": {
+    "master": "images/bubo-scandiacus/inat-343832881.jpg",
+    "web": "images/bubo-scandiacus/inat-343832881.webp",
+    "thumbnail": "images/bubo-scandiacus/inat-343832881-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1762
+    ],
+    "master": [
+      2048,
+      1762
+    ],
+    "web": [
+      1400,
+      1204
+    ]
+  },
+  "bytes": {
+    "master": 425654,
+    "web": 49840,
+    "thumbnail": 5144
+  },
+  "sha256": {
+    "download": "51a23360ec6dcb01145e1642f6d19151992a78fc2396b07b9ec166c0bee43332",
+    "master": "e41c0a3bd104c2a8864d5b249778e8f552131a972716c8d8a7158ea4d5fba611",
+    "web": "529f5d849d76d2f723d5036bb9895a3bea6176bcdd781512c28f14369f2c91a6"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Bubo scandiacus [Bubo scandiacus] — Dustin Snider / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/343832881. Original attribution: (c) Dustin Snider, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Bubo scandiacus",
+  "sourceId": "343832881",
+  "photoUrl": "https://www.inaturalist.org/photos/343832881",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/343832881/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/343832881/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Dustin Snider",
+  "originalAttribution": "(c) Dustin Snider, some rights reserved (CC BY)",
+  "taxonId": 144594,
+  "acceptedScientificName": "Bubo scandiacus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/195441759",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.183809523809524,
+  "photoApiEvidence": {
+    "id": 343832881,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1762
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/343832881/square.jpg",
+    "attribution": "(c) Dustin Snider, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/19350/19728/20034",
+    "min_species_ancestry": "48460,1,2,355675,3,19350,19728,20034,144594",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 144594,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 20034,
+    "name": "Bubo scandiacus",
+    "rank": "species",
+    "extinct": false,
+    "id": 144594,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      19350,
+      19728,
+      20034,
+      144594
+    ],
+    "created_at": "2012-08-21T04:14:40+00:00",
+    "default_photo": {
+      "id": 150549757,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Patrick Randall, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150549757/square.jpg",
+      "original_dimensions": {
+        "height": 1367,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Patrick Randall",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150549757/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150549757/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 6,
+    "observations_count": 12607,
+    "photos_locked": false,
+    "universal_search_rank": 12607,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Snowy_owl",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Snowy Owl",
+    "conservation_status": {
+      "id": 156434,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": 477,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": null,
+      "iucn": 30
+    }
+  }
+}

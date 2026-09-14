@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-188563046",
+  "targetId": "org-capra-ibex",
+  "scientificName": "Capra ibex",
+  "nameJa": "アルプスアイベックス",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:56:16+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:56:16+00:00",
+  "files": {
+    "master": "images/capra-ibex/inat-188563046.jpg",
+    "web": "images/capra-ibex/inat-188563046.webp",
+    "thumbnail": "images/capra-ibex/inat-188563046-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 790861,
+    "web": 162622,
+    "thumbnail": 14848
+  },
+  "sha256": {
+    "download": "312eb6e5e3929f843267f40812314a9b662e0d8f3941fc9e0debc2d0acfe96e6",
+    "master": "88b9d3d51082b7bbe3abe793a85fdcc4b7cabe9efab703ffee42708ed27183c1",
+    "web": "7f77e695c74eed50c219ddfb93e31d9677783b575d2d64314684cfd46ed71262"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Capra ibex [Capra ibex] — Philipp Pavelka / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/188563046. Original attribution: (c) Philipp Pavelka, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Capra ibex",
+  "sourceId": "188563046",
+  "photoUrl": "https://www.inaturalist.org/photos/188563046",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/188563046/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/188563046/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Philipp Pavelka",
+  "originalAttribution": "(c) Philipp Pavelka, some rights reserved (CC BY)",
+  "taxonId": 42357,
+  "acceptedScientificName": "Capra ibex",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/111683074",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.95,
+  "photoApiEvidence": {
+    "id": 188563046,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188563046/square.jpg",
+    "attribution": "(c) Philipp Pavelka, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/424850/42241/568847/846307/42348",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,152870,424850,42241,568847,846307,42348,42357",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 42357,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 42348,
+    "name": "Capra ibex",
+    "rank": "species",
+    "extinct": false,
+    "id": 42357,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      152870,
+      424850,
+      42241,
+      568847,
+      846307,
+      42348,
+      42357
+    ],
+    "created_at": "2008-03-19T00:42:40+00:00",
+    "default_photo": {
+      "id": 373820446,
+      "license_code": null,
+      "attribution": "(c) Jérémy Calvo, all rights reserved, uploaded by Jérémy Calvo",
+      "url": "https://static.inaturalist.org/photos/373820446/square.jpg",
+      "original_dimensions": {
+        "height": 1366,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Jérémy Calvo",
+      "square_url": "https://static.inaturalist.org/photos/373820446/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/373820446/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 10171,
+    "photos_locked": false,
+    "universal_search_rank": 10171,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 12836,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Alpine_ibex",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Alpine Ibex"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-107323237",
+  "targetId": "org-azolla-filiculoides",
+  "scientificName": "Azolla filiculoides",
+  "nameJa": "アメリカオオアカウキクサ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:54:54+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:54:54+00:00",
+  "files": {
+    "master": "images/azolla-filiculoides/inat-107323237.jpg",
+    "web": "images/azolla-filiculoides/inat-107323237.webp",
+    "thumbnail": "images/azolla-filiculoides/inat-107323237-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1642
+    ],
+    "master": [
+      2048,
+      1642
+    ],
+    "web": [
+      1400,
+      1122
+    ]
+  },
+  "bytes": {
+    "master": 647901,
+    "web": 175480,
+    "thumbnail": 14562
+  },
+  "sha256": {
+    "download": "2714a8f1275a725422859df0bb740af4574024ec5c837d6d3b4a1010885f9122",
+    "master": "5fe3c0acecd4d2e5f46b61f51f50aeffd2544ad2ab8f746532b2d991864fec3c",
+    "web": "6c1c105d591792d553b07388fd7381791aa865d58a2ab2296c169921f7ccaf76"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Azolla filiculoides [Azolla filiculoides] — Kevin Thiele / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/107323237. Original attribution: (c) Kevin Thiele, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Azolla filiculoides",
+  "sourceId": "107323237",
+  "photoUrl": "https://www.inaturalist.org/photos/107323237",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/107323237/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/107323237/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Kevin Thiele",
+  "originalAttribution": "(c) Kevin Thiele, some rights reserved (CC BY)",
+  "taxonId": 58754,
+  "acceptedScientificName": "Azolla filiculoides",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.345714285714285,
+  "photoApiEvidence": {
+    "id": 107323237,
+    "license_code": "cc-by",
+    "attribution": "(c) Kevin Thiele, some rights reserved (CC BY)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/107323237/square.jpg",
+    "original_dimensions": {
+      "height": 1642,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Kevin Thiele",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/107323237/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/107323237/medium.jpg"
+  },
+  "observationTaxon": null
+}
