@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""Run the reviewed builder with explicit CC0 author gaps and individual JPEG follow-up."""
+"""Reviewed builder: explicit author gaps, individual follow-up, and gap-photo decisions."""
 from __future__ import annotations
 import hashlib
 import json
 from pathlib import Path
 import build_collection as build
+import gap_review_loader
 
 ROOT=Path(__file__).resolve().parents[1]
 DETAIL=ROOT/'reports/detail-sample-review.json'
@@ -24,6 +25,9 @@ def verify_record(record):
         record['authorNote']='CC0 does not require attribution as a copyright-license condition. The original photo page is retained; a rights notice is not presented as a person name.'
     else:
         record['authorStatus']='source_supplied_not_independently_verified'
+    lu=record.get('licenseUrl','')
+    expected='cc0' if '/publicdomain/zero/' in lu else 'cc-by-sa' if '/licenses/by-sa/' in lu else 'cc-by' if '/licenses/by/' in lu else None
+    if record.get('licenseCode')!=expected:raise ValueError('License code and original license URL disagree')
     _original_verify(record)
 
 def read_reviews():
@@ -42,6 +46,7 @@ def read_reviews():
         previous=decisions[k]
         decisions[k]={**previous,'priorContactSheetRole':previous['recommendedRole'],'recommendedRole':item['recommendedRole'],'noteJa':item['noteJa'],'individualJpegReview':{'reviewFile':'reports/detail-sample-review.json','method':report['method'],'reviewedAt':report['reviewedAt'],'masterSha256':item['masterSha256']},'fullResolutionInspection':'saved_JPEG_viewed_individually_not_pixel_by_pixel_audit'}
     evidence.append({'file':'reports/detail-sample-review.json','count':len(report['records']),'kind':'additional_individual_JPEG_followup_not_additional_images'})
+    gap_review_loader.apply(ROOT,decisions,evidence)
     return decisions,evidence
 
 def main():
@@ -54,6 +59,8 @@ def main():
     status['acceptedCC0PhotoPairsWithoutAuthorName']=sum(r.get('authorStatus')=='not_provided_by_photo_api' for r in records)
     status['authorMetadataNote']='Unavailable CC0 photographer names are explicitly marked. Rights notices are never used as photographer names. Other author names are copied from source metadata, not independently verified.'
     status['individualSavedJpegSampleReviewed']=len(json.loads(DETAIL.read_text())['records'])
+    status['licenseCodeToUrlConsistency']='pass'
+    status['gapBatchAcceptedPhotoPairs']=sum(r.get('acquisitionBatch')=='batches/gaps-20260914' for r in records)
     p.write_text(json.dumps(status,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 
 if __name__=='__main__':main()
