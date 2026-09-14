@@ -1,0 +1,32 @@
+name: Export photo review snapshot
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/review-export.yml
+      - requests/review-export.json
+permissions:
+  contents: read
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pin review snapshot
+        run: |
+          mkdir -p review-export
+          git rev-parse HEAD > review-export/commit.txt
+          date -u +%FT%TZ > review-export/exported-at.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: photo-review-snapshot
+          path: |
+            gallery/
+            metadata/
+            catalog/
+            reports/status.json
+            data/targets.json
+            review-export/
+          retention-days: 7
