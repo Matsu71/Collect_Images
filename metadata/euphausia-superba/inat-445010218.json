@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-445010218",
+  "targetId": "org-euphausia-superba",
+  "scientificName": "Euphausia superba",
+  "nameJa": "ナンキョクオキアミ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:59:44+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:59:44+00:00",
+  "files": {
+    "master": "images/euphausia-superba/inat-445010218.jpg",
+    "web": "images/euphausia-superba/inat-445010218.webp",
+    "thumbnail": "images/euphausia-superba/inat-445010218-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 748772,
+    "web": 106520,
+    "thumbnail": 11522
+  },
+  "sha256": {
+    "download": "df12e05ef0dcfb168201e1add0ba981f34dd93ba7fa7506eda2c085a59460e08",
+    "master": "70a05c65634f0c68da83e9db1161db2dcd7965ce2a0749b6777feea7a8b2a549",
+    "web": "970708b067bff3b590c0e20f57df00df2d4fe3796efefc1ae4cf2a9dcb4f17b4"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Euphausia superba [Euphausia superba] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/445010218. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Euphausia superba",
+  "sourceId": "445010218",
+  "photoUrl": "https://www.inaturalist.org/photos/445010218",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/445010218/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/445010218/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 344134,
+  "acceptedScientificName": "Euphausia superba",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": "https://www.inaturalist.org/observations/248991955",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 445010218,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/445010218/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/85493/473790/47187/774775/144113/153112/195134/195136",
+    "min_species_ancestry": "48460,1,47120,85493,473790,47187,774775,144113,153112,195134,195136,344134",
+    "endemic": false,
+    "iconic_taxon_id": 1,
+    "min_species_taxon_id": 344134,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 195136,
+    "name": "Euphausia superba",
+    "rank": "species",
+    "extinct": false,
+    "id": 344134,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      85493,
+      473790,
+      47187,
+      774775,
+      144113,
+      153112,
+      195134,
+      195136,
+      344134
+    ],
+    "created_at": "2014-03-04T03:38:20+00:00",
+    "default_photo": {
+      "id": 105492396,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Norkrill, some rights reserved (CC BY-NC-ND)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105492396/square.jpg",
+      "original_dimensions": {
+        "height": 580,
+        "width": 1024
+      },
+      "flags": [],
+      "attribution_name": "Norkrill",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105492396/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105492396/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 1,
+    "observations_count": 169,
+    "photos_locked": false,
+    "universal_search_rank": 169,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Antarctic_krill",
+    "iconic_taxon_name": "Animalia",
+    "preferred_common_name": "Antarctic Krill"
+  }
+}

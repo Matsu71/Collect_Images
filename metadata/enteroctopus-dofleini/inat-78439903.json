@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-78439903",
+  "targetId": "org-enteroctopus-dofleini",
+  "scientificName": "Enteroctopus dofleini",
+  "nameJa": "ミズダコ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:59:06+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:59:06+00:00",
+  "files": {
+    "master": "images/enteroctopus-dofleini/inat-78439903.jpg",
+    "web": "images/enteroctopus-dofleini/inat-78439903.webp",
+    "thumbnail": "images/enteroctopus-dofleini/inat-78439903-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 499913,
+    "web": 95600,
+    "thumbnail": 8280
+  },
+  "sha256": {
+    "download": "c43a1e3782d6d8fb8d8c7b3e70a002b30b4df3b855f947bed846fc476bbba111",
+    "master": "430a63652a336d07a3d412a92a176dca646d18b4ea7e962e7fa1e2c45ff462ab",
+    "web": "51fbe61f1fb7094e394f8a0a829d32f5afec0058ee1318c1cd0e705794911c4f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Enteroctopus dofleini [Enteroctopus dofleini] — Matt Muir / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/78439903. Original attribution: (c) Matt Muir, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Enteroctopus dofleini",
+  "sourceId": "78439903",
+  "photoUrl": "https://www.inaturalist.org/photos/78439903",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/78439903/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/78439903/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Matt Muir",
+  "originalAttribution": "(c) Matt Muir, some rights reserved (CC BY)",
+  "taxonId": 48863,
+  "acceptedScientificName": "Enteroctopus dofleini",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mollusca",
+  "observationUrl": "https://www.inaturalist.org/observations/49411821",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 78439903,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78439903/square.jpeg",
+    "attribution": "(c) Matt Muir, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47115/47459/372759/339397/47458/699949/699692/699691/48864",
+    "min_species_ancestry": "48460,1,47115,47459,372759,339397,47458,699949,699692,699691,48864,48863",
+    "endemic": false,
+    "iconic_taxon_id": 47115,
+    "min_species_taxon_id": 48863,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 48864,
+    "name": "Enteroctopus dofleini",
+    "rank": "species",
+    "extinct": false,
+    "id": 48863,
+    "ancestor_ids": [
+      48460,
+      1,
+      47115,
+      47459,
+      372759,
+      339397,
+      47458,
+      699949,
+      699692,
+      699691,
+      48864,
+      48863
+    ],
+    "created_at": "2008-12-19T16:10:03+00:00",
+    "default_photo": {
+      "id": 174792488,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) KJ, some rights reserved (CC BY-NC), uploaded by KJ",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174792488/square.jpg",
+      "original_dimensions": {
+        "height": 768,
+        "width": 1024
+      },
+      "flags": [],
+      "attribution_name": "KJ",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174792488/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174792488/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 2856,
+    "photos_locked": false,
+    "universal_search_rank": 2856,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 17357,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Enteroctopus_dofleini",
+    "iconic_taxon_name": "Mollusca",
+    "preferred_common_name": "Giant Pacific Octopus"
+  }
+}

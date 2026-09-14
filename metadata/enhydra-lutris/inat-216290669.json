@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-216290669",
+  "targetId": "org-enhydra-lutris",
+  "scientificName": "Enhydra lutris",
+  "nameJa": "ラッコ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:59:04+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:59:04+00:00",
+  "files": {
+    "master": "images/enhydra-lutris/inat-216290669.jpg",
+    "web": "images/enhydra-lutris/inat-216290669.webp",
+    "thumbnail": "images/enhydra-lutris/inat-216290669-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 799235,
+    "web": 177266,
+    "thumbnail": 14732
+  },
+  "sha256": {
+    "download": "ae34d1934d84e01d8d93ad6b2aeed0a417cce0b0888dd9375ff4bd5447242a37",
+    "master": "efea44ace02dd75bb3a98651773a21c54a4915a9d0326decfaf24ea460afc26a",
+    "web": "7b8e5aeb6f1a9c1c639ee946ae11db221bdcaf2d27a44962782a7268edadc610"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Enhydra lutris [Enhydra lutris] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/216290669. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Enhydra lutris",
+  "sourceId": "216290669",
+  "photoUrl": "https://www.inaturalist.org/photos/216290669",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/216290669/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/216290669/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 41860,
+  "acceptedScientificName": "Enhydra lutris",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/127403691",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 10.194285714285714,
+  "photoApiEvidence": {
+    "id": 216290669,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216290669/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/41770/526556/41859",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,41770,526556,41859,41860",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 41860,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 41859,
+    "name": "Enhydra lutris",
+    "rank": "species",
+    "extinct": false,
+    "id": 41860,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      41770,
+      526556,
+      41859,
+      41860
+    ],
+    "created_at": "2008-03-19T00:36:57+00:00",
+    "default_photo": {
+      "id": 311432614,
+      "license_code": "cc-by-sa",
+      "attribution": "(c) Marshal Hedin, some rights reserved (CC BY-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/311432614/square.jpg",
+      "original_dimensions": {
+        "height": 1366,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Marshal Hedin",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/311432614/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/311432614/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 6,
+    "observations_count": 18472,
+    "photos_locked": false,
+    "universal_search_rank": 18472,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 13084,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Sea_otter",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Sea Otter",
+    "conservation_status": {
+      "id": 15827,
+      "place_id": null,
+      "source_id": 15286,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "en",
+      "status_name": "endangered",
+      "geoprivacy": "obscured",
+      "iucn": 40
+    }
+  }
+}

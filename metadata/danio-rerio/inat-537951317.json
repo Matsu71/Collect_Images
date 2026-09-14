@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-537951317",
+  "targetId": "org-danio-rerio",
+  "scientificName": "Danio rerio",
+  "nameJa": "ゼブラフィッシュ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:58:12+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:58:12+00:00",
+  "files": {
+    "master": "images/danio-rerio/inat-537951317.jpg",
+    "web": "images/danio-rerio/inat-537951317.webp",
+    "thumbnail": "images/danio-rerio/inat-537951317-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2014,
+      1092
+    ],
+    "master": [
+      2014,
+      1092
+    ],
+    "web": [
+      1400,
+      759
+    ]
+  },
+  "bytes": {
+    "master": 360041,
+    "web": 90688,
+    "thumbnail": 8096
+  },
+  "sha256": {
+    "download": "0ee17f4a80d1c456ee69b5e321fb3ac43d0f1435f956705e243f692df9f6482b",
+    "master": "1ca2a6843609b51ddebfa5bd2e186ad2c1db4b591a925591869f8b3be55ec11c",
+    "web": "fee5bbf5d33964b056f9fef86a0deb04ab9f4d434850618293f35198ed17cc45"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Danio rerio [Danio rerio] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/537951317. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Danio rerio",
+  "sourceId": "537951317",
+  "photoUrl": "https://www.inaturalist.org/photos/537951317",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/537951317/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/537951317/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 49977,
+  "acceptedScientificName": "Danio rerio",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Actinopterygii",
+  "observationUrl": "https://www.inaturalist.org/observations/298636512",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.5600000000000005,
+  "photoApiEvidence": {
+    "id": 537951317,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2014,
+      "height": 1092
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537951317/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/47178/1543570/49216/1303592/1303612/558702/49982",
+    "min_species_ancestry": "48460,1,2,355675,47178,1543570,49216,1303592,1303612,558702,49982,49977",
+    "endemic": false,
+    "iconic_taxon_id": 47178,
+    "min_species_taxon_id": 49977,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 49982,
+    "name": "Danio rerio",
+    "rank": "species",
+    "extinct": false,
+    "id": 49977,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      47178,
+      1543570,
+      49216,
+      1303592,
+      1303612,
+      558702,
+      49982,
+      49977
+    ],
+    "created_at": "2009-03-01T17:35:10+00:00",
+    "default_photo": {
+      "id": 11066492,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Tohru Murakami, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11066492/square.jpg",
+      "original_dimensions": {
+        "height": 823,
+        "width": 1146
+      },
+      "flags": [],
+      "attribution_name": "Tohru Murakami",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11066492/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11066492/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 3,
+    "observations_count": 687,
+    "photos_locked": false,
+    "universal_search_rank": 687,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Zebrafish",
+    "iconic_taxon_name": "Actinopterygii",
+    "preferred_common_name": "Zebra Danio"
+  }
+}

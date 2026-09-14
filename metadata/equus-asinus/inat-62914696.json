@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-62914696",
+  "targetId": "org-equus-asinus",
+  "scientificName": "Equus asinus",
+  "nameJa": "ロバ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:59:12+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:59:12+00:00",
+  "files": {
+    "master": "images/equus-asinus/inat-62914696.jpg",
+    "web": "images/equus-asinus/inat-62914696.webp",
+    "thumbnail": "images/equus-asinus/inat-62914696-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1417,
+      2048
+    ],
+    "master": [
+      1417,
+      2048
+    ],
+    "web": [
+      969,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 491333,
+    "web": 160646,
+    "thumbnail": 6468
+  },
+  "sha256": {
+    "download": "387fc9833d8b6dccfa982f2ce2b727a89cdf2ac0377068a6c29e34e198f1b309",
+    "master": "20cadccdaf12047249d9c499baf0f73603541744f9800d01f8322552175f7993",
+    "web": "c30c8e05074e67ba1661bf3174f62f566b84be46f606df7c1652ac74e3ab20ce"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Equus asinus [Equus asinus] — Mourad Harzallah / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/62914696. Original attribution: (c) Mourad Harzallah, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Equus asinus",
+  "sourceId": "62914696",
+  "photoUrl": "https://www.inaturalist.org/photos/62914696",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/62914696/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/62914696/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Mourad Harzallah",
+  "originalAttribution": "(c) Mourad Harzallah, some rights reserved (CC BY)",
+  "taxonId": 148030,
+  "acceptedScientificName": "Equus asinus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/39643415",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.690952380952381,
+  "photoApiEvidence": {
+    "id": 62914696,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1417,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62914696/square.jpeg",
+    "attribution": "(c) Mourad Harzallah, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/43327/43328/43329",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,43327,43328,43329,148030",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 148030,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 43329,
+    "name": "Equus asinus",
+    "rank": "species",
+    "extinct": false,
+    "id": 148030,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      43327,
+      43328,
+      43329,
+      148030
+    ],
+    "created_at": "2012-09-09T05:09:06+00:00",
+    "default_photo": {
+      "id": 140505310,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Justyn Stahl, some rights reserved (CC BY-NC), uploaded by Justyn Stahl",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140505310/square.jpg",
+      "original_dimensions": {
+        "height": 1366,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Justyn Stahl",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140505310/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140505310/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 15700,
+    "photos_locked": false,
+    "universal_search_rank": 15700,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Donkey",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Donkey"
+  }
+}

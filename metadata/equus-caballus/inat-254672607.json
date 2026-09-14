@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-254672607",
+  "targetId": "org-equus-caballus",
+  "scientificName": "Equus caballus",
+  "nameJa": "ウマ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:59:14+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:59:14+00:00",
+  "files": {
+    "master": "images/equus-caballus/inat-254672607.jpg",
+    "web": "images/equus-caballus/inat-254672607.webp",
+    "thumbnail": "images/equus-caballus/inat-254672607-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 446133,
+    "web": 52376,
+    "thumbnail": 4398
+  },
+  "sha256": {
+    "download": "1d792acccf9caea475df70659c2992b4e3cc254a0c196584975114a1e23fffa5",
+    "master": "939dde898e9a1b9f8343605ba8ec07d0a6f48a695f4925688136544bc83caa9a",
+    "web": "3361e9a129babfda361858c311b921f788c0a5eef5c2f97623c60d72b9915c22"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Equus caballus [Equus caballus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/254672607. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Equus caballus",
+  "sourceId": "254672607",
+  "photoUrl": "https://www.inaturalist.org/photos/254672607",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/254672607/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/254672607/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 209233,
+  "acceptedScientificName": "Equus caballus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/147946047",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.527619047619048,
+  "photoApiEvidence": {
+    "id": 254672607,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254672607/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/43327/43328/43329",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,43327,43328,43329,209233",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 209233,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 43329,
+    "name": "Equus caballus",
+    "rank": "species",
+    "extinct": false,
+    "id": 209233,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      43327,
+      43328,
+      43329,
+      209233
+    ],
+    "created_at": "2013-03-07T03:01:57+00:00",
+    "default_photo": {
+      "id": 23672580,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) copper, some rights reserved (CC BY-NC), uploaded by copper",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23672580/square.jpeg",
+      "original_dimensions": {
+        "height": 1367,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "copper",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23672580/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23672580/medium.jpeg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 3,
+    "observations_count": 47616,
+    "photos_locked": false,
+    "universal_search_rank": 47616,
+    "flag_counts": {
+      "resolved": 5,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Horse",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Domestic Horse"
+  }
+}

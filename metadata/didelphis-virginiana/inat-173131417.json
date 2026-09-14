@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-173131417",
+  "targetId": "org-didelphis-virginiana",
+  "scientificName": "Didelphis virginiana",
+  "nameJa": "キタオポッサム",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:58:40+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:58:40+00:00",
+  "files": {
+    "master": "images/didelphis-virginiana/inat-173131417.jpg",
+    "web": "images/didelphis-virginiana/inat-173131417.webp",
+    "thumbnail": "images/didelphis-virginiana/inat-173131417-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 591002,
+    "web": 132062,
+    "thumbnail": 8570
+  },
+  "sha256": {
+    "download": "b59ac667fba9b8ec2c4fe5aefa1b81520264d75624ada2884a9321cb4728620b",
+    "master": "53c1d077947b1255b68b15dfd22c6c71bc6d6fcf1a925d5c82f76ab9f1c91dd0",
+    "web": "653dea8f2d7ae8942711aae359e1dadac64af75e41e4521d962ee3370079a1a6"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Didelphis virginiana [Didelphis virginiana] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/173131417. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Didelphis virginiana",
+  "sourceId": "173131417",
+  "photoUrl": "https://www.inaturalist.org/photos/173131417",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173131417/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173131417/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 42652,
+  "acceptedScientificName": "Didelphis virginiana",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/103444776",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 10.194285714285714,
+  "photoApiEvidence": {
+    "id": 173131417,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/173131417/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848319/42540/42541/846215/846338/42646",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848319,42540,42541,846215,846338,42646,42652",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 42652,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 42646,
+    "name": "Didelphis virginiana",
+    "rank": "species",
+    "extinct": false,
+    "id": 42652,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848319,
+      42540,
+      42541,
+      846215,
+      846338,
+      42646,
+      42652
+    ],
+    "created_at": "2008-03-19T00:45:59+00:00",
+    "default_photo": {
+      "id": 35041373,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Michelle Herman, some rights reserved (CC BY-NC), uploaded by Michelle Herman",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35041373/square.jpeg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Michelle Herman",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35041373/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35041373/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 6,
+    "observations_count": 75707,
+    "photos_locked": false,
+    "universal_search_rank": 75707,
+    "flag_counts": {
+      "resolved": 6,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 15,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Virginia_opossum",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Virginia Opossum"
+  }
+}

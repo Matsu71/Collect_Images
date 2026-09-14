@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-149104034",
+  "targetId": "org-desmodus-rotundus",
+  "scientificName": "Desmodus rotundus",
+  "nameJa": "ナミチスイコウモリ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:58:36+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:58:36+00:00",
+  "files": {
+    "master": "images/desmodus-rotundus/inat-149104034.jpg",
+    "web": "images/desmodus-rotundus/inat-149104034.webp",
+    "thumbnail": "images/desmodus-rotundus/inat-149104034-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 760496,
+    "web": 162730,
+    "thumbnail": 21682
+  },
+  "sha256": {
+    "download": "b3f96967cf5f570ead6a950d3fb1fcec5e5989af246f6577f9b51fca53b37ad1",
+    "master": "a58b7a937c2711440271ce013db148e07294ff14b18d59420152cff6465fc2a0",
+    "web": "807a59138c7662fd4ab8645e4a76a54dba347a31fb268d61973458357e63f16b"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Desmodus rotundus [Desmodus rotundus] — Tomás Carranza Perales / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/149104034. Original attribution: (c) Tomás Carranza Perales, some rights reserved (CC BY), uploaded by Tomás Carranza Perales. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Desmodus rotundus",
+  "sourceId": "149104034",
+  "photoUrl": "https://www.inaturalist.org/photos/149104034",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/149104034/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/149104034/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Tomás Carranza Perales",
+  "originalAttribution": "(c) Tomás Carranza Perales, some rights reserved (CC BY), uploaded by Tomás Carranza Perales",
+  "taxonId": 41168,
+  "acceptedScientificName": "Desmodus rotundus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 11.95,
+  "photoApiEvidence": {
+    "id": 149104034,
+    "license_code": "cc-by",
+    "attribution": "(c) Tomás Carranza Perales, some rights reserved (CC BY), uploaded by Tomás Carranza Perales",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/149104034/square.jpg",
+    "original_dimensions": {
+      "height": 1365,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Tomás Carranza Perales",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/149104034/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/149104034/medium.jpg"
+  },
+  "observationTaxon": null
+}

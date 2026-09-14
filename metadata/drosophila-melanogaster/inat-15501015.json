@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-15501015",
+  "targetId": "org-drosophila-melanogaster",
+  "scientificName": "Drosophila melanogaster",
+  "nameJa": "キイロショウジョウバエ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:58:51+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:58:51+00:00",
+  "files": {
+    "master": "images/drosophila-melanogaster/inat-15501015.jpg",
+    "web": "images/drosophila-melanogaster/inat-15501015.webp",
+    "thumbnail": "images/drosophila-melanogaster/inat-15501015-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1767,
+      1676
+    ],
+    "master": [
+      1767,
+      1676
+    ],
+    "web": [
+      1400,
+      1328
+    ]
+  },
+  "bytes": {
+    "master": 382915,
+    "web": 82616,
+    "thumbnail": 7060
+  },
+  "sha256": {
+    "download": "e1e9715a719b53502c3bf0c85cbe2725b064c012b0a3819dea6cebfe8d1dbede",
+    "master": "d7d255ec535d8dfa6d85a93da8f30f9e31f4b36f27df3012e5ae3dd7a70a8cb4",
+    "web": "5fc21c49ca12fd60232852fec21ecd30c928c06496eb916a7f0d803742ab67bd"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Drosophila melanogaster [Drosophila melanogaster] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/15501015. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Drosophila melanogaster",
+  "sourceId": "15501015",
+  "photoUrl": "https://www.inaturalist.org/photos/15501015",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/15501015/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/15501015/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 1409656,
+  "acceptedScientificName": "Drosophila melanogaster",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "complex",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/11000846",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.727619047619047,
+  "photoApiEvidence": {
+    "id": 15501015,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1767,
+      "height": 1676
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15501015/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47822/48091/372853/48089/48088/555548/67742/544543/67740/578175/1409656",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47822,48091,372853,48089,48088,555548,67742,544543,67740,578175,1409656,67743",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 67743,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1409656,
+    "name": "Drosophila melanogaster",
+    "rank": "species",
+    "extinct": false,
+    "id": 67743,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47822,
+      48091,
+      372853,
+      48089,
+      48088,
+      555548,
+      67742,
+      544543,
+      67740,
+      578175,
+      1409656,
+      67743
+    ],
+    "created_at": "2011-02-12T03:27:08+00:00",
+    "default_photo": {
+      "id": 14434697,
+      "license_code": "cc0",
+      "attribution": "no rights reserved, uploaded by Jesse Rorabaugh",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14434697/square.jpg",
+      "original_dimensions": {
+        "height": 1184,
+        "width": 1290
+      },
+      "flags": [],
+      "attribution_name": "Jesse Rorabaugh",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14434697/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14434697/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 1613,
+    "photos_locked": false,
+    "universal_search_rank": 1613,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Drosophila_melanogaster",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Common Fruit Fly"
+  }
+}
