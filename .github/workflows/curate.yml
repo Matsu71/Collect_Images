@@ -1,0 +1,60 @@
+name: Build reviewed photo collection
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/curate.yml
+      - curation/build_collection.py
+      - reviews/**
+      - curation-requests/**
+  workflow_run:
+    workflows:
+      - Collect licensed extant photographs
+      - Collect licensed reference photographs
+    types: [completed]
+permissions:
+  contents: write
+concurrency:
+  group: reviewed-photo-collection
+  cancel-in-progress: false
+jobs:
+  curate:
+    if: github.event_name != 'workflow_run' || (github.event.workflow_run.head_repository.full_name == github.repository && github.event.workflow_run.head_branch == 'main')
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install 'requests>=2.32,<3' 'Pillow>=11,<13'
+      - name: Apply actual visual decisions, deduplicate and verify provenance
+        run: python -u curation/build_collection.py
+      - name: Commit reviewed catalogue and evidence
+        run: |
+          git config user.name 'Collect Images bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add collection reports/curation-status.json reports/duplicate-photo-copies.json reports/primary-gaps.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Publish visually screened photo candidates and verified credits [skip ci]'
+            for attempt in 1 2 3 4 5; do
+              git pull --rebase origin main && git push origin HEAD:main && break
+              sleep $((attempt * 5))
+            done
+            test "$(git rev-parse HEAD)" = "$(git ls-remote origin refs/heads/main | cut -f1)"
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: reviewed-photo-collection-evidence
+          path: |
+            collection/review-sheets/
+            collection/primary.json
+            collection/taxa.json
+            collection/credits.csv
+            reports/curation-status.json
+            reports/curation-validation-errors.json
+          retention-days: 7
