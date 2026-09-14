@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-526556400",
+  "targetId": "inat-taxon-46260",
+  "scientificName": "Tamiasciurus hudsonicus",
+  "nameJa": "アメリカアカリス",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:22:23+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:22:23+00:00",
+  "files": {
+    "master": "images/tamiasciurus-hudsonicus/inat-526556400.jpg",
+    "web": "images/tamiasciurus-hudsonicus/inat-526556400.webp",
+    "thumbnail": "images/tamiasciurus-hudsonicus/inat-526556400-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 768177,
+    "web": 172466,
+    "thumbnail": 11268
+  },
+  "sha256": {
+    "download": "18a6363304b7eb28738350c075562576dcfb6b33b31dcec4ae54040258113a01",
+    "master": "0723bdc4e050706f298ce015831ef61905a5a5a2adbc4e2c1c6964b9bada8e3d",
+    "web": "2e151ef394addf6ef9a915df677373727765bf0c04cc6e8adee31583bb756da7"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Tamiasciurus hudsonicus [Tamiasciurus hudsonicus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/526556400. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Tamiasciurus hudsonicus",
+  "sourceId": "526556400",
+  "photoUrl": "https://www.inaturalist.org/photos/526556400",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/526556400/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/526556400/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 46260,
+  "acceptedScientificName": "Tamiasciurus hudsonicus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/292591361",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.527619047619048,
+  "photoApiEvidence": {
+    "id": 526556400,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526556400/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43698/129411/45933/332614/339575/46257",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43698,129411,45933,332614,339575,46257,46260",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 46260,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 46257,
+    "name": "Tamiasciurus hudsonicus",
+    "rank": "species",
+    "extinct": false,
+    "id": 46260,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43698,
+      129411,
+      45933,
+      332614,
+      339575,
+      46257,
+      46260
+    ],
+    "created_at": "2008-03-19T01:29:26+00:00",
+    "default_photo": {
+      "id": 113299756,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) jmarcinik, some rights reserved (CC BY-NC), uploaded by jmarcinik",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113299756/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "jmarcinik",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113299756/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113299756/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 5,
+    "observations_count": 100394,
+    "photos_locked": false,
+    "universal_search_rank": 100394,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 21,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/American_red_squirrel",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "American Red Squirrel"
+  }
+}

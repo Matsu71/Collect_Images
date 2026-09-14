@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-10778",
+  "targetId": "inat-taxon-56193",
+  "scientificName": "Acer campestre",
+  "nameJa": "コブカエデ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:23:03+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:23:03+00:00",
+  "files": {
+    "master": "images/acer-campestre/inat-10778.jpg",
+    "web": "images/acer-campestre/inat-10778.webp",
+    "thumbnail": "images/acer-campestre/inat-10778-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1973,
+      1474
+    ],
+    "master": [
+      1973,
+      1474
+    ],
+    "web": [
+      1400,
+      1046
+    ]
+  },
+  "bytes": {
+    "master": 634486,
+    "web": 175468,
+    "thumbnail": 14210
+  },
+  "sha256": {
+    "download": "eea0bc1f5c92d62e0fc6ed6a8d0a950e974eac38593d33e63208505c63d14d15",
+    "master": "852d737fa3cbfaac1e55ea0179ed8485557266e40b6aff43c27ff6f0f1ffa5e3",
+    "web": "cf8ca9e1f8dc59cfdb4718a66d1879ba6819d2cef6aecfc4276625db7d72dd47"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Acer campestre [Acer campestre] — Peter O'Connor / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/10778. Original attribution: (c) Peter O'Connor, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Acer campestre",
+  "sourceId": "10778",
+  "photoUrl": "https://www.inaturalist.org/photos/10778",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10778/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10778/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Peter O'Connor",
+  "originalAttribution": "(c) Peter O'Connor, some rights reserved (CC BY-SA)",
+  "taxonId": 56193,
+  "acceptedScientificName": "Acer campestre",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.105714285714285,
+  "photoApiEvidence": {
+    "id": 10778,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Peter O'Connor, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10778/square.jpg",
+    "original_dimensions": {
+      "height": 1474,
+      "width": 1973
+    },
+    "flags": [],
+    "attribution_name": "Peter O'Connor",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10778/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10778/medium.jpg"
+  },
+  "observationTaxon": null
+}

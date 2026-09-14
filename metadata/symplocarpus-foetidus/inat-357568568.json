@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-357568568",
+  "targetId": "inat-taxon-48961",
+  "scientificName": "Symplocarpus foetidus",
+  "nameJa": "アメリカザゼンソウ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:22:30+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:22:30+00:00",
+  "files": {
+    "master": "images/symplocarpus-foetidus/inat-357568568.jpg",
+    "web": "images/symplocarpus-foetidus/inat-357568568.webp",
+    "thumbnail": "images/symplocarpus-foetidus/inat-357568568-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 963392,
+    "web": 178704,
+    "thumbnail": 18528
+  },
+  "sha256": {
+    "download": "eff4824a5482de875ef1a1e35cba2782358f444cb5889fdbed98cedc0b3bd607",
+    "master": "e6fb5787359dde67da8c39e6a5048f85d91257974ec6ea227b38fdac7240534e",
+    "web": "ed85a3ef3ed43f8e6fb080170e4db1e11236d3b9a725436b97359d711c0194de"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Symplocarpus foetidus [Symplocarpus foetidus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/357568568. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Symplocarpus foetidus",
+  "sourceId": "357568568",
+  "photoUrl": "https://www.inaturalist.org/photos/357568568",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/357568568/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/357568568/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 48961,
+  "acceptedScientificName": "Symplocarpus foetidus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/202459259",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.194285714285714,
+  "photoApiEvidence": {
+    "id": 357568568,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357568568/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47163/48073/48536/706195/48533",
+    "min_species_ancestry": "48460,47126,211194,47125,47163,48073,48536,706195,48533,48961",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 48961,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 48533,
+    "name": "Symplocarpus foetidus",
+    "rank": "species",
+    "extinct": false,
+    "id": 48961,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47163,
+      48073,
+      48536,
+      706195,
+      48533,
+      48961
+    ],
+    "created_at": "2008-12-30T16:56:59+00:00",
+    "default_photo": {
+      "id": 1840324,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Clare Dellwo Cole, some rights reserved (CC BY-NC), uploaded by Clare Dellwo Cole",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1840324/square.jpg",
+      "original_dimensions": {
+        "height": 1136,
+        "width": 852
+      },
+      "flags": [],
+      "attribution_name": "Clare Dellwo Cole",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1840324/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1840324/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 3,
+    "observations_count": 79897,
+    "photos_locked": false,
+    "universal_search_rank": 79897,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 2047,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Symplocarpus_foetidus",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Eastern Skunk Cabbage"
+  }
+}

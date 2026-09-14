@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-243821460",
+  "targetId": "inat-taxon-7109",
+  "scientificName": "Lophodytes cucullatus",
+  "nameJa": "オウギアイサ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:23:16+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:23:16+00:00",
+  "files": {
+    "master": "images/lophodytes-cucullatus/inat-243821460.jpg",
+    "web": "images/lophodytes-cucullatus/inat-243821460.webp",
+    "thumbnail": "images/lophodytes-cucullatus/inat-243821460-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 686000,
+    "web": 115724,
+    "thumbnail": 10112
+  },
+  "sha256": {
+    "download": "1d0386a08ce9da7a33ab2e36f93f085d4f223f40ce3ba50306d46bd38a339371",
+    "master": "0a534d4f8d4c034c1284278b572341e902691170d20e21fb4df4777ac0eaa4a2",
+    "web": "23776efd8022df7469ee4d6bbd20b1b96bf993c35b1816461caa955e0228de0d"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Lophodytes cucullatus [Lophodytes cucullatus] — Justin Flint / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/243821460. Original attribution: (c) Justin Flint, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Lophodytes cucullatus",
+  "sourceId": "243821460",
+  "photoUrl": "https://www.inaturalist.org/photos/243821460",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243821460/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243821460/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Justin Flint",
+  "originalAttribution": "(c) Justin Flint, some rights reserved (CC BY)",
+  "taxonId": 7109,
+  "acceptedScientificName": "Lophodytes cucullatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/142235980",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 243821460,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/243821460/square.jpg",
+    "attribution": "(c) Justin Flint, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/6888/6912/7108",
+    "min_species_ancestry": "48460,1,2,355675,3,6888,6912,7108,7109",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 7109,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 7108,
+    "name": "Lophodytes cucullatus",
+    "rank": "species",
+    "extinct": false,
+    "id": 7109,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      6888,
+      6912,
+      7108,
+      7109
+    ],
+    "created_at": "2008-03-13T02:53:20+00:00",
+    "default_photo": {
+      "id": 604065377,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) kitsun3, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604065377/square.jpg",
+      "original_dimensions": {
+        "height": 1367,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "kitsun3",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604065377/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604065377/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 81423,
+    "photos_locked": false,
+    "universal_search_rank": 81423,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 144567,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hooded_merganser",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Hooded Merganser"
+  }
+}

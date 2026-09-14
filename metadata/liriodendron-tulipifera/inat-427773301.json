@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-427773301",
+  "targetId": "inat-taxon-53582",
+  "scientificName": "Liriodendron tulipifera",
+  "nameJa": "ユリノキ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:33+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:33+00:00",
+  "files": {
+    "master": "images/liriodendron-tulipifera/inat-427773301.jpg",
+    "web": "images/liriodendron-tulipifera/inat-427773301.webp",
+    "thumbnail": "images/liriodendron-tulipifera/inat-427773301-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1427319,
+    "web": 328696,
+    "thumbnail": 18626
+  },
+  "sha256": {
+    "download": "39d6ebb1b9079186a26041319344c86bdd26022b862895c1a69bed3a9d6e63f5",
+    "master": "baac494fa0899fe5619a164649ce836920ded769c9f824707e79035b7ed445c5",
+    "web": "d3e2d0dd0afabac953ecb0145df3a2222480baf0468cde9591d05db698053b20"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Liriodendron tulipifera [Liriodendron tulipifera] — Michael J. Papay / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/427773301. Original attribution: (c) Michael J. Papay, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Liriodendron tulipifera",
+  "sourceId": "427773301",
+  "photoUrl": "https://www.inaturalist.org/photos/427773301",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/427773301/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/427773301/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Michael J. Papay",
+  "originalAttribution": "(c) Michael J. Papay, some rights reserved (CC BY)",
+  "taxonId": 53582,
+  "acceptedScientificName": "Liriodendron tulipifera",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/240131367",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.194285714285714,
+  "photoApiEvidence": {
+    "id": 427773301,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/427773301/square.jpeg",
+    "attribution": "(c) Michael J. Papay, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/50898/53581/1529504/53580",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,50898,53581,1529504,53580,53582",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 53582,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 53580,
+    "name": "Liriodendron tulipifera",
+    "rank": "species",
+    "extinct": false,
+    "id": 53582,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      50898,
+      53581,
+      1529504,
+      53580,
+      53582
+    ],
+    "created_at": "2009-10-04T07:54:34+00:00",
+    "default_photo": {
+      "id": 867903,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Kew on Flickr, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/867903/square.jpg",
+      "original_dimensions": {
+        "height": 1282,
+        "width": 1920
+      },
+      "flags": [],
+      "attribution_name": "Kew on Flickr",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/867903/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/867903/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 6,
+    "observations_count": 106218,
+    "photos_locked": false,
+    "universal_search_rank": 106218,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Liriodendron_tulipifera",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "American tuliptree"
+  }
+}

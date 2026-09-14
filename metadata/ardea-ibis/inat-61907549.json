@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-61907549",
+  "targetId": "inat-taxon-411086",
+  "scientificName": "Ardea ibis",
+  "nameJa": "ニシアマサギ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:37+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:37+00:00",
+  "files": {
+    "master": "images/ardea-ibis/inat-61907549.jpg",
+    "web": "images/ardea-ibis/inat-61907549.webp",
+    "thumbnail": "images/ardea-ibis/inat-61907549-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1445
+    ],
+    "master": [
+      2048,
+      1445
+    ],
+    "web": [
+      1400,
+      988
+    ]
+  },
+  "bytes": {
+    "master": 655170,
+    "web": 156502,
+    "thumbnail": 11068
+  },
+  "sha256": {
+    "download": "884d72b1c6c3600cbc4504f01ebed9c469fa273afcfe0339fab09cb57aefb568",
+    "master": "ef42199cff26305aaeda9f9472be00a08237bdd9e9ade94c3109ea453faeecb1",
+    "web": "08b229d9e6aecfb88d10e8b7ad817e1c62511984e99eeebc369a9a44d42431cd"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Ardea ibis [Ardea ibis] — Lyndsey / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/61907549. Original attribution: (c) Lyndsey, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ardea ibis",
+  "sourceId": "61907549",
+  "photoUrl": "https://www.inaturalist.org/photos/61907549",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61907549/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61907549/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Lyndsey",
+  "originalAttribution": "(c) Lyndsey, some rights reserved (CC BY)",
+  "taxonId": 411086,
+  "acceptedScientificName": "Ardea ibis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/38998088",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.064285714285715,
+  "photoApiEvidence": {
+    "id": 61907549,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1445
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61907549/square.jpg",
+    "attribution": "(c) Lyndsey, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67566/4929/597395/4950",
+    "min_species_ancestry": "48460,1,2,355675,3,67566,4929,597395,4950,411086",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 411086,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 4950,
+    "name": "Ardea ibis",
+    "rank": "species",
+    "extinct": false,
+    "id": 411086,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67566,
+      4929,
+      597395,
+      4950,
+      411086
+    ],
+    "created_at": "2014-06-12T21:20:48+00:00",
+    "default_photo": {
+      "id": 278764160,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Алексей Сизов, some rights reserved (CC BY-NC), uploaded by Алексей Сизов",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278764160/square.jpg",
+      "original_dimensions": {
+        "height": 758,
+        "width": 975
+      },
+      "flags": [],
+      "attribution_name": "Алексей Сизов",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278764160/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278764160/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 2,
+    "observations_count": 100711,
+    "photos_locked": false,
+    "universal_search_rank": 100711,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 123626,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cattle_egret",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Western Cattle-Egret"
+  }
+}

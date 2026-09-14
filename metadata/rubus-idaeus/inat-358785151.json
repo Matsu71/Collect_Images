@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-358785151",
+  "targetId": "inat-taxon-54436",
+  "scientificName": "Rubus idaeus",
+  "nameJa": "エゾイチゴ（広義）",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:22:51+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:22:51+00:00",
+  "files": {
+    "master": "images/rubus-idaeus/inat-358785151.jpg",
+    "web": "images/rubus-idaeus/inat-358785151.webp",
+    "thumbnail": "images/rubus-idaeus/inat-358785151-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 264861,
+    "web": 93888,
+    "thumbnail": 9126
+  },
+  "sha256": {
+    "download": "466b4f6143461bba1fa9df8c8f3d4f3b0e7fff6ffd4933bcae0977f266a8f22f",
+    "master": "340c1f2e709cd18a71dc7ab8cc7ca0dfd74418554efef3f1b1172ceaeb9df39e",
+    "web": "39982c5038a9d145dcbc93ed0ceadd526b3c6b13eabd9bfeececf3cbf34d8ed6"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Rubus idaeus [Rubus idaeus] — Ole Husby / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/358785151. Original attribution: (c) Ole Husby, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Rubus idaeus",
+  "sourceId": "358785151",
+  "photoUrl": "https://www.inaturalist.org/photos/358785151",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/358785151/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/358785151/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Ole Husby",
+  "originalAttribution": "(c) Ole Husby, some rights reserved (CC BY-SA)",
+  "taxonId": 54436,
+  "acceptedScientificName": "Rubus idaeus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.194285714285714,
+  "photoApiEvidence": {
+    "id": 358785151,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Ole Husby, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358785151/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Ole Husby",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358785151/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358785151/medium.jpg"
+  },
+  "observationTaxon": null
+}

@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-299935449",
+  "targetId": "inat-taxon-966205",
+  "scientificName": "Alnus glutinosa",
+  "nameJa": "ヨーロッパハンノキ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:22:54+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:22:54+00:00",
+  "files": {
+    "master": "images/alnus-glutinosa/inat-299935449.jpg",
+    "web": "images/alnus-glutinosa/inat-299935449.webp",
+    "thumbnail": "images/alnus-glutinosa/inat-299935449-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 707895,
+    "web": 153392,
+    "thumbnail": 12968
+  },
+  "sha256": {
+    "download": "d5133eb4f9d5dae30d3631811da1e3e1495e0e2697e0e663f7dc333243de84f1",
+    "master": "a3bd36597de8e60187303b5ccca286c5454ea7ba47a0f70568c7b2a0a9e033e5",
+    "web": "1f609e630b86bba63d2a39b8e726f1dd99e5ccb9fd250dafaf59d36f03f37798"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Alnus glutinosa [Alnus glutinosa] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/299935449. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Alnus glutinosa",
+  "sourceId": "299935449",
+  "photoUrl": "https://www.inaturalist.org/photos/299935449",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/299935449/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/299935449/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 966205,
+  "acceptedScientificName": "Alnus glutinosa",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/172754338",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 299935449,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/299935449/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47853/49155/53352",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47853,49155,53352,966205",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 966205,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 53352,
+    "name": "Alnus glutinosa",
+    "rank": "species",
+    "extinct": false,
+    "id": 966205,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47853,
+      49155,
+      53352,
+      966205
+    ],
+    "provisional": false,
+    "created_at": "2019-11-18T11:12:38+00:00",
+    "default_photo": {
+      "id": 81792129,
+      "license_code": null,
+      "attribution": "(c) wojtest, all rights reserved, uploaded by wojtest",
+      "url": "https://static.inaturalist.org/photos/81792129/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "wojtest",
+      "square_url": "https://static.inaturalist.org/photos/81792129/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/81792129/medium.jpeg"
+    },
+    "taxon_changes_count": 3,
+    "taxon_schemes_count": 1,
+    "observations_count": 57523,
+    "photos_locked": false,
+    "universal_search_rank": 57523,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 23836,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alnus_glutinosa",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "common alder"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-449239822",
+  "targetId": "inat-taxon-126889",
+  "scientificName": "Toxomerus marginatus",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:43+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:43+00:00",
+  "files": {
+    "master": "images/toxomerus-marginatus/inat-449239822.jpg",
+    "web": "images/toxomerus-marginatus/inat-449239822.webp",
+    "thumbnail": "images/toxomerus-marginatus/inat-449239822-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 429659,
+    "web": 93186,
+    "thumbnail": 8650
+  },
+  "sha256": {
+    "download": "6918f681e75ebb8f17a48c8cd04dbe88e5cdbf3642943fb106fd02a67e630d24",
+    "master": "50c28c9e0b493daeaf87d3430e1fa222c29241b632a4f8c78e75cfb0403d1c14",
+    "web": "ca2cc22243e585ea07fd1e8d66ad4785bc33271e7cbc853363b901f7226846b6"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Toxomerus marginatus [Toxomerus marginatus] — Corey Farwell / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/449239822. Original attribution: (c) Corey Farwell, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Toxomerus marginatus",
+  "sourceId": "449239822",
+  "photoUrl": "https://www.inaturalist.org/photos/449239822",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/449239822/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/449239822/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Corey Farwell",
+  "originalAttribution": "(c) Corey Farwell, some rights reserved (CC BY)",
+  "taxonId": 126889,
+  "acceptedScientificName": "Toxomerus marginatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/251108405",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.259047619047618,
+  "photoApiEvidence": {
+    "id": 449239822,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449239822/square.jpg",
+    "attribution": "(c) Corey Farwell, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47822/48091/372853/414448/49995/186841/121991/58753",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47822,48091,372853,414448,49995,186841,121991,58753,126889",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 126889,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 58753,
+    "name": "Toxomerus marginatus",
+    "rank": "species",
+    "extinct": false,
+    "id": 126889,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47822,
+      48091,
+      372853,
+      414448,
+      49995,
+      186841,
+      121991,
+      58753,
+      126889
+    ],
+    "provisional": false,
+    "created_at": "2012-04-10T21:53:43+00:00",
+    "default_photo": {
+      "id": 2048760,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Denis Doucet, some rights reserved (CC BY-NC), uploaded by Denis Doucet",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2048760/square.jpg",
+      "original_dimensions": {
+        "height": 1170,
+        "width": 1716
+      },
+      "flags": [],
+      "attribution_name": "Denis Doucet",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2048760/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2048760/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 76248,
+    "photos_locked": false,
+    "universal_search_rank": 76248,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Toxomerus_marginatus",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Margined Calligrapher"
+  }
+}

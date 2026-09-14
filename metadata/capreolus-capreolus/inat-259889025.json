@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-259889025",
+  "targetId": "inat-taxon-42184",
+  "scientificName": "Capreolus capreolus",
+  "nameJa": "ノロジカ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:22:26+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:22:26+00:00",
+  "files": {
+    "master": "images/capreolus-capreolus/inat-259889025.jpg",
+    "web": "images/capreolus-capreolus/inat-259889025.webp",
+    "thumbnail": "images/capreolus-capreolus/inat-259889025-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1538
+    ],
+    "master": [
+      2048,
+      1538
+    ],
+    "web": [
+      1400,
+      1051
+    ]
+  },
+  "bytes": {
+    "master": 395643,
+    "web": 67468,
+    "thumbnail": 7084
+  },
+  "sha256": {
+    "download": "e860686a0855092ce5c27b34d9733398d0224b4fd1d39ed3b7f232ff18fb6b20",
+    "master": "66e81a44b47237f7f80a4635c18c1d74db1444ac459ecece71066d47947db8be",
+    "web": "43ef27473b641ec1bf75e35a4b3835ffcfbd025568fbeab0f13ce1bfd9643fe3"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Capreolus capreolus [Capreolus capreolus] — Sylvain Eichhorn / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/259889025. Original attribution: (c) Sylvain Eichhorn, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Capreolus capreolus",
+  "sourceId": "259889025",
+  "photoUrl": "https://www.inaturalist.org/photos/259889025",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/259889025/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/259889025/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Sylvain Eichhorn",
+  "originalAttribution": "(c) Sylvain Eichhorn, some rights reserved (CC BY)",
+  "taxonId": 42184,
+  "acceptedScientificName": "Capreolus capreolus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/150691686",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.197142857142858,
+  "photoApiEvidence": {
+    "id": 259889025,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1538
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/259889025/square.jpeg",
+    "attribution": "(c) Sylvain Eichhorn, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/424850/42158/846185/846328/42182",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,152870,424850,42158,846185,846328,42182,42184",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 42184,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 42182,
+    "name": "Capreolus capreolus",
+    "rank": "species",
+    "extinct": false,
+    "id": 42184,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      152870,
+      424850,
+      42158,
+      846185,
+      846328,
+      42182,
+      42184
+    ],
+    "created_at": "2008-03-19T00:40:30+00:00",
+    "default_photo": {
+      "id": 180450991,
+      "license_code": null,
+      "attribution": "(c) Titouan Roguet, all rights reserved, uploaded by Titouan Roguet",
+      "url": "https://static.inaturalist.org/photos/180450991/square.jpeg",
+      "original_dimensions": {
+        "height": 1280,
+        "width": 1920
+      },
+      "flags": [],
+      "attribution_name": "Titouan Roguet",
+      "square_url": "https://static.inaturalist.org/photos/180450991/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/180450991/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 92824,
+    "photos_locked": false,
+    "universal_search_rank": 92824,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 3275,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Roe_deer",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Western Roe Deer"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-207247085",
+  "targetId": "inat-taxon-62456",
+  "scientificName": "Rhagonycha fulva",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:56+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:56+00:00",
+  "files": {
+    "master": "images/rhagonycha-fulva/inat-207247085.jpg",
+    "web": "images/rhagonycha-fulva/inat-207247085.webp",
+    "thumbnail": "images/rhagonycha-fulva/inat-207247085-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1515
+    ],
+    "master": [
+      2048,
+      1515
+    ],
+    "web": [
+      1400,
+      1036
+    ]
+  },
+  "bytes": {
+    "master": 305165,
+    "web": 47064,
+    "thumbnail": 4688
+  },
+  "sha256": {
+    "download": "f6931f6ff0193c14f6869c7378054d5c169c05b9edac3f8a3127729b8e8fc365",
+    "master": "6e11db99f57d6dbac0b7bbb28d1e9c70f98a0e997c833588a3f4382bea14d5ea",
+    "web": "f98bdda8ec159e80e1da53e383c00d129df087e988c3baf2e3711081003f654d"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Rhagonycha fulva [Rhagonycha fulva] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/207247085. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Rhagonycha fulva",
+  "sourceId": "207247085",
+  "photoUrl": "https://www.inaturalist.org/photos/207247085",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207247085/original.png",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207247085/original.png",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 62456,
+  "acceptedScientificName": "Rhagonycha fulva",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/122411565",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.497619047619048,
+  "photoApiEvidence": {
+    "id": 207247085,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1515
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/207247085/square.png",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47208/71130/372854/47207/52932/460758/529314/62463",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47208,71130,372854,47207,52932,460758,529314,62463,62456",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 62456,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 62463,
+    "name": "Rhagonycha fulva",
+    "rank": "species",
+    "extinct": false,
+    "id": 62456,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47208,
+      71130,
+      372854,
+      47207,
+      52932,
+      460758,
+      529314,
+      62463,
+      62456
+    ],
+    "provisional": false,
+    "created_at": "2010-07-25T07:14:04+00:00",
+    "default_photo": {
+      "id": 70743865,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Marie Lou Legrand, some rights reserved (CC BY-NC), uploaded by Marie Lou Legrand",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70743865/square.jpg",
+      "original_dimensions": {
+        "height": 1128,
+        "width": 1526
+      },
+      "flags": [],
+      "attribution_name": "Marie Lou Legrand",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70743865/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70743865/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 69857,
+    "photos_locked": false,
+    "universal_search_rank": 69857,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_red_soldier_beetle",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Common Red Soldier Beetle"
+  }
+}

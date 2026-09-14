@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-182783027",
+  "targetId": "inat-taxon-7278",
+  "scientificName": "Aegithalos caudatus",
+  "nameJa": "エナガ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:22:47+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:22:47+00:00",
+  "files": {
+    "master": "images/aegithalos-caudatus/inat-182783027.jpg",
+    "web": "images/aegithalos-caudatus/inat-182783027.webp",
+    "thumbnail": "images/aegithalos-caudatus/inat-182783027-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2047,
+      2048
+    ],
+    "master": [
+      2047,
+      2048
+    ],
+    "web": [
+      1399,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 552024,
+    "web": 67516,
+    "thumbnail": 4048
+  },
+  "sha256": {
+    "download": "d53a76424decb076541c926f24ae52fc220c9f212a12cb8a7f95dab0bdbd3a3a",
+    "master": "a8608a6e9be635e7ae0349e3af006f4b88763b4681dd87a9a2f9d6efb6e57fbf",
+    "web": "eb3f39fdd11ac2590564ef066de0c4d95517e99305c59a34457ad5f8e27ae71b"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Aegithalos caudatus [Aegithalos caudatus] — Валерия Ковалева / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/182783027. Original attribution: (c) Валерия Ковалева, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Aegithalos caudatus",
+  "sourceId": "182783027",
+  "photoUrl": "https://www.inaturalist.org/photos/182783027",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182783027/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182783027/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Валерия Ковалева",
+  "originalAttribution": "(c) Валерия Ковалева, some rights reserved (CC BY)",
+  "taxonId": 7278,
+  "acceptedScientificName": "Aegithalos caudatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/108550471",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.257619047619048,
+  "photoApiEvidence": {
+    "id": 182783027,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2047,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/182783027/square.jpeg",
+    "attribution": "(c) Валерия Ковалева, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/7264/7275",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,7264,7275,7278",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 7278,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 7275,
+    "name": "Aegithalos caudatus",
+    "rank": "species",
+    "extinct": false,
+    "id": 7278,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      7264,
+      7275,
+      7278
+    ],
+    "provisional": false,
+    "created_at": "2008-03-13T02:53:54+00:00",
+    "default_photo": {
+      "id": 115550098,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Luca Boscain, some rights reserved (CC BY-NC), uploaded by Luca Boscain",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115550098/square.jpg",
+      "original_dimensions": {
+        "height": 606,
+        "width": 888
+      },
+      "flags": [],
+      "attribution_name": "Luca Boscain",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115550098/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115550098/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 81628,
+    "photos_locked": false,
+    "universal_search_rank": 81628,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Long-tailed_tit",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Long-tailed Tit"
+  }
+}

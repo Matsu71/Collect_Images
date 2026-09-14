@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-30041591",
+  "targetId": "inat-taxon-48505",
+  "scientificName": "Junonia coenia",
+  "nameJa": "アメリカタテハモドキ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:29+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:29+00:00",
+  "files": {
+    "master": "images/junonia-coenia/inat-30041591.jpg",
+    "web": "images/junonia-coenia/inat-30041591.webp",
+    "thumbnail": "images/junonia-coenia/inat-30041591-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1442
+    ],
+    "master": [
+      2048,
+      1442
+    ],
+    "web": [
+      1400,
+      986
+    ]
+  },
+  "bytes": {
+    "master": 753031,
+    "web": 189808,
+    "thumbnail": 18930
+  },
+  "sha256": {
+    "download": "601e8dc543a819301eaf4715ca0bc493bf54fafbf75583bee585e62fca9fd6f9",
+    "master": "4d63f1520fc69f3d1e07b90490a3b2afd7c23e90cf313663215f8048dc26b939",
+    "web": "2096def5804b8f87cebe33c93694a0766f11573ec95253f632a42c6e9c52668c"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Junonia coenia [Junonia coenia] — skitterbug / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/30041591. Original attribution: (c) skitterbug, some rights reserved (CC BY), uploaded by skitterbug. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Junonia coenia",
+  "sourceId": "30041591",
+  "photoUrl": "https://www.inaturalist.org/photos/30041591",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30041591/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30041591/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "skitterbug",
+  "originalAttribution": "(c) skitterbug, some rights reserved (CC BY), uploaded by skitterbug",
+  "taxonId": 48505,
+  "acceptedScientificName": "Junonia coenia",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.06,
+  "photoApiEvidence": {
+    "id": 30041591,
+    "license_code": "cc-by",
+    "attribution": "(c) skitterbug, some rights reserved (CC BY), uploaded by skitterbug",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30041591/square.jpg",
+    "original_dimensions": {
+      "height": 1442,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "skitterbug",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30041591/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30041591/medium.jpg"
+  },
+  "observationTaxon": null
+}

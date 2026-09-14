@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-61258110",
+  "targetId": "inat-taxon-145360",
+  "scientificName": "Chloris chloris",
+  "nameJa": "アオカワラヒワ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:22:10+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:22:10+00:00",
+  "files": {
+    "master": "images/chloris-chloris/inat-61258110.jpg",
+    "web": "images/chloris-chloris/inat-61258110.webp",
+    "thumbnail": "images/chloris-chloris/inat-61258110-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1595
+    ],
+    "master": [
+      2048,
+      1595
+    ],
+    "web": [
+      1400,
+      1090
+    ]
+  },
+  "bytes": {
+    "master": 395020,
+    "web": 108320,
+    "thumbnail": 10084
+  },
+  "sha256": {
+    "download": "c8bd24b1d97af18f18bba9babd0710ee27254b68c835c8866bbd2c807eead488",
+    "master": "337c93cfc742203aeeef92aa671f9fd8c0e3ff4002a9ca818c781f23884efbc4",
+    "web": "8a5bfadacc42c3ff64af656e51a5fca696ec55de559ad4f6d2b6146f8a8f3752"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Chloris chloris [Chloris chloris] — Martin Kunz / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/61258110. Original attribution: (c) Martin Kunz, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Chloris chloris",
+  "sourceId": "61258110",
+  "photoUrl": "https://www.inaturalist.org/photos/61258110",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61258110/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61258110/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Martin Kunz",
+  "originalAttribution": "(c) Martin Kunz, some rights reserved (CC BY)",
+  "taxonId": 145360,
+  "acceptedScientificName": "Chloris chloris",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.278571428571428,
+  "photoApiEvidence": {
+    "id": 61258110,
+    "license_code": "cc-by",
+    "attribution": "(c) Martin Kunz, some rights reserved (CC BY)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61258110/square.jpg",
+    "original_dimensions": {
+      "height": 1595,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Martin Kunz",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61258110/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61258110/medium.jpg"
+  },
+  "observationTaxon": null
+}

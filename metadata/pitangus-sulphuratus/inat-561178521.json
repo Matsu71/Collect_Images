@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-561178521",
+  "targetId": "inat-taxon-16956",
+  "scientificName": "Pitangus sulphuratus",
+  "nameJa": "キバラオオタイランチョウ",
+  "collectionTier": "extension",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:53+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:53+00:00",
+  "files": {
+    "master": "images/pitangus-sulphuratus/inat-561178521.jpg",
+    "web": "images/pitangus-sulphuratus/inat-561178521.webp",
+    "thumbnail": "images/pitangus-sulphuratus/inat-561178521-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 469479,
+    "web": 124442,
+    "thumbnail": 7482
+  },
+  "sha256": {
+    "download": "a78c3ed34e4709c57e56d5381ebd1b339a3d1f079943f2162ce93bd568c602d6",
+    "master": "47fe5f8126a1aac40e244ab7be5344f49b7d7a7e450698b72540d43fe106cb37",
+    "web": "d0cfae5e9add76cc60226c2ebdcab1a66c806d723a0f7c7417b40495f74d6289"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Pitangus sulphuratus [Pitangus sulphuratus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/561178521. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Pitangus sulphuratus",
+  "sourceId": "561178521",
+  "photoUrl": "https://www.inaturalist.org/photos/561178521",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/561178521/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/561178521/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 16956,
+  "acceptedScientificName": "Pitangus sulphuratus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/310913377",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.616666666666667,
+  "photoApiEvidence": {
+    "id": 561178521,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561178521/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/980017/16952",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,980017,16952,16956",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 16956,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 16952,
+    "name": "Pitangus sulphuratus",
+    "rank": "species",
+    "extinct": false,
+    "id": 16956,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      980017,
+      16952,
+      16956
+    ],
+    "created_at": "2008-03-13T03:33:05+00:00",
+    "default_photo": {
+      "id": 1766279,
+      "license_code": "cc-by-sa",
+      "attribution": "(c) Dario Sanches, some rights reserved (CC BY-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1766279/square.jpg",
+      "original_dimensions": {
+        "height": 676,
+        "width": 640
+      },
+      "flags": [],
+      "attribution_name": "Dario Sanches",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1766279/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1766279/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 83324,
+    "photos_locked": false,
+    "universal_search_rank": 83324,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_kiskadee",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Great Kiskadee"
+  }
+}
