@@ -5,12 +5,21 @@
   "scientificName": "Plasmodium falciparum",
   "nameJa": "熱帯熱マラリア原虫",
   "collectionTier": "chronoearth",
-  "origin": "unverified_photo_candidate",
-  "status": "pending_review",
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
   "visualReview": {
-    "status": "pending",
-    "recommendedRole": "pending",
-    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "b396ad94054cd129c3aa8d9dc141127683801971",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 453,
+    "reviewFile": "reviews/screening-stage03.json",
+    "noteJa": "顕微鏡像ですが、対象の細胞内の構造がこの一覧では不明瞭。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
   },
   "rightsReview": {
     "status": "allowed_license_metadata_verified",

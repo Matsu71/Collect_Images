@@ -5,12 +5,21 @@
   "scientificName": "Fringilla coelebs",
   "nameJa": "ズアオアトリ",
   "collectionTier": "extension",
-  "origin": "unverified_photo_candidate",
-  "status": "pending_review",
+  "origin": "rejected_asset",
+  "status": "excluded",
   "visualReview": {
-    "status": "pending",
-    "recommendedRole": "pending",
-    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+    "status": "screened",
+    "recommendedRole": "exclude",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "b396ad94054cd129c3aa8d9dc141127683801971",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 232,
+    "reviewFile": "reviews/screening-stage03.json",
+    "noteJa": "枝葉が主体で、鳥の姿が不明瞭です。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
   },
   "rightsReview": {
     "status": "allowed_license_metadata_verified",

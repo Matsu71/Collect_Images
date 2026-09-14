@@ -5,12 +5,21 @@
   "scientificName": "Noctiluca scintillans",
   "nameJa": "ヤコウチュウ",
   "collectionTier": "chronoearth",
-  "origin": "unverified_photo_candidate",
-  "status": "pending_review",
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
   "visualReview": {
-    "status": "pending",
-    "recommendedRole": "pending",
-    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "b396ad94054cd129c3aa8d9dc141127683801971",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 379,
+    "reviewFile": "reviews/screening-stage03.json",
+    "noteJa": "夜光虫による発光の環境写真。個々の夜光虫の姿は写っていません。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
   },
   "rightsReview": {
     "status": "allowed_license_metadata_verified",

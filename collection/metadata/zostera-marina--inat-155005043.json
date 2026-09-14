@@ -5,12 +5,21 @@
   "scientificName": "Zostera marina",
   "nameJa": "アマモ",
   "collectionTier": "chronoearth",
-  "origin": "unverified_photo_candidate",
-  "status": "pending_review",
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
   "visualReview": {
-    "status": "pending",
-    "recommendedRole": "pending",
-    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "contact_sheet_composition_screening",
+    "snapshotCommit": "b396ad94054cd129c3aa8d9dc141127683801971",
+    "snapshotIndexPath": "gallery/sheet-index.json",
+    "snapshotNumber": 615,
+    "reviewFile": "reviews/screening-stage03.json",
+    "noteJa": "打ち上げられた海草の補足写真。自然な水中の生育姿とは区別。",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified",
+    "fullResolutionInspection": "not_performed"
   },
   "rightsReview": {
     "status": "allowed_license_metadata_verified",
