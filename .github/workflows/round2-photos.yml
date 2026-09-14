@@ -1,0 +1,89 @@
+name: Collect remaining photo gaps round 2
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/round2-photos.yml
+      - round2-requests/**
+permissions:
+  contents: write
+concurrency:
+  group: reviewed-photo-collection
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /curation/
+            /scripts/
+            /tools/
+            /data/
+            /reports/
+            /reviews/
+            /metadata/
+            /reference/metadata/
+            /batches/*/candidates.json
+            /batches/gaps-round2-20260914/
+            /README.md
+            /AGENTS.md
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install 'requests>=2.32,<3' 'Pillow>=11,<13'
+      - name: Collect new candidates or save explicitly reviewed photographs
+        run: |
+          python -m py_compile curation/round2_photos.py
+          if [ -f reviews/round2-decisions-20260914.json ]; then
+            git sparse-checkout disable
+            python -u curation/round2_photos.py adopt
+            python -u curation/round2_photos.py rebuild
+            python tools/export_collection.py --output "$RUNNER_TEMP/round2-portable"
+            python tools/build_export_gallery.py "$RUNNER_TEMP/round2-portable"
+          elif [ ! -f batches/gaps-round2-20260914/candidates.json ]; then
+            python -u curation/round2_photos.py gather
+          else
+            echo 'Immutable candidates already stored; review is required before adoption.'
+          fi
+      - name: Commit downloaded files and evidence
+        if: always()
+        run: |
+          git config user.name 'Collect Images bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add --sparse batches/gaps-round2-20260914 reference/metadata reports/ README.md
+          if [ -d reference/images ]; then git add reference/images collection; fi
+          if ! git diff --cached --quiet; then
+            git commit -m 'Save round-2 photo assets and review evidence [skip ci]'
+            pushed=false
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push origin HEAD:main; then pushed=true; break; fi
+              sleep $((attempt * 5))
+            done
+            test "$pushed" = true
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: round2-photo-review
+          path: |
+            batches/gaps-round2-20260914/sheets/
+            batches/gaps-round2-20260914/candidates.json
+            batches/gaps-round2-20260914/status.json
+            batches/gaps-round2-20260914/results.json
+            batches/gaps-round2-20260914/adoption.json
+            reports/continuation-round2-20260914.json
+            reports/curation-status.json
+          retention-days: 7
+      - uses: actions/upload-artifact@v4
+        if: success()
+        with:
+          name: round2-portable-species-photos
+          path: ${{ runner.temp }}/round2-portable/
+          if-no-files-found: ignore
+          retention-days: 7
