@@ -12,17 +12,29 @@ Acer campestre, Sant Sadurní d'Osormort [Acer campestre] — Josep Gesti / Wiki
 
 Acer campestre in Appennino2 [Acer campestre] — Galloramenu / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Acer_campestre_in_Appennino2.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Acer campestre მთის ბოკვი (2) [Acer campestre] — Lazaregagnidze / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Acer_campestre_%E1%83%9B%E1%83%97%E1%83%98%E1%83%A1_%E1%83%91%E1%83%9D%E1%83%99%E1%83%95%E1%83%98_(2).jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+2015 Feldahorn 8611 [Acer campestre] — NobbiP / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); source: https://commons.wikimedia.org/wiki/File:2015_Feldahorn_8611.jpg. Original attribution: NobbiP. Resized and re-encoded; no subject alteration.
+
 Полски клен - цъфтеж [Acer campestre] — Димитър Найденов / Dimìtar Nàydenov / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BB%D1%81%D0%BA%D0%B8_%D0%BA%D0%BB%D0%B5%D0%BD_-_%D1%86%D1%8A%D1%84%D1%82%D0%B5%D0%B6.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Acer campestre [Acer campestre] — Peter O'Connor / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/10778. Original attribution: (c) Peter O'Connor, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
+
+Acer campestre [Acer campestre] — Andrea Mologni / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/597811219. Original attribution: (c) Andrea Mologni, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
+
+Box elder (Acer negundo) tree in front of the Holiday Inn Express Lisbon - Plaza Saldanha Hotel, Lisbon, Portugal julesvernex2 [Acer negundo] — Jules Verne Times Two / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Box_elder_(Acer_negundo)_tree_in_front_of_the_Holiday_Inn_Express_Lisbon_-_Plaza_Saldanha_Hotel,_Lisbon,_Portugal_julesvernex2.jpg. Original attribution: Own work http://julesvernex2.com. Resized and re-encoded; no subject alteration.
 
 Acer negundo Klon jesionolistny 2023-04-15 Sołtysowice 01 [Acer negundo] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Acer_negundo_Klon_jesionolistny_2023-04-15_So%C5%82tysowice_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Acer negundo Klon jesionolistny 2023-04-15 Sołtysowice 05 [Acer negundo] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Acer_negundo_Klon_jesionolistny_2023-04-15_So%C5%82tysowice_05.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Acer negundo Klon jesionolistny 2023-04-15 Sołtysowice 02 [Acer negundo] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Acer_negundo_Klon_jesionolistny_2023-04-15_So%C5%82tysowice_02.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Acer negundo Klon jesionolistny 2020-04-19 04 [Acer negundo] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Acer_negundo_Klon_jesionolistny_2020-04-19_04.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Acer negundo [Acer negundo] — Jody Shugart / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/30907600. Original attribution: (c) Jody Shugart, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Acer negundo [Acer negundo] — Sandy Wolkenberg / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/357374212. Original attribution: (c) Sandy Wolkenberg, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Acer negundo [Acer negundo] — Jay Pruett / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/486113480. Original attribution: (c) Jay Pruett, some rights reserved (CC BY), uploaded by Jay Pruett. Resized and re-encoded; no subject alteration.
 
@@ -33,6 +45,8 @@ Acer platanoides Klon zwyczajny 2024-05-01 Wleń 02 [Acer platanoides] — Agnie
 Acer platanoides 2018-04-20 9217 [Acer platanoides] — Salicyna / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Acer_platanoides_2018-04-20_9217.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Spitz-Ahorn(mbo) [Acer platanoides] — Martin Bobka (= Martin120 ) / Wikimedia Commons, CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5); source: https://commons.wikimedia.org/wiki/File:Spitz-Ahorn(mbo).jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Acer platanoides Klon zwyczajny 2020-04-19 04 [Acer platanoides] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Acer_platanoides_Klon_zwyczajny_2020-04-19_04.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Acer platanoides [Acer platanoides] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/277389111. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -94,7 +108,11 @@ Red-eyed Tree Frog (Agalychnis callidryas) 1 [Agalychnis callidryas] — Red-eye
 
 Agalychnis callidryas [Agalychnis callidryas] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/390989400. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Champignon comestible (27564422930) [Agaricus bisporus] — sergio niebla from Cd. Victoria, Tamaulipas, México / Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0); source: https://commons.wikimedia.org/wiki/File:Champignon_comestible_(27564422930).jpg. Original attribution: Champignon comestible. Resized and re-encoded; no subject alteration.
+
 Agaricus bisporus G4 [Agaricus bisporus] — Jerzy Opioła / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Agaricus_bisporus_G4.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Champiñón común o champiñón de París [Agaricus bisporus] — Diógenes el Filósofo / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Champi%C3%B1%C3%B3n_com%C3%BAn_o_champi%C3%B1%C3%B3n_de_Par%C3%ADs.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 2016-01 Agaricus bisporus 07 [Agaricus bisporus] — 0x010C / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:2016-01_Agaricus_bisporus_07.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -108,7 +126,13 @@ Ageratina altissima kz04 [Ageratina altissima] — Krzysztof Ziarnek, Kenraiz / 
 
 Ageratina altissima kz03 [Ageratina altissima] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Ageratina_altissima_kz03.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Ageratina altissima (dkrb)-2 [Ageratina altissima] — Drahkrub . Attribution must include the URL http://de.wikipedia.org/wiki/Benutzer:Drahkrub . / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Ageratina_altissima_(dkrb)-2.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Ageratina altissima kz02 [Ageratina altissima] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Ageratina_altissima_kz02.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Ageratina altissima 001 [Ageratina altissima] — [H. Zell] / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Ageratina_altissima_001.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Ageratina altissima [Ageratina altissima] — Owen Strickland / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/47894654. Original attribution: (c) Owen Strickland, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Ageratina altissima [Ageratina altissima] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/597818729. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -190,7 +214,13 @@ Amblyrhynchus cristatus (3838137696) [Amblyrhynchus cristatus] — RAF-YYC from 
 
 Amblyrhynchus cristatus [Amblyrhynchus cristatus] — Shawn O'Donnell / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/29325793. Original attribution: (c) Shawn O'Donnell, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Amborella2 [Amborella trichopoda] — Mike Bayly / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Amborella2.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Amborella trichopoda [Amborella trichopoda] — Scott Zona from Miami, Florida, USA / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Amborella_trichopoda.jpg. Original attribution: Amborella trichopoda. Resized and re-encoded; no subject alteration.
+
+Amborella trichopoda 5235301 [Amborella trichopoda] — naturewatchwidow / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Amborella_trichopoda_5235301.jpg. Original attribution: https://www.inaturalist.org/photos/5235301. Resized and re-encoded; no subject alteration.
+
+Amborella trichopoda 5235298 [Amborella trichopoda] — naturewatchwidow / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Amborella_trichopoda_5235298.jpg. Original attribution: https://www.inaturalist.org/photos/5235298. Resized and re-encoded; no subject alteration.
 
 Amborella trichopoda 3 [Amborella trichopoda] — Stan Shebs / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Amborella_trichopoda_3.jpg. Original attribution: Stan Shebs. Resized and re-encoded; no subject alteration.
 
@@ -310,9 +340,13 @@ SGI-2016-South Georgia (Fortuna Bay)–King penguin (Aptenodytes patagonicus) 04
 
 Aptenodytes patagonicus [Aptenodytes patagonicus] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/278800586. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Apteryx mantelli -Rotorua, North Island, New Zealand-8a [Apteryx mantelli] — The.Rohit / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Apteryx_mantelli_-Rotorua,_North_Island,_New_Zealand-8a.jpg. Original attribution: Elusive Kiwi Uploaded by Snowmanradio. Resized and re-encoded; no subject alteration.
+
 Apteryx mantelli kivi hnědý Muzeum východních Čech [Apteryx mantelli] — Lukáš Nekolný / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Apteryx_mantelli_kivi_hn%C4%9Bd%C3%BD_Muzeum_v%C3%BDchodn%C3%ADch_%C4%8Cech.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Ma - Apteryx mantelli - 1 [Apteryx mantelli] — Emőke Dénes / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Ma_-_Apteryx_mantelli_-_1.jpg. Original attribution: kindly granted by the author. Resized and re-encoded; no subject alteration.
+
+Apteryx mantelli [Apteryx mantelli] — Shaun Lee / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/200349074. Original attribution: (c) Shaun Lee, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 015 Wild Golden Eagle in flight at Pfyn-Finges (Switzerland) Photo by Giles Laurent [Aquila chrysaetos] — Giles Laurent / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_(Switzerland)_Photo_by_Giles_Laurent.jpg. Original attribution: © Giles Laurent , gileslaurent.com , License CC BY-SA. Resized and re-encoded; no subject alteration.
 
@@ -340,7 +374,11 @@ Archilochus colubris -flying -male-8 [Archilochus colubris] — jeffreyw / Wikim
 
 Archilochus colubris [Archilochus colubris] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/314800928. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Architeuthis dux specimen F 74346 [Architeuthis dux] — Benjamin Healley, Museums Victoria / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Architeuthis_dux_specimen_F_74346.jpg. Original attribution: Museums Victoria. Resized and re-encoded; no subject alteration.
+
 Architeuthis dux NHMD-141565 [Architeuthis dux] — Natural History Museum of Denmark / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Architeuthis_dux_NHMD-141565.png. Original attribution: https://www.gbif.org/occurrence/3314934541. Resized and re-encoded; no subject alteration.
+
+Architeuthis dux holotype (arm fragment) [Architeuthis dux] — Natural History Museum of Denmark / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Architeuthis_dux_holotype_(arm_fragment).png. Original attribution: https://www.gbif.org/occurrence/3314924447. Resized and re-encoded; no subject alteration.
 
 Giant squid Ranheim [Architeuthis dux] — NTNU Vitenskapsmuseet / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Giant_squid_Ranheim.jpg. Original attribution: Kjempeblekksprut - Giant Squid Uploaded by Arsenikk. Resized and re-encoded; no subject alteration.
 
@@ -460,7 +498,11 @@ Azolla filiculoides [Azolla filiculoides] — Kevin Thiele / iNaturalist, CC BY 
 
 Rabarberi juure ekstrakti mõju Bacillus subtilise kasvule [Bacillus subtilis] — Mati Roasto / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Rabarberi_juure_ekstrakti_m%C3%B5ju_Bacillus_subtilise_kasvule.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Beautiful Bacillus subtilis bacterial growth under the microscope 03 [Bacillus subtilis] — Korinna / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Beautiful_Bacillus_subtilis_bacterial_growth_under_the_microscope_03.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Colonies of Bacillus subtilis (1 day and 3 day old) [Bacillus subtilis] — О2016льга / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Colonies_of_Bacillus_subtilis_(1_day_and_3_day_old).jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Bacillus subtilis QST 713 and Rhizoctonia solani antogonism [Bacillus subtilis] — Brauna55 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Bacillus_subtilis_QST_713_and_Rhizoctonia_solani_antogonism.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Bacillus subtilis colonies [Bacillus subtilis] — Debivort at English Wikipedia / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); source: https://commons.wikimedia.org/wiki/File:Bacillus_subtilis_colonies.jpg. Original attribution: Debivort at the English Wikipedia. Resized and re-encoded; no subject alteration.
 
@@ -477,6 +519,10 @@ Balaeniceps rex [Balaeniceps rex] — Annika Lindqvist / iNaturalist, CC BY 4.0 
 2023-08-04 Blue whale Isfjord Svalbard 01 [Balaenoptera musculus] — Carina Gsottbauer / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:2023-08-04_Blue_whale_Isfjord_Svalbard_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 2023-08-04 Blue whale Isfjord Svalbard 04 [Balaenoptera musculus] — Carina Gsottbauer / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:2023-08-04_Blue_whale_Isfjord_Svalbard_04.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+2023-08-04 Blue whale Isfjord Svalbard 05 [Balaenoptera musculus] — Carina Gsottbauer / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:2023-08-04_Blue_whale_Isfjord_Svalbard_05.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Antarctic blue whale [Balaenoptera musculus] — photo by Paul Ensor, with support from Canon New Zealand Community Sponsorship Programme. Oregon State University / Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0); source: https://commons.wikimedia.org/wiki/File:Antarctic_blue_whale.jpg. Original attribution: https://www.flickr.com/photos/oregonstateuniversity/6792620078/. Resized and re-encoded; no subject alteration.
 
 Balaenoptera musculus [Balaenoptera musculus] — Tomás Tamagno / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/615864130. Original attribution: (c) Tomás Tamagno, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
@@ -567,6 +613,10 @@ Himbeere (Rubus idaeus) mit Grauschimmel (Botrytis cinerea)-Josef Schlaghecken [
 Dill (Anethum graveolens) Topfpflanze mit einem Grauschimmel (Botrytis cinerea) Befall [Botrytis cinerea] — Schlaghecken Josef / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Dill_(Anethum_graveolens)_Topfpflanze_mit_einem_Grauschimmel_(Botrytis_cinerea)_Befall.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Majoran (Origanum majorana) mit Grauschimmel (Botrytis cinerea)-3-Josef Schlaghecken [Botrytis cinerea] — Schlaghecken Josef / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Majoran_(Origanum_majorana)_mit_Grauschimmel_(Botrytis_cinerea)-3-Josef_Schlaghecken.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Citrus sinensis cubierta con moho 2013 000 [Botrytis cinerea] — Veronidae / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Citrus_sinensis_cubierta_con_moho_2013_000.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Botrytis cinerea [Botrytis cinerea] — Óscar Sampedro / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/245669308. Original attribution: (c) Óscar Sampedro, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Bicho-preguiça 3 [Bradypus variegatus] — Daniella Maraschiello / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Bicho-pregui%C3%A7a_3.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -660,6 +710,10 @@ Caltha palustris [Caltha palustris] — 作者名未取得（CC0・出典参照�
 
 Calypte anna [Calypte anna] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/117315866. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Camellia sinensis 4zz [Camellia sinensis] — Photo by David J. Stang / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Camellia_sinensis_4zz.jpg. Original attribution: source: David Stang. First published at ZipcodeZoo.com. Resized and re-encoded; no subject alteration.
+
+Camellia sinensis 15zz [Camellia sinensis] — Photo by David J. Stang / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Camellia_sinensis_15zz.jpg. Original attribution: source: David Stang. First published at ZipcodeZoo.com. Resized and re-encoded; no subject alteration.
+
 Camellia sinensis in Bao Loc [Camellia sinensis] — P.T.Đ / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Camellia_sinensis_in_Bao_Loc.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Camellia sinensis [Camellia sinensis] — Stuart Cable / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/3431826. Original attribution: (c) Stuart Cable, some rights reserved (CC BY), uploaded by Stuart Cable. Resized and re-encoded; no subject alteration.
@@ -696,9 +750,15 @@ Eurasian wolf 2 [Canis lupus] — User:Mas3cf / Wikimedia Commons, CC BY-SA 4.0 
 
 Huskiesatrest [Canis lupus familiaris] — M. Rehemtulla / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Huskiesatrest.jpg. Original attribution: https://www.flickr.com/photos/quoimedia/5403502096/. Resized and re-encoded; no subject alteration.
 
+Sleeping stray dog in Bangladesh [Canis lupus familiaris] — A S M Jobaer / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Sleeping_stray_dog_in_Bangladesh.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Two reptiliomorphs- a red eared slider turtle (Trachemys scripta elegans) and a crossbreed dog (Canis lupus familiaris) [Canis lupus familiaris] — InkayakuDracohor2.0 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Two_reptiliomorphs-_a_red_eared_slider_turtle_(Trachemys_scripta_elegans)_and_a_crossbreed_dog_(Canis_lupus_familiaris).jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Cannabis sativa plant (4) [Cannabis sativa] — Chmee2 / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Cannabis_sativa_plant_(4).JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Cannabis sativa plant top view 01 [Cannabis sativa] — Jedesto / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Cannabis_sativa_plant_top_view_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Cannabis sativa (15617936339) [Cannabis sativa] — David Gach / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Cannabis_sativa_(15617936339).jpg. Original attribution: WP1_5451. Resized and re-encoded; no subject alteration.
 
 Cannabis sativa 2 [Cannabis sativa] — Thayne Tuason / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Cannabis_sativa_2.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -722,13 +782,19 @@ Capreolus capreolus [Capreolus capreolus] — Sylvain Eichhorn / iNaturalist, CC
 
 Capsella bursa-pastoris [Capsella bursa-pastoris] — Ayotte, Gilles, 1948- / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Capsella_bursa-pastoris_15-p.bot-capse.bupa-03.jpg. Original attribution: Bibliothèque de l'Université Laval. Resized and re-encoded; no subject alteration.
 
+Capsella bursa-pastoris 001 [Capsella bursa-pastoris] — Image details Casio EX ZR1000 Orikrin1998 CC-BY-3.0 / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Capsella_bursa-pastoris_001.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Neuchâtel Herbarium - Capsella bursa-pastoris - NEU000023117 [Capsella bursa-pastoris] — Neuchâtel Herbarium / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Neuch%C3%A2tel_Herbarium_-_Capsella_bursa-pastoris_-_NEU000023117.jpg. Original attribution: This document was created as part of the Neuchâtel Herbarium project .. Resized and re-encoded; no subject alteration.
 
 A Field of Shepherd’s-purse [Capsella bursa-pastoris] — SaltySemanticSchmuck / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:A_Field_of_Shepherd%E2%80%99s-purse.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Capsella bursa-pastoris 001 [Capsella bursa-pastoris] — H. Zell / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Capsella_bursa-pastoris_001.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Capsella bursa-pastoris [Capsella bursa-pastoris] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/141488669. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Capsella bursa-pastoris [Capsella bursa-pastoris] — Javier Sánchez Álvarez / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/175497435. Original attribution: (c) Javier Sánchez Álvarez, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Capsella bursa-pastoris [Capsella bursa-pastoris] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/640730851. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Caracal on the road, early morning in Kgalagadi (36173878220) (cropped) [Caracal caracal] — Derek Keats / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Caracal_on_the_road,_early_morning_in_Kgalagadi_(36173878220)_(cropped).jpg. Original attribution: flickr.com. Resized and re-encoded; no subject alteration.
 
@@ -772,11 +838,17 @@ Carnegiea gigantea in Saguaro National Park near Tucson, Arizona during November
 
 Carnegiea gigantea [Carnegiea gigantea] — Harrison J Elkins / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/137635161. Original attribution: (c) Harrison J Elkins, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+American Beaver, tree cutting [Castor canadensis] — D. Gordon E. Robertson / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:American_Beaver,_tree_cutting.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Beaver font hill 4.27.19 DSC 1064 [Castor canadensis] — lwolfartist / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Beaver_font_hill_4.27.19_DSC_1064.jpg. Original attribution: https://www.flickr.com/photos/151817352@N04/49747699673/. Resized and re-encoded; no subject alteration.
 
 Beaver font hill 4.27.19 DSC 1107 [Castor canadensis] — lwolfartist / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Beaver_font_hill_4.27.19_DSC_1107.jpg. Original attribution: https://www.flickr.com/photos/151817352@N04/49748243206/. Resized and re-encoded; no subject alteration.
 
 Beaver font hill 4.27.19 DSC 1114 [Castor canadensis] — lwolfartist / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Beaver_font_hill_4.27.19_DSC_1114.jpg. Original attribution: https://www.flickr.com/photos/151817352@N04/49748243136/. Resized and re-encoded; no subject alteration.
+
+Beaver bombay hook nwr 5.26.25 DSC 2471-topaz-rawdenoise-sharpen [Castor canadensis] — lwolfartist / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Beaver_bombay_hook_nwr_5.26.25_DSC_2471-topaz-rawdenoise-sharpen.jpg. Original attribution: https://www.flickr.com/photos/151817352@N04/54552681838/. Resized and re-encoded; no subject alteration.
+
+Castor canadensis [Castor canadensis] — Jonathan Eisen / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/564859358. Original attribution: (c) Jonathan Eisen, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Southern Cassowary 7071 [Casuarius casuarius] — Summerdrought / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Southern_Cassowary_7071.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -792,13 +864,19 @@ Panguana-Lupuna-2008-2 [Ceiba pentandra] — Klaus Schönitzer / Wikimedia Commo
 
 Ceiba pentandra [Ceiba pentandra] — Manuel Ortiz / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/32279278. Original attribution: no rights reserved, uploaded by Manuel Ortiz. Resized and re-encoded; no subject alteration.
 
+Celastrus orbiculatus 02 [Celastrus orbiculatus] — Dalgial / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Celastrus_orbiculatus_02.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Celastrus orbiculatus 5501214 [Celastrus orbiculatus] — Leslie J. Mehrhoff, University of Connecticut, Bugwood.org / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Celastrus_orbiculatus_5501214.jpg. Original attribution: This image is Image Number 5501214 at Forestry Images , a source for forest health, natural resources and silviculture images operated by The Bugwood Network at the University of Georgia and the USDA Forest Service . Check archived versions at web.archive / archive.is or on insectimages.org. Resized and re-encoded; no subject alteration.
+
+Celastrus orbiculatus 5507738 [Celastrus orbiculatus] — Richard Rowley, Glastonbury Partners in Planting, Bugwood.org / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Celastrus_orbiculatus_5507738.jpg. Original attribution: This image is Image Number 5507738 at Forestry Images , a source for forest health, natural resources and silviculture images operated by The Bugwood Network at the University of Georgia and the USDA Forest Service . Check archived versions at web.archive / archive.is or on insectimages.org. Resized and re-encoded; no subject alteration.
 
 Celastrus orbiculatus Dławisz okrągłolistny 2017-10-15 01 [Celastrus orbiculatus] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Celastrus_orbiculatus_D%C5%82awisz_okr%C4%85g%C5%82olistny_2017-10-15_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Celastrus orbiculatus [Celastrus orbiculatus] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/329088927. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Celastrus orbiculatus [Celastrus orbiculatus] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/46253725. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Celastrus orbiculatus [Celastrus orbiculatus] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/474660459. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Rote Spornblume (Centranthus ruber) Grüne Brücke [Centranthus ruber] — Sans-prix / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Rote_Spornblume_(Centranthus_ruber)_Gr%C3%BCne_Br%C3%BCcke.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -816,11 +894,17 @@ Cephalanthus occidentalis kz03 [Cephalanthus occidentalis] — Krzysztof Ziarnek
 
 Cephalanthus occidentalis Guzikowiec zachodni 2020-08-07 04 [Cephalanthus occidentalis] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Cephalanthus_occidentalis_Guzikowiec_zachodni_2020-08-07_04.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Buttonbush (Cephalanthus occidentalis) - MacGregor Point Provincial Park 02 [Cephalanthus occidentalis] — Ryan Hodnett / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Buttonbush_(Cephalanthus_occidentalis)_-_MacGregor_Point_Provincial_Park_02.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Cephalanthus occidentalis (পানী কদম ১) [Cephalanthus occidentalis] — দিব্য দত্ত / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Cephalanthus_occidentalis_(%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A7%80_%E0%A6%95%E0%A6%A6%E0%A6%AE_%E0%A7%A7).jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Cephalanthus occidentalis occidentalis1 [Cephalanthus occidentalis] — The Cosmonaut / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Cephalanthus_occidentalis_occidentalis1.jpg. Original attribution: Own work This image was created with darktable .. Resized and re-encoded; no subject alteration.
 
 Cephalanthus occidentalis [Cephalanthus occidentalis] — Michael J. Papay / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/679712269. Original attribution: (c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay. Resized and re-encoded; no subject alteration.
 
 Cephalanthus occidentalis [Cephalanthus occidentalis] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/86076649. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Cephalanthus occidentalis [Cephalanthus occidentalis] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/94791485. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 109 Male White rhinoceros walking in the Kalahari Desert of Namibia Photo by Giles Laurent [Ceratotherium simum] — Giles Laurent / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:109_Male_White_rhinoceros_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -944,9 +1028,15 @@ Clematis vitalba sl4 [Clematis vitalba] — Stefan.lefnaer / Wikimedia Commons, 
 
 Clematis vitalba sl7 [Clematis vitalba] — Stefan.lefnaer / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Clematis_vitalba_sl7.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Clematis vitalba Wilde Clematis [Clematis vitalba] — Burkhard Mücke / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Clematis_vitalba_Wilde_Clematis.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Clematis vitalba, ljutici 01 [Clematis vitalba] — Milimidragan 92 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Clematis_vitalba,_ljutici_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Clematis vitalba sl3 [Clematis vitalba] — Stefan.lefnaer / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Clematis_vitalba_sl3.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Clematis vitalba [Clematis vitalba] — Alexis Tinker-Tsavalas / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/218591388. Original attribution: (c) Alexis Tinker-Tsavalas, some rights reserved (CC BY), uploaded by Alexis Tinker-Tsavalas. Resized and re-encoded; no subject alteration.
+
+Clematis vitalba [Clematis vitalba] — zebedeugalinha / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/657594491. Original attribution: (c) zebedeugalinha, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Clematis vitalba [Clematis vitalba] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/96452735. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -1026,9 +1116,15 @@ Corallina officinalis Helgoland [Corallina officinalis] — Gabriele Kothe-Heinr
 
 Bleached Corallina officinalis, Troon, Ayrshire, Scotland [Corallina officinalis] — Rosser1954 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Bleached_Corallina_officinalis,_Troon,_Ayrshire,_Scotland.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Corallina officinalis 19880601a [Corallina officinalis] — Luis Fernández García / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Corallina_officinalis_19880601a.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Corallina officinalis (27809582127) [Corallina officinalis] — Donald Hobern from Copenhagen, Denmark / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Corallina_officinalis_(27809582127).jpg. Original attribution: Corallina officinalis. Resized and re-encoded; no subject alteration.
+
 Corallina officinalis L. [Corallina officinalis] — Scott, A M / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Corallina_officinalis_L._(AM_AK376226).jpg. Original attribution: Auckland Museum. Resized and re-encoded; no subject alteration.
 
 Corallina officinalis [Corallina officinalis] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/202533904. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Corallina officinalis [Corallina officinalis] — Jamie O'Neill / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/464926558. Original attribution: (c) Jamie O'Neill, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Corallina officinalis [Corallina officinalis] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/557724731. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -1080,6 +1176,10 @@ Corvus corone Bob 20190916 t170115 [Corvus corone] — Marie-Lan Taÿ Pamart / W
 
 Przekrój Corylus avellana Leszczyna pospolita OB UWr 2023-07-21 01 [Corylus avellana] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Przekr%C3%B3j_Corylus_avellana_Leszczyna_pospolita_OB_UWr_2023-07-21_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Corylus avellana shrub [Corylus avellana] — MPF / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Corylus_avellana_shrub.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Corylus avellana showing secondary stems. Holehouse Holm, River Ayr, East Ayrshire [Corylus avellana] — Rosser1954 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Corylus_avellana_showing_secondary_stems._Holehouse_Holm,_River_Ayr,_East_Ayrshire.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 20200215State forest Saarbrücken12 [Corylus avellana] — Flocci Nivis / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:20200215State_forest_Saarbr%C3%BCcken12.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Corylus avellana - Hazelnut 02 [Corylus avellana] — Zeynel Cebeci / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Corylus_avellana_-_Hazelnut_02.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
@@ -1087,6 +1187,8 @@ Corylus avellana - Hazelnut 02 [Corylus avellana] — Zeynel Cebeci / Wikimedia 
 Corylus avellana, Czech Republic [Corylus avellana] — CZuser / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Corylus_avellana,_Czech_Republic.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Corylus avellana [Corylus avellana] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/125903604. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Corylus avellana [Corylus avellana] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/159445178. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Corylus avellana [Corylus avellana] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/31532077. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -1192,6 +1294,8 @@ Xvisionxmonarch [Danaus plexippus] — Drumguy8800 at English Wikipedia / Wikime
 
 Danaus plexippus [Danaus plexippus] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/169360078. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Danio rerio [Danio rerio] — Pogrebnoj-Alexandroff / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Danio_rerio.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Danio rerio lab left [Danio rerio] — Pogrebnoj-Alexandroff / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Danio_rerio_lab_left.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Danio rerio [Danio rerio] — Ashwin / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/464130719. Original attribution: (c) Ashwin, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
@@ -1216,7 +1320,11 @@ Muséum d'histoire naturelle de Bordeaux 33 [Daubentonia madagascariensis] — T
 
 Wild aye aye [Daubentonia madagascariensis] — nomis-simon / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Wild_aye_aye.jpg. Original attribution: https://www.flickr.com/photos/nomissimon/15819070729/. Resized and re-encoded; no subject alteration.
 
+Aye-aye (Daubentonia madagascariensis), Tsimbazaza Zoo, Madagascar (3897947810) [Daubentonia madagascariensis] — Frank Vassen from Brussels, Belgium / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Aye-aye_(Daubentonia_madagascariensis),_Tsimbazaza_Zoo,_Madagascar_(3897947810).jpg. Original attribution: Aye-aye (Daubentonia madagascariensis), Tsimbazaza Zoo, Madagascar. Resized and re-encoded; no subject alteration.
+
 Daubentonia madagascariensis [Daubentonia madagascariensis] — Frank Vassen / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/4582836. Original attribution: (c) Frank Vassen, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Daucus carota 1 [Daucus carota] — Ariel Palmon / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Daucus_carota_1.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Wilde wortel plant Daucus carota [Daucus carota] — Rasbak / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); source: https://commons.wikimedia.org/wiki/File:Wilde_wortel_plant_Daucus_carota.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -1226,7 +1334,11 @@ Daucus carrota at Largs [Daucus carota] — Rosser1954 / Wikimedia Commons, CC B
 
 Daucus carota - Άγριο καρότο 02 [Daucus carota] — Ανώνυμος Βικιπαιδιστής / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Daucus_carota_-_%CE%86%CE%B3%CF%81%CE%B9%CE%BF_%CE%BA%CE%B1%CF%81%CF%8C%CF%84%CE%BF_02.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Daucus carota 001 [Daucus carota] — H. Zell / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Daucus_carota_001.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Daucus carota [Daucus carota] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/539153352. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Daucus carota [Daucus carota] — Cesar Ormazabal / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/684468283. Original attribution: (c) Cesar Ormazabal, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Daucus carota [Daucus carota] — zebedeugalinha / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/708482067. Original attribution: (c) zebedeugalinha, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
@@ -1434,6 +1546,8 @@ Erythronium americanum [Erythronium americanum] — mrdace / iNaturalist, CC BY 
 
 Escherichia coli Gram Stain [Escherichia coli] — Dr Graham Beards / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Escherichia_coli_Gram_Stain.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Escherichia coli-DC [Escherichia coli] — Pavel Dušek / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Escherichia_coli-DC.jpg. Original attribution: WikiSkripta – Escherichia coli-DC.JPG , originally uploaded by the local user Pavel Dušek on 6 January 2011.. Resized and re-encoded; no subject alteration.
+
 Escherichia coli colonies [Escherichia coli] — HansN. / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Escherichia_coli_colonies.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Escherichia coli EMB [Escherichia coli] — Gene Drendel / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Escherichia_coli_EMB.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
@@ -1496,7 +1610,11 @@ Everes comyntas [Everes comyntas] — 作者名未取得（CC0・出典参照）
 
 Fagus grandifolia [Fagus grandifolia] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/10551201. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Fagus sylvatica Buk zwyczajny 2018-07-02 01 [Fagus sylvatica] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_Buk_zwyczajny_2018-07-02_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Fagus sylvatica "Rohanii" (Rohan purple European beech) 2 [Fagus sylvatica] — James St. John / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_%22Rohanii%22_(Rohan_purple_European_beech)_2.jpg. Original attribution: https://www.flickr.com/photos/47445767@N05/53462802718/. Resized and re-encoded; no subject alteration.
+
+1990 Rotbuche 3343 [Fagus sylvatica] — NobbiP / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); source: https://commons.wikimedia.org/wiki/File:1990_Rotbuche_3343.jpg. Original attribution: NobbiP. Resized and re-encoded; no subject alteration.
 
 Fagus-sylvatica-cansiglio-forest-italy [Fagus sylvatica] — GooseCanada / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Fagus-sylvatica-cansiglio-forest-italy.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -1505,6 +1623,8 @@ Fagus sylvatica 01 [Fagus sylvatica] — Bjoertvedt / Wikimedia Commons, CC BY-S
 Fagus sylvatica [Fagus sylvatica] — Erwin Gruber / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/349506389. Original attribution: (c) Erwin Gruber, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Fagus sylvatica [Fagus sylvatica] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/408459425. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Fagus sylvatica [Fagus sylvatica] — zebedeugalinha / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/549635157. Original attribution: (c) zebedeugalinha, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Falco peregrinus m Humber Bay Park Toronto [Falco peregrinus] — Mykola Swarnyk / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -1588,7 +1708,11 @@ Fraxinus excelsior Jesion wyniosły 2021-04-11 Sołtysowice 01 [Fraxinus excelsi
 
 Fraxinus excelsior [Fraxinus excelsior] — No machine-readable author provided. MPF assumed (based on copyright claims). / Wikimedia Commons, CC BY 2.5 (https://creativecommons.org/licenses/by/2.5); source: https://commons.wikimedia.org/wiki/File:Fraxinus_excelsior.jpg. Original attribution: No machine-readable source provided. Own work assumed (based on copyright claims).. Resized and re-encoded; no subject alteration.
 
+Ash tree canopy, Chapeltoun, North Ayrshire [Fraxinus excelsior] — Rosser1954 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Ash_tree_canopy,_Chapeltoun,_North_Ayrshire.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Fraxinus excelsior [Fraxinus excelsior] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/117458227. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Fraxinus excelsior [Fraxinus excelsior] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/299210631. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Fraxinus excelsior [Fraxinus excelsior] — Kieran Roy Powell / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/726980319. Original attribution: (c) Kieran Roy Powell, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
@@ -1602,9 +1726,13 @@ Fucus vesiculosus Morszczyn pęcherzykowaty 2019-07-02 03 [Fucus vesiculosus] �
 
 Fucus vesiculosus Morszczyn pęcherzykowaty 2019-07-02 01 [Fucus vesiculosus] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Fucus_vesiculosus_Morszczyn_p%C4%99cherzykowaty_2019-07-02_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Bladder Wrack (Fucus vesiculosus) - Nesodden, Norway 2020-09-20 [Fucus vesiculosus] — Ryan Hodnett / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Bladder_Wrack_(Fucus_vesiculosus)_-_Nesodden,_Norway_2020-09-20.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Fucus vesiculosus Jastarnia [Fucus vesiculosus] — Adrian Tync / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Fucus_vesiculosus_Jastarnia.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Fucus vesiculosus at Lyngen fjord, Troms, Norway, 2015 September [Fucus vesiculosus] — Ximonic (Simo Räsänen) / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Fucus_vesiculosus_at_Lyngen_fjord,_Troms,_Norway,_2015_September.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Fucus vesiculosus [Fucus vesiculosus] — Sean Frederick Tuck / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/297773462. Original attribution: (c) Sean Frederick Tuck, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Fulica americana [Fulica americana] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/321210807. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -1619,6 +1747,8 @@ Zwiebeln Fusarium damping-off (Fusarium oxysporum f.sp. cepae) Howard F. Schwart
 Zwiebeln Fusarium oxysporium-Befall-3-DLR-NW-jk [Fusarium oxysporum] — Jochen Kreiselmaier, Pflanzenschutzberater, Dienstleistungszentrum Ländlicher Raum (DLR-Rheinpfalz) in Neustadt/Wstr. / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Zwiebeln_Fusarium_oxysporium-Befall-3-DLR-NW-jk.jpg. Original attribution: https://www.dlr-rheinpfalz.rlp.de/DLR-Rheinpfalz/Fachinformationen/Pflanzenschutz/Gemuesebau. Resized and re-encoded; no subject alteration.
 
 Ipomoea batatas Fusarium wilt (stem rot) (Fusarium oxysporum f.sp. batatas) 1234227-PPT-Clemson University [Fusarium oxysporum] — Clemson University - USDA Cooperative Extension Slide Series / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Ipomoea_batatas_Fusarium_wilt_(stem_rot)_(Fusarium_oxysporum_f.sp._batatas)_1234227-PPT-Clemson_University.jpg. Original attribution: https://www.ipmimages.org/browse/detail.cfm?imgnum=1234227. Resized and re-encoded; no subject alteration.
+
+Fusarium oxysporum a1 (1) [Fusarium oxysporum] — Jerzy Opioła / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Fusarium_oxysporum_a1_(1).jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Fusarium oxysporum a1 (2) [Fusarium oxysporum] — Jerzy Opioła / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Fusarium_oxysporum_a1_(2).jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -1694,6 +1824,10 @@ Geococcyx californianus [Geococcyx californianus] — 作者名未取得（CC0�
 
 Geothlypis trichas [Geothlypis trichas] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/79301180. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Geranium robertianum 001 [Geranium robertianum] — H. Zell / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Geranium_robertianum_001.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Geranium robertianum 002 [Geranium robertianum] — H. Zell / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Geranium_robertianum_002.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 (MHNT) Geranium robertianum - blossom and bud [Geranium robertianum] — Didier Descouens / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:(MHNT)_Geranium_robertianum_-_blossom_and_bud.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Geranium robertianum Fierozzo 01 [Geranium robertianum] — Syrio / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Geranium_robertianum_Fierozzo_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
@@ -1701,6 +1835,8 @@ Geranium robertianum Fierozzo 01 [Geranium robertianum] — Syrio / Wikimedia Co
 Tarn. Góry - Park OO. Kamilianów (Geranium robertianum) [Geranium robertianum] — Gabriel Wilk / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Tarn._G%C3%B3ry_-_Park_OO._Kamilian%C3%B3w_(Geranium_robertianum).jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Geranium robertianum [Geranium robertianum] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/120385164. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Geranium robertianum [Geranium robertianum] — Наталья Пикалова / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/448356180. Original attribution: (c) Наталья Пикалова, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Geranium robertianum [Geranium robertianum] — Gilles San Martin / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/70283020. Original attribution: (c) Gilles San Martin, some rights reserved (CC BY-SA), uploaded by Gilles San Martin. Resized and re-encoded; no subject alteration.
 
@@ -1796,7 +1932,11 @@ Bald eagle about to fly in Alaska (2016) [Haliaeetus leucocephalus] — Andy Mor
 
 Haliaeetus leucocephalus [Haliaeetus leucocephalus] — Marcel_Pepin / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/384490244. Original attribution: (c) Marcel_Pepin, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Haliotis rufescens (red abalone with encrusting barnacles) (California, USA) (24092931232) [Haliotis rufescens] — James St. John / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Haliotis_rufescens_(red_abalone_with_encrusting_barnacles)_(California,_USA)_(24092931232).jpg. Original attribution: Haliotis rufescens (red abalone with encrusting barnacles) (California, USA). Resized and re-encoded; no subject alteration.
+
 WLA hmns Haliotis rufescens [Haliotis rufescens] — Wikipedia Loves Art participant " Assignment_Houston_One " / Wikimedia Commons, CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5); source: https://commons.wikimedia.org/wiki/File:WLA_hmns_Haliotis_rufescens.jpg. Original attribution: Uploaded from the Wikipedia Loves Art photo pool on Flickr. Resized and re-encoded; no subject alteration.
+
+Haliotis rufescens [Haliotis rufescens] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/177631078. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Haliotis rufescens [Haliotis rufescens] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/259092301. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -1878,9 +2018,13 @@ Koh Chang, Thailand, Rubber tree [Hevea brasiliensis] — Vyacheslav Argenberg /
 
 Hevea brasiliensis (Seringueira)- Reserva de Desenvolvimento Sustentável de Rio Negro (Lago do Acajatuba) - Eric Bem dos Santos – 2023 [Hevea brasiliensis] — Eric Bem dos Santos / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Hevea_brasiliensis_(Seringueira)-_Reserva_de_Desenvolvimento_Sustent%C3%A1vel_de_Rio_Negro_(Lago_do_Acajatuba)_-_Eric_Bem_dos_Santos_%E2%80%93_2023.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Sap collected from the Rubber tree (Hevea brasiliensis) for making rubber [Hevea brasiliensis] — Gitartha.bordoloi / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Sap_collected_from_the_Rubber_tree_(Hevea_brasiliensis)_for_making_rubber.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Ternate leaflets of Hevea brasiliensis in Itabashi Botanical Gardens, Tokyo [Hevea brasiliensis] — M108t / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Ternate_leaflets_of_Hevea_brasiliensis_in_Itabashi_Botanical_Gardens,_Tokyo.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Hevea brasiliensis [Hevea brasiliensis] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/204814748. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Hevea brasiliensis [Hevea brasiliensis] — Steven Bodzin / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/581494866. Original attribution: (c) Steven Bodzin, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Hevea brasiliensis [Hevea brasiliensis] — Cheongweei Gan / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/60706943. Original attribution: (c) Cheongweei Gan, some rights reserved (CC BY-SA), uploaded by Cheongweei Gan. Resized and re-encoded; no subject alteration.
 
@@ -1926,6 +2070,8 @@ Homo sapiens [Homo sapiens] — Abhas Misraraj / iNaturalist, CC0 1.0 (https://c
 
 Hordeum vulgare-2 [Hordeum vulgare] — No machine-readable author provided. EugeneZelenko assumed (based on copyright claims). / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Hordeum_vulgare-2.jpg. Original attribution: No machine-readable source provided. Own work assumed (based on copyright claims).. Resized and re-encoded; no subject alteration.
 
+Champ d'Orge carrée (Hordeum vulgare) [Hordeum vulgare] — JackyM59 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Champ_d%27Orge_carr%C3%A9e_(Hordeum_vulgare).jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Barley (Hordeum vulgare) - United States National Arboretum - 24 May 2009 [Hordeum vulgare] — Cliff from Arlington, Virginia, USA / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Barley_(Hordeum_vulgare)_-_United_States_National_Arboretum_-_24_May_2009.jpg. Original attribution: Barley (Hordeum vulgare). Resized and re-encoded; no subject alteration.
 
 Barley J1 [Hordeum vulgare] — Jamain / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Barley_J1.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
@@ -1937,6 +2083,8 @@ Hordeum vulgare six-row winter barley, zesrijige wintergerst (2) [Hordeum vulgar
 Hordeum vulgare [Hordeum vulgare] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/12561713. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Hordeum vulgare [Hordeum vulgare] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/131047417. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Hordeum vulgare [Hordeum vulgare] — Lorna Halliwell / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/514249886. Original attribution: (c) Lorna Halliwell, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Hopfen1 [Humulus lupulus] — No machine-readable author provided. Hagen Graebner assumed (based on copyright claims). / Wikimedia Commons, CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5); source: https://commons.wikimedia.org/wiki/File:Hopfen1.jpg. Original attribution: No machine-readable source provided. Own work assumed (based on copyright claims).. Resized and re-encoded; no subject alteration.
 
@@ -1992,9 +2140,15 @@ Iguana iguana [Iguana iguana] — Richard Stovall / iNaturalist, CC BY 4.0 (http
 
 Ilex aquifolium Ostrokrzew kolczasty 2019-05-10 03 [Ilex aquifolium] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Ilex_aquifolium_Ostrokrzew_kolczasty_2019-05-10_03.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Deutschland Rheinland-Pfalz Naturdenkmal Stechpalme bei Rohrbach 2 [Ilex aquifolium] — Kliojünger / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Deutschland_Rheinland-Pfalz_Naturdenkmal_Stechpalme_bei_Rohrbach_2.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Starr 041226-2278 Ilex aquifolium [Ilex aquifolium] — Forest & Kim Starr / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Starr_041226-2278_Ilex_aquifolium.jpg. Original attribution: Forest & Kim Starr. Resized and re-encoded; no subject alteration.
 
 Stechpalme Ilex aquifolium 8655 [Ilex aquifolium] — NobbiP / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Stechpalme_Ilex_aquifolium_8655.jpg. Original attribution: NobbiP. Resized and re-encoded; no subject alteration.
+
+Baden-Baden-Battert-668-Ilex aquifolium-Stechpalme-2016-gje [Ilex aquifolium] — Gerd Eichmann / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Baden-Baden-Battert-668-Ilex_aquifolium-Stechpalme-2016-gje.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Ilex aquifolium [Ilex aquifolium] — ahabo / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/383325446. Original attribution: (c) ahabo, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Ilex aquifolium [Ilex aquifolium] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/463607884. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -2006,11 +2160,17 @@ Impatiens capensis [Impatiens capensis] — 作者名未取得（CC0・出典参
 
 Impatiens glandulifera 0004 [Impatiens glandulifera] — H. Zell / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Impatiens_glandulifera_0004.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Impatiens glandulifera sl23 [Impatiens glandulifera] — Stefan.lefnaer / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Impatiens_glandulifera_sl23.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+20150726 040 Kessel Weerdbeemden Reuzenbalsemien Impatiens glandulifera (20015153702) [Impatiens glandulifera] — Jac. Janssen from Baarlo lb, NL / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:20150726_040_Kessel_Weerdbeemden_Reuzenbalsemien_Impatiens_glandulifera_(20015153702).jpg. Original attribution: 20150726 040 Kessel Weerdbeemden Reuzenbalsemien Impatiens glandulifera. Resized and re-encoded; no subject alteration.
+
 20140727 010 Kessel Weerdbeemden Reuzenbalsemien Impatiens glandulifera (14755462474) [Impatiens glandulifera] — Jac. Janssen from Baarlo lb, NL / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:20140727_010_Kessel_Weerdbeemden_Reuzenbalsemien_Impatiens_glandulifera_(14755462474).jpg. Original attribution: 20140727 010 Kessel Weerdbeemden Reuzenbalsemien Impatiens glandulifera. Resized and re-encoded; no subject alteration.
 
 Impatiens glandulifera 2019-03-24 7909 [Impatiens glandulifera] — Salicyna / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Impatiens_glandulifera_2019-03-24_7909.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Impatiens glandulifera [Impatiens glandulifera] — John Barkla / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/1204644. Original attribution: (c) John Barkla, some rights reserved (CC BY), uploaded by John Barkla. Resized and re-encoded; no subject alteration.
+
+Impatiens glandulifera [Impatiens glandulifera] — Michael Andresek / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/170711048. Original attribution: (c) Michael Andresek, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Impatiens glandulifera [Impatiens glandulifera] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/97570509. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -2030,6 +2190,10 @@ Ischnura elegans [Ischnura elegans] — 作者名未取得（CC0・出典参照�
 
 Ischnura posita [Ischnura posita] — Zachary Dankowicz / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/322011917. Original attribution: (c) Zachary Dankowicz, some rights reserved (CC BY), uploaded by Zachary Dankowicz. Resized and re-encoded; no subject alteration.
 
+Istiophorus platypterus in an aquarium [Istiophorus platypterus] — 出羽雀台 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Istiophorus_platypterus_in_an_aquarium.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Voilier de l'Indo-Pacifique (Istiophorus platypterus) (Ifremer 00761-87277) [Istiophorus platypterus] — Fanchon Varenne (IFREMER, Délégation océan Indien (DOI), Département Ressources Biologiques et Environnement (RBE), F-97420 Le Port, France) / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Voilier_de_l%27Indo-Pacifique_(Istiophorus_platypterus)_(Ifremer_00761-87277).jpg. Original attribution: Voilier de l'Indo-Pacifique (Istiophorus platypterus). Resized and re-encoded; no subject alteration.
+
 Istiophorus platypterus 101956558 [Istiophorus platypterus] — Robert Webster / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Istiophorus_platypterus_101956558.jpg. Original attribution: https://www.inaturalist.org/photos/101956558. Resized and re-encoded; no subject alteration.
 
 Istiophorus platypterus [Istiophorus platypterus] — harrier / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/218996387. Original attribution: (c) harrier, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
@@ -2040,9 +2204,13 @@ Isurus oxyrinchus [Isurus oxyrinchus] — 作者名未取得（CC0・出典参�
 
 40x carapace piece blacklegged tick [Ixodes scapularis] — Dwstultz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:40x_carapace_piece_blacklegged_tick.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+40x carcas partial blacklegged tick [Ixodes scapularis] — Dwstultz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:40x_carcas_partial_blacklegged_tick.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 40x head blacklegged tick [Ixodes scapularis] — Dwstultz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:40x_head_blacklegged_tick.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 400x legs blacklegged tick [Ixodes scapularis] — Dwstultz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:400x_legs_blacklegged_tick.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Ixodes scapularis [Ixodes scapularis] — Ben Armstrong / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/445387190. Original attribution: (c) Ben Armstrong, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Jacobaea vulgaris kz06 [Jacobaea vulgaris] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Jacobaea_vulgaris_kz06.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -2084,11 +2252,15 @@ Llamas, Vernagt-Stausee, Italy [Lama glama] — Andrija12345678 / Wikimedia Comm
 
 Lamium album [Lamium album] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/127194437. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Lamium amplexicaule (52878815573) [Lamium amplexicaule] — Gilles San Martin from Namur, Belgium / Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0); source: https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_(52878815573).jpg. Original attribution: Lamium amplexicaule. Resized and re-encoded; no subject alteration.
+
 Lamium amplexicaule (52878370216) [Lamium amplexicaule] — Gilles San Martin from Namur, Belgium / Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0); source: https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_(52878370216).jpg. Original attribution: Lamium amplexicaule. Resized and re-encoded; no subject alteration.
 
 Lamium amplexicaule scan [Lamium amplexicaule] — Agvania~commonswiki / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_scan.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Lamium amplexicaule5 [Lamium amplexicaule] — Eugene Zelenko / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule5.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Lamium amplexicaule 5 [Lamium amplexicaule] — Dalgial / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_5.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 LamiumAmplexicaule-Lamio 3280077 [Lamium amplexicaule] — Rowanwindwhistler / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:LamiumAmplexicaule-Lamio_3280077.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -2266,13 +2438,19 @@ Loligo vulgaris [Loligo vulgaris] — Hans Hillewaert / Wikimedia Commons, CC BY
 
 Loligo vulgaris [Loligo vulgaris] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/516160360. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Lonicera japonica - whole plant (18435957464) [Lonicera japonica] — NY State IPM Program at Cornell University from New York, USA / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Lonicera_japonica_-_whole_plant_(18435957464).jpg. Original attribution: Lonicera japonica - whole plant. Resized and re-encoded; no subject alteration.
+
 Lonicera japonica kz01 [Lonicera japonica] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Lonicera_japonica_kz01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Honeysuckle-2 [Lonicera japonica] — Aftabbanoori / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Honeysuckle-2.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Honeysuckle bonsai 2-3-08 [Lonicera japonica] — Mike / Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0); source: https://commons.wikimedia.org/wiki/File:Honeysuckle_bonsai_2-3-08.jpg. Original attribution: originally posted to Flickr as Honeysuckle 2-3-08. Resized and re-encoded; no subject alteration.
 
+Starr 071024-9950 Lonicera japonica [Lonicera japonica] — Forest & Kim Starr / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Starr_071024-9950_Lonicera_japonica.jpg. Original attribution: Forest & Kim Starr. Resized and re-encoded; no subject alteration.
+
 Lonicera japonica [Lonicera japonica] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/165024945. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Lonicera japonica [Lonicera japonica] — Elliot Greiner / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/260866867. Original attribution: (c) Elliot Greiner, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Lonicera japonica [Lonicera japonica] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/62660680. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -2392,9 +2570,15 @@ Malus domestica [Malus domestica] — 作者名未取得（CC0・出典参照）
 
 Mallow January 2008-1 [Malva sylvestris] — Alvesgaspar / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Mallow_January_2008-1.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+FloraRome (3) [Malva sylvestris] — Notafly2 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:FloraRome_(3).JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+2014.05.31.-04-See Pfingstberg Mannheim-Rheinau-Wilde Malve [Malva sylvestris] — Andreas Eichler / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:2014.05.31.-04-See_Pfingstberg_Mannheim-Rheinau-Wilde_Malve.jpg. Original attribution: Andreas Eichler. Resized and re-encoded; no subject alteration.
+
 Malva sylvestris.002 - Ponferrada [Malva sylvestris] — Fernando Losada Rodríguez / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Malva_sylvestris.002_-_Ponferrada.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Malva sylvestris Ślaz dziki 2020-07-03 01 [Malva sylvestris] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Malva_sylvestris_%C5%9Alaz_dziki_2020-07-03_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Malva sylvestris [Malva sylvestris] — Kieran Roy Powell / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/533639675. Original attribution: (c) Kieran Roy Powell, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Malva sylvestris [Malva sylvestris] — Alvesgaspar / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/608220986. Original attribution: (c) Alvesgaspar, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
 
@@ -2408,9 +2592,13 @@ Manihot esculenta Maniok jadalny 2019-07-12 03 [Manihot esculenta] — Agnieszka
 
 Manihot esculenta Maniok jadalny 2019-07-12 05 [Manihot esculenta] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Manihot_esculenta_Maniok_jadalny_2019-07-12_05.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Cassava Plant [Manihot esculenta] — CyberTroopers / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Cassava_Plant.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Malpighiales - Manihot esculenta - 1 [Manihot esculenta] — Emőke Dénes / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Malpighiales_-_Manihot_esculenta_-_1.jpg. Original attribution: kindly granted by the author. Resized and re-encoded; no subject alteration.
 
 Manihot esculenta [Manihot esculenta] — 葉子 / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/249495572. Original attribution: no rights reserved, uploaded by 葉子. Resized and re-encoded; no subject alteration.
+
+Manihot esculenta [Manihot esculenta] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/567080085. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Maniola jurtina [Maniola jurtina] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/47822970. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -2419,6 +2607,10 @@ Manis javanica [Manis javanica] — Ari hidayat99 / Wikimedia Commons, CC BY-SA 
 Trenggiling Sunda Sunda Pangolin Manis javanica [Manis javanica] — Frendi Apen Irawan / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Trenggiling_Sunda_Sunda_Pangolin_Manis_javanica.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Manis javanica [Manis javanica] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/617138976. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+台北動物園穿山甲 2024 [Manis pentadactyla] — 總統府 / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E5%8C%97%E5%8B%95%E7%89%A9%E5%9C%92%E7%A9%BF%E5%B1%B1%E7%94%B2_2024.jpg. Original attribution: https://www.flickr.com/photos/presidentialoffice/53909732934/. Resized and re-encoded; no subject alteration.
+
+Manis pentadactyla pentadactyla 462300623 [Manis pentadactyla] — Yung-Lun Lin / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Manis_pentadactyla_pentadactyla_462300623.jpg. Original attribution: https://www.inaturalist.org/photos/462300623. Resized and re-encoded; no subject alteration.
 
 Manis pentadactyla I [Manis pentadactyla] — Licheng Shih / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Manis_pentadactyla_I.jpg. Original attribution: [1]. Resized and re-encoded; no subject alteration.
 
@@ -2448,6 +2640,8 @@ Matricaria discoidea [Matricaria discoidea] — Anne Parsons / iNaturalist, CC0 
 
 Medicago lupulina [Medicago lupulina] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/488895484. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Medicago sativa vallee-de-grace-amiens 80 17062007 1 [Medicago sativa] — Olivier Pichard / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Medicago_sativa_vallee-de-grace-amiens_80_17062007_1.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Medicago sativa kz03 [Medicago sativa] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Medicago_sativa_kz03.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Medicago sativa RF [Medicago sativa] — Robert Flogaus-Faust / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Medicago_sativa_RF.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
@@ -2457,6 +2651,8 @@ Medicago sativa ENBLA01 [Medicago sativa] — Enrico Blasutto / Wikimedia Common
 Medicago sativa [Medicago sativa] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/135574. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Medicago sativa [Medicago sativa] — Duarte Frade / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/45020051. Original attribution: (c) Duarte Frade, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Medicago sativa [Medicago sativa] — Andrea Meucci / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/51038908. Original attribution: (c) Andrea Meucci, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
 
 Megaceryle alcyon [Megaceryle alcyon] — Jonathan Eisen / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/62536274. Original attribution: (c) Jonathan Eisen, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
@@ -2532,6 +2728,8 @@ Mnemiopsis leidyi [Mnemiopsis leidyi] — 作者名未取得（CC0・出典参�
 
 Mobula birostris [Mobula birostris] — Bill Levine / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/229709918. Original attribution: (c) Bill Levine, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Mobula birostris [Mobula birostris] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/484525094. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
 Molamola1 Dalgleish [Mola mola] — Wreckless Marine / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Molamola1_Dalgleish.png. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Molothrus ater [Molothrus ater] — Shirley Zundell / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/8717158. Original attribution: (c) Shirley Zundell, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
@@ -2562,6 +2760,10 @@ Common house fly, Musca domestica [Musca domestica] — USDAgov / Wikimedia Comm
 
 Musca domestica [Musca domestica] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/61848581. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Black-footed ferret running on ground [Mustela nigripes] — Garst, Warren, 1922-2016, photographer / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Black-footed_ferret_running_on_ground_-_DPLA_-_135acc799df99abd92b59e8526622e94.jpg. Original attribution: This file was contributed to Wikimedia Commons by Colorado State University Libraries as part of a cooperation project. The donation was facilitated by the Digital Public Library of America . Record in source catalog DPLA identifier: 135acc799df99abd92b59e8526622e94. Resized and re-encoded; no subject alteration.
+
+Mustela nigripes 8zz [Mustela nigripes] — Photo by David J. Stang / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Mustela_nigripes_8zz.jpg. Original attribution: source: David Stang. First published at ZipcodeZoo.com. Resized and re-encoded; no subject alteration.
+
 Black-footed Ferret 001 [Mustela nigripes] — Ltshears / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Black-footed_Ferret_001.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Mustela nigripes [Mustela nigripes] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/179581105. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
@@ -2572,9 +2774,13 @@ Myathropa florea [Myathropa florea] — Michael Knapp / iNaturalist, CC BY 4.0 (
 
 Mycelis muralis [Mycelis muralis] — Ayotte, Gilles, 1948- / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Mycelis_muralis_15-p.bot-lactu.mural-08.jpg. Original attribution: Bibliothèque de l'Université Laval. Resized and re-encoded; no subject alteration.
 
+Rokycanská stráň, kvetoucí rostlina [Mycelis muralis] — Juandev / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Rokycansk%C3%A1_str%C3%A1%C5%88,_kvetouc%C3%AD_rostlina.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Mycelis muralis - Oberolmer Wald IMG 5801 [Mycelis muralis] — Oceancetaceen - Alice Chodura / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Mycelis_muralis_-_Oberolmer_Wald_IMG_5801.JPG. Original attribution: Natalie Schmalz. Resized and re-encoded; no subject alteration.
 
 Mycelis muralis - Oberolmer Wald MG 5800 [Mycelis muralis] — Oceancetaceen - Alice Chodura / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Mycelis_muralis_-_Oberolmer_Wald_MG_5800.JPG. Original attribution: Natalie Schmalz. Resized and re-encoded; no subject alteration.
+
+BM001161489 Mycelis muralis (L.) Dumort. (15486528841) [Mycelis muralis] — NATT-at-NKM / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:BM001161489_Mycelis_muralis_(L.)_Dumort._(15486528841).jpg. Original attribution: BM001161489 Mycelis muralis (L.) Dumort.. Resized and re-encoded; no subject alteration.
 
 Mycelis muralis [Mycelis muralis] — B. Phalan / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/300495871. Original attribution: (c) B. Phalan, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
@@ -2586,6 +2792,8 @@ Mycobacterium tuberculosis [Mycobacterium tuberculosis] — Aleksandr Rodionov F
 
 Mycobacterium tuberculosis en esput. Tinció de Ziehl–Neelsen [Mycobacterium tuberculosis] — Amadalvarez / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Mycobacterium_tuberculosis_en_esput._Tinci%C3%B3_de_Ziehl%E2%80%93Neelsen.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Fluorescence Microscopy of Mycobacterium tuberculosis Following Auramine O Staining [Mycobacterium tuberculosis] — Siduduziwe Nxumalo / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Fluorescence_Microscopy_of_Mycobacterium_tuberculosis_Following_Auramine_O_Staining.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Acid-Fast Bacilli (Mycobacterium tuberculosis) under microscope after Ziehl Neelsen staining.05 [Mycobacterium tuberculosis] — Siduduziwe Nxumalo / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Acid-Fast_Bacilli_(Mycobacterium_tuberculosis)_under_microscope_after_Ziehl_Neelsen_staining.05.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Numbat, Dryandra Woodland, Western Australia [Myrmecobius fasciatus] — JJ Harrison / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Numbat,_Dryandra_Woodland,_Western_Australia.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
@@ -2594,9 +2802,13 @@ Myrmecobius fasciatus [Myrmecobius fasciatus] — Kym Nicolson / iNaturalist, CC
 
 Myrmecophaga tridactyla [Myrmecophaga tridactyla] — djcooker / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/345917023. Original attribution: (c) djcooker, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Blue Mussel (Mytilus edulis) - Nesodden, Norway 2020-09-20 (01) [Mytilus edulis] — Ryan Hodnett / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Blue_Mussel_(Mytilus_edulis)_-_Nesodden,_Norway_2020-09-20_(01).jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Mytilus edulis - Moule commune - 002 [Mytilus edulis] — Thesupermat / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Mytilus_edulis_-_Moule_commune_-_002.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Miesmuscheln-2 [Mytilus edulis] — Rainer Zenz / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); source: https://commons.wikimedia.org/wiki/File:Miesmuscheln-2.jpg. Original attribution: Self-published work by Rainer Zenz. Resized and re-encoded; no subject alteration.
+
+Mytilus edulis [Mytilus edulis] — Quinten Wiegersma / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/25142765. Original attribution: (c) Quinten Wiegersma, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Mytilus edulis [Mytilus edulis] — Justin Johnsen / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/3904219. Original attribution: (c) Justin Johnsen, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
@@ -2651,6 +2863,8 @@ Fmicb-15-1367658-g002 [Nitrosopumilus maritimus] — Yangkai Zhou, An Yan, Jiawe
 Fmicb-15-1367658-g001 [Nitrosopumilus maritimus] — Yangkai Zhou, An Yan, Jiawen Yang, Wei He, Shuai Guo, Yifan Li, Jing Wu, Yanchao Dai, Xijiang Pan, Dongyu Cui, Olivier Pereira, Wenkai Teng, Ran Bi, Songze Chen, Lu Fan, Peiyi Wang, Yan Liao, Wei Qin, Sen-Fang Sui, Yuanqing Zhu, Chuanlun Zhang, Zheng Liu / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Fmicb-15-1367658-g001.webp. Original attribution: Genomic Characteristics of a Novel Species of Ammonia-Oxidizing Archaea from the Jiulong River Estuary. In: Applied and Environmental Microbiology , Volume 86, No. 18, pp. e00736-20; doi : 10.1128/AEM.00736-20 .. Resized and re-encoded; no subject alteration.
 
 Fmicb-15-1367658-g002A-F [Nitrosopumilus maritimus] — Yangkai Zhou, An Yan, Jiawen Yang, Wei He, Shuai Guo, Yifan Li, Jing Wu, Yanchao Dai, Xijiang Pan, Dongyu Cui, Olivier Pereira, Wenkai Teng, Ran Bi, Songze Chen, Lu Fan, Peiyi Wang, Yan Liao, Wei Qin, Sen-Fang Sui, Yuanqing Zhu, Chuanlun Zhang, Zheng Liu / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Fmicb-15-1367658-g002A-F.webp. Original attribution: Genomic Characteristics of a Novel Species of Ammonia-Oxidizing Archaea from the Jiulong River Estuary. In: Applied and Environmental Microbiology , Volume 86, No. 18, pp. e00736-20; doi : 10.1128/AEM.00736-20 .. Resized and re-encoded; no subject alteration.
+
+Noctiluca scintillans [Noctiluca scintillans] — Hans Hillewaert / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Noctiluca_scintillans.jpg. Original attribution: © Hans Hillewaert. Resized and re-encoded; no subject alteration.
 
 Meeresleuchten am Strand von Spiekeroog 01 [Noctiluca scintillans] — Stephan Sprinz / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Meeresleuchten_am_Strand_von_Spiekeroog_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -2710,11 +2924,17 @@ Single olive [Olea europaea] — Relativity / Wikimedia Commons, CC BY-SA 4.0 (h
 
 Olea europaea 20110419a [Olea europaea] — Luis Fernández García / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Olea_europaea_20110419a.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Blumengärten Hirschstetten Wien 2014 Garten der Provence [Olea europaea] — Manfred Werner - Tsui / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Blumeng%C3%A4rten_Hirschstetten_Wien_2014_Garten_der_Provence.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Starr-071225-0754-Olea europaea subsp europaea-habit-The Strip Las Vegas-Nevada (31145695280) [Olea europaea] — Forest and Kim Starr / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Starr-071225-0754-Olea_europaea_subsp_europaea-habit-The_Strip_Las_Vegas-Nevada_(31145695280).jpg. Original attribution: starr-071225-0754-Olea_europaea_subsp_europaea-habit-The_Strip_Las_Vegas-Nevada. Resized and re-encoded; no subject alteration.
+
+Olive tree (Olea europaea L) in the Latium countryside, at sunset [Olea europaea] — Albarubescens / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Olive_tree_(Olea_europaea_L)_in_the_Latium_countryside,_at_sunset.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Olea europaea [Olea europaea] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/409846471. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Olea europaea [Olea europaea] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/4231186. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Olea europaea [Olea europaea] — zebedeugalinha / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/609932295. Original attribution: (c) zebedeugalinha, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Trout [Oncorhynchus mykiss] — Jonathunder / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Trout.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -2756,15 +2976,21 @@ Oryctolagus cuniculus - euqirneto - 419737670 (cropped) [Oryctolagus cuniculus] 
 
 Oryctolagus cuniculus [Oryctolagus cuniculus] — Alexis Lours / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/137362674. Original attribution: (c) Alexis Lours, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+20210623 Hortus botanicus Leiden - Oryza sativa [Oryza sativa] — Rudolphous / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:20210623_Hortus_botanicus_Leiden_-_Oryza_sativa.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Frisch gepflanzte Reissetzlinge im Nassreisanbau [Oryza sativa] — Myrmux / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Frisch_gepflanzte_Reissetzlinge_im_Nassreisanbau.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Abgeerntete Reispflanzen mit Reis-Rispen [Oryza sativa] — Myrmux / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Abgeerntete_Reispflanzen_mit_Reis-Rispen.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Asian rice (Oryza sativa) നെല്ല്. (32398084044) [Oryza sativa] — Rison Thumboor from Thrissur, India / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Asian_rice_(Oryza_sativa)_%E0%B4%A8%E0%B5%86%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%8D._(32398084044).jpg. Original attribution: Asian rice (Oryza sativa) നെല്ല്.. Resized and re-encoded; no subject alteration.
 
 Mature Rice (India) by Augustus Binu [Oryza sativa] — Augustus Binu : flickr : Instagram / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Mature_Rice_(India)_by_Augustus_Binu.jpg. Original attribution: Augustus Binu. Resized and re-encoded; no subject alteration.
 
 Kanchanaburi, Thailand, Asian rice (Oryza sativa) grass [Oryza sativa] — Vyacheslav Argenberg / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Kanchanaburi,_Thailand,_Asian_rice_(Oryza_sativa)_grass.jpg. Original attribution: © Vyacheslav Argenberg. Resized and re-encoded; no subject alteration.
 
 Oryza sativa [Oryza sativa] — rjtizard / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/198286695. Original attribution: (c) rjtizard, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Oryza sativa [Oryza sativa] — Joseph McPhail / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/234094096. Original attribution: (c) Joseph McPhail, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Oryza sativa [Oryza sativa] — Utain Pummarin / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/463769389. Original attribution: (c) Utain Pummarin, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
@@ -2918,6 +3144,10 @@ Pentaglottis sempervirens Farbownik zimozielony 2022-05-22 01 [Pentaglottis semp
 
 Overblijvende ossentong Pentaglottis sempervirens closeup [Pentaglottis sempervirens] — Rasbak / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); source: https://commons.wikimedia.org/wiki/File:Overblijvende_ossentong_Pentaglottis_sempervirens_closeup.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Green alkanet (Pentaglottis sempervirens) (33586093464) [Pentaglottis sempervirens] — AnemoneProjectors ( talk ) / Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0); source: https://commons.wikimedia.org/wiki/File:Green_alkanet_(Pentaglottis_sempervirens)_(33586093464).jpg. Original attribution: Green alkanet (Pentaglottis sempervirens). Resized and re-encoded; no subject alteration.
+
+Boraginaceae - Pentaglottis sempervirens - 7 [Pentaglottis sempervirens] — Emőke Dénes / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Boraginaceae_-_Pentaglottis_sempervirens_-_7.jpg. Original attribution: kindly granted by the author. Resized and re-encoded; no subject alteration.
+
 Pentaglottis sempervirens [Pentaglottis sempervirens] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/350026086. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Pentatoma rufipes St Andrews 02 [Pentatoma rufipes] — Syrio / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Pentatoma_rufipes_St_Andrews_02.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
@@ -2934,15 +3164,21 @@ Sugar Glider (Petaurus breviceps) [Petaurus breviceps] — patrickkavanagh / Wik
 
 Petaurus breviceps [Petaurus breviceps] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/539944041. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Orléans - MOBE 42 [Petromyzon marinus] — Fab5669 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Orl%C3%A9ans_-_MOBE_42.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Petromyzon marinus 187530670 [Petromyzon marinus] — Rob Foster / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Petromyzon_marinus_187530670.jpg. Original attribution: https://www.inaturalist.org/photos/187530670. Resized and re-encoded; no subject alteration.
 
 Petromyzon marinus.001 - Aquarium Finisterrae [Petromyzon marinus] — Fernando Losada Rodríguez / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Petromyzon_marinus.001_-_Aquarium_Finisterrae.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Santiago, Praza de Abastos 01-14b, lamprea [Petromyzon marinus] — P.Lameiro / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Santiago,_Praza_de_Abastos_01-14b,_lamprea.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Santiago, Praza de Abastos 01-14c, lamprea [Petromyzon marinus] — P.Lameiro / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Santiago,_Praza_de_Abastos_01-14c,_lamprea.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Hal - Petromyzon marinus - 3 [Petromyzon marinus] — Emőke Dénes / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Hal_-_Petromyzon_marinus_-_3.jpg. Original attribution: kindly granted by the author. Resized and re-encoded; no subject alteration.
 
 Hal - Petromyzon marinus - 4 [Petromyzon marinus] — Emőke Dénes / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Hal_-_Petromyzon_marinus_-_4.jpg. Original attribution: kindly granted by the author. Resized and re-encoded; no subject alteration.
+
+Petromyzon marinus [Petromyzon marinus] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/419771236. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Petromyzon marinus [Petromyzon marinus] — Ian Murdoch / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/433632464. Original attribution: (c) Ian Murdoch, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
@@ -3015,6 +3251,10 @@ Phytolacca americana [Phytolacca americana] — 作者名未取得（CC0・出�
 Phytophthora infestans potato 'Doré', aardappelziekte Doré [Phytophthora infestans] — Rasbak / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Phytophthora_infestans_potato_%27Dor%C3%A9%27,_aardappelziekte_Dor%C3%A9.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Tomato with Phytophthora infestans (late blight) [Phytophthora infestans] — Downtowngal / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Tomato_with_Phytophthora_infestans_(late_blight).jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+TomateBlattPhytophthorainfestans [Phytophthora infestans] — Goldlocki / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); source: https://commons.wikimedia.org/wiki/File:TomateBlattPhytophthorainfestans.jpg. Original attribution: This is of my own making. Resized and re-encoded; no subject alteration.
+
+Phytophthora infestans 01 [Phytophthora infestans] — AfroBrazilian / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Phytophthora_infestans_01.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Phytophthora infestans , Aardappelziekte [Phytophthora infestans] — Rasbak / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Phytophthora_infestans_,_Aardappelziekte.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -3194,7 +3434,11 @@ Porcellio scaber [Porcellio scaber] — eml23 / iNaturalist, CC BY 4.0 (https://
 
 Porphyra umbilicalis [Porphyra umbilicalis] — Laurent.Breillat / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Porphyra_umbilicalis.jpg. Original attribution: Photo Laurent Breillat. Resized and re-encoded; no subject alteration.
 
+Porphyra umbilicalis 19880601b [Porphyra umbilicalis] — Luis Fernández García / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Porphyra_umbilicalis_19880601b.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Porphyra umbilicalis. Laverbread. Edible alga. Irvine, North Ayrshire [Porphyra umbilicalis] — Rosser1954 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Porphyra_umbilicalis._Laverbread._Edible_alga._Irvine,_North_Ayrshire.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Membranous Porphyra umbilicalis and wrack. Laverbread. Edible alga. Irvine, North Ayrshire [Porphyra umbilicalis] — Rosser1954 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Membranous_Porphyra_umbilicalis_and_wrack._Laverbread._Edible_alga._Irvine,_North_Ayrshire.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Membranous Porphyra umbilicalis and wrack. Laverbread. Irvine, North Ayrshire [Porphyra umbilicalis] — Rosser1954 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Membranous_Porphyra_umbilicalis_and_wrack._Laverbread._Irvine,_North_Ayrshire.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -3267,6 +3511,10 @@ Prunus spinosa [Prunus spinosa] — 作者名未取得（CC0・出典参照） /
 Geomyces destructans in culture [Pseudogymnoascus destructans] — Djspring / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Geomyces_destructans_in_culture.png. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Eastern Brown Snake (Pseudonaja textilis) (8582601994) [Pseudonaja textilis] — Matt from Melbourne, Australia / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Eastern_Brown_Snake_(Pseudonaja_textilis)_(8582601994).jpg. Original attribution: Eastern Brown Snake (Pseudonaja textilis) Uploaded by SunOfErat. Resized and re-encoded; no subject alteration.
+
+Eastern Brown Snake (Pseudonaja textilis) (8256556779) [Pseudonaja textilis] — Matt from Melbourne, Australia / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Eastern_Brown_Snake_(Pseudonaja_textilis)_(8256556779).jpg. Original attribution: Eastern Brown Snake (Pseudonaja textilis) Uploaded by SunOfErat. Resized and re-encoded; no subject alteration.
+
+Eastern Brown Snake (Pseudonaja textilis) (8257634810) [Pseudonaja textilis] — Matt from Melbourne, Australia / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Eastern_Brown_Snake_(Pseudonaja_textilis)_(8257634810).jpg. Original attribution: Eastern Brown Snake (Pseudonaja textilis) Uploaded by SunOfErat. Resized and re-encoded; no subject alteration.
 
 Eastern Brown Snake eating an Eastern Blue tongue. (8235985873) [Pseudonaja textilis] — Matt from Melbourne, Australia / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Eastern_Brown_Snake_eating_an_Eastern_Blue_tongue._(8235985873).jpg. Original attribution: Eastern Brown Snake eating an Eastern Blue tongue. Uploaded by SunOfErat. Resized and re-encoded; no subject alteration.
 
@@ -3406,15 +3654,21 @@ Brown Rat (Rattus norvegicus) [Rattus norvegicus] — Dunpharlain / Wikimedia Co
 
 Rattus norvegicus [Rattus norvegicus] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/462748811. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+20210731 Hortus botanicus Leiden - Reynoutria japonica [Reynoutria japonica] — Rudolphous / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:20210731_Hortus_botanicus_Leiden_-_Reynoutria_japonica.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Reynoutria japonica3 [Reynoutria japonica] — KENPEI / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); source: https://commons.wikimedia.org/wiki/File:Reynoutria_japonica3.jpg. Original attribution: KENPEI's photo. Resized and re-encoded; no subject alteration.
 
 Reynoutria japonica [Reynoutria japonica] — Ayotte, Gilles, 1948- / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Reynoutria_japonica_15-p.bot-polygo.cuspi-16.jpg. Original attribution: Bibliothèque de l'Université Laval. Resized and re-encoded; no subject alteration.
 
 Reynoutria japonica plant (142) [Reynoutria japonica] — Wohlert Wohlers / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Reynoutria_japonica_plant_(142).jpg. Original attribution: https://species-id.net/openmedia/File:Fallopia_japonica_9_erster_Trieb_IMG_1406_Wohlers.JPG. Resized and re-encoded; no subject alteration.
 
+Japanese Knotweed (Reynoutria japonica) - Oslo, Norway 2020-08-15 [Reynoutria japonica] — Ryan Hodnett / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Japanese_Knotweed_(Reynoutria_japonica)_-_Oslo,_Norway_2020-08-15.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Reynoutria japonica [Reynoutria japonica] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/24084916. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Reynoutria japonica [Reynoutria japonica] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/281726055. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Reynoutria japonica [Reynoutria japonica] — Thismia / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/4815292. Original attribution: (c) Thismia, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
 
 Rhagonycha fulva Mounted Specimen [Rhagonycha fulva] — Didier Descouens / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Rhagonycha_fulva_Mounted_Specimen.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -3426,7 +3680,11 @@ Rhagonycha fulva - Galicia - 01 [Rhagonycha fulva] — IES MANUEL GARCÍA BARROS
 
 Rhagonycha fulva [Rhagonycha fulva] — Gianni Del Bufalo bygdb / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/135858283. Original attribution: (c) Gianni Del Bufalo bygdb, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Rhamnus cathartica - whole plant (19036588516) [Rhamnus cathartica] — NY State IPM Program at Cornell University from New York, USA / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Rhamnus_cathartica_-_whole_plant_(19036588516).jpg. Original attribution: Rhamnus cathartica - whole plant. Resized and re-encoded; no subject alteration.
+
 Rhamnus cathartica sl1 [Rhamnus cathartica] — Stefan.lefnaer / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Rhamnus_cathartica_sl1.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Rhamnus cathartica Ehner Luxembourg 03 [Rhamnus cathartica] — Cayambe / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Rhamnus_cathartica_Ehner_Luxembourg_03.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Rhamnus cathartica 2018-04-20 9114 [Rhamnus cathartica] — Salicyna / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Rhamnus_cathartica_2018-04-20_9114.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -3435,6 +3693,8 @@ Rhamnus cathartica kz03 [Rhamnus cathartica] — Krzysztof Ziarnek, Kenraiz / Wi
 Rhamnus cathartica [Rhamnus cathartica] — Robert Flogaus-Faust / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/341888418. Original attribution: (c) Robert Flogaus-Faust, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Rhamnus cathartica [Rhamnus cathartica] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/41076543. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Rhamnus cathartica [Rhamnus cathartica] — Elliot Greiner / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/92694560. Original attribution: (c) Elliot Greiner, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Similan Dive Center - great whale shark [Rhincodon typus] — Abe Khao Lak / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Similan_Dive_Center_-_great_whale_shark.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -3480,6 +3740,12 @@ Robinia pseudoacacia 'Tortuosa' Robinia akacjowa odm. pogięta 2022-05-22 01 [Ro
 
 Robinia pseudoacacia20170523 7772 [Robinia pseudoacacia] — Bff / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Robinia_pseudoacacia20170523_7772.jpg. Original attribution: Photo: Bff / Wikimedia Commons. Resized and re-encoded; no subject alteration.
 
+Black Locust 2016-05-28 008 [Robinia pseudoacacia] — Chris Light / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Black_Locust_2016-05-28_008.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+New Growth 5-25-14 097 [Robinia pseudoacacia] — Chris Light / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:New_Growth_5-25-14_097.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Robinia pseudoacacia [Robinia pseudoacacia] — John Brew / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/128530155. Original attribution: (c) John Brew, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
 Robinia pseudoacacia [Robinia pseudoacacia] — Sandy Wolkenberg / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/173336903. Original attribution: (c) Sandy Wolkenberg, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Robinia pseudoacacia [Robinia pseudoacacia] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/243326704. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
@@ -3492,15 +3758,27 @@ Rosa chinensis 04-08-2012 02 [Rosa chinensis] — Joydeep / Wikimedia Commons, C
 
 Rosa001 [Rosa chinensis] — Łukasz Szczurowski / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); source: https://commons.wikimedia.org/wiki/File:Rosa001.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Rosa chinensis-6-yercaud-salem-India [Rosa chinensis] — Yercaud-elango / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Rosa_chinensis-6-yercaud-salem-India.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Rosa chinensis 'Semperflorens' Jacq. [Rosa chinensis] — as labelled / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Rosa_chinensis_%27Semperflorens%27_Jacq._(AM_AK306317-1).jpg. Original attribution: Auckland Museum. Resized and re-encoded; no subject alteration.
+
+Rosa chinensis 'Semperflorens' Jacq. [Rosa chinensis] — as labelled / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Rosa_chinensis_%27Semperflorens%27_Jacq._(AM_AK306317-2).jpg. Original attribution: Auckland Museum. Resized and re-encoded; no subject alteration.
+
 Rosa chinensis [Rosa chinensis] — Sakurai Midori / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); source: https://commons.wikimedia.org/wiki/File:Rosa_chinensis.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Rosa chinensis [Rosa chinensis] — Urgamal Magsar / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/698300243. Original attribution: (c) Urgamal Magsar, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Rosa multiflora focus stacked-20220522-RM-124900 [Rosa multiflora] — Ermell / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Rosa_multiflora_focus_stacked-20220522-RM-124900.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Rosa multiflora rose [Rosa multiflora] — Sesamehoneytart / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Rosa_multiflora_rose.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Rosa multiflora shrub [Rosa multiflora] — Midori / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); source: https://commons.wikimedia.org/wiki/File:Rosa_multiflora_shrub.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 2020-05-20 08 05 42 Multiflora Rose flowers along a walking path within Horsepen Run Stream Valley Park in Oak Hill, Fairfax County, Virginia [Rosa multiflora] — Famartin / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:2020-05-20_08_05_42_Multiflora_Rose_flowers_along_a_walking_path_within_Horsepen_Run_Stream_Valley_Park_in_Oak_Hill,_Fairfax_County,_Virginia.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Rosa multiflora [Rosa multiflora] — Douglas Goldman / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/252786276. Original attribution: (c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman. Resized and re-encoded; no subject alteration.
+
+Rosa multiflora [Rosa multiflora] — Sandy Wolkenberg / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/27470541. Original attribution: (c) Sandy Wolkenberg, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Rosa multiflora [Rosa multiflora] — syvwlch / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/58156841. Original attribution: (c) syvwlch, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
@@ -3562,6 +3840,8 @@ Salix babylonica [Salix babylonica] — Jenny Saito / iNaturalist, CC BY 4.0 (ht
 
 Orléans - MOBE 41 [Salmo salar] — Fab5669 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Orl%C3%A9ans_-_MOBE_41.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Salmo salar juvenile [Salmo salar] — Lorenz Seebauer / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Salmo_salar_juvenile.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Salmonlarvakils [Salmo salar] — Uwe Kils / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); source: https://commons.wikimedia.org/wiki/File:Salmonlarvakils.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Salmo salar [Salmo salar] — Nathan Van Cooten / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/551746998. Original attribution: (c) Nathan Van Cooten, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
@@ -3602,9 +3882,15 @@ Sassafras albidum kz01 [Sassafras albidum] — Krzysztof Ziarnek, Kenraiz / Wiki
 
 Sassafras albidum 7zz [Sassafras albidum] — Photo by David J. Stang / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Sassafras_albidum_7zz.jpg. Original attribution: source: David Stang. First published at ZipcodeZoo.com. Resized and re-encoded; no subject alteration.
 
+Sassafras albidum 39zz [Sassafras albidum] — Photo by David J. Stang / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Sassafras_albidum_39zz.jpg. Original attribution: source: David Stang. First published at ZipcodeZoo.com. Resized and re-encoded; no subject alteration.
+
 Sassafras albidum 42zz [Sassafras albidum] — Photo by David J. Stang / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Sassafras_albidum_42zz.jpg. Original attribution: source: David Stang. First published at ZipcodeZoo.com. Resized and re-encoded; no subject alteration.
 
+Sassafras albidum 44zz [Sassafras albidum] — Photo by David J. Stang / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Sassafras_albidum_44zz.jpg. Original attribution: source: David Stang. First published at ZipcodeZoo.com. Resized and re-encoded; no subject alteration.
+
 Sassafras albidum [Sassafras albidum] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/236807606. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Sassafras albidum [Sassafras albidum] — Athena Philips / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/308462649. Original attribution: (c) Athena Philips, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Sassafras albidum [Sassafras albidum] — M. Whitson / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/475391379. Original attribution: (c) M. Whitson, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
@@ -3696,6 +3982,10 @@ Eastern Bluebird (Sialia sialis bermudensis) in Bermuda, from below [Sialia sial
 
 Sialia sialis [Sialia sialis] — Chelsea Carroll / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/181193021. Original attribution: (c) Chelsea Carroll, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Silene dioica Habitus [Silene dioica] — Daniel Ballmer / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Silene_dioica_Habitus.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+SileneDioica [Silene dioica] — Christian Fischer / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:SileneDioica.jpg. Original attribution: Christian Fischer. Resized and re-encoded; no subject alteration.
+
 Bayrischer Wald 9929 [Silene dioica] — J. Patrick Fischer / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Bayrischer_Wald_9929.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 WLE2019 - Ile du Girard - Silene dioica 02 [Silene dioica] — Sukkoria / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:WLE2019_-_Ile_du_Girard_-_Silene_dioica_02.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
@@ -3707,6 +3997,8 @@ WLE2019 - Ile du Girard - Silene dioica 09 [Silene dioica] — Sukkoria / Wikime
 Silene dioica [Silene dioica] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/151961402. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Silene dioica [Silene dioica] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/214265310. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Silene dioica [Silene dioica] — bogsuckers / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/323823430. Original attribution: (c) bogsuckers, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Silene latifolia, Riudarenes [Silene latifolia] — Josep Gesti / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Silene_latifolia,_Riudarenes.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -3728,6 +4020,8 @@ Sitta carolinensis [Sitta carolinensis] — 作者名未取得（CC0・出典参
 
 Sitta europaea [Sitta europaea] — Frank Vassen / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/98789726. Original attribution: (c) Frank Vassen, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Bittersweet (Solanum dulcamara) - Oslo, Norway 2020-09-19 [Solanum dulcamara] — Ryan Hodnett / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Bittersweet_(Solanum_dulcamara)_-_Oslo,_Norway_2020-09-19.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Solanum dulcamara Psianka słodkogórz 2020-08-07 01 [Solanum dulcamara] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Solanum_dulcamara_Psianka_s%C5%82odkog%C3%B3rz_2020-08-07_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Solanum dulcamara Psianka słodkogórz 2020-08-07 03 [Solanum dulcamara] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Solanum_dulcamara_Psianka_s%C5%82odkog%C3%B3rz_2020-08-07_03.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
@@ -3735,6 +4029,10 @@ Solanum dulcamara Psianka słodkogórz 2020-08-07 03 [Solanum dulcamara] — Agn
 Solanum dulcamara (5386574212) [Solanum dulcamara] — David Eickhoff from Pearl City, Hawaii, USA / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Solanum_dulcamara_(5386574212).jpg. Original attribution: Solanum dulcamara Uploaded by Tim1357. Resized and re-encoded; no subject alteration.
 
 Solanum dulcamara bittersweet nightshade ხებალახა [Solanum dulcamara] — Lazaregagnidze / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Solanum_dulcamara_bittersweet_nightshade_%E1%83%AE%E1%83%94%E1%83%91%E1%83%90%E1%83%9A%E1%83%90%E1%83%AE%E1%83%90.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Solanum dulcamara (7884286644) [Solanum dulcamara] — Nicole Bratt from Seattle, WA, USA / Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0); source: https://commons.wikimedia.org/wiki/File:Solanum_dulcamara_(7884286644).jpg. Original attribution: DSC00835. Resized and re-encoded; no subject alteration.
+
+Solanum dulcamara [Solanum dulcamara] — Benoit Renaud / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/19407617. Original attribution: (c) Benoit Renaud, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Solanum dulcamara [Solanum dulcamara] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/48149330. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -3825,6 +4123,8 @@ Streptopelia decaocto [Streptopelia decaocto] — Laura Liedtke / iNaturalist, C
 Kākāpō at Dunedin Wildlife Hospital [Strigops habroptilus] — Kimberley Collins / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:K%C4%81k%C4%81p%C5%8D_at_Dunedin_Wildlife_Hospital.jpg. Original attribution: https://www.flickr.com/photos/114706196@N08/48262072737/. Resized and re-encoded; no subject alteration.
 
 Kākāpō head [Strigops habroptilus] — Kimberley Collins / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:K%C4%81k%C4%81p%C5%8D_head.jpg. Original attribution: https://www.flickr.com/photos/114706196@N08/42241568542/. Resized and re-encoded; no subject alteration.
+
+Ma - Strigops habroptilus - 3 [Strigops habroptilus] — Emőke Dénes / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Ma_-_Strigops_habroptilus_-_3.jpg. Original attribution: kindly granted by the author. Resized and re-encoded; no subject alteration.
 
 Strigops habroptilus [Strigops habroptilus] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/386289202. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -3932,6 +4232,10 @@ Tetrahymena thermophila [Tetrahymena thermophila] — see source / Wikimedia Com
 
 Oogonium -- 3 (34809275943) [Thalassiosira pseudonana] — Oregon State University / Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0); source: https://commons.wikimedia.org/wiki/File:Oogonium_--_3_(34809275943).jpg. Original attribution: oogonium -- 3. Resized and re-encoded; no subject alteration.
 
+Thamnophis sirtalis semifasciatus 190569411 [Thamnophis sirtalis] — Ryan Sorrells / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Thamnophis_sirtalis_semifasciatus_190569411.jpg. Original attribution: https://www.inaturalist.org/photos/190569411. Resized and re-encoded; no subject alteration.
+
+Thamnophis sirtalis semifasciatus 197629859 [Thamnophis sirtalis] — Ryan Sorrells / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Thamnophis_sirtalis_semifasciatus_197629859.jpg. Original attribution: https://www.inaturalist.org/photos/197629859. Resized and re-encoded; no subject alteration.
+
 Thamnophis sirtalis Stanton 3 [Thamnophis sirtalis] — Riley Stanton / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Thamnophis_sirtalis_Stanton_3.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Thamnophis sirtalis Stanton 1 [Thamnophis sirtalis] — Riley Stanton / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Thamnophis_sirtalis_Stanton_1.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
@@ -3941,6 +4245,8 @@ Thamnophis sirtalis Stanton 2 [Thamnophis sirtalis] — Riley Stanton / Wikimedi
 Thamnophis sirtalis Stanton 4 [Thamnophis sirtalis] — Riley Stanton / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Thamnophis_sirtalis_Stanton_4.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Thamnophis sirtalis [Thamnophis sirtalis] — Bruce Slater / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/62074097. Original attribution: (c) Bruce Slater, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Thamnophis sirtalis [Thamnophis sirtalis] — lazarus / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/82548535. Original attribution: (c) lazarus, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 20260317 Theobroma cacao 01 [Theobroma cacao] — Flocci Nivis / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:20260317_Theobroma_cacao_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -3985,6 +4291,10 @@ Toxicodendron radicans syn. Rhus radicans Sumak pnący 2019-04-28 01 [Toxicodend
 Toxicodendron radicans syn. Rhus radicans Sumak pnący 2020-08-07 01 [Toxicodendron radicans] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Toxicodendron_radicans_syn._Rhus_radicans_Sumak_pn%C4%85cy_2020-08-07_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Toxicodendron radicans (summertime) [Toxicodendron radicans] — Bmerva / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Toxicodendron_radicans_(summertime).JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Matson's Woods (Revisited) (5) (10636394103) [Toxicodendron radicans] — Nicholas A. Tonelli from Northeast Pennsylvania, USA / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Matson%27s_Woods_(Revisited)_(5)_(10636394103).jpg. Original attribution: Matson's Woods (Revisited) (5). Resized and re-encoded; no subject alteration.
+
+Toxicodendron radicans [Toxicodendron radicans] — Terry Woodward / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/12006916. Original attribution: (c) Terry Woodward, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Toxicodendron radicans [Toxicodendron radicans] — Sam Fraser-Smith / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/2237896. Original attribution: (c) Sam Fraser-Smith, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
@@ -4102,6 +4412,8 @@ Delfín mular (Tursiops truncatus), isla de San Cristóbal, islas Galápagos, Ec
 
 Tursiops Truncatus [Tursiops truncatus] — Cloudette-90 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Tursiops_Truncatus.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Bottlenose dolphin (Tursiops truncatus) swimming alongside the ferry from Pico to Faial, Azores, Portugal (PPL1-Corrected) julesvernex2 [Tursiops truncatus] — Jules Verne Times Two / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Bottlenose_dolphin_(Tursiops_truncatus)_swimming_alongside_the_ferry_from_Pico_to_Faial,_Azores,_Portugal_(PPL1-Corrected)_julesvernex2.jpg. Original attribution: Jules Verne Times Two / www.julesvernex2.com. Resized and re-encoded; no subject alteration.
+
 Tursiops truncatus [Tursiops truncatus] — Punkus / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/341667124. Original attribution: (c) Punkus, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Hestehov tussilago farfara 01 [Tussilago farfara] — Øyvind Holmstad / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Hestehov_tussilago_farfara_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
@@ -4133,6 +4445,10 @@ Barn Owl, Lancashire [Tyto alba] — Steven Ward / Wikimedia Commons, CC BY 2.0 
 Tyto alba [Tyto alba] — caroline legg / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/165796939. Original attribution: (c) caroline legg, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Ulex europaeus [Ulex europaeus] — lejones417 / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/459991680. Original attribution: (c) lejones417, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
+
+Meersalat [Ulva lactuca] — 4028mdk09 / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Meersalat.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Amerikanische Schwertmuschel an Meersalat [Ulva lactuca] — 4028mdk09 / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Amerikanische_Schwertmuschel_an_Meersalat.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Ulva lactuca Helgoland [Ulva lactuca] — Gabriele Kothe-Heinrich / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Ulva_lactuca_Helgoland.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -4256,6 +4572,8 @@ Vespa velutina [Vespa velutina] — 作者名未取得（CC0・出典参照） /
 
 Vibrio cholerae growth on TCBS agar of Rice water stool culture of Cholera patient [Vibrio cholerae] — Ajay Kumar Chaurasiya / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Vibrio_cholerae_growth_on_TCBS_agar_of_Rice_water_stool_culture_of_Cholera_patient.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Vibrio cholerae on TCBS medium of Cholera patient stool culture [Vibrio cholerae] — Ajay Kumar Chaurasiya / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Vibrio_cholerae_on_TCBS_medium_of_Cholera_patient_stool_culture.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Vibrio cholerae on MacConkey agar of Cholera patient stool culture [Vibrio cholerae] — Ajay Kumar Chaurasiya / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Vibrio_cholerae_on_MacConkey_agar_of_Cholera_patient_stool_culture.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 TCBS agar plate of Vibrio Cholerae and vibrio parahaemolyticus [Vibrio cholerae] — Chainwit. / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:TCBS_agar_plate_of_Vibrio_Cholerae_and_vibrio_parahaemolyticus.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
@@ -4296,6 +4614,8 @@ Vicia sepium [Vicia sepium] — Nasser Halaweh / iNaturalist, CC BY 4.0 (https:/
 
 Vicia sepium [Vicia sepium] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/664045653. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Teratai Raksasa (Victoria amazonica) dan Katak [Victoria amazonica] — Gomboto / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Teratai_Raksasa_(Victoria_amazonica)_dan_Katak.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Victoria amazonica - Indian Botanic Garden - Howrah 2012-01-29 1699 [Victoria amazonica] — Biswarup Ganguly / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Victoria_amazonica_-_Indian_Botanic_Garden_-_Howrah_2012-01-29_1699.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Victoria amazonica - Giant Water Lily at Nilambur (1) [Victoria amazonica] — Vinayaraj / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Victoria_amazonica_-_Giant_Water_Lily_at_Nilambur_(1).jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
@@ -4303,6 +4623,8 @@ Victoria amazonica - Giant Water Lily at Nilambur (1) [Victoria amazonica] — V
 Victoria amazonica edit 1 [Victoria amazonica] — Bilby / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Victoria_amazonica_edit_1.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Victoria amazonica 03 [Victoria amazonica] — Bilby / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Victoria_amazonica_03.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Victoria amazonica [Victoria amazonica] — Diego Rodriguez / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/617218247. Original attribution: (c) Diego Rodriguez, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Victoria amazonica [Victoria amazonica] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/68253999. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -4328,9 +4650,13 @@ Vitis vinifera - closed buds [Vitis vinifera] — Darijanus / Wikimedia Commons,
 
 Starr-230206-6034-Vitis vinifera-habit on trellis at Baldwin House-Front St Lahaina-Maui (52681313605) [Vitis vinifera] — Forest and Kim Starr / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Starr-230206-6034-Vitis_vinifera-habit_on_trellis_at_Baldwin_House-Front_St_Lahaina-Maui_(52681313605).jpg. Original attribution: starr-230206-6034-Vitis_vinifera-habit_on_trellis_at_Baldwin_House-Front_St_Lahaina-Maui. Resized and re-encoded; no subject alteration.
 
+Bare branch of a common grape vine (Vitis vinifera) perched on a vine training system, Ponte de Sor, Portugal (approx. GPS location) julesvernex2 [Vitis vinifera] — Jules Verne Times Two / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Bare_branch_of_a_common_grape_vine_(Vitis_vinifera)_perched_on_a_vine_training_system,_Ponte_de_Sor,_Portugal_(approx._GPS_location)_julesvernex2.jpg. Original attribution: Own work https://julesvernex2.com. Resized and re-encoded; no subject alteration.
+
 Weinrebe IMG 2599 [Vitis vinifera] — Fischer.H / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Weinrebe_IMG_2599.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Vitis vinifera [Vitis vinifera] — Andrey Polstianoi / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/197483971. Original attribution: (c) Andrey Polstianoi, some rights reserved (CC BY), uploaded by Andrey Polstianoi. Resized and re-encoded; no subject alteration.
+
+Vitis vinifera [Vitis vinifera] — naturewatchwidow / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/60049525. Original attribution: (c) naturewatchwidow, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Vombatus ursinus -Maria Island National Park [Vombatus ursinus] — JJ Harrison ( jjharrison89@facebook.com ) / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Vombatus_ursinus_-Maria_Island_National_Park.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 

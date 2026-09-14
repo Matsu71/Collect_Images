@@ -1,0 +1,170 @@
+{
+  "assetId": "inat-597811219",
+  "source": "iNaturalist",
+  "sourceId": "597811219",
+  "photoUrl": "https://www.inaturalist.org/photos/597811219",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/597811219/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/597811219/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Andrea Mologni",
+  "originalAttribution": "(c) Andrea Mologni, some rights reserved (CC BY-SA)",
+  "imageTitle": "Acer campestre",
+  "sourceTitle": "Acer campestre",
+  "caption": "Acer campestre; research-grade observation; ",
+  "photoApiEvidence": {
+    "id": 597811219,
+    "license_code": "cc-by-sa",
+    "original_dimensions": {
+      "width": 1151,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597811219/square.jpg",
+    "attribution": "(c) Andrea Mologni, some rights reserved (CC BY-SA)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/329759653",
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47729/58321/47727/1466315",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47729,58321,47727,1466315,56193",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 56193,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1466315,
+    "name": "Acer campestre",
+    "rank": "species",
+    "extinct": false,
+    "id": 56193,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47729,
+      58321,
+      47727,
+      1466315,
+      56193
+    ],
+    "provisional": false,
+    "created_at": "2010-02-19T21:32:40+00:00",
+    "default_photo": {
+      "id": 10778,
+      "license_code": "cc-by-sa",
+      "attribution": "(c) Peter O'Connor, some rights reserved (CC BY-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10778/square.jpg",
+      "original_dimensions": {
+        "height": 1474,
+        "width": 1973
+      },
+      "flags": [],
+      "attribution_name": "Peter O'Connor",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10778/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10778/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 54027,
+    "photos_locked": false,
+    "universal_search_rank": 54027,
+    "flag_counts": {
+      "resolved": 4,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Acer_campestre",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "field maple"
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:42:54+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/acer-campestre--inat-597811219.jpg",
+  "previewSha256": "63eb60ff556695d65ad418e82f0dcd2d85c7e7150af93f8e958d61e1cc505ce7",
+  "previewDimensions": [
+    899,
+    1600
+  ],
+  "sourceDownloadSha256": "e709177588b9d866dbc6a63f74a34faa3e34707669f6d4ca583429b321bdf69e",
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-56193",
+  "scientificName": "Acer campestre",
+  "nameJa": "コブカエデ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/acer-campestre/inat-597811219.jpg",
+    "web": "reference/images/acer-campestre/inat-597811219.webp",
+    "thumbnail": "reference/images/acer-campestre/inat-597811219-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      899,
+      1600
+    ],
+    "web": [
+      787,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 599800,
+    "web": 180836,
+    "thumbnail": 14816
+  },
+  "sha256": {
+    "master": "63eb60ff556695d65ad418e82f0dcd2d85c7e7150af93f8e958d61e1cc505ce7",
+    "web": "c696a953d1bdc45561923d9b5c5a10cf3f26e77f9f8377def76f479783b0715b",
+    "thumbnail": "b02c400e4cdce9e1800b29bf509affbb0c101b43832048313a809b26e7258646"
+  },
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "16_image_contact_sheet_and_source_caption_screening",
+    "reviewFile": "reviews/round3-decisions-20260914.json",
+    "snapshotNumber": 149,
+    "candidateManifestSha256": "17541763c02221eb08e1c83018defee5c37dff26d3521799dcffb9ad6a7cecda",
+    "previewSha256": "63eb60ff556695d65ad418e82f0dcd2d85c7e7150af93f8e958d61e1cc505ce7",
+    "noteJa": "枝葉の部分像です。個体の樹冠全体ではありません。",
+    "speciesIdentity": "source_caption_or_exact_taxon_checked_not_expert_reidentification",
+    "fullResolutionInspection": "contact_sheet_screening_not_pixel_level_audit"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:42:54+00:00",
+  "savedAt": "2026-09-14T05:03:43+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:42:54+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 73,
+  "credit": "Acer campestre [Acer campestre] — Andrea Mologni / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/597811219. Original attribution: (c) Andrea Mologni, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "authorStatus": "source_supplied_not_independently_verified",
+  "rawMetadataPath": "reference/metadata/acer-campestre/inat-597811219.json",
+  "collectionSource": "reference",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY-SA 4.0",
+  "metadataPath": "collection/metadata/acer-campestre--inat-597811219.json"
+}

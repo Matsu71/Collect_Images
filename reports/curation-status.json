@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-09-14T05:01:21+00:00",
+  "generatedAt": "2026-09-14T05:05:30+00:00",
   "targetCount": 1000,
   "chronoearthTargetCount": 532,
   "downloadedTargetCoverage": 990,
   "chronoearthDownloadedCoverage": 522,
-  "rawStoredMetadataRecords": 2311,
-  "uniqueTaxonPhotoPairs": 2307,
-  "uniqueDownloadedImageAssets": 2306,
+  "rawStoredMetadataRecords": 2474,
+  "uniqueTaxonPhotoPairs": 2470,
+  "uniqueDownloadedImageAssets": 2469,
   "duplicateStoredCopies": 4,
-  "visuallyScreenedTaxonPhotoPairs": 2307,
-  "acceptedPhotographs": 2200,
+  "visuallyScreenedTaxonPhotoPairs": 2470,
+  "acceptedPhotographs": 2363,
   "acceptedTaxonCoverage": 983,
-  "primaryCandidatePhotoPairs": 1064,
-  "primaryReadyTaxa": 896,
-  "chronoearthPrimaryReadyTaxa": 458,
-  "supplementaryPhotoPairs": 1137,
+  "primaryCandidatePhotoPairs": 1092,
+  "primaryReadyTaxa": 923,
+  "chronoearthPrimaryReadyTaxa": 468,
+  "supplementaryPhotoPairs": 1272,
   "excludedPhotoPairs": 106,
   "pendingReviewPhotoPairs": 0,
   "acceptedLicenseCounts": {
-    "CC0 1.0": 483,
-    "CC BY 4.0": 480,
-    "CC BY-SA 4.0": 706,
-    "CC BY-SA 3.0": 279,
+    "CC0 1.0": 492,
+    "CC BY 4.0": 523,
+    "CC BY-SA 4.0": 762,
+    "CC BY-SA 3.0": 310,
     "CC BY-SA 2.5": 29,
     "CC BY 2.5": 19,
-    "CC BY 2.0": 127,
-    "CC BY-SA 2.0": 38,
-    "CC BY 3.0": 40
+    "CC BY 2.0": 142,
+    "CC BY-SA 2.0": 43,
+    "CC BY 3.0": 44
   },
   "selectedPrimaryLicenseCounts": {
     "CC0 1.0": 212,
+    "CC BY-SA 4.0": 246,
     "CC BY 2.5": 12,
-    "CC BY-SA 4.0": 234,
-    "CC BY 4.0": 213,
+    "CC BY 4.0": 217,
+    "CC BY-SA 3.0": 113,
     "CC BY-SA 2.5": 14,
-    "CC BY-SA 3.0": 106,
-    "CC BY 2.0": 69,
+    "CC BY 2.0": 73,
     "CC BY 3.0": 20,
     "CC BY-SA 2.0": 16
   },
@@ -63,6 +63,13 @@
       "snapshotCommit": "b92a256f67c318a7afe06fc468858de99fe259a1"
     },
     {
+      "file": "reviews/round3-decisions-20260914.json",
+      "count": 236,
+      "adoptedPhotoPairs": 163,
+      "excludedCandidateCount": 73,
+      "kind": "round3_actual_visual_review"
+    },
+    {
       "file": "reports/detail-sample-review.json",
       "count": 8,
       "kind": "additional_individual_JPEG_followup_not_additional_images"
@@ -87,10 +94,11 @@
     }
   ],
   "limitations": "Primary means composition-screened candidate, not expert re-identification, full-resolution audit, or a warranty of all possible third-party rights. Separate variants, life stages and microscopy are documented.",
-  "acceptedCC0PhotoPairsWithoutAuthorName": 462,
+  "acceptedCC0PhotoPairsWithoutAuthorName": 471,
   "authorMetadataNote": "Unavailable CC0 photographer names are explicitly marked. Rights notices are never used as photographer names. Other author names are copied from source metadata, not independently verified.",
   "individualSavedJpegSampleReviewed": 8,
   "licenseCodeToUrlConsistency": "pass",
   "gapBatchAcceptedPhotoPairs": 678,
-  "round2AcceptedPhotoPairs": 321
+  "round2AcceptedPhotoPairs": 321,
+  "round3AcceptedPhotoPairs": 163
 }

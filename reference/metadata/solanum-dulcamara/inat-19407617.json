@@ -1,0 +1,152 @@
+{
+  "assetId": "inat-19407617",
+  "source": "iNaturalist",
+  "sourceId": "19407617",
+  "photoUrl": "https://www.inaturalist.org/photos/19407617",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/19407617/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/19407617/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Benoit Renaud",
+  "originalAttribution": "(c) Benoit Renaud, some rights reserved (CC BY)",
+  "imageTitle": "Solanum dulcamara",
+  "sourceTitle": "Solanum dulcamara",
+  "caption": "Solanum dulcamara; research-grade observation; ",
+  "photoApiEvidence": {
+    "id": 19407617,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19407617/square.jpeg",
+    "attribution": "(c) Benoit Renaud, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/13260770",
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48515/48516/634936/634950/50641",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48515,48516,634936,634950,50641,55620",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 55620,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 50641,
+    "name": "Solanum dulcamara",
+    "rank": "species",
+    "extinct": false,
+    "id": 55620,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48515,
+      48516,
+      634936,
+      634950,
+      50641,
+      55620
+    ],
+    "created_at": "2010-02-08T20:22:01+00:00",
+    "default_photo": {
+      "id": 70860715,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Alexander Baransky, some rights reserved (CC BY-NC), uploaded by Alexander Baransky",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70860715/square.jpeg",
+      "original_dimensions": {
+        "height": 1152,
+        "width": 1728
+      },
+      "flags": [],
+      "attribution_name": "Alexander Baransky",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70860715/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70860715/medium.jpeg"
+    },
+    "taxon_changes_count": 4,
+    "taxon_schemes_count": 5,
+    "observations_count": 132706,
+    "photos_locked": false,
+    "universal_search_rank": 132706,
+    "flag_counts": {
+      "resolved": 5,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Solanum_dulcamara",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "bittersweet nightshade"
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:44:38+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/solanum-dulcamara--inat-19407617.jpg",
+  "previewSha256": "9ded09fe7a2119ce2261ac92804bc1108bf32695c690605d7792a1e3a399b976",
+  "previewDimensions": [
+    1200,
+    1600
+  ],
+  "sourceDownloadSha256": "95b0a7fc8ff7abdbf0a6a47b8bb9405df389ab9555c97714c6e7805a8759632f",
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-55620",
+  "scientificName": "Solanum dulcamara",
+  "nameJa": "マルバノホロシ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/solanum-dulcamara/inat-19407617.jpg",
+    "web": "reference/images/solanum-dulcamara/inat-19407617.webp",
+    "thumbnail": "reference/images/solanum-dulcamara/inat-19407617-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1200,
+      1600
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 324576,
+    "web": 96006,
+    "thumbnail": 9948
+  },
+  "sha256": {
+    "master": "9ded09fe7a2119ce2261ac92804bc1108bf32695c690605d7792a1e3a399b976",
+    "web": "574cd2e9a19a9a845cb96808e0ad3bb4d992d40e4626e27fbfebfe5012ddb43a",
+    "thumbnail": "92e3a96ff73038ce2d005fcd52eb3d4f497a5335133bdd81a9252f35d53a17d5"
+  },
+  "origin": "photo_candidate",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:44:38+00:00",
+  "savedAt": "2026-09-14T05:04:43+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:44:38+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 85,
+  "credit": "Solanum dulcamara [Solanum dulcamara] — Benoit Renaud / iNaturalist, cc-by (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/19407617. Proportionally resized and re-encoded; no subject alteration."
+}

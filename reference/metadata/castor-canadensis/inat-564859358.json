@@ -1,0 +1,154 @@
+{
+  "assetId": "inat-564859358",
+  "source": "iNaturalist",
+  "sourceId": "564859358",
+  "photoUrl": "https://www.inaturalist.org/photos/564859358",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/564859358/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/564859358/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Jonathan Eisen",
+  "originalAttribution": "(c) Jonathan Eisen, some rights reserved (CC BY)",
+  "imageTitle": "Castor canadensis",
+  "sourceTitle": "Castor canadensis",
+  "caption": "Castor canadensis; research-grade observation; ",
+  "photoApiEvidence": {
+    "id": 564859358,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1366
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/564859358/square.jpg",
+    "attribution": "(c) Jonathan Eisen, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/312828736",
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43698/870764/43791/43792",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43698,870764,43791,43792,43794",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43794,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 43792,
+    "name": "Castor canadensis",
+    "rank": "species",
+    "extinct": false,
+    "id": 43794,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43698,
+      870764,
+      43791,
+      43792,
+      43794
+    ],
+    "created_at": "2008-03-19T00:58:22+00:00",
+    "default_photo": {
+      "id": 139683466,
+      "license_code": null,
+      "attribution": "(c) mikeyk730, all rights reserved",
+      "url": "https://static.inaturalist.org/photos/139683466/square.jpeg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "mikeyk730",
+      "square_url": "https://static.inaturalist.org/photos/139683466/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/139683466/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 7,
+    "observations_count": 84317,
+    "photos_locked": false,
+    "universal_search_rank": 84317,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 14,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/North_American_beaver",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "American Beaver"
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:40:19+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/castor-canadensis--inat-564859358.jpg",
+  "previewSha256": "5bebf68c545ee1961d3f22521b7cf5965d663685803faea32995ddb106edba16",
+  "previewDimensions": [
+    1600,
+    1067
+  ],
+  "sourceDownloadSha256": "f8718267f25394d0288068bccb044a1f22cff81b3a99d63bf02d94c059e0871c",
+  "schemaVersion": 1,
+  "targetId": "org-castor-canadensis",
+  "scientificName": "Castor canadensis",
+  "nameJa": "アメリカビーバー",
+  "collectionTier": "chronoearth",
+  "files": {
+    "master": "reference/images/castor-canadensis/inat-564859358.jpg",
+    "web": "reference/images/castor-canadensis/inat-564859358.webp",
+    "thumbnail": "reference/images/castor-canadensis/inat-564859358-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1600,
+      1067
+    ],
+    "web": [
+      1400,
+      934
+    ]
+  },
+  "bytes": {
+    "master": 710754,
+    "web": 192786,
+    "thumbnail": 16022
+  },
+  "sha256": {
+    "master": "5bebf68c545ee1961d3f22521b7cf5965d663685803faea32995ddb106edba16",
+    "web": "d83f6db6f52b8b05e46588f33e9945088f74d34632c5fac75c60e360e1b9e89a",
+    "thumbnail": "2c80ab9209ae3ef007fe605a46c93abe9e068b300a86038750aeb4a670bed5b6"
+  },
+  "origin": "photo_candidate",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:40:19+00:00",
+  "savedAt": "2026-09-14T05:03:01+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:40:19+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 67,
+  "credit": "Castor canadensis [Castor canadensis] — Jonathan Eisen / iNaturalist, cc-by (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/564859358. Proportionally resized and re-encoded; no subject alteration."
+}

@@ -1,0 +1,151 @@
+{
+  "assetId": "inat-383325446",
+  "source": "iNaturalist",
+  "sourceId": "383325446",
+  "photoUrl": "https://www.inaturalist.org/photos/383325446",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/383325446/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/383325446/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "ahabo",
+  "originalAttribution": "(c) ahabo, some rights reserved (CC BY)",
+  "imageTitle": "Ilex aquifolium",
+  "sourceTitle": "Ilex aquifolium",
+  "caption": "Ilex aquifolium; research-grade observation; ",
+  "photoApiEvidence": {
+    "id": 383325446,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/383325446/square.jpeg",
+    "attribution": "(c) ahabo, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/216725785",
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/71272/53855/53854/1674205",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,71272,53855,53854,1674205,53856",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 53856,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1674205,
+    "name": "Ilex aquifolium",
+    "rank": "species",
+    "extinct": false,
+    "id": 53856,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      71272,
+      53855,
+      53854,
+      1674205,
+      53856
+    ],
+    "created_at": "2009-11-11T17:40:31+00:00",
+    "default_photo": {
+      "id": 117929954,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Joan Septembre, some rights reserved (CC BY-NC), uploaded by Joan Septembre",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117929954/square.jpg",
+      "original_dimensions": {
+        "height": 1376,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Joan Septembre",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117929954/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117929954/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 6,
+    "observations_count": 82146,
+    "photos_locked": false,
+    "universal_search_rank": 82146,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ilex_aquifolium",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "European holly"
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:43:36+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/ilex-aquifolium--inat-383325446.jpg",
+  "previewSha256": "0edf7788f605f2c42e61133a038607e331546376ab76be27c3fcd10d629adc01",
+  "previewDimensions": [
+    1200,
+    1600
+  ],
+  "sourceDownloadSha256": "fec79be14f49f1bddf808203f2e82d39e725f8f46ddaf89fd1cec4b53d877354",
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-53856",
+  "scientificName": "Ilex aquifolium",
+  "nameJa": "セイヨウヒイラギ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/ilex-aquifolium/inat-383325446.jpg",
+    "web": "reference/images/ilex-aquifolium/inat-383325446.webp",
+    "thumbnail": "reference/images/ilex-aquifolium/inat-383325446-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1200,
+      1600
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 646587,
+    "web": 184824,
+    "thumbnail": 20448
+  },
+  "sha256": {
+    "master": "0edf7788f605f2c42e61133a038607e331546376ab76be27c3fcd10d629adc01",
+    "web": "86e34cdc2d2567511399baa95f2cb6bb4976c7acfedfe075d327976cdead106c",
+    "thumbnail": "052a9e0e455b1447dec19440abf062b94625f222c75372fd38234ea11ccb5463"
+  },
+  "origin": "photo_candidate",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:43:36+00:00",
+  "savedAt": "2026-09-14T05:04:15+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:43:36+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 73,
+  "credit": "Ilex aquifolium [Ilex aquifolium] — ahabo / iNaturalist, cc-by (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/383325446. Proportionally resized and re-encoded; no subject alteration."
+}

@@ -1,0 +1,170 @@
+{
+  "assetId": "inat-357374212",
+  "source": "iNaturalist",
+  "sourceId": "357374212",
+  "photoUrl": "https://www.inaturalist.org/photos/357374212",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/357374212/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/357374212/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Sandy Wolkenberg",
+  "originalAttribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY)",
+  "imageTitle": "Acer negundo",
+  "sourceTitle": "Acer negundo",
+  "caption": "Acer negundo; research-grade observation; ",
+  "photoApiEvidence": {
+    "id": 357374212,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357374212/square.jpg",
+    "attribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/202357690",
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47729/58321/47727/1466297",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47729,58321,47727,1466297,47726",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 47726,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1466297,
+    "name": "Acer negundo",
+    "rank": "species",
+    "extinct": false,
+    "id": 47726,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47729,
+      58321,
+      47727,
+      1466297,
+      47726
+    ],
+    "provisional": false,
+    "created_at": "2008-06-17T02:42:53+00:00",
+    "default_photo": {
+      "id": 486113480,
+      "license_code": "cc-by",
+      "attribution": "(c) Jay Pruett, some rights reserved (CC BY), uploaded by Jay Pruett",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486113480/square.jpg",
+      "original_dimensions": {
+        "height": 1367,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Jay Pruett",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486113480/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486113480/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 6,
+    "observations_count": 195355,
+    "photos_locked": false,
+    "universal_search_rank": 195355,
+    "flag_counts": {
+      "resolved": 5,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Acer_negundo",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "box elder"
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:42:56+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/acer-negundo--inat-357374212.jpg",
+  "previewSha256": "86b83f20f955bbb30cf2ae11a19d4e5c7a0afb4caa0948229ca4b618f20b2bc8",
+  "previewDimensions": [
+    1200,
+    1600
+  ],
+  "sourceDownloadSha256": "1356edaa3dba3afdb4f9bf248efdc71bdc8fba360cd7dfeeaf758a32e2e50da6",
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-47726",
+  "scientificName": "Acer negundo",
+  "nameJa": "トネリコバノカエデ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/acer-negundo/inat-357374212.jpg",
+    "web": "reference/images/acer-negundo/inat-357374212.webp",
+    "thumbnail": "reference/images/acer-negundo/inat-357374212-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1200,
+      1600
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 299308,
+    "web": 88632,
+    "thumbnail": 6622
+  },
+  "sha256": {
+    "master": "86b83f20f955bbb30cf2ae11a19d4e5c7a0afb4caa0948229ca4b618f20b2bc8",
+    "web": "db204484bc5c902ff75b144ac88416977eb60c789f74c54fe3578e701331cdb7",
+    "thumbnail": "758d561c2483bef0e229669c5b48bcb511f0f8a87d442de9f44fb3c35ed8da9a"
+  },
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "16_image_contact_sheet_and_source_caption_screening",
+    "reviewFile": "reviews/round3-decisions-20260914.json",
+    "snapshotNumber": 152,
+    "candidateManifestSha256": "17541763c02221eb08e1c83018defee5c37dff26d3521799dcffb9ad6a7cecda",
+    "previewSha256": "86b83f20f955bbb30cf2ae11a19d4e5c7a0afb4caa0948229ca4b618f20b2bc8",
+    "noteJa": "葉が出る前の花序の接写です。樹木全体の姿とは区別します。",
+    "speciesIdentity": "source_caption_or_exact_taxon_checked_not_expert_reidentification",
+    "fullResolutionInspection": "contact_sheet_screening_not_pixel_level_audit"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:42:56+00:00",
+  "savedAt": "2026-09-14T05:03:47+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:42:56+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 85,
+  "credit": "Acer negundo [Acer negundo] — Sandy Wolkenberg / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/357374212. Original attribution: (c) Sandy Wolkenberg, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "authorStatus": "source_supplied_not_independently_verified",
+  "rawMetadataPath": "reference/metadata/acer-negundo/inat-357374212.json",
+  "collectionSource": "reference",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/acer-negundo--inat-357374212.json"
+}

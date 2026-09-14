@@ -1,0 +1,153 @@
+{
+  "assetId": "inat-82548535",
+  "source": "iNaturalist",
+  "sourceId": "82548535",
+  "photoUrl": "https://www.inaturalist.org/photos/82548535",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/82548535/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/82548535/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "lazarus",
+  "originalAttribution": "(c) lazarus, some rights reserved (CC BY)",
+  "imageTitle": "Thamnophis sirtalis",
+  "sourceTitle": "Thamnophis sirtalis",
+  "caption": "Thamnophis sirtalis; research-grade observation; ",
+  "photoApiEvidence": {
+    "id": 82548535,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1600,
+      "height": 1174
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82548535/square.jpeg",
+    "attribution": "(c) lazarus, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/51941971",
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/26172/85553/26504/532896/28339/28362",
+    "min_species_ancestry": "48460,1,2,355675,26036,26172,85553,26504,532896,28339,28362",
+    "endemic": true,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 28362,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": true,
+    "parent_id": 28362,
+    "name": "Thamnophis sirtalis infernalis",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 49998,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      26172,
+      85553,
+      26504,
+      532896,
+      28339,
+      28362,
+      49998
+    ],
+    "created_at": "2009-03-02T03:57:34+00:00",
+    "default_photo": {
+      "id": 30284389,
+      "license_code": null,
+      "attribution": "(c) Mike Rochford, all rights reserved, uploaded by Mike Rochford",
+      "url": "https://static.inaturalist.org/photos/30284389/square.jpg",
+      "original_dimensions": {
+        "height": 640,
+        "width": 960
+      },
+      "flags": [],
+      "attribution_name": "Mike Rochford",
+      "square_url": "https://static.inaturalist.org/photos/30284389/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/30284389/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 2092,
+    "photos_locked": false,
+    "universal_search_rank": 2092,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/California_red-sided_garter_snake",
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "California Red-sided Garter Snake"
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:44:34+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/thamnophis-sirtalis--inat-82548535.jpg",
+  "previewSha256": "f737e60c5b30b6362474ae31cf1124c3b1171b5ecc82b068b9cb0daae4da037c",
+  "previewDimensions": [
+    1600,
+    1174
+  ],
+  "sourceDownloadSha256": "1e777108ce1f267debc9e7b22e1d3ba8f112432bcdf71fc1f0ea0dc18fea549a",
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-28362",
+  "scientificName": "Thamnophis sirtalis",
+  "nameJa": "コモンガーターヘビ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/thamnophis-sirtalis/inat-82548535.jpg",
+    "web": "reference/images/thamnophis-sirtalis/inat-82548535.webp",
+    "thumbnail": "reference/images/thamnophis-sirtalis/inat-82548535-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1600,
+      1174
+    ],
+    "web": [
+      1400,
+      1027
+    ]
+  },
+  "bytes": {
+    "master": 544190,
+    "web": 209308,
+    "thumbnail": 27980
+  },
+  "sha256": {
+    "master": "f737e60c5b30b6362474ae31cf1124c3b1171b5ecc82b068b9cb0daae4da037c",
+    "web": "4f0266c7619202112cf55edadd05724f8f31bfa2373a5a84a37bc0e24056cc50",
+    "thumbnail": "f68fd86713f6611aa36e6cdc9af233e88ff7a662c2f8d0eecfd9150162889751"
+  },
+  "origin": "photo_candidate",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:44:34+00:00",
+  "savedAt": "2026-09-14T05:04:46+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:44:34+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 67,
+  "credit": "Thamnophis sirtalis [Thamnophis sirtalis] — lazarus / iNaturalist, cc-by (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/82548535. Proportionally resized and re-encoded; no subject alteration."
+}

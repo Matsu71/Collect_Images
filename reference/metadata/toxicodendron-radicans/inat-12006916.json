@@ -1,0 +1,151 @@
+{
+  "assetId": "inat-12006916",
+  "source": "iNaturalist",
+  "sourceId": "12006916",
+  "photoUrl": "https://www.inaturalist.org/photos/12006916",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12006916/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12006916/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Terry Woodward",
+  "originalAttribution": "(c) Terry Woodward, some rights reserved (CC BY)",
+  "imageTitle": "Toxicodendron radicans",
+  "sourceTitle": "Toxicodendron radicans",
+  "caption": "Toxicodendron radicans; research-grade observation; ",
+  "photoApiEvidence": {
+    "id": 12006916,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1500,
+      "height": 1000
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12006916/square.jpg",
+    "attribution": "(c) Terry Woodward, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/8918031",
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47729/48874/707807/51079",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47729,48874,707807,51079,58732",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 58732,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 51079,
+    "name": "Toxicodendron radicans",
+    "rank": "species",
+    "extinct": false,
+    "id": 58732,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47729,
+      48874,
+      707807,
+      51079,
+      58732
+    ],
+    "provisional": false,
+    "created_at": "2010-04-02T00:43:05+00:00",
+    "default_photo": {
+      "id": 2237896,
+      "license_code": "cc-by",
+      "attribution": "(c) Sam Fraser-Smith, some rights reserved (CC BY)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2237896/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1371
+      },
+      "flags": [],
+      "attribution_name": "Sam Fraser-Smith",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2237896/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2237896/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 4,
+    "observations_count": 171415,
+    "photos_locked": false,
+    "universal_search_rank": 171415,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 16263,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Toxicodendron_radicans",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "eastern poison ivy"
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:44:48+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/toxicodendron-radicans--inat-12006916.jpg",
+  "previewSha256": "695826a109b2063fe27d8bf4b7ecfef0ac4adad7ecd7878b1c504a42228606ce",
+  "previewDimensions": [
+    1500,
+    1000
+  ],
+  "sourceDownloadSha256": "96bb7fa103d77f7eca8d5903186b911dd63245ebbaac34868e9feeeb732a075c",
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-58732",
+  "scientificName": "Toxicodendron radicans",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/toxicodendron-radicans/inat-12006916.jpg",
+    "web": "reference/images/toxicodendron-radicans/inat-12006916.webp",
+    "thumbnail": "reference/images/toxicodendron-radicans/inat-12006916-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1500,
+      1000
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 368352,
+    "web": 143338,
+    "thumbnail": 16782
+  },
+  "sha256": {
+    "master": "695826a109b2063fe27d8bf4b7ecfef0ac4adad7ecd7878b1c504a42228606ce",
+    "web": "a0c014b9a8146cb83145dbf01c2fc93792b4acf176213ccf87df3ef97b8a44e6",
+    "thumbnail": "9793da31f9fc2e453a09671718b89e846d10bf1746d5bd974ff7330d050bc019"
+  },
+  "origin": "photo_candidate",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:44:48+00:00",
+  "savedAt": "2026-09-14T05:04:47+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:44:48+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 85,
+  "credit": "Toxicodendron radicans [Toxicodendron radicans] — Terry Woodward / iNaturalist, cc-by (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/12006916. Proportionally resized and re-encoded; no subject alteration."
+}

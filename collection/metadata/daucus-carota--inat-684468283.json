@@ -1,0 +1,173 @@
+{
+  "assetId": "inat-684468283",
+  "source": "iNaturalist",
+  "sourceId": "684468283",
+  "photoUrl": "https://www.inaturalist.org/photos/684468283",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/684468283/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/684468283/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Cesar Ormazabal",
+  "originalAttribution": "(c) Cesar Ormazabal, some rights reserved (CC BY)",
+  "imageTitle": "Daucus carota",
+  "sourceTitle": "Daucus carota",
+  "caption": "Daucus carota; research-grade observation; ",
+  "photoApiEvidence": {
+    "id": 684468283,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/684468283/square.jpg",
+    "attribution": "(c) Cesar Ormazabal, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/374472018",
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48700/48699/790553/790591/1043617/56727/76610",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48700,48699,790553,790591,1043617,56727,76610",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 76610,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": true,
+    "parent_id": 76610,
+    "name": "Daucus carota gummifer",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 320715,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48700,
+      48699,
+      790553,
+      790591,
+      1043617,
+      56727,
+      76610,
+      320715
+    ],
+    "created_at": "2013-06-07T19:38:58+00:00",
+    "default_photo": {
+      "id": 361054,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Steve Chilton, some rights reserved (CC BY-NC-ND)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/361054/square.jpg",
+      "original_dimensions": {
+        "height": 1458,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Steve Chilton",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/361054/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/361054/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 294,
+    "photos_locked": false,
+    "universal_search_rank": 294,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Sea Carrot"
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:43:24+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/daucus-carota--inat-684468283.jpg",
+  "previewSha256": "086853c65e1874287a70fc54d30648459492a4f680e93c834308a355f7fb7ea2",
+  "previewDimensions": [
+    1600,
+    1066
+  ],
+  "sourceDownloadSha256": "b4b87d8bd07c067fd437fa7efc6377e0b0d839de29c0f4e437bdf8f352aab855",
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-76610",
+  "scientificName": "Daucus carota",
+  "nameJa": "ノラニンジン",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/daucus-carota/inat-684468283.jpg",
+    "web": "reference/images/daucus-carota/inat-684468283.webp",
+    "thumbnail": "reference/images/daucus-carota/inat-684468283-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1600,
+      1066
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 357556,
+    "web": 155582,
+    "thumbnail": 13714
+  },
+  "sha256": {
+    "master": "086853c65e1874287a70fc54d30648459492a4f680e93c834308a355f7fb7ea2",
+    "web": "1a55d4eebffdc1b7ad478739a613adeeb10197d58d0edf46ad27a93281bed853",
+    "thumbnail": "0a00831ce99dafc503d6f6b5fcc326b35f4d2ea8ef00678664b40f2cba4e57ed"
+  },
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "16_image_contact_sheet_and_source_caption_screening",
+    "reviewFile": "reviews/round3-decisions-20260914.json",
+    "snapshotNumber": 176,
+    "candidateManifestSha256": "17541763c02221eb08e1c83018defee5c37dff26d3521799dcffb9ad6a7cecda",
+    "previewSha256": "086853c65e1874287a70fc54d30648459492a4f680e93c834308a355f7fb7ea2",
+    "noteJa": "白い小花が集まった花序の接写です。株全体の姿ではありません。",
+    "speciesIdentity": "source_caption_or_exact_taxon_checked_not_expert_reidentification",
+    "fullResolutionInspection": "contact_sheet_screening_not_pixel_level_audit"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:43:24+00:00",
+  "savedAt": "2026-09-14T05:04:04+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:43:24+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 85,
+  "credit": "Daucus carota [Daucus carota] — Cesar Ormazabal / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/684468283. Original attribution: (c) Cesar Ormazabal, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "authorStatus": "source_supplied_not_independently_verified",
+  "rawMetadataPath": "reference/metadata/daucus-carota/inat-684468283.json",
+  "collectionSource": "reference",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/daucus-carota--inat-684468283.json"
+}

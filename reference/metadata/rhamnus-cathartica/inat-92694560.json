@@ -1,0 +1,151 @@
+{
+  "assetId": "inat-92694560",
+  "source": "iNaturalist",
+  "sourceId": "92694560",
+  "photoUrl": "https://www.inaturalist.org/photos/92694560",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/92694560/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/92694560/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Elliot Greiner",
+  "originalAttribution": "(c) Elliot Greiner, some rights reserved (CC BY)",
+  "imageTitle": "Rhamnus cathartica",
+  "sourceTitle": "Rhamnus cathartica",
+  "caption": "Rhamnus cathartica; research-grade observation; ",
+  "photoApiEvidence": {
+    "id": 92694560,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/92694560/square.jpg",
+    "attribution": "(c) Elliot Greiner, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/58080556",
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47132/49041/1256740/54812",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47132,49041,1256740,54812,54811",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 54811,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 54812,
+    "name": "Rhamnus cathartica",
+    "rank": "species",
+    "extinct": false,
+    "id": 54811,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47132,
+      49041,
+      1256740,
+      54812,
+      54811
+    ],
+    "provisional": false,
+    "created_at": "2009-12-28T05:32:12+00:00",
+    "default_photo": {
+      "id": 341888418,
+      "license_code": "cc-by",
+      "attribution": "(c) Robert Flogaus-Faust, some rights reserved (CC BY)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341888418/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Robert Flogaus-Faust",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341888418/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341888418/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 4,
+    "observations_count": 81966,
+    "photos_locked": false,
+    "universal_search_rank": 81966,
+    "flag_counts": {
+      "resolved": 4,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rhamnus_cathartica",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "common buckthorn"
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:44:16+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/rhamnus-cathartica--inat-92694560.jpg",
+  "previewSha256": "ed3ecb8f3c51d79ab198de604f02e406e8cdf08a3c711e7afbe9d859a4886ec1",
+  "previewDimensions": [
+    1200,
+    1600
+  ],
+  "sourceDownloadSha256": "9d9cd0347bb436489fa1e14d4b37605bc75fca7cfd0df437162a50f54056b76c",
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-54811",
+  "scientificName": "Rhamnus cathartica",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/rhamnus-cathartica/inat-92694560.jpg",
+    "web": "reference/images/rhamnus-cathartica/inat-92694560.webp",
+    "thumbnail": "reference/images/rhamnus-cathartica/inat-92694560-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1200,
+      1600
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 372031,
+    "web": 120396,
+    "thumbnail": 13360
+  },
+  "sha256": {
+    "master": "ed3ecb8f3c51d79ab198de604f02e406e8cdf08a3c711e7afbe9d859a4886ec1",
+    "web": "eb277129d1c70681fc04cdc10d7be55105b5bdc2e63ae9f6ef05eafaa96a0d3a",
+    "thumbnail": "0f2043b2c1088d2f30f1fcbc76aadbbf3747213b58b4e15b2e604d30d005809f"
+  },
+  "origin": "photo_candidate",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:44:16+00:00",
+  "savedAt": "2026-09-14T05:04:29+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:44:16+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 85,
+  "credit": "Rhamnus cathartica [Rhamnus cathartica] — Elliot Greiner / iNaturalist, cc-by (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/92694560. Proportionally resized and re-encoded; no subject alteration."
+}

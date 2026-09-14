@@ -1,0 +1,152 @@
+{
+  "assetId": "inat-448356180",
+  "source": "iNaturalist",
+  "sourceId": "448356180",
+  "photoUrl": "https://www.inaturalist.org/photos/448356180",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/448356180/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/448356180/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Наталья Пикалова",
+  "originalAttribution": "(c) Наталья Пикалова, some rights reserved (CC BY)",
+  "imageTitle": "Geranium robertianum",
+  "sourceTitle": "Geranium robertianum",
+  "caption": "Geranium robertianum; research-grade observation; ",
+  "photoApiEvidence": {
+    "id": 448356180,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448356180/square.jpeg",
+    "attribution": "(c) Наталья Пикалова, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/250664899",
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47690/47689/47701/964902/964908",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47690,47689,47701,964902,964908,55925",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 55925,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 964908,
+    "name": "Geranium robertianum",
+    "rank": "species",
+    "extinct": false,
+    "id": 55925,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47690,
+      47689,
+      47701,
+      964902,
+      964908,
+      55925
+    ],
+    "created_at": "2010-02-11T18:10:49+00:00",
+    "default_photo": {
+      "id": 70283020,
+      "license_code": "cc-by-sa",
+      "attribution": "(c) Gilles San Martin, some rights reserved (CC BY-SA), uploaded by Gilles San Martin",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70283020/square.jpg",
+      "original_dimensions": {
+        "height": 1529,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Gilles San Martin",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70283020/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70283020/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 5,
+    "observations_count": 156257,
+    "photos_locked": false,
+    "universal_search_rank": 156257,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 136814,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Geranium_robertianum",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Herb Robert"
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:43:40+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/geranium-robertianum--inat-448356180.jpg",
+  "previewSha256": "94a347dcf5338e44ddf94d7f94a82f148a58f0fc78dfd9d86dff03458c8dbb2a",
+  "previewDimensions": [
+    1200,
+    1600
+  ],
+  "sourceDownloadSha256": "e2800905a2f5add1a668a1bf2378eacd6e11ee7450482c719c06deb2ce39d8aa",
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-55925",
+  "scientificName": "Geranium robertianum",
+  "nameJa": "ヒメフウロ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/geranium-robertianum/inat-448356180.jpg",
+    "web": "reference/images/geranium-robertianum/inat-448356180.webp",
+    "thumbnail": "reference/images/geranium-robertianum/inat-448356180-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1200,
+      1600
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 408086,
+    "web": 148436,
+    "thumbnail": 12998
+  },
+  "sha256": {
+    "master": "94a347dcf5338e44ddf94d7f94a82f148a58f0fc78dfd9d86dff03458c8dbb2a",
+    "web": "d3cad543cdf0dccaf562b12a686e8186010caeae12f3705c84616e11a85771b6",
+    "thumbnail": "2b9520e7e82e68687e34ab2c5c1455596d416e28623edcb57dcc3ebd1fcf45c4"
+  },
+  "origin": "photo_candidate",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:43:40+00:00",
+  "savedAt": "2026-09-14T05:04:13+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:43:40+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 85,
+  "credit": "Geranium robertianum [Geranium robertianum] — Наталья Пикалова / iNaturalist, cc-by (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/448356180. Proportionally resized and re-encoded; no subject alteration."
+}

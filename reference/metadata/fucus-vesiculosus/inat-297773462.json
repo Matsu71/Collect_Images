@@ -1,0 +1,150 @@
+{
+  "assetId": "inat-297773462",
+  "source": "iNaturalist",
+  "sourceId": "297773462",
+  "photoUrl": "https://www.inaturalist.org/photos/297773462",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/297773462/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/297773462/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Sean Frederick Tuck",
+  "originalAttribution": "(c) Sean Frederick Tuck, some rights reserved (CC BY)",
+  "imageTitle": "Fucus vesiculosus",
+  "sourceTitle": "Fucus vesiculosus",
+  "caption": "Fucus vesiculosus; research-grade observation; ",
+  "photoApiEvidence": {
+    "id": 297773462,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1000,
+      "height": 963
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/297773462/square.jpeg",
+    "attribution": "(c) Sean Frederick Tuck, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/171592637",
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/48222/48221/48220/1267990/48219/48218/48217",
+    "min_species_ancestry": "48460,48222,48221,48220,1267990,48219,48218,48217,48216",
+    "endemic": false,
+    "iconic_taxon_id": 48222,
+    "min_species_taxon_id": 48216,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 48217,
+    "name": "Fucus vesiculosus",
+    "rank": "species",
+    "extinct": false,
+    "id": 48216,
+    "ancestor_ids": [
+      48460,
+      48222,
+      48221,
+      48220,
+      1267990,
+      48219,
+      48218,
+      48217,
+      48216
+    ],
+    "created_at": "2008-08-28T22:24:59+00:00",
+    "default_photo": {
+      "id": 121028378,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Hans Hillewaert, some rights reserved (CC BY-NC-ND)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/121028378/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Hans Hillewaert",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/121028378/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/121028378/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 1,
+    "observations_count": 16349,
+    "photos_locked": false,
+    "universal_search_rank": 16349,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Fucus_vesiculosus",
+    "iconic_taxon_name": "Chromista",
+    "preferred_common_name": "bladder wrack"
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:40:52+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/fucus-vesiculosus--inat-297773462.jpg",
+  "previewSha256": "f9cbc6cd8f79eacb0e7122016487ddee9e325425d27a71f5cf5da7acf9551298",
+  "previewDimensions": [
+    1000,
+    963
+  ],
+  "sourceDownloadSha256": "44408fe9178eed74ff662e6ee7959c4f104aceae840123fdb7fbb8549960622b",
+  "schemaVersion": 1,
+  "targetId": "org-fucus-vesiculosus",
+  "scientificName": "Fucus vesiculosus",
+  "nameJa": "ヒバマタ",
+  "collectionTier": "chronoearth",
+  "files": {
+    "master": "reference/images/fucus-vesiculosus/inat-297773462.jpg",
+    "web": "reference/images/fucus-vesiculosus/inat-297773462.webp",
+    "thumbnail": "reference/images/fucus-vesiculosus/inat-297773462-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1000,
+      963
+    ],
+    "web": [
+      1000,
+      963
+    ]
+  },
+  "bytes": {
+    "master": 415063,
+    "web": 202936,
+    "thumbnail": 25024
+  },
+  "sha256": {
+    "master": "f9cbc6cd8f79eacb0e7122016487ddee9e325425d27a71f5cf5da7acf9551298",
+    "web": "0252c4aa5e3f9d55424bd14c3c9b254018b6c20d9f670a1f0c01a31f3611312c",
+    "thumbnail": "34e8c4736c8093c0e23e4d652aedce2db7759ca515e160d994d8aaf7ae93dc81"
+  },
+  "origin": "photo_candidate",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:40:52+00:00",
+  "savedAt": "2026-09-14T05:03:07+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:40:52+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 67,
+  "credit": "Fucus vesiculosus [Fucus vesiculosus] — Sean Frederick Tuck / iNaturalist, cc-by (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/297773462. Proportionally resized and re-encoded; no subject alteration."
+}

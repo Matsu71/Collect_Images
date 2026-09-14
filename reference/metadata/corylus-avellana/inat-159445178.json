@@ -1,0 +1,150 @@
+{
+  "assetId": "inat-159445178",
+  "source": "iNaturalist",
+  "sourceId": "159445178",
+  "photoUrl": "https://www.inaturalist.org/photos/159445178",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/159445178/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/159445178/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "unknown",
+  "originalAttribution": "no rights reserved",
+  "imageTitle": "Corylus avellana",
+  "sourceTitle": "Corylus avellana",
+  "caption": "Corylus avellana; research-grade observation; ",
+  "photoApiEvidence": {
+    "id": 159445178,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/159445178/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/96009213",
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47853/49155/53373",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47853,49155,53373,54491",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 54491,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 53373,
+    "name": "Corylus avellana",
+    "rank": "species",
+    "extinct": false,
+    "id": 54491,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47853,
+      49155,
+      53373,
+      54491
+    ],
+    "provisional": false,
+    "created_at": "2009-12-03T16:41:16+00:00",
+    "default_photo": {
+      "id": 249644515,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) David Ballesteros, some rights reserved (CC BY-NC), uploaded by David Ballesteros",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249644515/square.jpg",
+      "original_dimensions": {
+        "height": 1614,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "David Ballesteros",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249644515/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249644515/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 88454,
+    "photos_locked": false,
+    "universal_search_rank": 88454,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Corylus_avellana",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "common hazel"
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:43:19+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/corylus-avellana--inat-159445178.jpg",
+  "previewSha256": "8a405e2a5593e589304f1e3c2a7417c3844bb9a0150d843488343744d629afb2",
+  "previewDimensions": [
+    1066,
+    1600
+  ],
+  "sourceDownloadSha256": "3cbf27bc82945690cad9e16887d35799c73ccc5bc9d2c9c33a473aff3192266e",
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-54491",
+  "scientificName": "Corylus avellana",
+  "nameJa": "セイヨウハシバミ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/corylus-avellana/inat-159445178.jpg",
+    "web": "reference/images/corylus-avellana/inat-159445178.webp",
+    "thumbnail": "reference/images/corylus-avellana/inat-159445178-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1066,
+      1600
+    ],
+    "web": [
+      933,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 433841,
+    "web": 166918,
+    "thumbnail": 10858
+  },
+  "sha256": {
+    "master": "8a405e2a5593e589304f1e3c2a7417c3844bb9a0150d843488343744d629afb2",
+    "web": "f91d9f0c561ad79eca6eb9c73495cc53eb96aa37c428e3cac3919ebef7ef9f6f",
+    "thumbnail": "03add1ccb81c967272f8973e84279c95e1c01ba613be2fb3688fbd59f72980fb"
+  },
+  "origin": "photo_candidate",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:43:19+00:00",
+  "savedAt": "2026-09-14T05:04:01+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:43:19+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 82,
+  "credit": "Corylus avellana [Corylus avellana] — unknown / iNaturalist, cc0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/159445178. Proportionally resized and re-encoded; no subject alteration."
+}

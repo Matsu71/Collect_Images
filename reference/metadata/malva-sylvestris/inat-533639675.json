@@ -1,0 +1,152 @@
+{
+  "assetId": "inat-533639675",
+  "source": "iNaturalist",
+  "sourceId": "533639675",
+  "photoUrl": "https://www.inaturalist.org/photos/533639675",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/533639675/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/533639675/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Kieran Roy Powell",
+  "originalAttribution": "(c) Kieran Roy Powell, some rights reserved (CC BY)",
+  "imageTitle": "Malva sylvestris",
+  "sourceTitle": "Malva sylvestris",
+  "caption": "Malva sylvestris; research-grade observation; Photo 1 full resolution: https://commons.m.wikimedia.org/wiki/File:Malva_sylvestris_Aberystwyth.jpg",
+  "photoApiEvidence": {
+    "id": 533639675,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533639675/square.jpg",
+    "attribution": "(c) Kieran Roy Powell, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/296368599",
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48796/48797/860115/860842/55978",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48796,48797,860115,860842,55978,56162",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 56162,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 55978,
+    "name": "Malva sylvestris",
+    "rank": "species",
+    "extinct": false,
+    "id": 56162,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48796,
+      48797,
+      860115,
+      860842,
+      55978,
+      56162
+    ],
+    "created_at": "2010-02-19T10:28:35+00:00",
+    "default_photo": {
+      "id": 608220986,
+      "license_code": "cc-by-sa",
+      "attribution": "(c) Alvesgaspar, some rights reserved (CC BY-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608220986/square.jpg",
+      "original_dimensions": {
+        "height": 1537,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Alvesgaspar",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608220986/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608220986/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 6,
+    "observations_count": 69302,
+    "photos_locked": false,
+    "universal_search_rank": 69302,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Malva_sylvestris",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Common Mallow"
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:43:55+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/malva-sylvestris--inat-533639675.jpg",
+  "previewSha256": "31600cb79acb957f851d90dc4f7516f95f90e2eedef34b963a27264886274483",
+  "previewDimensions": [
+    1200,
+    1600
+  ],
+  "sourceDownloadSha256": "9c58b21ca54ead22f20a12588c37fc232d5f63cf3a62069e9284979bbdaa54e0",
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-56162",
+  "scientificName": "Malva sylvestris",
+  "nameJa": "ウスベニアオイ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/malva-sylvestris/inat-533639675.jpg",
+    "web": "reference/images/malva-sylvestris/inat-533639675.webp",
+    "thumbnail": "reference/images/malva-sylvestris/inat-533639675-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1200,
+      1600
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 476684,
+    "web": 179886,
+    "thumbnail": 11628
+  },
+  "sha256": {
+    "master": "31600cb79acb957f851d90dc4f7516f95f90e2eedef34b963a27264886274483",
+    "web": "5851b58d10e150d03bfa8c06aa66123aa2ac90a0cf3464b1dfcffc60f6d46afb",
+    "thumbnail": "304ca8adc0d464ffb316a33c0d1cfc57b1b643f296100b2936f2b31e65630672"
+  },
+  "origin": "photo_candidate",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:43:55+00:00",
+  "savedAt": "2026-09-14T05:04:22+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:43:55+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 85,
+  "credit": "Malva sylvestris [Malva sylvestris] — Kieran Roy Powell / iNaturalist, cc-by (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/533639675. Proportionally resized and re-encoded; no subject alteration."
+}

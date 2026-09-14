@@ -1,0 +1,181 @@
+{
+  "assetId": "inat-200349074",
+  "source": "iNaturalist",
+  "sourceId": "200349074",
+  "photoUrl": "https://www.inaturalist.org/photos/200349074",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/200349074/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/200349074/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Shaun Lee",
+  "originalAttribution": "(c) Shaun Lee, some rights reserved (CC BY)",
+  "imageTitle": "Apteryx mantelli",
+  "sourceTitle": "Apteryx mantelli",
+  "caption": "Apteryx mantelli; research-grade observation; ",
+  "photoApiEvidence": {
+    "id": 200349074,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1024,
+      "height": 768
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/200349074/square.jpg",
+    "attribution": "(c) Shaun Lee, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/118574722",
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/367703/20488/20489",
+    "min_species_ancestry": "48460,1,2,355675,3,367703,20488,20489,20496",
+    "endemic": true,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 20496,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 20489,
+    "name": "Apteryx mantelli",
+    "rank": "species",
+    "extinct": false,
+    "id": 20496,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      367703,
+      20488,
+      20489,
+      20496
+    ],
+    "created_at": "2008-03-13T03:51:05+00:00",
+    "default_photo": {
+      "id": 534304980,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Caiden, some rights reserved (CC BY-NC), uploaded by Caiden",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534304980/square.jpg",
+      "original_dimensions": {
+        "height": 1443,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Caiden",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534304980/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534304980/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 8,
+    "observations_count": 591,
+    "photos_locked": false,
+    "universal_search_rank": 591,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 144922,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/North_Island_brown_kiwi",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "North Island Brown Kiwi",
+    "conservation_status": {
+      "id": 8256,
+      "place_id": null,
+      "source_id": 18766,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "open",
+      "iucn": 30
+    }
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:39:54+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/apteryx-mantelli--inat-200349074.jpg",
+  "previewSha256": "a5f96b9552185ebdbe38d60f4c6539cd3a9707c2679e0ede4be8cb57e430c888",
+  "previewDimensions": [
+    1024,
+    768
+  ],
+  "sourceDownloadSha256": "656c851c50d119deeb2ecc84420d9371668cf06845b24de5977f2c23aa733156",
+  "schemaVersion": 1,
+  "targetId": "org-apteryx-mantelli",
+  "scientificName": "Apteryx mantelli",
+  "nameJa": "キタキーウィ",
+  "collectionTier": "chronoearth",
+  "files": {
+    "master": "reference/images/apteryx-mantelli/inat-200349074.jpg",
+    "web": "reference/images/apteryx-mantelli/inat-200349074.webp",
+    "thumbnail": "reference/images/apteryx-mantelli/inat-200349074-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1024,
+      768
+    ],
+    "web": [
+      1024,
+      768
+    ]
+  },
+  "bytes": {
+    "master": 216852,
+    "web": 121386,
+    "thumbnail": 17988
+  },
+  "sha256": {
+    "master": "a5f96b9552185ebdbe38d60f4c6539cd3a9707c2679e0ede4be8cb57e430c888",
+    "web": "cdf9ce9c16ac0bb97abba14577202c8d67c99afa1bf78620bc22206d5acff0d1",
+    "thumbnail": "3560b6fe99e15e2a81546846bb8aaca8e4b72590177125f4916261aba1d04809"
+  },
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "16_image_contact_sheet_and_source_caption_screening",
+    "reviewFile": "reviews/round3-decisions-20260914.json",
+    "snapshotNumber": 9,
+    "candidateManifestSha256": "17541763c02221eb08e1c83018defee5c37dff26d3521799dcffb9ad6a7cecda",
+    "previewSha256": "a5f96b9552185ebdbe38d60f4c6539cd3a9707c2679e0ede4be8cb57e430c888",
+    "noteJa": "暗視撮影の緑色の像です。体の輪郭は分かりますが、自然光の体色や細部は示しません。",
+    "speciesIdentity": "source_caption_or_exact_taxon_checked_not_expert_reidentification",
+    "fullResolutionInspection": "contact_sheet_screening_not_pixel_level_audit"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:39:54+00:00",
+  "savedAt": "2026-09-14T05:02:48+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:39:54+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 85,
+  "credit": "Apteryx mantelli [Apteryx mantelli] — Shaun Lee / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/200349074. Original attribution: (c) Shaun Lee, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "authorStatus": "source_supplied_not_independently_verified",
+  "rawMetadataPath": "reference/metadata/apteryx-mantelli/inat-200349074.json",
+  "collectionSource": "reference",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生鳥類",
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/apteryx-mantelli--inat-200349074.json"
+}

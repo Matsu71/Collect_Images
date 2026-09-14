@@ -1,0 +1,152 @@
+{
+  "assetId": "inat-445387190",
+  "source": "iNaturalist",
+  "sourceId": "445387190",
+  "photoUrl": "https://www.inaturalist.org/photos/445387190",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/445387190/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/445387190/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Ben Armstrong",
+  "originalAttribution": "(c) Ben Armstrong, some rights reserved (CC BY)",
+  "imageTitle": "Ixodes scapularis",
+  "sourceTitle": "Ixodes scapularis",
+  "caption": "Ixodes scapularis; research-grade observation; Found climbing on computer monitor after arriving home and uploading observations from hike. It likely hitched a ride somewhere along the BLT Rails-to-Trails.",
+  "photoApiEvidence": {
+    "id": 445387190,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1280,
+      "height": 1280
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/445387190/square.jpeg",
+    "attribution": "(c) Ben Armstrong, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/249184863",
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/47120/245097/47119/52788/129762/51672/51673/51674",
+    "min_species_ancestry": "48460,1,47120,245097,47119,52788,129762,51672,51673,51674,60598",
+    "endemic": false,
+    "iconic_taxon_id": 47119,
+    "min_species_taxon_id": 60598,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 51674,
+    "name": "Ixodes scapularis",
+    "rank": "species",
+    "extinct": false,
+    "id": 60598,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      245097,
+      47119,
+      52788,
+      129762,
+      51672,
+      51673,
+      51674,
+      60598
+    ],
+    "provisional": false,
+    "created_at": "2010-05-16T23:11:56+00:00",
+    "default_photo": {
+      "id": 2648886,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Jason M Crockwell, some rights reserved (CC BY-NC-ND), uploaded by Jason M Crockwell",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2648886/square.JPG",
+      "original_dimensions": {
+        "height": 1760,
+        "width": 1760
+      },
+      "flags": [],
+      "attribution_name": "Jason M Crockwell",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2648886/square.JPG",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2648886/medium.JPG"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 1,
+    "observations_count": 17728,
+    "photos_locked": false,
+    "universal_search_rank": 17728,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ixodes_scapularis",
+    "iconic_taxon_name": "Arachnida",
+    "preferred_common_name": "Eastern Black-legged Tick"
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:41:17+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/ixodes-scapularis--inat-445387190.jpg",
+  "previewSha256": "5162d1a6d050c6955a7e1785369a059abf0cb4cb8c1153f920d4ce90046cca57",
+  "previewDimensions": [
+    1280,
+    1280
+  ],
+  "sourceDownloadSha256": "84f7becd4b3c150218c15c02f1830707a046f44c950521391ca69aecffaf4f13",
+  "schemaVersion": 1,
+  "targetId": "org-ixodes-scapularis",
+  "scientificName": "Ixodes scapularis",
+  "nameJa": "クロアシマダニ",
+  "collectionTier": "chronoearth",
+  "files": {
+    "master": "reference/images/ixodes-scapularis/inat-445387190.jpg",
+    "web": "reference/images/ixodes-scapularis/inat-445387190.webp",
+    "thumbnail": "reference/images/ixodes-scapularis/inat-445387190-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1280,
+      1280
+    ],
+    "web": [
+      1280,
+      1280
+    ]
+  },
+  "bytes": {
+    "master": 154004,
+    "web": 64256,
+    "thumbnail": 3456
+  },
+  "sha256": {
+    "master": "5162d1a6d050c6955a7e1785369a059abf0cb4cb8c1153f920d4ce90046cca57",
+    "web": "69e466899b754805b49284aa9c2f23f89efae44964527fdea9771ca0441f80d5",
+    "thumbnail": "ab7dcb85695901427ea0f135235f164a78ae133372314c51a53d66f26319f4d6"
+  },
+  "origin": "photo_candidate",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:41:17+00:00",
+  "savedAt": "2026-09-14T05:03:12+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:41:17+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 85,
+  "credit": "Ixodes scapularis [Ixodes scapularis] — Ben Armstrong / iNaturalist, cc-by (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/445387190. Proportionally resized and re-encoded; no subject alteration."
+}

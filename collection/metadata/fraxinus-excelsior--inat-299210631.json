@@ -1,0 +1,183 @@
+{
+  "assetId": "inat-299210631",
+  "source": "iNaturalist",
+  "sourceId": "299210631",
+  "photoUrl": "https://www.inaturalist.org/photos/299210631",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/299210631/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/299210631/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "作者名未取得（CC0・出典参照）",
+  "originalAttribution": "no rights reserved",
+  "imageTitle": "Fraxinus excelsior",
+  "sourceTitle": "Fraxinus excelsior",
+  "caption": "Fraxinus excelsior; research-grade observation; ",
+  "photoApiEvidence": {
+    "id": 299210631,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1440,
+      "height": 1080
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/299210631/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/172377699",
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48151/47733/54806/1665473",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48151,47733,54806,1665473,125440",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 125440,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1665473,
+    "name": "Fraxinus excelsior",
+    "rank": "species",
+    "extinct": false,
+    "id": 125440,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48151,
+      47733,
+      54806,
+      1665473,
+      125440
+    ],
+    "created_at": "2012-03-06T20:41:04+00:00",
+    "default_photo": {
+      "id": 218128525,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) nicky-by-nature, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218128525/square.jpeg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "nicky-by-nature",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218128525/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218128525/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 61248,
+    "photos_locked": false,
+    "universal_search_rank": 61248,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Fraxinus_excelsior",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "European ash",
+    "conservation_status": {
+      "id": 548667,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": 477,
+      "authority": "IUCN Red List",
+      "status": "nt",
+      "status_name": "near threatened",
+      "geoprivacy": "open",
+      "iucn": 20
+    }
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:43:27+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/fraxinus-excelsior--inat-299210631.jpg",
+  "previewSha256": "293a9a0c31b36f4d9c673db794a0235f88c8c1a85272c227f5acdf57448a00f3",
+  "previewDimensions": [
+    1440,
+    1080
+  ],
+  "sourceDownloadSha256": "6bb51bdfc675ddfd1f04d4e5c36a0c927ed2d458d49542f7162087c8a10303f5",
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-125440",
+  "scientificName": "Fraxinus excelsior",
+  "nameJa": "セイヨウトネリコ",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/fraxinus-excelsior/inat-299210631.jpg",
+    "web": "reference/images/fraxinus-excelsior/inat-299210631.webp",
+    "thumbnail": "reference/images/fraxinus-excelsior/inat-299210631-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1440,
+      1080
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 631876,
+    "web": 244970,
+    "thumbnail": 39262
+  },
+  "sha256": {
+    "master": "293a9a0c31b36f4d9c673db794a0235f88c8c1a85272c227f5acdf57448a00f3",
+    "web": "30b7eab3f565ea77950cbb35c5f230ad81df29753bb3e945422599c9fef9ecf5",
+    "thumbnail": "84b357118047e5e447b58216fb141c5cefda6f1b18c80298e50fd399cc574e1b"
+  },
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "16_image_contact_sheet_and_source_caption_screening",
+    "reviewFile": "reviews/round3-decisions-20260914.json",
+    "snapshotNumber": 182,
+    "candidateManifestSha256": "17541763c02221eb08e1c83018defee5c37dff26d3521799dcffb9ad6a7cecda",
+    "previewSha256": "293a9a0c31b36f4d9c673db794a0235f88c8c1a85272c227f5acdf57448a00f3",
+    "noteJa": "地表の若い個体の葉です。周囲の草と区別し成木の樹形とはしません。",
+    "speciesIdentity": "source_caption_or_exact_taxon_checked_not_expert_reidentification",
+    "fullResolutionInspection": "contact_sheet_screening_not_pixel_level_audit"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:43:27+00:00",
+  "savedAt": "2026-09-14T05:04:10+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:43:27+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 67,
+  "credit": "Fraxinus excelsior [Fraxinus excelsior] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/299210631. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "authorApiValueBeforeNormalization": "unknown",
+  "authorStatus": "not_provided_by_photo_api",
+  "authorNote": "CC0 does not require attribution as a copyright-license condition. The original photo page is retained; a rights notice is not presented as a person name.",
+  "rawMetadataPath": "reference/metadata/fraxinus-excelsior/inat-299210631.json",
+  "collectionSource": "reference",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/fraxinus-excelsior--inat-299210631.json"
+}

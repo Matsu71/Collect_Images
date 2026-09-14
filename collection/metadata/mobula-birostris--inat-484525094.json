@@ -1,0 +1,184 @@
+{
+  "assetId": "inat-484525094",
+  "source": "iNaturalist",
+  "sourceId": "484525094",
+  "photoUrl": "https://www.inaturalist.org/photos/484525094",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/484525094/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/484525094/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "作者名未取得（CC0・出典参照）",
+  "originalAttribution": "no rights reserved",
+  "imageTitle": "Mobula birostris",
+  "sourceTitle": "Mobula birostris",
+  "caption": "Mobula birostris; research-grade observation; ",
+  "photoApiEvidence": {
+    "id": 484525094,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484525094/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/269476918",
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/196614/47273/448201/196615/715805/49697",
+    "min_species_ancestry": "48460,1,2,355675,196614,47273,448201,196615,715805,49697,623966",
+    "endemic": false,
+    "iconic_taxon_id": 1,
+    "min_species_taxon_id": 623966,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 49697,
+    "name": "Mobula birostris",
+    "rank": "species",
+    "extinct": false,
+    "id": 623966,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      196614,
+      47273,
+      448201,
+      196615,
+      715805,
+      49697,
+      623966
+    ],
+    "created_at": "2018-01-01T20:03:51+00:00",
+    "default_photo": {
+      "id": 33852153,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Programa Marino del Golfo de California, some rights reserved (CC BY-NC), uploaded by Programa Marino del Golfo de California",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33852153/square.jpg",
+      "original_dimensions": {
+        "height": 1363,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Programa Marino del Golfo de California",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33852153/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33852153/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 1,
+    "observations_count": 917,
+    "photos_locked": false,
+    "universal_search_rank": 917,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Giant_oceanic_manta_ray",
+    "iconic_taxon_name": "Animalia",
+    "preferred_common_name": "Oceanic Manta Ray",
+    "conservation_status": {
+      "id": 140481,
+      "place_id": null,
+      "source_id": 4,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "en",
+      "status_name": "endangered",
+      "geoprivacy": "obscured",
+      "iucn": 40
+    }
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:41:31+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/mobula-birostris--inat-484525094.jpg",
+  "previewSha256": "e9becb48bcea9a0ab1e1e56a168dffd4a1f0439319685c1eba370f190fd653c9",
+  "previewDimensions": [
+    1600,
+    1200
+  ],
+  "sourceDownloadSha256": "62de5c4f075beb58fc3cf9969e30ef1e38f6e2eaf9225a6ffad3c2706031414e",
+  "schemaVersion": 1,
+  "targetId": "org-mobula-birostris",
+  "scientificName": "Mobula birostris",
+  "nameJa": "オニイトマキエイ",
+  "collectionTier": "chronoearth",
+  "files": {
+    "master": "reference/images/mobula-birostris/inat-484525094.jpg",
+    "web": "reference/images/mobula-birostris/inat-484525094.webp",
+    "thumbnail": "reference/images/mobula-birostris/inat-484525094-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1600,
+      1200
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 351527,
+    "web": 83924,
+    "thumbnail": 4348
+  },
+  "sha256": {
+    "master": "e9becb48bcea9a0ab1e1e56a168dffd4a1f0439319685c1eba370f190fd653c9",
+    "web": "b3f33d4c6a8d4467b84cd24f84a15ffe6b785892d5e14a3088bcad759dba3671",
+    "thumbnail": "59d18a00cd9a4a66758e76f07e7e887c90fa7d3a6525c337a3a7d026ea7a434b"
+  },
+  "origin": "photograph_visual_screened",
+  "status": "supplementary_only",
+  "visualReview": {
+    "status": "screened",
+    "recommendedRole": "supplementary",
+    "reviewer": "ChatGPT visual screening",
+    "reviewedAt": "2026-09-14",
+    "method": "16_image_contact_sheet_and_source_caption_screening",
+    "reviewFile": "reviews/round3-decisions-20260914.json",
+    "snapshotNumber": 90,
+    "candidateManifestSha256": "17541763c02221eb08e1c83018defee5c37dff26d3521799dcffb9ad6a7cecda",
+    "previewSha256": "e9becb48bcea9a0ab1e1e56a168dffd4a1f0439319685c1eba370f190fd653c9",
+    "noteJa": "水中の遊泳姿の補足です。青い色かぶりと低いコントラストがあり、尾や細部が不明瞭です。",
+    "speciesIdentity": "source_caption_or_exact_taxon_checked_not_expert_reidentification",
+    "fullResolutionInspection": "contact_sheet_screening_not_pixel_level_audit"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:41:31+00:00",
+  "savedAt": "2026-09-14T05:03:16+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:41:31+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 85,
+  "credit": "Mobula birostris [Mobula birostris] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/484525094. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "authorApiValueBeforeNormalization": "unknown",
+  "authorStatus": "not_provided_by_photo_api",
+  "authorNote": "CC0 does not require attribution as a copyright-license condition. The original photo page is retained; a rights notice is not presented as a person name.",
+  "rawMetadataPath": "reference/metadata/mobula-birostris/inat-484525094.json",
+  "collectionSource": "reference",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": "現生魚類",
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/mobula-birostris--inat-484525094.json"
+}

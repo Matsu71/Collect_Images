@@ -1,0 +1,150 @@
+{
+  "assetId": "inat-308462649",
+  "source": "iNaturalist",
+  "sourceId": "308462649",
+  "photoUrl": "https://www.inaturalist.org/photos/308462649",
+  "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/308462649/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/308462649/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Athena Philips",
+  "originalAttribution": "(c) Athena Philips, some rights reserved (CC BY)",
+  "imageTitle": "Sassafras albidum",
+  "sourceTitle": "Sassafras albidum",
+  "caption": "Sassafras albidum; research-grade observation; Several suckering trees",
+  "photoApiEvidence": {
+    "id": 308462649,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308462649/square.jpeg",
+    "attribution": "(c) Athena Philips, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationUrl": "https://www.inaturalist.org/observations/177361985",
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48808/48809/54796",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48808,48809,54796,54795",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 54795,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 54796,
+    "name": "Sassafras albidum",
+    "rank": "species",
+    "extinct": false,
+    "id": 54795,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48808,
+      48809,
+      54796,
+      54795
+    ],
+    "provisional": false,
+    "created_at": "2009-12-28T05:15:17+00:00",
+    "default_photo": {
+      "id": 89683054,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Tom Potterfield, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/89683054/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Tom Potterfield",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/89683054/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/89683054/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 3,
+    "observations_count": 76452,
+    "photos_locked": false,
+    "universal_search_rank": 76452,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 17186,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Sassafras_albidum",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "sassafras"
+  },
+  "observationQualityGrade": "research",
+  "acquiredAt": "2026-09-14T04:44:24+00:00",
+  "identityBasis": "exact_iNaturalist_taxon_with_research_grade_observation",
+  "previewPath": "batches/gaps-round3-20260914/previews/sassafras-albidum--inat-308462649.jpg",
+  "previewSha256": "20c4a66c7260a0f28a643d85a7cc6b25fe55e5fc98d08a98c8115c67d1f290de",
+  "previewDimensions": [
+    1200,
+    1600
+  ],
+  "sourceDownloadSha256": "17f00dc096746976a2cdbc3e41af65825035b0efedfa4b65b9dd555bfb44d1d3",
+  "schemaVersion": 1,
+  "targetId": "inat-taxon-54795",
+  "scientificName": "Sassafras albidum",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "files": {
+    "master": "reference/images/sassafras-albidum/inat-308462649.jpg",
+    "web": "reference/images/sassafras-albidum/inat-308462649.webp",
+    "thumbnail": "reference/images/sassafras-albidum/inat-308462649-thumb.webp"
+  },
+  "dimensions": {
+    "master": [
+      1200,
+      1600
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 943891,
+    "web": 368826,
+    "thumbnail": 21630
+  },
+  "sha256": {
+    "master": "20c4a66c7260a0f28a643d85a7cc6b25fe55e5fc98d08a98c8115c67d1f290de",
+    "web": "c4f758659eb04a2db1462dd2aa3a111e1bb6acc7f54437678d1167fa76147070",
+    "thumbnail": "2a1e398b8357793282d5dc0412f896e35300510ad0899d9299aae4d569010316"
+  },
+  "origin": "photo_candidate",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending"
+  },
+  "acquisitionBatch": "batches/gaps-round3-20260914",
+  "retrievedAt": "2026-09-14T04:44:24+00:00",
+  "savedAt": "2026-09-14T05:04:39+00:00",
+  "rightsReview": {
+    "status": "allowed_photo_license_verified_at_acquisition",
+    "verifiedAt": "2026-09-14T04:44:24+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "changes": [
+    "Master is the exact saved and visually reviewed 1600px-or-smaller JPEG derivative, not original source bytes",
+    "WebP/thumbnail proportional resizing and re-encoding only; no crop or generative alteration"
+  ],
+  "webQuality": 67,
+  "credit": "Sassafras albidum [Sassafras albidum] — Athena Philips / iNaturalist, cc-by (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/308462649. Proportionally resized and re-encoded; no subject alteration."
+}
