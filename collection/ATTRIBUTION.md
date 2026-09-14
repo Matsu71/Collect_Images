@@ -234,6 +234,8 @@ Anolis carolinensis mating [Anolis carolinensis] — Cowenby / Wikimedia Commons
 
 Anolis sagrei kz03 [Anolis sagrei] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Anolis_sagrei_kz03.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Brown Anole male (Anolis sagrei) - Introduced (24416277128) [Anolis sagrei] — gailhampshire from Cradley, Malvern, U.K / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Brown_Anole_male_(Anolis_sagrei)_-_Introduced_(24416277128).jpg. Original attribution: Brown Anole male (Anolis sagrei) - Introduced. Resized and re-encoded; no subject alteration.
+
 Greylag Goose - St James's Park, London - Nov 2006 [Anser anser] — Diliff / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Greylag_Goose_-_St_James%27s_Park,_London_-_Nov_2006.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Greylag goose (Anser anser) 2021 [Anser anser] — TRinaud / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Greylag_goose_(Anser_anser)_2021.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
@@ -756,6 +758,8 @@ Galapagos giant tortoise Geochelone elephantopus [Chelonoidis niger] — Mfield 
 
 Chelonoidis niger [Chelonoidis niger] — John G. Phillips / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/37748207. Original attribution: (c) John G. Phillips, some rights reserved (CC BY), uploaded by John G. Phillips. Resized and re-encoded; no subject alteration.
 
+Snapping Turtle Heinz [Chelydra serpentina] — Chuck Homler, Focus On Wildlife / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Snapping_Turtle_Heinz.png. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Common Snapping Turtle [Chelydra serpentina] — D. Gordon E. Robertson / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Common_Snapping_Turtle.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Chenopodium album [Chenopodium album] — Kristi Zoebelein / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/234299048. Original attribution: no rights reserved, uploaded by Kristi Zoebelein. Resized and re-encoded; no subject alteration.
@@ -813,6 +817,8 @@ Cirsium vulgare - Keila2 [Cirsium vulgare] — Ivar Leidus / Wikimedia Commons, 
 Cirsium vulgare [Cirsium vulgare] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/296056732. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Claviceps purpurea kz02 [Claviceps purpurea] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Claviceps_purpurea_kz02.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Claviceps purpurea kz01 [Claviceps purpurea] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Claviceps_purpurea_kz01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Claviceps purpurea 71430491 [Claviceps purpurea] — Alexis / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Claviceps_purpurea_71430491.jpg. Original attribution: https://www.inaturalist.org/photos/71430491. Resized and re-encoded; no subject alteration.
 
@@ -887,6 +893,8 @@ Coragyps-atratus-001 [Coragyps atratus] — Mdf / Wikimedia Commons, CC BY-SA 3.
 Coragyps atratus [Coragyps atratus] — Cricket Raspet / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/342659116. Original attribution: (c) Cricket Raspet, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
 Corallina officinalis Helgoland [Corallina officinalis] — Gabriele Kothe-Heinrich / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Corallina_officinalis_Helgoland.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Bleached Corallina officinalis, Troon, Ayrshire, Scotland [Corallina officinalis] — Rosser1954 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Bleached_Corallina_officinalis,_Troon,_Ayrshire,_Scotland.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Corallina officinalis [Corallina officinalis] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/202533904. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -1013,6 +1021,8 @@ Cytisus scoparius [Cytisus scoparius] — 作者名未取得（CC0・出典参�
 Laughing Kookaburra 1 [Dacelo novaeguineae] — Photo by: Paulweberphoto - paulweberphoto.com / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Laughing_Kookaburra_1.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Dacelo novaeguineae [Dacelo novaeguineae] — Sockrosma / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/353967913. Original attribution: (c) Sockrosma, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+DactylisGlomerataIreland [Dactylis glomerata] — Notafly2 / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:DactylisGlomerataIreland.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Dactylis glomerata Lusatian Mountains [Dactylis glomerata] — Mirek256 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Dactylis_glomerata_Lusatian_Mountains.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -1221,6 +1231,8 @@ Eristalis tenax [Eristalis tenax] — 作者名未取得（CC0・出典参照）
 Erithacus rubecula with cocked head [Erithacus rubecula] — Francis C. Franklin / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Erithacus_rubecula_with_cocked_head.jpg. Original attribution: © Francis C. Franklin / CC-BY-SA-3.0. Resized and re-encoded; no subject alteration.
 
 Erithacus rubecula [Erithacus rubecula] — Alexis Tinker-Tsavalas / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/30475942. Original attribution: (c) Alexis Tinker-Tsavalas, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Erodium cicutarium kz14 [Erodium cicutarium] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Erodium_cicutarium_kz14.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Erodium cicutarium whole plant [Erodium cicutarium] — E Wusk / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Erodium_cicutarium_whole_plant.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -1779,6 +1791,10 @@ Knautia arvensis flower (side view) - Keila [Knautia arvensis] — Ivar Leidus /
 Knautia arvensis Świerzbnica polna 2020-06-29 02 [Knautia arvensis] — Agnieszka Kwiecień, Nova / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Knautia_arvensis_%C5%9Awierzbnica_polna_2020-06-29_02.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Knautia arvensis [Knautia arvensis] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/321879094. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Lactuca serriola kz11 [Lactuca serriola] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Lactuca_serriola_kz11.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Lactuca serriola kz10 [Lactuca serriola] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Lactuca_serriola_kz10.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
 Lactuca serriola [Lactuca serriola] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/721758920. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
@@ -2568,6 +2584,8 @@ Phoenicopterus roseus [Phoenicopterus roseus] — 作者名未取得（CC0・出
 
 Rougequeue noir ichkeul058 (cropped) [Phoenicurus ochruros] — El Golli Mohamed / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Rougequeue_noir_ichkeul058_(cropped).jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
+Black Redstart. Phoenicurus ochruros semirufus [Phoenicurus ochruros] — gailhampshire / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Black_Redstart._Phoenicurus_ochruros_semirufus.jpg. Original attribution: https://www.flickr.com/photos/gails_pictures/50803103593/. Resized and re-encoded; no subject alteration.
+
 Phragmites australis 1 (5097956612) [Phragmites australis] — Superior National Forest / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Phragmites_australis_1_(5097956612).jpg. Original attribution: Phragmites_australis_1 Uploaded by AlbertHerring. Resized and re-encoded; no subject alteration.
 
 Phragmites australis near JR - 2015.08.22 - andrey zharkikh [Phragmites australis] — Andrey Zharkikh from Salt Lake City, USA / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Phragmites_australis_near_JR_-_2015.08.22_-_andrey_zharkikh.jpg. Original attribution: 2015.08.22_12.28.45_DSCN2892. Resized and re-encoded; no subject alteration.
@@ -2689,6 +2707,8 @@ Podarcis muralis Piazzo 02 [Podarcis muralis] — Syrio / Wikimedia Commons, CC 
 Podarcis muralis [Podarcis muralis] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/514537641. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
 Podiceps cristatus [Podiceps cristatus] — caroline legg / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/556162413. Original attribution: (c) caroline legg, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Maca de pico grueso (Podilymbus podiceps), Uruguay, 2020 [Podilymbus podiceps] — Enrique González / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Maca_de_pico_grueso_(Podilymbus_podiceps),_Uruguay,_2020.jpg. Original attribution: National Museum of Natural History. Resized and re-encoded; no subject alteration.
 
 Pied-billed Grebe 0561 [Podilymbus podiceps] — Dori / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Pied-billed_Grebe_0561.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
 
@@ -3442,6 +3462,8 @@ Tringa melanoleuca [Tringa melanoleuca] — 作者名未取得（CC0・出典参
 
 Tringa semipalmata [Tringa semipalmata] — 作者名未取得（CC0・出典参照） / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/339539307. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
 
+Tripleurospermum inodorum at Largs [Tripleurospermum inodorum] — Rosser1954 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Tripleurospermum_inodorum_at_Largs.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
 Tripleurospermum perforatum 20041012 2572 [Tripleurospermum inodorum] — Georg Slickers / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Tripleurospermum_perforatum_20041012_2572.jpg. Original attribution: Self-photographed. Resized and re-encoded; no subject alteration.
 
 Tripleurospermum inodorum [Tripleurospermum inodorum] — Radio Tonreg / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/571211. Original attribution: (c) Radio Tonreg, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
@@ -3697,6 +3719,10 @@ Lichens and algae (explored) - Flickr - hedera.baltica [Xanthoria parietina] —
 Xenopus laevis 02 [Xenopus laevis] — Brian Gratwicke / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Xenopus_laevis_02.jpg. Original attribution: Flickr : Xenopus laevis. Resized and re-encoded; no subject alteration.
 
 Xenopus laevis [Xenopus laevis] — Brian Gratwicke / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/226286. Original attribution: (c) Brian Gratwicke, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Xiphias gladius fins [Xiphias gladius] — ruseva / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Xiphias_gladius_fins.jpg. Original attribution: https://www.inaturalist.org/observations/300403000. Resized and re-encoded; no subject alteration.
+
+Xiphias gladius in the sea [Xiphias gladius] — sylvain_eichhorn / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Xiphias_gladius_in_the_sea.jpg. Original attribution: https://www.inaturalist.org/observations/156410761. Resized and re-encoded; no subject alteration.
 
 Xylocopa virginica [Xylocopa virginica] — Christopher Eliot / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/33118717. Original attribution: (c) Christopher Eliot, some rights reserved (CC BY), uploaded by Christopher Eliot. Resized and re-encoded; no subject alteration.
 

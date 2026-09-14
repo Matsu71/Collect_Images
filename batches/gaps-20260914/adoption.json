@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-14T03:09:21+00:00",
-  "phase": "partial_failure_preserved",
+  "generatedAt": "2026-09-14T03:26:38+00:00",
+  "phase": "complete",
   "reviewFile": "reviews/gap-20260914.json",
   "candidateManifestSha256": "5531dcea0dde3dc3403695dd64d03bd51ff15f076dd3219447bf65f96fd376db",
   "reviewedCount": 727,
@@ -10,8 +10,8 @@
     "exclude": 49
   },
   "selectedCount": 678,
-  "savedCount": 665,
-  "savedTaxa": 364,
+  "savedCount": 678,
+  "savedTaxa": 366,
   "saved": [
     {
       "number": 1,
@@ -388,6 +388,18 @@
       "freshLicenseCheck": "pass"
     },
     {
+      "number": 40,
+      "targetId": "org-chelydra-serpentina",
+      "sourceSearchTargetId": "org-chelydra-serpentina",
+      "assetId": "commons-132536234",
+      "metadataPath": "reference/metadata/chelydra-serpentina/commons-132536234.json",
+      "recommendedRole": "primary",
+      "existingPhotoReused": false,
+      "previewToMasterOriginalIdentity": "pass_exact_reviewed_JPEG_bytes",
+      "freshLicenseCheck": "pass",
+      "recoveryMethod": "individually_reviewed_preview_JPEG"
+    },
+    {
       "number": 41,
       "targetId": "org-chelydra-serpentina",
       "sourceSearchTargetId": "org-chelydra-serpentina",
@@ -432,6 +444,18 @@
       "freshLicenseCheck": "pass"
     },
     {
+      "number": 45,
+      "targetId": "org-claviceps-purpurea",
+      "sourceSearchTargetId": "org-claviceps-purpurea",
+      "assetId": "commons-121644646",
+      "metadataPath": "reference/metadata/claviceps-purpurea/commons-121644646.json",
+      "recommendedRole": "supplementary",
+      "existingPhotoReused": false,
+      "previewToMasterOriginalIdentity": "pass_exact_reviewed_JPEG_bytes",
+      "freshLicenseCheck": "pass",
+      "recoveryMethod": "individually_reviewed_preview_JPEG"
+    },
+    {
       "number": 46,
       "targetId": "org-conraua-goliath",
       "sourceSearchTargetId": "org-conraua-goliath",
@@ -452,6 +476,18 @@
       "existingPhotoReused": false,
       "previewToMasterOriginalIdentity": "pass",
       "freshLicenseCheck": "pass"
+    },
+    {
+      "number": 48,
+      "targetId": "org-corallina-officinalis",
+      "sourceSearchTargetId": "org-corallina-officinalis",
+      "assetId": "commons-57510972",
+      "metadataPath": "reference/metadata/corallina-officinalis/commons-57510972.json",
+      "recommendedRole": "supplementary",
+      "existingPhotoReused": false,
+      "previewToMasterOriginalIdentity": "pass_exact_reviewed_JPEG_bytes",
+      "freshLicenseCheck": "pass",
+      "recoveryMethod": "individually_reviewed_preview_JPEG"
     },
     {
       "number": 49,
@@ -1972,6 +2008,30 @@
       "freshLicenseCheck": "pass"
     },
     {
+      "number": 220,
+      "targetId": "org-xiphias-gladius",
+      "sourceSearchTargetId": "org-xiphias-gladius",
+      "assetId": "commons-172343924",
+      "metadataPath": "reference/metadata/xiphias-gladius/commons-172343924.json",
+      "recommendedRole": "supplementary",
+      "existingPhotoReused": false,
+      "previewToMasterOriginalIdentity": "pass_exact_reviewed_JPEG_bytes",
+      "freshLicenseCheck": "pass",
+      "recoveryMethod": "individually_reviewed_preview_JPEG"
+    },
+    {
+      "number": 221,
+      "targetId": "org-xiphias-gladius",
+      "sourceSearchTargetId": "org-xiphias-gladius",
+      "assetId": "commons-172344038",
+      "metadataPath": "reference/metadata/xiphias-gladius/commons-172344038.json",
+      "recommendedRole": "primary",
+      "existingPhotoReused": false,
+      "previewToMasterOriginalIdentity": "pass_exact_reviewed_JPEG_bytes",
+      "freshLicenseCheck": "pass",
+      "recoveryMethod": "individually_reviewed_preview_JPEG"
+    },
+    {
       "number": 222,
       "targetId": "org-zostera-marina",
       "sourceSearchTargetId": "org-zostera-marina",
@@ -2355,6 +2415,18 @@
       "existingPhotoReused": false,
       "previewToMasterOriginalIdentity": "pass",
       "freshLicenseCheck": "pass"
+    },
+    {
+      "number": 257,
+      "targetId": "inat-taxon-116461",
+      "sourceSearchTargetId": "inat-taxon-116461",
+      "assetId": "commons-73445182",
+      "metadataPath": "reference/metadata/anolis-sagrei/commons-73445182.json",
+      "recommendedRole": "supplementary",
+      "existingPhotoReused": false,
+      "previewToMasterOriginalIdentity": "pass_exact_reviewed_JPEG_bytes",
+      "freshLicenseCheck": "pass",
+      "recoveryMethod": "individually_reviewed_preview_JPEG"
     },
     {
       "number": 258,
@@ -3391,6 +3463,18 @@
       "freshLicenseCheck": "pass"
     },
     {
+      "number": 355,
+      "targetId": "inat-taxon-52720",
+      "sourceSearchTargetId": "inat-taxon-52720",
+      "assetId": "commons-33023629",
+      "metadataPath": "reference/metadata/dactylis-glomerata/commons-33023629.json",
+      "recommendedRole": "primary",
+      "existingPhotoReused": false,
+      "previewToMasterOriginalIdentity": "pass_exact_reviewed_JPEG_bytes",
+      "freshLicenseCheck": "pass",
+      "recoveryMethod": "individually_reviewed_preview_JPEG"
+    },
+    {
       "number": 356,
       "targetId": "inat-taxon-52720",
       "sourceSearchTargetId": "inat-taxon-52720",
@@ -3576,6 +3660,18 @@
       "existingPhotoReused": false,
       "previewToMasterOriginalIdentity": "pass",
       "freshLicenseCheck": "pass"
+    },
+    {
+      "number": 374,
+      "targetId": "inat-taxon-47687",
+      "sourceSearchTargetId": "inat-taxon-47687",
+      "assetId": "commons-127595929",
+      "metadataPath": "reference/metadata/erodium-cicutarium/commons-127595929.json",
+      "recommendedRole": "supplementary",
+      "existingPhotoReused": false,
+      "previewToMasterOriginalIdentity": "pass_exact_reviewed_JPEG_bytes",
+      "freshLicenseCheck": "pass",
+      "recoveryMethod": "individually_reviewed_preview_JPEG"
     },
     {
       "number": 375,
@@ -4456,6 +4552,30 @@
       "existingPhotoReused": false,
       "previewToMasterOriginalIdentity": "pass",
       "freshLicenseCheck": "pass"
+    },
+    {
+      "number": 455,
+      "targetId": "inat-taxon-53107",
+      "sourceSearchTargetId": "inat-taxon-53107",
+      "assetId": "commons-126087640",
+      "metadataPath": "reference/metadata/lactuca-serriola/commons-126087640.json",
+      "recommendedRole": "primary",
+      "existingPhotoReused": false,
+      "previewToMasterOriginalIdentity": "pass_exact_reviewed_JPEG_bytes",
+      "freshLicenseCheck": "pass",
+      "recoveryMethod": "individually_reviewed_preview_JPEG"
+    },
+    {
+      "number": 456,
+      "targetId": "inat-taxon-53107",
+      "sourceSearchTargetId": "inat-taxon-53107",
+      "assetId": "commons-126087641",
+      "metadataPath": "reference/metadata/lactuca-serriola/commons-126087641.json",
+      "recommendedRole": "supplementary",
+      "existingPhotoReused": false,
+      "previewToMasterOriginalIdentity": "pass_exact_reviewed_JPEG_bytes",
+      "freshLicenseCheck": "pass",
+      "recoveryMethod": "individually_reviewed_preview_JPEG"
     },
     {
       "number": 457,
@@ -5404,6 +5524,18 @@
       "freshLicenseCheck": "pass"
     },
     {
+      "number": 545,
+      "targetId": "inat-taxon-13000",
+      "sourceSearchTargetId": "inat-taxon-13000",
+      "assetId": "commons-98560004",
+      "metadataPath": "reference/metadata/phoenicurus-ochruros/commons-98560004.json",
+      "recommendedRole": "supplementary",
+      "existingPhotoReused": false,
+      "previewToMasterOriginalIdentity": "pass_exact_reviewed_JPEG_bytes",
+      "freshLicenseCheck": "pass",
+      "recoveryMethod": "individually_reviewed_preview_JPEG"
+    },
+    {
       "number": 546,
       "targetId": "inat-taxon-64237",
       "sourceSearchTargetId": "inat-taxon-64237",
@@ -5644,6 +5776,18 @@
       "existingPhotoReused": false,
       "previewToMasterOriginalIdentity": "pass",
       "freshLicenseCheck": "pass"
+    },
+    {
+      "number": 569,
+      "targetId": "inat-taxon-4246",
+      "sourceSearchTargetId": "inat-taxon-4246",
+      "assetId": "commons-132529729",
+      "metadataPath": "reference/metadata/podilymbus-podiceps/commons-132529729.json",
+      "recommendedRole": "supplementary",
+      "existingPhotoReused": false,
+      "previewToMasterOriginalIdentity": "pass_exact_reviewed_JPEG_bytes",
+      "freshLicenseCheck": "pass",
+      "recoveryMethod": "individually_reviewed_preview_JPEG"
     },
     {
       "number": 570,
@@ -6790,6 +6934,18 @@
       "freshLicenseCheck": "pass"
     },
     {
+      "number": 677,
+      "targetId": "inat-taxon-79441",
+      "sourceSearchTargetId": "inat-taxon-79441",
+      "assetId": "commons-41993873",
+      "metadataPath": "reference/metadata/tripleurospermum-inodorum/commons-41993873.json",
+      "recommendedRole": "supplementary",
+      "existingPhotoReused": false,
+      "previewToMasterOriginalIdentity": "pass_exact_reviewed_JPEG_bytes",
+      "freshLicenseCheck": "pass",
+      "recoveryMethod": "individually_reviewed_preview_JPEG"
+    },
+    {
       "number": 678,
       "targetId": "inat-taxon-48734",
       "sourceSearchTargetId": "inat-taxon-48734",
@@ -7329,7 +7485,10 @@
       "freshLicenseCheck": "pass"
     }
   ],
-  "failures": [
+  "failures": [],
+  "sourceLicenseAndOriginalImageIdentityRechecked": true,
+  "note": "Only explicitly selected photographs are adopted. Rejected previews remain separate audit evidence. A taxon correction requires an exact existing target and an explicit scientific name in the original source caption.",
+  "failureHistory": [
     {
       "number": 45,
       "stage": "download_and_save",
@@ -7396,6 +7555,6 @@
       "error": "animated_not_photo"
     }
   ],
-  "sourceLicenseAndOriginalImageIdentityRechecked": true,
-  "note": "Only explicitly selected photographs are adopted. Rejected previews remain separate audit evidence. A taxon correction requires an exact existing target and an explicit scientific name in the original source caption."
+  "recoveredViaReviewedJPEG": 13,
+  "individualReviewFile": "reviews/gap-preview-followup-20260914.json"
 }

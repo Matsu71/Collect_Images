@@ -1,0 +1,46 @@
+{
+  "generatedAt": "2026-09-14T03:27:15+00:00",
+  "baselineSource": "reports/continuation-baseline-20260914.json",
+  "currentSource": "reports/curation-status.json",
+  "before": {
+    "acceptedPhotographs": 1201,
+    "acceptedTaxonCoverage": 923,
+    "primaryReadyTaxa": 586,
+    "chronoearthPrimaryReadyTaxa": 374,
+    "downloadedTargetCoverage": 986,
+    "chronoearthDownloadedCoverage": 518
+  },
+  "after": {
+    "acceptedPhotographs": 1879,
+    "acceptedTaxonCoverage": 978,
+    "primaryReadyTaxa": 810,
+    "chronoearthPrimaryReadyTaxa": 427,
+    "downloadedTargetCoverage": 987,
+    "chronoearthDownloadedCoverage": 519
+  },
+  "change": {
+    "acceptedPhotographs": 678,
+    "acceptedTaxonCoverage": 55,
+    "primaryReadyTaxa": 224,
+    "chronoearthPrimaryReadyTaxa": 53,
+    "downloadedTargetCoverage": 1,
+    "chronoearthDownloadedCoverage": 1
+  },
+  "candidateImagesReviewed": 727,
+  "candidateDecisionCounts": {
+    "primary": 242,
+    "supplementary": 436,
+    "exclude": 49
+  },
+  "selectedImageFilesSaved": 678,
+  "selectedTaxaSaved": 366,
+  "saveFailures": [],
+  "primaryGapsRemaining": 190,
+  "chronoearthPrimaryGapsRemaining": 105,
+  "rejectedPreviewsAreNotAdopted": true,
+  "commercialLicenseRecheckedAtSave": true,
+  "reviewPreviewToOriginalImageSha1Checked": true,
+  "limitations": "Counts refer to saved files and catalogue entries. Composition screening and source-caption checks are not expert species re-identification, a pixel-level audit of every master, or an independent warranty of all third-party rights.",
+  "portablePrimaryExportValidated": 810,
+  "cc0AndByPrimaryExportValidated": 490
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T03:23:24+00:00",
+  "generatedAt": "2026-09-14T03:26:50+00:00",
   "records": [
     {
       "id": "org-acanthaster-planci",
@@ -2470,7 +2470,14 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-chelydra-serpentina",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-132536234",
+        "web": "reference/images/chelydra-serpentina/commons-132536234.webp",
+        "master": "reference/images/chelydra-serpentina/commons-132536234.jpg",
+        "metadata": "collection/metadata/chelydra-serpentina--commons-132536234.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Snapping Turtle Heinz [Chelydra serpentina] — Chuck Homler, Focus On Wildlife / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Snapping_Turtle_Heinz.png. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/chelydra-serpentina--commons-15873301.json"
@@ -2619,6 +2626,7 @@
       },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/claviceps-purpurea--commons-121644646.json",
         "collection/metadata/claviceps-purpurea--commons-96449852.json"
       ],
       "pendingPhotos": [],
@@ -2800,6 +2808,7 @@
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/corallina-officinalis--commons-18609988.json",
+        "collection/metadata/corallina-officinalis--commons-57510972.json",
         "collection/metadata/corallina-officinalis--inat-202533904.json"
       ],
       "pendingPhotos": [],
@@ -10834,9 +10843,18 @@
       "commonNameSource": null,
       "collectionTier": "chronoearth",
       "chronoearthEventId": "evt-organism-xiphias-gladius",
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-172344038",
+        "web": "reference/images/xiphias-gladius/commons-172344038.webp",
+        "master": "reference/images/xiphias-gladius/commons-172344038.jpg",
+        "metadata": "collection/metadata/xiphias-gladius--commons-172344038.json",
+        "license": "CC BY 4.0",
+        "credit": "Xiphias gladius in the sea [Xiphias gladius] — sylvain_eichhorn / Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Xiphias_gladius_in_the_sea.jpg. Original attribution: https://www.inaturalist.org/observations/156410761. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
-      "supplementaryPhotos": [],
+      "supplementaryPhotos": [
+        "collection/metadata/xiphias-gladius--commons-172343924.json"
+      ],
       "pendingPhotos": [],
       "excludedPhotos": [
         "collection/metadata/xiphias-gladius--inat-9119194.json"
@@ -12823,7 +12841,14 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-33023629",
+        "web": "reference/images/dactylis-glomerata/commons-33023629.webp",
+        "master": "reference/images/dactylis-glomerata/commons-33023629.jpg",
+        "metadata": "collection/metadata/dactylis-glomerata--commons-33023629.json",
+        "license": "CC BY-SA 3.0",
+        "credit": "DactylisGlomerataIreland [Dactylis glomerata] — Notafly2 / Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:DactylisGlomerataIreland.JPG. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
         "collection/metadata/dactylis-glomerata--commons-91415712.json",
@@ -13325,6 +13350,7 @@
       },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/erodium-cicutarium--commons-127595929.json",
         "collection/metadata/erodium-cicutarium--inat-255868475.json"
       ],
       "pendingPhotos": [],
@@ -15161,6 +15187,7 @@
       },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/podilymbus-podiceps--commons-132529729.json",
         "collection/metadata/podilymbus-podiceps--inat-70152459.json"
       ],
       "pendingPhotos": [],
@@ -16471,9 +16498,17 @@
       "commonNameSource": null,
       "collectionTier": "extension",
       "chronoearthEventId": null,
-      "primaryPhoto": null,
+      "primaryPhoto": {
+        "assetId": "commons-126087640",
+        "web": "reference/images/lactuca-serriola/commons-126087640.webp",
+        "master": "reference/images/lactuca-serriola/commons-126087640.jpg",
+        "metadata": "collection/metadata/lactuca-serriola--commons-126087640.json",
+        "license": "CC BY-SA 4.0",
+        "credit": "Lactuca serriola kz11 [Lactuca serriola] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Lactuca_serriola_kz11.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
+      },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/lactuca-serriola--commons-126087641.json",
         "collection/metadata/lactuca-serriola--inat-721758920.json"
       ],
       "pendingPhotos": [],
@@ -16656,7 +16691,9 @@
         "credit": "Anolis sagrei kz03 [Anolis sagrei] — Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Anolis_sagrei_kz03.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
       },
       "primaryAlternatives": [],
-      "supplementaryPhotos": [],
+      "supplementaryPhotos": [
+        "collection/metadata/anolis-sagrei--commons-73445182.json"
+      ],
       "pendingPhotos": [],
       "excludedPhotos": [
         "collection/metadata/anolis-sagrei--inat-183888732.json"
@@ -18155,7 +18192,9 @@
         "credit": "Rougequeue noir ichkeul058 (cropped) [Phoenicurus ochruros] — El Golli Mohamed / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Rougequeue_noir_ichkeul058_(cropped).jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration."
       },
       "primaryAlternatives": [],
-      "supplementaryPhotos": [],
+      "supplementaryPhotos": [
+        "collection/metadata/phoenicurus-ochruros--commons-98560004.json"
+      ],
       "pendingPhotos": [],
       "excludedPhotos": [
         "collection/metadata/phoenicurus-ochruros--inat-558965974.json"
@@ -18935,6 +18974,7 @@
       },
       "primaryAlternatives": [],
       "supplementaryPhotos": [
+        "collection/metadata/tripleurospermum-inodorum--commons-41993873.json",
         "collection/metadata/tripleurospermum-inodorum--inat-571211.json"
       ],
       "pendingPhotos": [],
