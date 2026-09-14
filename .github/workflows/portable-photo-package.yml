@@ -1,0 +1,46 @@
+name: Export portable primary photo package
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - bundle-requests/**
+permissions:
+  contents: read
+concurrency:
+  group: portable-photo-package
+  cancel-in-progress: false
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify snapshot and export photo files with attribution
+        run: |
+          python - <<'PY'
+          import json,pathlib,subprocess
+          root=pathlib.Path.cwd()
+          status=json.loads((root/'reports/curation-status.json').read_text())
+          request=root/'bundle-requests/package-latest.json'
+          if request.exists():
+              required=json.loads(request.read_text()).get('expectedCounts',{})
+              for k,v in required.items():
+                  if status.get(k)!=v:raise ValueError('Export snapshot count mismatch: '+k)
+          print('Source commit:',subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip())
+          print('Primary taxa:',status['primaryReadyTaxa'])
+          PY
+          python tools/export_collection.py --output "$RUNNER_TEMP/portable-species-photos"
+          python tools/build_export_gallery.py "$RUNNER_TEMP/portable-species-photos"
+          cp reports/curation-status.json "$RUNNER_TEMP/portable-species-photos/collection-status.json"
+          cp reports/continuation-result-20260914.json "$RUNNER_TEMP/portable-species-photos/collection-progress.json"
+          git rev-parse HEAD > "$RUNNER_TEMP/portable-species-photos/source-commit.txt"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: portable-species-photos
+          path: ${{ runner.temp }}/portable-species-photos/
+          if-no-files-found: error
+          retention-days: 7
