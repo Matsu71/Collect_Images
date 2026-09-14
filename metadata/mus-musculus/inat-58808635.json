@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-58808635",
+  "targetId": "org-mus-musculus",
+  "scientificName": "Mus musculus",
+  "nameJa": "ハツカネズミ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:03:39+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:03:39+00:00",
+  "files": {
+    "master": "images/mus-musculus/inat-58808635.jpg",
+    "web": "images/mus-musculus/inat-58808635.webp",
+    "thumbnail": "images/mus-musculus/inat-58808635-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1148,
+      1532
+    ],
+    "master": [
+      1148,
+      1532
+    ],
+    "web": [
+      1049,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 305380,
+    "web": 121080,
+    "thumbnail": 7808
+  },
+  "sha256": {
+    "download": "ccf07fd001be79b818ad08754dbe4b97f2efa8ac6505404aef6ada22a399010a",
+    "master": "017cd1bf1e266b4a8f23e757b6dd2876256dab164a691ad59986982e11784bbc",
+    "web": "767c5120d2141c2c90ee30b7305204c4178829a5216f1910a5e72613d8b8fabb"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Mus musculus [Mus musculus] — Carrie Seltzer / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/58808635. Original attribution: (c) Carrie Seltzer, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Mus musculus",
+  "sourceId": "58808635",
+  "photoUrl": "https://www.inaturalist.org/photos/58808635",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/58808635/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/58808635/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Carrie Seltzer",
+  "originalAttribution": "(c) Carrie Seltzer, some rights reserved (CC BY)",
+  "taxonId": 44705,
+  "acceptedScientificName": "Mus musculus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/37128761",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.973333333333333,
+  "photoApiEvidence": {
+    "id": 58808635,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1148,
+      "height": 1532
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58808635/square.jpg",
+    "attribution": "(c) Carrie Seltzer, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43698/870778/488924/44185/735171/846376/44678/1431407",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43698,870778,488924,44185,735171,846376,44678,1431407,44705",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 44705,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1431407,
+    "name": "Mus musculus",
+    "rank": "species",
+    "extinct": false,
+    "id": 44705,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43698,
+      870778,
+      488924,
+      44185,
+      735171,
+      846376,
+      44678,
+      1431407,
+      44705
+    ],
+    "created_at": "2008-03-19T01:09:56+00:00",
+    "default_photo": {
+      "id": 451428449,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Ty Smith, some rights reserved (CC BY-NC), uploaded by Ty Smith",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451428449/square.jpeg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Ty Smith",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451428449/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451428449/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 21242,
+    "photos_locked": false,
+    "universal_search_rank": 21242,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 65,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/House_mouse",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "House Mouse"
+  }
+}

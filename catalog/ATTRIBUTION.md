@@ -582,4 +582,100 @@ Meleagris gallopavo [Meleagris gallopavo] — no rights reserved / iNaturalist, 
 
 Meles meles [Meles meles] — caroline legg / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/172054371. Original attribution: (c) caroline legg, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Melopsittacus undulatus [Melopsittacus undulatus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/310118233. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Mephitis mephitis [Mephitis mephitis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/50133857. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Metasequoia glyptostroboides [Metasequoia glyptostroboides] — W Rao / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/285729025. Original attribution: (c) W Rao, some rights reserved (CC BY), uploaded by W Rao. Resized and re-encoded; no subject alteration.
+
+Ansa.202100042-Fig2-PDF-big [Methanocaldococcus jannaschii] — Nanako Kanno, Shingo Kato, Takashi Itoh, Moriya Ohkuma, Shinsuke Shigeto / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Ansa.202100042-Fig2-PDF-big.png. Original attribution: Resonance Raman analysis of intracellular vitamin B12 analogs in methanogenic archaea. In: Chemistry Europe : Analytical Science Advances , Vil. 3, No. 5-6, p. 165-173, PDF . Note: Study is also available via doi : 10.1002/ansa.202100042 (not used here). Caption fixed ( Methanocaldococcus jannaschii ) according to LPSN.. Resized and re-encoded; no subject alteration.
+
+Ansa.202100042-Fig2-PDF-big [Methanosarcina barkeri] — Nanako Kanno, Shingo Kato, Takashi Itoh, Moriya Ohkuma, Shinsuke Shigeto / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Ansa.202100042-Fig2-PDF-big.png. Original attribution: Resonance Raman analysis of intracellular vitamin B12 analogs in methanogenic archaea. In: Chemistry Europe : Analytical Science Advances , Vil. 3, No. 5-6, p. 165-173, PDF . Note: Study is also available via doi : 10.1002/ansa.202100042 (not used here). Caption fixed ( Methanocaldococcus jannaschii ) according to LPSN.. Resized and re-encoded; no subject alteration.
+
+Mnemiopsis leidyi [Mnemiopsis leidyi] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/707130880. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Mobula birostris [Mobula birostris] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/484502754. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Molamola1 Dalgleish [Mola mola] — Wreckless Marine / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Molamola1_Dalgleish.png. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Monodon monoceros [Monodon monoceros] — пресс-служба ПАО "Газпром нефть" / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/66927345. Original attribution: (c) пресс-служба ПАО "Газпром нефть", some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
+
+Morchella rotunda 040410w [Morchella esculenta] — Strobilomyces / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:Morchella_rotunda_040410w.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Morus bassanus [Morus bassanus] — Brooke J. / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/423316546. Original attribution: (c) Brooke J., some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Mus musculus [Mus musculus] — Carrie Seltzer / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/58808635. Original attribution: (c) Carrie Seltzer, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Musa acuminata [Musa acuminata] — Cheongweei Gan / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/170557381. Original attribution: (c) Cheongweei Gan, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Musca domestica [Musca domestica] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/61848581. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Mustela nigripes [Mustela nigripes] — USFWS Mountain-Prairie / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/60607767. Original attribution: (c) USFWS Mountain-Prairie, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Mycobacterium tuberculosis [Mycobacterium tuberculosis] — Aleksandr Rodionov FCTRB / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Mycobacterium_tuberculosis.png. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Myrmecobius fasciatus [Myrmecobius fasciatus] — Kym Nicolson / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/259629687. Original attribution: (c) Kym Nicolson, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Myrmecophaga tridactyla [Myrmecophaga tridactyla] — djcooker / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/345917023. Original attribution: (c) djcooker, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Mytilus edulis [Mytilus edulis] — Justin Johnsen / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/670181. Original attribution: (c) Justin Johnsen, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Naja naja [Naja naja] — Aravinth / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/169465348. Original attribution: (c) Aravinth, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Nasalis larvatus [Nasalis larvatus] — Huey / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/575715301. Original attribution: (c) Huey, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Nautilus pompilius [Nautilus pompilius] — Bryce Watts-Parker / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/470639183. Original attribution: (c) Bryce Watts-Parker, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Necturus maculosus [Necturus maculosus] — Brian Gratwicke / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/147397. Original attribution: (c) Brian Gratwicke, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Nelumbo nucifera [Nelumbo nucifera] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/293129369. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Neoceratodus forsteri [Neoceratodus forsteri] — Marilyn Connell / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/164484616. Original attribution: (c) Marilyn Connell, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Neofelis nebulosa [Neofelis nebulosa] — Ian Dugdale / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/544317531. Original attribution: (c) Ian Dugdale, some rights reserved (CC BY), uploaded by Ian Dugdale. Resized and re-encoded; no subject alteration.
+
+Nestor notabilis [Nestor notabilis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/172959642. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+The process of generating spores in Neurospora crassa with respect to recombination events [Neurospora crassa] — Benjaminmarkus / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/3.0); source: https://commons.wikimedia.org/wiki/File:The_process_of_generating_spores_in_Neurospora_crassa_with_respect_to_recombination_events.png. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Fmicb-15-1367658-g002 [Nitrosopumilus maritimus] — Yangkai Zhou, An Yan, Jiawen Yang, Wei He, Shuai Guo, Yifan Li, Jing Wu, Yanchao Dai, Xijiang Pan, Dongyu Cui, Olivier Pereira, Wenkai Teng, Ran Bi, Songze Chen, Lu Fan, Peiyi Wang, Yan Liao, Wei Qin, Sen-Fang Sui, Yuanqing Zhu, Chuanlun Zhang, Zheng Liu / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Fmicb-15-1367658-g002.webp. Original attribution: Genomic Characteristics of a Novel Species of Ammonia-Oxidizing Archaea from the Jiulong River Estuary. In: Applied and Environmental Microbiology , Volume 86, No. 18, pp. e00736-20; doi : 10.1128/AEM.00736-20 .. Resized and re-encoded; no subject alteration.
+
+Meeresleuchten auf Norderney 01 [Noctiluca scintillans] — Stephan Sprinz / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Meeresleuchten_auf_Norderney_01.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Notophthalmus viridescens [Notophthalmus viridescens] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/410005038. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Nymphaea alba [Nymphaea alba] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/10227172. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Nypa fruticans [Nypa fruticans] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/241764014. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Octopus vulgaris [Octopus vulgaris] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/322883970. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Odobenus rosmarus [Odobenus rosmarus] — Morten Ross / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/314800637. Original attribution: (c) Morten Ross, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Odocoileus virginianus [Odocoileus virginianus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/24624866. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Okapi and son [Okapia johnstoni] — Alan Eng from Brussels, Belgium / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Okapi_and_son.jpg. Original attribution: Okapi and son. Resized and re-encoded; no subject alteration.
+
+Olea europaea [Olea europaea] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/409846471. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Oncorhynchus mykiss [Oncorhynchus mykiss] — Mike Heine / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/515352562. Original attribution: (c) Mike Heine, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Oophaga pumilio [Oophaga pumilio] — Jackcsmall / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/339638448. Original attribution: (c) Jackcsmall, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
+
+Ophiocordyceps unilateralis (10.3897-mycokeys.60.38040) Figure 6 [Ophiocordyceps unilateralis] — Wei D-P, Wanasinghe DN, Hyde KD, Mortimer PE, Xu J, Xiao Y-P, Bhunjun CS, To-anun C (2019) The genus Simplicillium . MycoKeys 60: 69-92. https://doi.org/10.3897/mycokeys.60.38040 / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Ophiocordyceps_unilateralis_(10.3897-mycokeys.60.38040)_Figure_6.jpeg. Original attribution: https://mycokeys.pensoft.net/article/38040/list/2/ (license). Resized and re-encoded; no subject alteration.
+
+Ophiophagus hannah [Ophiophagus hannah] — Lawrence Hylton / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/157899882. Original attribution: (c) Lawrence Hylton, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Orcinus orca [Orcinus orca] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/282690764. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Oreamnos americanus [Oreamnos americanus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/213998499. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Ornithorhynchus anatinus [Ornithorhynchus anatinus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/178746516. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Orycteropus afer [Orycteropus afer] — Kelly Abram / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/175359469. Original attribution: no rights reserved, uploaded by Kelly Abram. Resized and re-encoded; no subject alteration.
+
+Oryctolagus cuniculus [Oryctolagus cuniculus] — Alexis Lours / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/137362674. Original attribution: (c) Alexis Lours, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Oryza sativa [Oryza sativa] — Utain Pummarin / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/463769389. Original attribution: (c) Utain Pummarin, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
 Trichodesmium interactions with bacteria to acquire iron [Trichodesmium spp.] — Subhajit Basu, Martha Gledhill, Dirk de Beer, S. G. Prabhu Matondkar & Yeala Shaked / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Trichodesmium_interactions_with_bacteria_to_acquire_iron.png. Original attribution: [1]. Resized and re-encoded; no subject alteration.

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-544317531",
+  "targetId": "org-neofelis-nebulosa",
+  "scientificName": "Neofelis nebulosa",
+  "nameJa": "ウンピョウ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:04:12+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:04:12+00:00",
+  "files": {
+    "master": "images/neofelis-nebulosa/inat-544317531.jpg",
+    "web": "images/neofelis-nebulosa/inat-544317531.webp",
+    "thumbnail": "images/neofelis-nebulosa/inat-544317531-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 989511,
+    "web": 188512,
+    "thumbnail": 26684
+  },
+  "sha256": {
+    "download": "8731bd4e0c48bb80d3e09ad139de6b52fe459c661a3b35969b5a711bfaadb4b3",
+    "master": "8e2b7cbedb1cce0b2ffc0c722c32ba66d307b2643edfaa003e2b893728265b79",
+    "web": "92355020d5d7831e7388d3c9c492fd34522503264b204e0b81124eb077197932"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Neofelis nebulosa [Neofelis nebulosa] — Ian Dugdale / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/544317531. Original attribution: (c) Ian Dugdale, some rights reserved (CC BY), uploaded by Ian Dugdale. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Neofelis nebulosa",
+  "sourceId": "544317531",
+  "photoUrl": "https://www.inaturalist.org/photos/544317531",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/544317531/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/544317531/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Ian Dugdale",
+  "originalAttribution": "(c) Ian Dugdale, some rights reserved (CC BY), uploaded by Ian Dugdale",
+  "taxonId": 41972,
+  "acceptedScientificName": "Neofelis nebulosa",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.194285714285714,
+  "photoApiEvidence": {
+    "id": 544317531,
+    "license_code": "cc-by",
+    "attribution": "(c) Ian Dugdale, some rights reserved (CC BY), uploaded by Ian Dugdale",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544317531/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Ian Dugdale",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544317531/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544317531/medium.jpg"
+  },
+  "observationTaxon": null
+}

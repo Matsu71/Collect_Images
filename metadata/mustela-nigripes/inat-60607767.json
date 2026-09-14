@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-60607767",
+  "targetId": "org-mustela-nigripes",
+  "scientificName": "Mustela nigripes",
+  "nameJa": "クロアシイタチ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:03:48+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:03:48+00:00",
+  "files": {
+    "master": "images/mustela-nigripes/inat-60607767.jpg",
+    "web": "images/mustela-nigripes/inat-60607767.webp",
+    "thumbnail": "images/mustela-nigripes/inat-60607767-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1920,
+      1404
+    ],
+    "master": [
+      1920,
+      1404
+    ],
+    "web": [
+      1400,
+      1024
+    ]
+  },
+  "bytes": {
+    "master": 855590,
+    "web": 187720,
+    "thumbnail": 23526
+  },
+  "sha256": {
+    "download": "87a40a8ab89fd2612ec4b066902fa6777b076f90f7d8606e675be7234a7fc89d",
+    "master": "478e9d316fcd368ffcd7f2f2555b04516e790a4662985289de6c0cf1d243a8ef",
+    "web": "11292ca1b5aa415924497faf7f5e810704f5c24aea8353d4018f5a38c871a4ff"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 71,
+  "credit": "Mustela nigripes [Mustela nigripes] — USFWS Mountain-Prairie / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/60607767. Original attribution: (c) USFWS Mountain-Prairie, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Mustela nigripes",
+  "sourceId": "60607767",
+  "photoUrl": "https://www.inaturalist.org/photos/60607767",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60607767/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60607767/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "USFWS Mountain-Prairie",
+  "originalAttribution": "(c) USFWS Mountain-Prairie, some rights reserved (CC BY)",
+  "taxonId": 41809,
+  "acceptedScientificName": "Mustela nigripes",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/38159651",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.005714285714285,
+  "photoApiEvidence": {
+    "id": 60607767,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1920,
+      "height": 1404
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60607767/square.jpg",
+    "attribution": "(c) USFWS Mountain-Prairie, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/41770/526558/41801",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848324,41573,41770,526558,41801,41809",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 41809,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 41801,
+    "name": "Mustela nigripes",
+    "rank": "species",
+    "extinct": false,
+    "id": 41809,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848324,
+      41573,
+      41770,
+      526558,
+      41801,
+      41809
+    ],
+    "created_at": "2008-03-19T00:36:26+00:00",
+    "default_photo": {
+      "id": 9803970,
+      "license_code": "pd",
+      "attribution": "USFWS Mountain Prairie, no known copyright restrictions (public domain)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9803970/square.jpg",
+      "original_dimensions": {
+        "height": 526,
+        "width": 722
+      },
+      "flags": [],
+      "attribution_name": "USFWS Mountain Prairie",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9803970/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9803970/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 149,
+    "photos_locked": false,
+    "universal_search_rank": 149,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 13030,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black-footed_ferret",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Black-footed Ferret",
+    "conservation_status": {
+      "id": 15798,
+      "place_id": null,
+      "source_id": 15286,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "en",
+      "status_name": "endangered",
+      "geoprivacy": "obscured",
+      "iucn": 40
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-66927345",
+  "targetId": "org-monodon-monoceros",
+  "scientificName": "Monodon monoceros",
+  "nameJa": "イッカク",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:03:29+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:03:29+00:00",
+  "files": {
+    "master": "images/monodon-monoceros/inat-66927345.jpg",
+    "web": "images/monodon-monoceros/inat-66927345.webp",
+    "thumbnail": "images/monodon-monoceros/inat-66927345-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1500,
+      1000
+    ],
+    "master": [
+      1500,
+      1000
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 293305,
+    "web": 98844,
+    "thumbnail": 4500
+  },
+  "sha256": {
+    "download": "3aa264fb0b313323e440e81d5fb96e234a8b8daab320d4b6e28ece8f8d73d1ca",
+    "master": "9f297d3ffb814ea5de8426fcb813fe74bbefef2edddd2ad4ba4e980d9e26d65d",
+    "web": "3a271aa41f18ed27f8e3c3fb08985015030c0535a24787d92b5e79558c5b8fc2"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Monodon monoceros [Monodon monoceros] — пресс-служба ПАО \"Газпром нефть\" / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/66927345. Original attribution: (c) пресс-служба ПАО \"Газпром нефть\", some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Monodon monoceros",
+  "sourceId": "66927345",
+  "photoUrl": "https://www.inaturalist.org/photos/66927345",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/66927345/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/66927345/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "пресс-служба ПАО \"Газпром нефть\"",
+  "originalAttribution": "(c) пресс-служба ПАО \"Газпром нефть\", some rights reserved (CC BY-SA)",
+  "taxonId": 41459,
+  "acceptedScientificName": "Monodon monoceros",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 9.428571428571429,
+  "photoApiEvidence": {
+    "id": 66927345,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) \nпресс-служба ПАО \"Газпром нефть\", some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66927345/square.jpg",
+    "original_dimensions": {
+      "height": 1000,
+      "width": 1500
+    },
+    "flags": [],
+    "attribution_name": "\nпресс-служба ПАО \"Газпром нефть\"",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66927345/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66927345/medium.jpg"
+  },
+  "observationTaxon": null
+}

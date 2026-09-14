@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-164484616",
+  "targetId": "org-neoceratodus-forsteri",
+  "scientificName": "Neoceratodus forsteri",
+  "nameJa": "オーストラリアハイギョ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:04:12+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:04:12+00:00",
+  "files": {
+    "master": "images/neoceratodus-forsteri/inat-164484616.jpg",
+    "web": "images/neoceratodus-forsteri/inat-164484616.webp",
+    "thumbnail": "images/neoceratodus-forsteri/inat-164484616-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1151
+    ],
+    "master": [
+      2048,
+      1151
+    ],
+    "web": [
+      1400,
+      787
+    ]
+  },
+  "bytes": {
+    "master": 294155,
+    "web": 40924,
+    "thumbnail": 2140
+  },
+  "sha256": {
+    "download": "21205441027b6af0493c14789699732901c4193fc8c9c147da0a7b7ede73215f",
+    "master": "805e196dee3237f702c464f5121ea6718004419d102f71d2f82c1db03d32a5f1",
+    "web": "11c1d8599026dd7b0b5d173770cabe49156c8a977aa2a93a2480716115272353"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Neoceratodus forsteri [Neoceratodus forsteri] — Marilyn Connell / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/164484616. Original attribution: (c) Marilyn Connell, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Neoceratodus forsteri",
+  "sourceId": "164484616",
+  "photoUrl": "https://www.inaturalist.org/photos/164484616",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/164484616/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/164484616/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Marilyn Connell",
+  "originalAttribution": "(c) Marilyn Connell, some rights reserved (CC BY)",
+  "taxonId": 460249,
+  "acceptedScientificName": "Neoceratodus forsteri",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": "https://www.inaturalist.org/observations/98750788",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 5.977619047619047,
+  "photoApiEvidence": {
+    "id": 164484616,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1151
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/164484616/square.jpeg",
+    "attribution": "(c) Marilyn Connell, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/85497/85509/1637573/85920/90204",
+    "min_species_ancestry": "48460,1,2,355675,85497,85509,1637573,85920,90204,460249",
+    "endemic": true,
+    "iconic_taxon_id": 1,
+    "min_species_taxon_id": 460249,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 90204,
+    "name": "Neoceratodus forsteri",
+    "rank": "species",
+    "extinct": false,
+    "id": 460249,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      85497,
+      85509,
+      1637573,
+      85920,
+      90204,
+      460249
+    ],
+    "created_at": "2015-04-08T03:55:11+00:00",
+    "default_photo": {
+      "id": 577691714,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Tse Chung Yi, some rights reserved (CC BY-NC), uploaded by Tse Chung Yi",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577691714/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Tse Chung Yi",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577691714/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577691714/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 140,
+    "photos_locked": false,
+    "universal_search_rank": 140,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Queensland_lungfish",
+    "iconic_taxon_name": "Animalia",
+    "preferred_common_name": "Australian Lungfish",
+    "conservation_status": {
+      "id": 190344,
+      "place_id": null,
+      "source_id": null,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "en",
+      "status_name": "endangered",
+      "geoprivacy": "open",
+      "iucn": 40
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-137362674",
+  "targetId": "org-oryctolagus-cuniculus",
+  "scientificName": "Oryctolagus cuniculus",
+  "nameJa": "アナウサギ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:04:58+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:04:58+00:00",
+  "files": {
+    "master": "images/oryctolagus-cuniculus/inat-137362674.jpg",
+    "web": "images/oryctolagus-cuniculus/inat-137362674.webp",
+    "thumbnail": "images/oryctolagus-cuniculus/inat-137362674-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 658834,
+    "web": 184720,
+    "thumbnail": 17004
+  },
+  "sha256": {
+    "download": "60e73820f5427af91276bfa1dd131ae77e1ca4ee7a0f7fa4a22b939ab9d4d97f",
+    "master": "8f77a670d5cc9aba61ad75fa55a765d02860f92c2a38ff2ec8802f2c1082e381",
+    "web": "cc2ebd6db5ba2091bf17828fea63dd595a401ff6c152f8e00d965946627e66d5"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Oryctolagus cuniculus [Oryctolagus cuniculus] — Alexis Lours / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/137362674. Original attribution: (c) Alexis Lours, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Oryctolagus cuniculus",
+  "sourceId": "137362674",
+  "photoUrl": "https://www.inaturalist.org/photos/137362674",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/137362674/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/137362674/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Alexis Lours",
+  "originalAttribution": "(c) Alexis Lours, some rights reserved (CC BY)",
+  "taxonId": 43151,
+  "acceptedScientificName": "Oryctolagus cuniculus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/83624539",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.95,
+  "photoApiEvidence": {
+    "id": 137362674,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137362674/square.jpg",
+    "attribution": "(c) Alexis Lours, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43094/43095/43150",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43094,43095,43150,43151",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 43151,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 43150,
+    "name": "Oryctolagus cuniculus",
+    "rank": "species",
+    "extinct": false,
+    "id": 43151,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43094,
+      43095,
+      43150,
+      43151
+    ],
+    "created_at": "2008-03-19T00:51:35+00:00",
+    "default_photo": {
+      "id": 520690657,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) jitensha2021, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520690657/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "jitensha2021",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520690657/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520690657/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 6,
+    "observations_count": 70784,
+    "photos_locked": false,
+    "universal_search_rank": 70784,
+    "flag_counts": {
+      "resolved": 5,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 30223,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_rabbit",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "European Rabbit"
+  }
+}

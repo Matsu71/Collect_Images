@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-695512003",
+  "targetId": "org-osphranter-rufus",
+  "scientificName": "Osphranter rufus",
+  "nameJa": "アカカンガルー",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:05:03+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:05:03+00:00",
+  "files": {
+    "master": "images/osphranter-rufus/inat-695512003.jpg",
+    "web": "images/osphranter-rufus/inat-695512003.webp",
+    "thumbnail": "images/osphranter-rufus/inat-695512003-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 963776,
+    "web": 142876,
+    "thumbnail": 3766
+  },
+  "sha256": {
+    "download": "b9b972766322f065f940f3fd2de2aca18f271f41deeb039d4f329af28bc3fab6",
+    "master": "bc15b7f8c4527f4ce48727af8b98076a2f4adecb91795c2ca3c9ea4fcaa9910e",
+    "web": "4c9c136874a428c09bc118542ab296be4f299f7949f0fcae04720f4df121ff93"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Osphranter rufus [Osphranter rufus] — Jan Ebr & Ivana Ebrová / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/695512003. Original attribution: (c) Jan Ebr & Ivana Ebrová, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Osphranter rufus",
+  "sourceId": "695512003",
+  "photoUrl": "https://www.inaturalist.org/photos/695512003",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/695512003/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/695512003/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Jan Ebr & Ivana Ebrová",
+  "originalAttribution": "(c) Jan Ebr & Ivana Ebrová, some rights reserved (CC BY)",
+  "taxonId": 1453439,
+  "acceptedScientificName": "Osphranter rufus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/380179499",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.259047619047618,
+  "photoApiEvidence": {
+    "id": 695512003,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/695512003/square.jpg",
+    "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848319/42711/1539327/42864/846231/1317293/1453437",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848319,42711,1539327,42864,846231,1317293,1453437,1453439",
+    "endemic": true,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 1453439,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1453437,
+    "name": "Osphranter rufus",
+    "rank": "species",
+    "extinct": false,
+    "id": 1453439,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848319,
+      42711,
+      1539327,
+      42864,
+      846231,
+      1317293,
+      1453437,
+      1453439
+    ],
+    "created_at": "2023-02-26T21:13:27+00:00",
+    "default_photo": {
+      "id": 164668615,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Nik Borrow, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/164668615/square.jpg",
+      "original_dimensions": {
+        "height": 600,
+        "width": 800
+      },
+      "flags": [],
+      "attribution_name": "Nik Borrow",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/164668615/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/164668615/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 0,
+    "observations_count": 2907,
+    "photos_locked": false,
+    "universal_search_rank": 2907,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Red_kangaroo",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Red Kangaroo"
+  }
+}
