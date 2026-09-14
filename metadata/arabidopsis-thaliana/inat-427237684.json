@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-427237684",
+  "targetId": "org-arabidopsis-thaliana",
+  "scientificName": "Arabidopsis thaliana",
+  "nameJa": "シロイヌナズナ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:54:24+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:54:24+00:00",
+  "files": {
+    "master": "images/arabidopsis-thaliana/inat-427237684.jpg",
+    "web": "images/arabidopsis-thaliana/inat-427237684.webp",
+    "thumbnail": "images/arabidopsis-thaliana/inat-427237684-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1542,
+      2048
+    ],
+    "master": [
+      1542,
+      2048
+    ],
+    "web": [
+      1054,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 385602,
+    "web": 80210,
+    "thumbnail": 8950
+  },
+  "sha256": {
+    "download": "1f98d2edb4deb6854adaa3a0179f0b1a1edfd8f1aa0fb322d9e52bfcb07c5bfc",
+    "master": "7cfbb95d0d35d9c0bc1510a21cd179fd690462902ad29e22f318f681ce9deb76",
+    "web": "3a054090432ec24361938fd187fe9ea13aeac7fcf113ee211947a77d48cda45b"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Arabidopsis thaliana [Arabidopsis thaliana] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/427237684. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Arabidopsis thaliana",
+  "sourceId": "427237684",
+  "photoUrl": "https://www.inaturalist.org/photos/427237684",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/427237684/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/427237684/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 55021,
+  "acceptedScientificName": "Arabidopsis thaliana",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/239851438",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.536190476190476,
+  "photoApiEvidence": {
+    "id": 427237684,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1542,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/427237684/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/71275/47204/1473853/1473859/1473860/48016",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,71275,47204,1473853,1473859,1473860,48016,55021",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 55021,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 48016,
+    "name": "Arabidopsis thaliana",
+    "rank": "species",
+    "extinct": false,
+    "id": 55021,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      71275,
+      47204,
+      1473853,
+      1473859,
+      1473860,
+      48016,
+      55021
+    ],
+    "provisional": false,
+    "created_at": "2010-01-04T17:27:27+00:00",
+    "default_photo": {
+      "id": 187006756,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Valentina, some rights reserved (CC BY-NC), uploaded by Valentina",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187006756/square.jpeg",
+      "original_dimensions": {
+        "height": 1900,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Valentina",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187006756/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187006756/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 17894,
+    "photos_locked": false,
+    "universal_search_rank": 17894,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Arabidopsis_thaliana",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "mouse-ear cress"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-222207380",
+  "targetId": "org-aquila-chrysaetos",
+  "scientificName": "Aquila chrysaetos",
+  "nameJa": "イヌワシ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:54:19+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:54:19+00:00",
+  "files": {
+    "master": "images/aquila-chrysaetos/inat-222207380.jpg",
+    "web": "images/aquila-chrysaetos/inat-222207380.webp",
+    "thumbnail": "images/aquila-chrysaetos/inat-222207380-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1481,
+      1481
+    ],
+    "master": [
+      1481,
+      1481
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 287793,
+    "web": 65122,
+    "thumbnail": 3158
+  },
+  "sha256": {
+    "download": "b9f1527ba2cb1fe963ae8839701ba1ccf18fb4dc15d3103d54a20f66dda42804",
+    "master": "c1ab7e9252c4a1413c9a25692374d9bda93b8c2b02775c20101bc8a40627c9a2",
+    "web": "c025ce80e22e8e3dd8edacb10992d3829a8ae419e080408aead177fc2b234edd"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Aquila chrysaetos [Aquila chrysaetos] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/222207380. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Aquila chrysaetos",
+  "sourceId": "222207380",
+  "photoUrl": "https://www.inaturalist.org/photos/222207380",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/222207380/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/222207380/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 5074,
+  "acceptedScientificName": "Aquila chrysaetos",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/130644086",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.782380952380953,
+  "photoApiEvidence": {
+    "id": 222207380,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1481,
+      "height": 1481
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/222207380/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/71261/5067/1541534/5068",
+    "min_species_ancestry": "48460,1,2,355675,3,71261,5067,1541534,5068,5074",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 5074,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 5068,
+    "name": "Aquila chrysaetos",
+    "rank": "species",
+    "extinct": false,
+    "id": 5074,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      71261,
+      5067,
+      1541534,
+      5068,
+      5074
+    ],
+    "created_at": "2008-03-13T02:47:13+00:00",
+    "default_photo": {
+      "id": 168362446,
+      "license_code": null,
+      "attribution": "(c) Carlos N. G. Bocos, all rights reserved, uploaded by Carlos N. G. Bocos",
+      "url": "https://static.inaturalist.org/photos/168362446/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Carlos N. G. Bocos",
+      "square_url": "https://static.inaturalist.org/photos/168362446/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/168362446/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 10,
+    "observations_count": 28351,
+    "photos_locked": false,
+    "universal_search_rank": 28351,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 145282,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Golden_eagle",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Golden Eagle"
+  }
+}

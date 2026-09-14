@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-452131234",
+  "targetId": "org-apteryx-mantelli",
+  "scientificName": "Apteryx mantelli",
+  "nameJa": "キタキーウィ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:54:18+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:54:18+00:00",
+  "files": {
+    "master": "images/apteryx-mantelli/inat-452131234.jpg",
+    "web": "images/apteryx-mantelli/inat-452131234.webp",
+    "thumbnail": "images/apteryx-mantelli/inat-452131234-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 880435,
+    "web": 178882,
+    "thumbnail": 7552
+  },
+  "sha256": {
+    "download": "cf7a2a967bdfde1f4884dad4efa78c6676ebc39f4f7fc37d89257a79e80a4421",
+    "master": "1ced9534674d1bbd0da6f55f701c39a502d41e9423110818fa5b58b8b35cca78",
+    "web": "3c48076a6a3d27fccc2574bbef97c12b4ae6b6933b9d54d841cbc2cdbcc845f5"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Apteryx mantelli [Apteryx mantelli] — hjcjim / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/452131234. Original attribution: (c) hjcjim, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Apteryx mantelli",
+  "sourceId": "452131234",
+  "photoUrl": "https://www.inaturalist.org/photos/452131234",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/452131234/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/452131234/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "hjcjim",
+  "originalAttribution": "(c) hjcjim, some rights reserved (CC BY)",
+  "taxonId": 20496,
+  "acceptedScientificName": "Apteryx mantelli",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/252557136",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.194285714285714,
+  "photoApiEvidence": {
+    "id": 452131234,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452131234/square.jpeg",
+    "attribution": "(c) hjcjim, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/367703/20488/20489",
+    "min_species_ancestry": "48460,1,2,355675,3,367703,20488,20489,20496",
+    "endemic": true,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 20496,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 20489,
+    "name": "Apteryx mantelli",
+    "rank": "species",
+    "extinct": false,
+    "id": 20496,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      367703,
+      20488,
+      20489,
+      20496
+    ],
+    "created_at": "2008-03-13T03:51:05+00:00",
+    "default_photo": {
+      "id": 534304980,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Caiden, some rights reserved (CC BY-NC), uploaded by Caiden",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534304980/square.jpg",
+      "original_dimensions": {
+        "height": 1443,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Caiden",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534304980/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534304980/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 8,
+    "observations_count": 591,
+    "photos_locked": false,
+    "universal_search_rank": 591,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 144922,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/North_Island_brown_kiwi",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "North Island Brown Kiwi",
+    "conservation_status": {
+      "id": 8256,
+      "place_id": null,
+      "source_id": 18766,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": "open",
+      "iucn": 30
+    }
+  }
+}

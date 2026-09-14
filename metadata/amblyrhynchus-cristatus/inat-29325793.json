@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-29325793",
+  "targetId": "org-amblyrhynchus-cristatus",
+  "scientificName": "Amblyrhynchus cristatus",
+  "nameJa": "ウミイグアナ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:53:37+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:53:37+00:00",
+  "files": {
+    "master": "images/amblyrhynchus-cristatus/inat-29325793.jpg",
+    "web": "images/amblyrhynchus-cristatus/inat-29325793.webp",
+    "thumbnail": "images/amblyrhynchus-cristatus/inat-29325793-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 684987,
+    "web": 166134,
+    "thumbnail": 16850
+  },
+  "sha256": {
+    "download": "8b818f1e0545c61b2b6c34c3887dc260f4fa97b82d7b776a0cab9beb33b75d7b",
+    "master": "e3ce4fb17206232b17f3c1ec037561b11dd0f36df8c1f32a060c326d2920f5df",
+    "web": "33f0657cf4b4a11660d6aa739f909d9fe2c8ebcafebedafde1a30448b0d575d1"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Amblyrhynchus cristatus [Amblyrhynchus cristatus] — Shawn O'Donnell / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/29325793. Original attribution: (c) Shawn O'Donnell, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Amblyrhynchus cristatus",
+  "sourceId": "29325793",
+  "photoUrl": "https://www.inaturalist.org/photos/29325793",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29325793/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29325793/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Shawn O'Donnell",
+  "originalAttribution": "(c) Shawn O'Donnell, some rights reserved (CC BY)",
+  "taxonId": 35347,
+  "acceptedScientificName": "Amblyrhynchus cristatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": "https://www.inaturalist.org/observations/19110155",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.95,
+  "photoApiEvidence": {
+    "id": 29325793,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29325793/square.jpg",
+    "attribution": "(c) Shawn O'Donnell, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/26172/85552/1563907/1567779/35278/35346/35347",
+    "min_species_ancestry": "48460,1,2,355675,26036,26172,85552,1563907,1567779,35278,35346,35347",
+    "endemic": false,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 35347,
+    "threatened": true,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 35347,
+    "name": "Amblyrhynchus cristatus venustissimus",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 35348,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      26172,
+      85552,
+      1563907,
+      1567779,
+      35278,
+      35346,
+      35347,
+      35348
+    ],
+    "created_at": "2008-03-18T02:24:48+00:00",
+    "default_photo": {
+      "id": 24394793,
+      "license_code": "cc-by",
+      "attribution": "(c) Annika Lindqvist, some rights reserved (CC BY), uploaded by Annika Lindqvist",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24394793/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Annika Lindqvist",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24394793/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24394793/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 1363,
+    "photos_locked": false,
+    "universal_search_rank": 1363,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "Española Marine Iguana",
+    "conservation_status": {
+      "id": 176620,
+      "place_id": null,
+      "source_id": null,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "en",
+      "status_name": "endangered",
+      "geoprivacy": "obscured",
+      "iucn": 40
+    }
+  }
+}

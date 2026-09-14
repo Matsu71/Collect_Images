@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-278800586",
+  "targetId": "org-aptenodytes-patagonicus",
+  "scientificName": "Aptenodytes patagonicus",
+  "nameJa": "オウサマペンギン",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:54:16+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:54:16+00:00",
+  "files": {
+    "master": "images/aptenodytes-patagonicus/inat-278800586.jpg",
+    "web": "images/aptenodytes-patagonicus/inat-278800586.webp",
+    "thumbnail": "images/aptenodytes-patagonicus/inat-278800586-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1737,
+      1741
+    ],
+    "master": [
+      1737,
+      1741
+    ],
+    "web": [
+      1397,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 875521,
+    "web": 186472,
+    "thumbnail": 9446
+  },
+  "sha256": {
+    "download": "5bd8b5fc2235346a9f6aca53c2f8a681056e5b519a2884d6188e36ef6a3f788f",
+    "master": "38906e0440241b0281cde66d994ad8c1da3c567378d50f8f41cd03072fa740cf",
+    "web": "a2169864191ca25d1141e4485f8268caeb9abbdeddaebc8223c1918139e48450"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 71,
+  "credit": "Aptenodytes patagonicus [Aptenodytes patagonicus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/278800586. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Aptenodytes patagonicus",
+  "sourceId": "278800586",
+  "photoUrl": "https://www.inaturalist.org/photos/278800586",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/278800586/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/278800586/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 3821,
+  "acceptedScientificName": "Aptenodytes patagonicus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/161303191",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.148095238095237,
+  "photoApiEvidence": {
+    "id": 278800586,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1737,
+      "height": 1741
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278800586/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67564/3806/3819",
+    "min_species_ancestry": "48460,1,2,355675,3,67564,3806,3819,3821",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 3821,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 3819,
+    "name": "Aptenodytes patagonicus",
+    "rank": "species",
+    "extinct": false,
+    "id": 3821,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67564,
+      3806,
+      3819,
+      3821
+    ],
+    "created_at": "2008-03-13T02:43:35+00:00",
+    "default_photo": {
+      "id": 602978114,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) meta4, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/602978114/square.jpg",
+      "original_dimensions": {
+        "height": 1016,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "meta4",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/602978114/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/602978114/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 8,
+    "observations_count": 3035,
+    "photos_locked": false,
+    "universal_search_rank": 3035,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/King_penguin",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "King Penguin"
+  }
+}

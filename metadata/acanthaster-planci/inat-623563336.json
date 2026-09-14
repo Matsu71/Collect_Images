@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-623563336",
+  "targetId": "org-acanthaster-planci",
+  "scientificName": "Acanthaster planci",
+  "nameJa": "オニヒトデ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:53:05+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:53:05+00:00",
+  "files": {
+    "master": "images/acanthaster-planci/inat-623563336.jpg",
+    "web": "images/acanthaster-planci/inat-623563336.webp",
+    "thumbnail": "images/acanthaster-planci/inat-623563336-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1715
+    ],
+    "master": [
+      2048,
+      1715
+    ],
+    "web": [
+      1400,
+      1172
+    ]
+  },
+  "bytes": {
+    "master": 1096541,
+    "web": 172732,
+    "thumbnail": 25776
+  },
+  "sha256": {
+    "download": "a23ee4aef9837fec243519f970f0ef369548fafed49f1e5974650efbbd637bfc",
+    "master": "109f22c8516c94475951d18b7f61ee155027f47121f840c401ef3df48550edfb",
+    "web": "4e42bbf311f6272880c27f35aaf8240a28ca5ce0604b26dac4c5331938fa7d20"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Acanthaster planci [Acanthaster planci] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/623563336. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Acanthaster planci",
+  "sourceId": "623563336",
+  "photoUrl": "https://www.inaturalist.org/photos/623563336",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/623563336/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/623563336/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 50915,
+  "acceptedScientificName": "Acanthaster planci",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": "https://www.inaturalist.org/observations/342420742",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.45,
+  "photoApiEvidence": {
+    "id": 623563336,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1715
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623563336/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47549/481959/47668/533710/49501/50916/50917",
+    "min_species_ancestry": "48460,1,47549,481959,47668,533710,49501,50916,50917,50915",
+    "endemic": false,
+    "iconic_taxon_id": 1,
+    "min_species_taxon_id": 50915,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 50917,
+    "name": "Acanthaster planci",
+    "rank": "species",
+    "extinct": false,
+    "id": 50915,
+    "ancestor_ids": [
+      48460,
+      1,
+      47549,
+      481959,
+      47668,
+      533710,
+      49501,
+      50916,
+      50917,
+      50915
+    ],
+    "created_at": "2009-04-11T05:15:12+00:00",
+    "default_photo": {
+      "id": 11943164,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Mahadi Mohammad, some rights reserved (CC BY-NC), uploaded by Mahadi Mohammad",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11943164/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Mahadi Mohammad",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11943164/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11943164/medium.jpeg"
+    },
+    "taxon_changes_count": 3,
+    "taxon_schemes_count": 2,
+    "observations_count": 475,
+    "photos_locked": false,
+    "universal_search_rank": 475,
+    "flag_counts": {
+      "resolved": 6,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 136159,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Crown-of-thorns_starfish",
+    "iconic_taxon_name": "Animalia",
+    "preferred_common_name": "Long-spined Crown-of-Thorns"
+  }
+}

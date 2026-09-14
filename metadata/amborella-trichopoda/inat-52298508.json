@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-52298508",
+  "targetId": "org-amborella-trichopoda",
+  "scientificName": "Amborella trichopoda",
+  "nameJa": "アンボレラ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:53:40+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:53:40+00:00",
+  "files": {
+    "master": "images/amborella-trichopoda/inat-52298508.jpg",
+    "web": "images/amborella-trichopoda/inat-52298508.webp",
+    "thumbnail": "images/amborella-trichopoda/inat-52298508-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 574184,
+    "web": 109284,
+    "thumbnail": 10592
+  },
+  "sha256": {
+    "download": "9079f83dedbac8ad77a46530a342fe24936eb725fac7b1c7e4918798b5946bff",
+    "master": "3ce8d6986130e569b2cf6d3e7276fa9c34960b3f567aa8537778548b4fa39224",
+    "web": "e975ca677a31ec2ba89e08fb264c77e34e3e6932dadd5d00987941c4fb5ccf4b"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Amborella trichopoda [Amborella trichopoda] — Scott Zona / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/52298508. Original attribution: (c) Scott Zona, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Amborella trichopoda",
+  "sourceId": "52298508",
+  "photoUrl": "https://www.inaturalist.org/photos/52298508",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52298508/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52298508/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Scott Zona",
+  "originalAttribution": "(c) Scott Zona, some rights reserved (CC BY)",
+  "taxonId": 129826,
+  "acceptedScientificName": "Amborella trichopoda",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.194285714285714,
+  "photoApiEvidence": {
+    "id": 52298508,
+    "license_code": "cc-by",
+    "attribution": "(c) Scott Zona, some rights reserved (CC BY)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52298508/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Scott Zona",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52298508/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52298508/medium.jpg"
+  },
+  "observationTaxon": null
+}

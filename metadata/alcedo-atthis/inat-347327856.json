@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-347327856",
+  "targetId": "org-alcedo-atthis",
+  "scientificName": "Alcedo atthis",
+  "nameJa": "カワセミ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:53:25+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:53:25+00:00",
+  "files": {
+    "master": "images/alcedo-atthis/inat-347327856.jpg",
+    "web": "images/alcedo-atthis/inat-347327856.webp",
+    "thumbnail": "images/alcedo-atthis/inat-347327856-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 767278,
+    "web": 173834,
+    "thumbnail": 20780
+  },
+  "sha256": {
+    "download": "372a262f273c03ae667a023dec51f5d334f74609218db0b9cebdc6822bdecfb0",
+    "master": "7f912eb25e4b767f6e6e4002701fb375c10aca369f0fb1883fcacd29b3bed15e",
+    "web": "4e221adc11b69b9e6671d183b8941d2dcabca6fee265857e6c372a07f54511ff"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 77,
+  "credit": "Alcedo atthis [Alcedo atthis] — SteveM4560 / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/347327856. Original attribution: (c) SteveM4560, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Alcedo atthis",
+  "sourceId": "347327856",
+  "photoUrl": "https://www.inaturalist.org/photos/347327856",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/347327856/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/347327856/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "SteveM4560",
+  "originalAttribution": "(c) SteveM4560, some rights reserved (CC BY)",
+  "taxonId": 2599,
+  "acceptedScientificName": "Alcedo atthis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/197233516",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 347327856,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347327856/square.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/2114/2314/1542373/2561",
+    "min_species_ancestry": "48460,1,2,355675,3,2114,2314,1542373,2561,2599",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 2599,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 2561,
+    "name": "Alcedo atthis",
+    "rank": "species",
+    "extinct": false,
+    "id": 2599,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      2114,
+      2314,
+      1542373,
+      2561,
+      2599
+    ],
+    "created_at": "2008-03-13T02:40:40+00:00",
+    "default_photo": {
+      "id": 61266631,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Mark Kilner, some rights reserved (CC BY-NC-SA)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61266631/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Mark Kilner",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61266631/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61266631/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 63394,
+    "photos_locked": false,
+    "universal_search_rank": 63394,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_kingfisher",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Common Kingfisher"
+  }
+}

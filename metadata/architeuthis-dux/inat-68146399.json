@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-68146399",
+  "targetId": "org-architeuthis-dux",
+  "scientificName": "Architeuthis dux",
+  "nameJa": "ダイオウイカ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:54:37+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:54:37+00:00",
+  "files": {
+    "master": "images/architeuthis-dux/inat-68146399.jpg",
+    "web": "images/architeuthis-dux/inat-68146399.webp",
+    "thumbnail": "images/architeuthis-dux/inat-68146399-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1365,
+      2048
+    ],
+    "master": [
+      1365,
+      2048
+    ],
+    "web": [
+      933,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 833804,
+    "web": 171780,
+    "thumbnail": 11016
+  },
+  "sha256": {
+    "download": "f3b5a6ea0bbe99b3474f15e314cab3d3a7d2fdec1ca640757099bf0521e468fb",
+    "master": "e348f7e899e628bd5c59ec41d2fd438db4fdd8cdc2d7e1f6a1ddc5df6978bdcf",
+    "web": "29a074d8f45751399c029ad5790b533394117fec8f6f9b267f9cb32a3c963e3c"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Architeuthis dux [Architeuthis dux] — Auckland War Memorial Museum / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/68146399. Original attribution: (c) Auckland War Memorial Museum, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Architeuthis dux",
+  "sourceId": "68146399",
+  "photoUrl": "https://www.inaturalist.org/photos/68146399",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/68146399/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/68146399/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Auckland War Memorial Museum",
+  "originalAttribution": "(c) Auckland War Memorial Museum, some rights reserved (CC BY)",
+  "taxonId": 253698,
+  "acceptedScientificName": "Architeuthis dux",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mollusca",
+  "observationUrl": "https://www.inaturalist.org/observations/42917670",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.95,
+  "photoApiEvidence": {
+    "id": 68146399,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/68146399/square.jpg",
+    "attribution": "(c) Auckland War Memorial Museum, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47115/47459/372759/127352/246134/1366569/245313/246411",
+    "min_species_ancestry": "48460,1,47115,47459,372759,127352,246134,1366569,245313,246411,253698",
+    "endemic": false,
+    "iconic_taxon_id": 47115,
+    "min_species_taxon_id": 253698,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 246411,
+    "name": "Architeuthis dux",
+    "rank": "species",
+    "extinct": false,
+    "id": 253698,
+    "ancestor_ids": [
+      48460,
+      1,
+      47115,
+      47459,
+      372759,
+      127352,
+      246134,
+      1366569,
+      245313,
+      246411,
+      253698
+    ],
+    "created_at": "2013-04-29T07:07:30+00:00",
+    "default_photo": {
+      "id": 91402900,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Christopher Caine, some rights reserved (CC BY-NC), uploaded by Christopher Caine",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91402900/square.jpeg",
+      "original_dimensions": {
+        "height": 1085,
+        "width": 1920
+      },
+      "flags": [],
+      "attribution_name": "Christopher Caine",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91402900/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91402900/medium.jpeg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 4,
+    "observations_count": 62,
+    "photos_locked": false,
+    "universal_search_rank": 62,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Giant_squid",
+    "iconic_taxon_name": "Mollusca",
+    "preferred_common_name": "Giant Squid"
+  }
+}

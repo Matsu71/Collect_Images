@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-604749963",
+  "targetId": "org-alouatta-seniculus",
+  "scientificName": "Alouatta seniculus",
+  "nameJa": "アカホエザル",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:53:35+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:53:35+00:00",
+  "files": {
+    "master": "images/alouatta-seniculus/inat-604749963.jpg",
+    "web": "images/alouatta-seniculus/inat-604749963.webp",
+    "thumbnail": "images/alouatta-seniculus/inat-604749963-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1787,
+      1661
+    ],
+    "master": [
+      1787,
+      1661
+    ],
+    "web": [
+      1400,
+      1301
+    ]
+  },
+  "bytes": {
+    "master": 757081,
+    "web": 173894,
+    "thumbnail": 13426
+  },
+  "sha256": {
+    "download": "c5b133ef7a9533a9d3023409802d22b890e8ae62f961387b9598fe936e8ef51c",
+    "master": "669be5e0676f166d7045640e75f8c7d555dd90639a1102f677ba91cf8ac5a9a2",
+    "web": "73927100ba37b43f671d6dbcc9f98fc2f2fb66de9cfea3297a24f122e1e7e994"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Alouatta seniculus [Alouatta seniculus] — desertnaturalist / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/604749963. Original attribution: (c) desertnaturalist, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Alouatta seniculus",
+  "sourceId": "604749963",
+  "photoUrl": "https://www.inaturalist.org/photos/604749963",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/604749963/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/604749963/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "desertnaturalist",
+  "originalAttribution": "(c) desertnaturalist, some rights reserved (CC BY)",
+  "taxonId": 566513,
+  "acceptedScientificName": "Alouatta seniculus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/333139475",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.03952380952381,
+  "photoApiEvidence": {
+    "id": 604749963,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1787,
+      "height": 1661
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604749963/square.jpg",
+    "attribution": "(c) desertnaturalist, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43367/786045/936377/554251/71377/633090/43434/566513",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43367,786045,936377,554251,71377,633090,43434,566513",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 566513,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 566513,
+    "name": "Alouatta seniculus seniculus",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 1114063,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43367,
+      786045,
+      936377,
+      554251,
+      71377,
+      633090,
+      43434,
+      566513,
+      1114063
+    ],
+    "created_at": "2020-07-21T13:15:37-10:00",
+    "default_photo": {
+      "id": 356074451,
+      "license_code": "cc-by-sa",
+      "attribution": "(c) Gary Leavens, some rights reserved (CC BY-SA), uploaded by Gary Leavens",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356074451/square.jpg",
+      "original_dimensions": {
+        "height": 1152,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Gary Leavens",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356074451/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356074451/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 0,
+    "observations_count": 19,
+    "photos_locked": false,
+    "universal_search_rank": 19,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Colombian red howler"
+  }
+}

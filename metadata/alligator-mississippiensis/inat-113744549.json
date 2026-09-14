@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-113744549",
+  "targetId": "org-alligator-mississippiensis",
+  "scientificName": "Alligator mississippiensis",
+  "nameJa": "ミシシッピワニ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T00:53:30+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T00:53:30+00:00",
+  "files": {
+    "master": "images/alligator-mississippiensis/inat-113744549.jpg",
+    "web": "images/alligator-mississippiensis/inat-113744549.webp",
+    "thumbnail": "images/alligator-mississippiensis/inat-113744549-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 577074,
+    "web": 156170,
+    "thumbnail": 14160
+  },
+  "sha256": {
+    "download": "89ef7c33f6a9d059c4ebc361611b7d0fe0cdffe7fc0ed4343e9897dd0f433885",
+    "master": "d333260ba590d47c95ba7359ab6f1d2da4c350cbedc9b1b3577692cf0a908ccb",
+    "web": "3b179d58a58625c86f50fdeaaada2972728888710754b7516b1082c110164d67"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Alligator mississippiensis [Alligator mississippiensis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/113744549. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Alligator mississippiensis",
+  "sourceId": "113744549",
+  "photoUrl": "https://www.inaturalist.org/photos/113744549",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/113744549/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/113744549/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 26159,
+  "acceptedScientificName": "Alligator mississippiensis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": "https://www.inaturalist.org/observations/70017326",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.95,
+  "photoApiEvidence": {
+    "id": 113744549,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113744549/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/26039/121038/26154",
+    "min_species_ancestry": "48460,1,2,355675,26036,26039,121038,26154,26159",
+    "endemic": true,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 26159,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 26154,
+    "name": "Alligator mississippiensis",
+    "rank": "species",
+    "extinct": false,
+    "id": 26159,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      26039,
+      121038,
+      26154,
+      26159
+    ],
+    "created_at": "2008-03-18T00:53:35+00:00",
+    "default_photo": {
+      "id": 446571555,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) sandiwheeler, some rights reserved (CC BY-NC), uploaded by sandiwheeler",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/446571555/square.jpg",
+      "original_dimensions": {
+        "height": 1441,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "sandiwheeler",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/446571555/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/446571555/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 104535,
+    "photos_locked": false,
+    "universal_search_rank": 104535,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 220,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/American_alligator",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "American Alligator"
+  }
+}
