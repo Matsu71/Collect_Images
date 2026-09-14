@@ -1,0 +1,46 @@
+name: Collect licensed reference photographs
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/reference-photos.yml
+      - curation/collect_reference.py
+      - requests/reference-photos.json
+permissions:
+  contents: write
+concurrency:
+  group: reference-photo-collection
+  cancel-in-progress: false
+jobs:
+  reference:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install 'requests>=2.32,<3' 'Pillow>=11,<13'
+      - name: Download real image files with per-file license metadata
+        run: python -u curation/collect_reference.py
+      - name: Preserve partial collection on failure
+        if: failure()
+        run: |
+          git config user.name 'Collect Images bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add reference reports/reference-status.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m 'Preserve partial reference photo collection [skip ci]'
+            git pull --rebase origin main && git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: reference-photo-review
+          path: |
+            reference/gallery/
+            reference/metadata/
+            reference/results.json
+            reports/reference-status.json
+          retention-days: 7
