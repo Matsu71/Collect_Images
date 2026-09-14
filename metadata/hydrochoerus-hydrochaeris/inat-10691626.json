@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-10691626",
+  "targetId": "org-hydrochoerus-hydrochaeris",
+  "scientificName": "Hydrochoerus hydrochaeris",
+  "nameJa": "カピバラ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:01:28+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:01:28+00:00",
+  "files": {
+    "master": "images/hydrochoerus-hydrochaeris/inat-10691626.jpg",
+    "web": "images/hydrochoerus-hydrochaeris/inat-10691626.webp",
+    "thumbnail": "images/hydrochoerus-hydrochaeris/inat-10691626-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1500,
+      1000
+    ],
+    "master": [
+      1500,
+      1000
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 392844,
+    "web": 181960,
+    "thumbnail": 18252
+  },
+  "sha256": {
+    "download": "548277cb70f4a0911cc753e263ce5b8f3771c257776f98cd3d9f1b13708d3600",
+    "master": "b9c3227ade540656018d7c0e292f2aff6bc3d7df69db692ca29efbcc5ac36dbe",
+    "web": "e1109298b2f97cb55e8bb7add76433a800b9ca2c7c5bd7e2fe8de25cbbd1b9ff"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Hydrochoerus hydrochaeris [Hydrochoerus hydrochaeris] — avocat / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/10691626. Original attribution: (c) avocat, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Hydrochoerus hydrochaeris",
+  "sourceId": "10691626",
+  "photoUrl": "https://www.inaturalist.org/photos/10691626",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10691626/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10691626/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "avocat",
+  "originalAttribution": "(c) avocat, some rights reserved (CC BY)",
+  "taxonId": 74442,
+  "acceptedScientificName": "Hydrochoerus hydrochaeris",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/8066919",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.428571428571429,
+  "photoApiEvidence": {
+    "id": 10691626,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1500,
+      "height": 1000
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10691626/square.jpg",
+    "attribution": "(c) avocat, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43698/870765/870767/870769/43795/846257/71855",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43698,870765,870767,870769,43795,846257,71855,74442",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 74442,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 71855,
+    "name": "Hydrochoerus hydrochaeris",
+    "rank": "species",
+    "extinct": false,
+    "id": 74442,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43698,
+      870765,
+      870767,
+      870769,
+      43795,
+      846257,
+      71855,
+      74442
+    ],
+    "created_at": "2011-05-13T21:34:27+00:00",
+    "default_photo": {
+      "id": 91546944,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Carlos Sanchez, some rights reserved (CC BY-NC), uploaded by Carlos Sanchez",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91546944/square.jpg",
+      "original_dimensions": {
+        "height": 1261,
+        "width": 1701
+      },
+      "flags": [],
+      "attribution_name": "Carlos Sanchez",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91546944/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91546944/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 4,
+    "observations_count": 18314,
+    "photos_locked": false,
+    "universal_search_rank": 18314,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Capybara",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Capybara"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-42728720",
+  "targetId": "org-ginglymostoma-cirratum",
+  "scientificName": "Ginglymostoma cirratum",
+  "nameJa": "コモリザメ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:00:15+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:00:15+00:00",
+  "files": {
+    "master": "images/ginglymostoma-cirratum/inat-42728720.jpg",
+    "web": "images/ginglymostoma-cirratum/inat-42728720.webp",
+    "thumbnail": "images/ginglymostoma-cirratum/inat-42728720-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 888183,
+    "web": 174926,
+    "thumbnail": 15818
+  },
+  "sha256": {
+    "download": "381639e46d58a1dd4b9ce31d876c727ad04ee27d0459522f90f39f23cd28a5b5",
+    "master": "5b1688678ba68d98c2b537c975233a5cdf2881750060a632a9e3b98940b56c26",
+    "web": "b358633cd0ce9c3a0ad83375ab06314ec1068ed3cf18ff0b04ce76897ff179dc"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Ginglymostoma cirratum [Ginglymostoma cirratum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/42728720. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ginglymostoma cirratum",
+  "sourceId": "42728720",
+  "photoUrl": "https://www.inaturalist.org/photos/42728720",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/42728720/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/42728720/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 49964,
+  "acceptedScientificName": "Ginglymostoma cirratum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": "https://www.inaturalist.org/observations/27460642",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 42728720,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/42728720/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/196614/47273/551307/551308/49967/49968/49971",
+    "min_species_ancestry": "48460,1,2,355675,196614,47273,551307,551308,49967,49968,49971,49964",
+    "endemic": false,
+    "iconic_taxon_id": 1,
+    "min_species_taxon_id": 49964,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 49971,
+    "name": "Ginglymostoma cirratum",
+    "rank": "species",
+    "extinct": false,
+    "id": 49964,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      196614,
+      47273,
+      551307,
+      551308,
+      49967,
+      49968,
+      49971,
+      49964
+    ],
+    "provisional": false,
+    "created_at": "2009-03-01T04:58:43+00:00",
+    "default_photo": {
+      "id": 55987882,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Rafael de la Parra, some rights reserved (CC BY-NC), uploaded by Rafael de la Parra",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55987882/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Rafael de la Parra",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55987882/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55987882/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 4886,
+    "photos_locked": false,
+    "universal_search_rank": 4886,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nurse_shark",
+    "iconic_taxon_name": "Animalia",
+    "preferred_common_name": "Nurse Shark",
+    "conservation_status": {
+      "id": 19079,
+      "place_id": null,
+      "source_id": 4,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "vu",
+      "status_name": "vulnerable",
+      "geoprivacy": null,
+      "iucn": 30
+    }
+  }
+}

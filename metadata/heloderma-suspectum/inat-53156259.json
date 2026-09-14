@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-53156259",
+  "targetId": "org-heloderma-suspectum",
+  "scientificName": "Heloderma suspectum",
+  "nameJa": "アメリカドクトカゲ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:01:01+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:01:01+00:00",
+  "files": {
+    "master": "images/heloderma-suspectum/inat-53156259.jpg",
+    "web": "images/heloderma-suspectum/inat-53156259.webp",
+    "thumbnail": "images/heloderma-suspectum/inat-53156259-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1889245,
+    "web": 502774,
+    "thumbnail": 23466
+  },
+  "sha256": {
+    "download": "dd1dc82326d7f7a36c35303642b75165e602bdf3b5fe97abf43b3a0469d98b0e",
+    "master": "f788bf1a65442b2690b5eb504c05672b499d4fb193c2e62bc5ba2862f0d92f70",
+    "web": "7be1b0c780563e45cccb32616af5a825eabf2947471f399c24e0bfb6a5dd7a01"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Heloderma suspectum [Heloderma suspectum] — Matt Berger / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/53156259. Original attribution: (c) Matt Berger, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Heloderma suspectum",
+  "sourceId": "53156259",
+  "photoUrl": "https://www.inaturalist.org/photos/53156259",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53156259/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53156259/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Matt Berger",
+  "originalAttribution": "(c) Matt Berger, some rights reserved (CC BY)",
+  "taxonId": 35003,
+  "acceptedScientificName": "Heloderma suspectum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": "https://www.inaturalist.org/observations/33820523",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 53156259,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53156259/square.jpeg",
+    "attribution": "(c) Matt Berger, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/26172/85552/1563906/35001/35002",
+    "min_species_ancestry": "48460,1,2,355675,26036,26172,85552,1563906,35001,35002,35003",
+    "endemic": false,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 35003,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 35002,
+    "name": "Heloderma suspectum",
+    "rank": "species",
+    "extinct": false,
+    "id": 35003,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      26172,
+      85552,
+      1563906,
+      35001,
+      35002,
+      35003
+    ],
+    "created_at": "2008-03-18T02:19:20+00:00",
+    "default_photo": {
+      "id": 114066575,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Alvaro Monter Pozos, some rights reserved (CC BY-NC), uploaded by Alvaro Monter Pozos",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114066575/square.jpeg",
+      "original_dimensions": {
+        "height": 1325,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Alvaro Monter Pozos",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114066575/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114066575/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 3823,
+    "photos_locked": false,
+    "universal_search_rank": 3823,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 611,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gila_monster",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "Gila Monster",
+    "conservation_status": {
+      "id": 13744,
+      "place_id": null,
+      "source_id": 26,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "nt",
+      "status_name": "near threatened",
+      "geoprivacy": "obscured",
+      "iucn": 20
+    }
+  }
+}

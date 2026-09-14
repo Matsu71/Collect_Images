@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-131047417",
+  "targetId": "org-hordeum-vulgare",
+  "scientificName": "Hordeum vulgare",
+  "nameJa": "オオムギ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:01:21+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:01:21+00:00",
+  "files": {
+    "master": "images/hordeum-vulgare/inat-131047417.jpg",
+    "web": "images/hordeum-vulgare/inat-131047417.webp",
+    "thumbnail": "images/hordeum-vulgare/inat-131047417-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 576320,
+    "web": 175406,
+    "thumbnail": 17314
+  },
+  "sha256": {
+    "download": "87f440ee6550aa191c5457bed1d648b9dc8acd9793ce67c4d708816e72475eda",
+    "master": "2948d64f0536f6c2130a8f073eb538420f861350094cff2f9b64b2b4e544b6d4",
+    "web": "1ead4f25a06fbd16c372c3bcd8abaeda0bfdef36b8030b5eb66a86b06a463606"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Hordeum vulgare [Hordeum vulgare] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/131047417. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Hordeum vulgare",
+  "sourceId": "131047417",
+  "photoUrl": "https://www.inaturalist.org/photos/131047417",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/131047417/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/131047417/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 57182,
+  "acceptedScientificName": "Hordeum vulgare",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/79984365",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 131047417,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131047417/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47163/47162/47434/514989/709543/1138150/52797",
+    "min_species_ancestry": "48460,47126,211194,47125,47163,47162,47434,514989,709543,1138150,52797,57182",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 57182,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 52797,
+    "name": "Hordeum vulgare",
+    "rank": "species",
+    "extinct": false,
+    "id": 57182,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47163,
+      47162,
+      47434,
+      514989,
+      709543,
+      1138150,
+      52797,
+      57182
+    ],
+    "created_at": "2010-03-13T02:00:20+00:00",
+    "default_photo": {
+      "id": 76716288,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) sebastianv, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76716288/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "sebastianv",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76716288/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76716288/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 6,
+    "observations_count": 5479,
+    "photos_locked": false,
+    "universal_search_rank": 5479,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Barley",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Common Barley"
+  }
+}

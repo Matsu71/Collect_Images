@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-49545347",
+  "targetId": "org-gorilla-beringei",
+  "scientificName": "Gorilla beringei",
+  "nameJa": "ヒガシゴリラ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:00:27+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:00:27+00:00",
+  "files": {
+    "master": "images/gorilla-beringei/inat-49545347.jpg",
+    "web": "images/gorilla-beringei/inat-49545347.webp",
+    "thumbnail": "images/gorilla-beringei/inat-49545347-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 825461,
+    "web": 161270,
+    "thumbnail": 12282
+  },
+  "sha256": {
+    "download": "4cb148db112b219eaf5541c5688a5661fa4b0d6334a2ac514b717f68bd9d793d",
+    "master": "dab42458a99594454a72412b95880c640122e3885aed4e33717e4383f1cf127f",
+    "web": "012ef82a6e6dadbd88dc64aecfa5d873ef0b4a22db18d6b62c857dde449c687f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Gorilla beringei [Gorilla beringei] — Annika Lindqvist / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/49545347. Original attribution: (c) Annika Lindqvist, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Gorilla beringei",
+  "sourceId": "49545347",
+  "photoUrl": "https://www.inaturalist.org/photos/49545347",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/49545347/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/49545347/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Annika Lindqvist",
+  "originalAttribution": "(c) Annika Lindqvist, some rights reserved (CC BY)",
+  "taxonId": 68790,
+  "acceptedScientificName": "Gorilla beringei",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/31643523",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.194285714285714,
+  "photoApiEvidence": {
+    "id": 49545347,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/49545347/square.jpeg",
+    "attribution": "(c) Annika Lindqvist, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43367/786045/936377/936369/1036675/43575/846252/43579/68790",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43367,786045,936377,936369,1036675,43575,846252,43579,68790",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 68790,
+    "threatened": true,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 68790,
+    "name": "Gorilla beringei beringei",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 147661,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43367,
+      786045,
+      936377,
+      936369,
+      1036675,
+      43575,
+      846252,
+      43579,
+      68790,
+      147661
+    ],
+    "created_at": "2012-09-08T01:22:49+00:00",
+    "default_photo": {
+      "id": 70301282,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Srinivasa Shenoy, some rights reserved (CC BY-NC), uploaded by Srinivasa Shenoy",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70301282/square.jpeg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Srinivasa Shenoy",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70301282/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70301282/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 1248,
+    "photos_locked": false,
+    "universal_search_rank": 1248,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mountain_gorilla",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Mountain Gorilla",
+    "conservation_status": {
+      "id": 45966,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "en",
+      "status_name": "endangered",
+      "geoprivacy": "obscured",
+      "iucn": 40
+    }
+  }
+}

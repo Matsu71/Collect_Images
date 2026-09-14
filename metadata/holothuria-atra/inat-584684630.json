@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-584684630",
+  "targetId": "org-holothuria-atra",
+  "scientificName": "Holothuria atra",
+  "nameJa": "クロナマコ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:01:14+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:01:14+00:00",
+  "files": {
+    "master": "images/holothuria-atra/inat-584684630.jpg",
+    "web": "images/holothuria-atra/inat-584684630.webp",
+    "thumbnail": "images/holothuria-atra/inat-584684630-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 727911,
+    "web": 187166,
+    "thumbnail": 20936
+  },
+  "sha256": {
+    "download": "a5710830c46779d50b6c6c201de793c7aae0567f7ee996a9bb47f8e7118bf356",
+    "master": "8fc1d12ce50a4068c6dce3a73ffe7972f1664a59a5f98d32d5ac54a00afee8e0",
+    "web": "aff76d8e7ff0d3014ac90201af546dae22dd7f86baecdad130cb398542dcbdbc"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Holothuria atra [Holothuria atra] — Neal Kelso / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/584684630. Original attribution: (c) Neal Kelso, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Holothuria atra",
+  "sourceId": "584684630",
+  "photoUrl": "https://www.inaturalist.org/photos/584684630",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/584684630/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/584684630/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Neal Kelso",
+  "originalAttribution": "(c) Neal Kelso, some rights reserved (CC BY)",
+  "taxonId": 55946,
+  "acceptedScientificName": "Holothuria atra",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Animalia",
+  "observationUrl": "https://www.inaturalist.org/observations/323141833",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.527619047619047,
+  "photoApiEvidence": {
+    "id": 584684630,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/584684630/square.jpg",
+    "attribution": "(c) Neal Kelso, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47549/774753/47720/995100/774638/52394/52393/1297140",
+    "min_species_ancestry": "48460,1,47549,774753,47720,995100,774638,52394,52393,1297140,55946",
+    "endemic": false,
+    "iconic_taxon_id": 1,
+    "min_species_taxon_id": 55946,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1297140,
+    "name": "Holothuria atra",
+    "rank": "species",
+    "extinct": false,
+    "id": 55946,
+    "ancestor_ids": [
+      48460,
+      1,
+      47549,
+      774753,
+      47720,
+      995100,
+      774638,
+      52394,
+      52393,
+      1297140,
+      55946
+    ],
+    "created_at": "2010-02-11T22:44:56+01:00",
+    "default_photo": {
+      "id": 163566549,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Amaury Durbano, sommige rechten voorbehouden (CC BY-NC), geüpload door Amaury Durbano",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/163566549/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Amaury Durbano",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/163566549/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/163566549/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 4789,
+    "photos_locked": false,
+    "universal_search_rank": 4789,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Holothuria_atra",
+    "iconic_taxon_name": "Animalia",
+    "preferred_common_name": "Lollyfish Sea Cucumber"
+  }
+}

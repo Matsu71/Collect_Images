@@ -388,4 +388,102 @@ Felis catus [Felis catus] — no rights reserved / iNaturalist, CC0 (https://cre
 
 Ficus benghalensis [Ficus benghalensis] — Yoav Daniel Bar-Ness / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/192795437. Original attribution: (c) Yoav Daniel Bar-Ness, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
 
+Fratercula arctica [Fratercula arctica] — nbasargin / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/329738638. Original attribution: (c) nbasargin, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Fucus vesiculosus at Lyngen fjord, Troms, Norway, 2015 September [Fucus vesiculosus] — Ximonic (Simo Räsänen) / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Fucus_vesiculosus_at_Lyngen_fjord,_Troms,_Norway,_2015_September.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Zwiebeln Fusarium damping-off (Fusarium oxysporum f.sp. cepae) Howard F. Schwartz, Colorado State University, Bugwood.org [Fusarium oxysporum] — Howard F. Schwartz, Colorado State University, Bugwood.org / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/3.0); source: https://commons.wikimedia.org/wiki/File:Zwiebeln_Fusarium_damping-off_(Fusarium_oxysporum_f.sp._cepae)_Howard_F._Schwartz,_Colorado_State_University,_Bugwood.org.jpg. Original attribution: This image is Image Number 5498719 at Forestry Images , a source for forest health, natural resources and silviculture images operated by The Bugwood Network at the University of Georgia and the USDA Forest Service . Check archived versions at web.archive / archive.is or on insectimages.org https://www.forestryimages.org/browse/detail.cfm?imgnum=5498719. Resized and re-encoded; no subject alteration.
+
+Gadus morhua [Gadus morhua] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/364406518. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Galeocerdo cuvier [Galeocerdo cuvier] — Kris-Mikael Krister / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/19051907. Original attribution: (c) Kris-Mikael Krister, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Gallus gallus [Gallus gallus] — Julien Renoult / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/3784873. Original attribution: (c) Julien Renoult, some rights reserved (CC BY), uploaded by Julien Renoult. Resized and re-encoded; no subject alteration.
+
+Gallus gallus domesticus [Gallus gallus domesticus] — Svklimkin / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/274681663. Original attribution: (c) Svklimkin, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
+
+Round Ganoderma lucidum with centric stem [Ganoderma lucidum] — Albarubescens / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Round_Ganoderma_lucidum_with_centric_stem.jpg. Original attribution: Own work. Resized and re-encoded; no subject alteration.
+
+Gavialis gangeticus [Gavialis gangeticus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/184841668. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Gazella dorcas [Gazella dorcas] — Thomas Galewski / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/88075608. Original attribution: (c) Thomas Galewski, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Proposal of catalyzing bio-voltage memristors [Geobacter sulfurreducens] — Authors of the study: Tianda Fu, Xiaomeng Liu, Hongyan Gao, Joy E. Ward, Xiaorong Liu, Bing Yin, Zhongrui Wang, Ye Zhuo, David J. F. Walker, J. Joshua Yang, Jianhan Chen, Derek R. Lovley & Jun Yao / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Proposal_of_catalyzing_bio-voltage_memristors.webp. Original attribution: https://www.nature.com/articles/s41467-020-15759-y. Resized and re-encoded; no subject alteration.
+
+Geococcyx californianus [Geococcyx californianus] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/66994994. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Ginglymostoma cirratum [Ginglymostoma cirratum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/42728720. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Ginkgo biloba [Ginkgo biloba] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/161263816. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Giraffa camelopardalis [Giraffa camelopardalis] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/314694627. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Living planktonic foraminifera [Globigerina bulloides] — Haruka Takagi, Katsunori Kimoto, Tetsuichi Fujiki, Hiroaki Saito, Christiane Schmidt4 , Michal Kucera and Kazuyoshi Moriya5 / Wikimedia Commons, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0); source: https://commons.wikimedia.org/wiki/File:Living_planktonic_foraminifera.png. Original attribution: https://www.biogeosciences.net/16/3377/2019/ doi : 10.5194/bg-16-3377-2019. Resized and re-encoded; no subject alteration.
+
+Glycine max [Glycine max] — 葉子 / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/28348393. Original attribution: no rights reserved, uploaded by 葉子. Resized and re-encoded; no subject alteration.
+
+Goliathus goliatus [Goliathus goliatus] — Barry Stewart / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/660895088. Original attribution: (c) Barry Stewart, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Gopherus agassizii [Gopherus agassizii] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/369542429. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Gorilla beringei [Gorilla beringei] — Annika Lindqvist / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/49545347. Original attribution: (c) Annika Lindqvist, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Gorilla gorilla [Gorilla gorilla] — John P Friel / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/2996372. Original attribution: (c) John P Friel, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Gossypium hirsutum [Gossypium hirsutum] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/168584620. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Grammostola rosea [Grammostola rosea] — Nicolás Garcés / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/617608472. Original attribution: no rights reserved, uploaded by Nicolás Garcés. Resized and re-encoded; no subject alteration.
+
+Gromphadorhina portentosa [Gromphadorhina portentosa] — Rob Foster / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/455728722. Original attribution: (c) Rob Foster, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Grus japonensis [Grus japonensis] — Austin 0201 / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/13096699. Original attribution: (c) Austin 0201, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Wolverine, Kristiansand Zoo [Gulo gulo] — Birgit Fostervold / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/2.0); source: https://commons.wikimedia.org/wiki/File:Wolverine,_Kristiansand_Zoo.jpg. Original attribution: originally posted to Flickr as Wolverine. Resized and re-encoded; no subject alteration.
+
+Gymnogyps californianus [Gymnogyps californianus] — Marcus Rosten / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/5686033. Original attribution: (c) Marcus Rosten, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Haliaeetus albicilla [Haliaeetus albicilla] — Jacob Spinks / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/164904961. Original attribution: (c) Jacob Spinks, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Haliaeetus leucocephalus [Haliaeetus leucocephalus] — Marcel_Pepin / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/384490244. Original attribution: (c) Marcel_Pepin, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Haliotis rufescens [Haliotis rufescens] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/259092301. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Genes-10-00194-g001 [Halobacterium salinarum] — Mike Dyall-Smith, Peter Palm, Gerhard Wanner, Angela Witte, Dieter Oesterhelt, Friedhelm Pfeiffer / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Genes-10-00194-g001.jpg. Original attribution: Halobacterium salinarum virus ChaoS9 , a Novel Halovirus Related to PhiH1 and PhiCh1. In: MDPI : Genes , volume 10, issue 3 (Special Issue Genetics of Halophilic Microorganisms), p.194; doi:10.3390/genes10030194. Resized and re-encoded; no subject alteration.
+
+Helarctos malayanus [Helarctos malayanus] — Jan Ebr & Ivana Ebrová / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/245798442. Original attribution: (c) Jan Ebr & Ivana Ebrová, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Helianthus annuus [Helianthus annuus] — Michelle W. （鍾偉瑋） / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/98056702. Original attribution: (c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Helix pomatia [Helix pomatia] — Björn S... / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/2536439. Original attribution: (c) Björn S..., some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
+
+Heloderma suspectum [Heloderma suspectum] — Matt Berger / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/53156259. Original attribution: (c) Matt Berger, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Heterocephalus glaber [Heterocephalus glaber] — Jan Ebr & Ivana Ebrová / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/176037362. Original attribution: (c) Jan Ebr & Ivana Ebrová, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Hevea brasiliensis [Hevea brasiliensis] — Cheongweei Gan / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/60706943. Original attribution: (c) Cheongweei Gan, some rights reserved (CC BY-SA), uploaded by Cheongweei Gan. Resized and re-encoded; no subject alteration.
+
+Hippocampus kuda [Hippocampus kuda] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/484433769. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Hippoglossus hippoglossus [Hippoglossus hippoglossus] — shankar s. / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/109037533. Original attribution: (c) shankar s., some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Hippopotamus amphibius [Hippopotamus amphibius] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/57201622. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Hirudo medicinalis [Hirudo medicinalis] — Dmitry Kulakov / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/53115479. Original attribution: (c) Dmitry Kulakov, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Holothuria atra [Holothuria atra] — Neal Kelso / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/584684630. Original attribution: (c) Neal Kelso, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Homarus americanus [Homarus americanus] — Roger Rittmaster / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/75691769. Original attribution: (c) Roger Rittmaster, some rights reserved (CC BY), uploaded by Roger Rittmaster. Resized and re-encoded; no subject alteration.
+
+Homo sapiens [Homo sapiens] — Abhas Misraraj / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/80550183. Original attribution: no rights reserved, uploaded by Abhas Misraraj. Resized and re-encoded; no subject alteration.
+
+Hordeum vulgare [Hordeum vulgare] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/131047417. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Hyaena hyaena [Hyaena hyaena] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/57491450. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Hydra vulgaris [Hydra vulgaris] — no rights reserved / iNaturalist, CC0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/166941046. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.
+
+Hydrochoerus hydrochaeris [Hydrochoerus hydrochaeris] — avocat / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/10691626. Original attribution: (c) avocat, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.
+
+Hylobates lar [Hylobates lar] — Ladislav Král / iNaturalist, CC-BY-SA (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/265476979. Original attribution: (c) Ladislav Král, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.
+
 Trichodesmium interactions with bacteria to acquire iron [Trichodesmium spp.] — Subhajit Basu, Martha Gledhill, Dirk de Beer, S. G. Prabhu Matondkar & Yeala Shaked / Wikimedia Commons, CC-BY (https://creativecommons.org/licenses/by/4.0); source: https://commons.wikimedia.org/wiki/File:Trichodesmium_interactions_with_bacteria_to_acquire_iron.png. Original attribution: [1]. Resized and re-encoded; no subject alteration.

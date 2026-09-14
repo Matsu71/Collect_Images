@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-660895088",
+  "targetId": "org-goliathus-goliatus",
+  "scientificName": "Goliathus goliatus",
+  "nameJa": "ゴライアスオオツノハナムグリ",
+  "collectionTier": "chronoearth",
+  "origin": "real_photograph",
+  "status": "collected_pending_visual_review",
+  "visualReview": {
+    "status": "pending",
+    "fullBodyVisible": "unverified",
+    "speciesIdentity": "source_taxonomy_only"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:00:23+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:00:23+00:00",
+  "files": {
+    "master": "images/goliathus-goliatus/inat-660895088.jpg",
+    "web": "images/goliathus-goliatus/inat-660895088.webp",
+    "thumbnail": "images/goliathus-goliatus/inat-660895088-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 856093,
+    "web": 177384,
+    "thumbnail": 11450
+  },
+  "sha256": {
+    "download": "30e9d55c7141d99220ece817602dc1c30f96cb821c57204c5f756929ceac3417",
+    "master": "8288861924811780d14f4a39349e67b0dd247be6c195827d89c6292a73506657",
+    "web": "4b0a2d595cab8c08286df2eee71ebdd90f6b41a647dcf37b5a43523e41318163"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Goliathus goliatus [Goliathus goliatus] — Barry Stewart / iNaturalist, CC-BY (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/660895088. Original attribution: (c) Barry Stewart, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Goliathus goliatus",
+  "sourceId": "660895088",
+  "photoUrl": "https://www.inaturalist.org/photos/660895088",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/660895088/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/660895088/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Barry Stewart",
+  "originalAttribution": "(c) Barry Stewart, some rights reserved (CC BY)",
+  "taxonId": 468105,
+  "acceptedScientificName": "Goliathus goliatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/362113972",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.283333333333333,
+  "photoApiEvidence": {
+    "id": 660895088,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/660895088/square.jpg",
+    "attribution": "(c) Barry Stewart, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47208/71130/702480/48202/48201/127588/207593/738213/468100/468105",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47208,71130,702480,48202,48201,127588,207593,738213,468100,468105",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 468105,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": false,
+    "parent_id": 468105,
+    "name": "Goliathus goliatus goliatus",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 1640824,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47208,
+      71130,
+      702480,
+      48202,
+      48201,
+      127588,
+      207593,
+      738213,
+      468100,
+      468105,
+      1640824
+    ],
+    "created_at": "2025-08-25T10:13:17+00:00",
+    "default_photo": {
+      "id": 557017241,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Connor E. J. Graham, some rights reserved (CC BY-NC), uploaded by Connor E. J. Graham",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557017241/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1235
+      },
+      "flags": [],
+      "attribution_name": "Connor E. J. Graham",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557017241/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557017241/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 0,
+    "observations_count": 10,
+    "photos_locked": false,
+    "universal_search_rank": 10,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Insecta"
+  }
+}
