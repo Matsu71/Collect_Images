@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-353812234",
+  "targetId": "inat-taxon-47588",
+  "scientificName": "Cypripedium acaule",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:25:28+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:25:28+00:00",
+  "files": {
+    "master": "images/cypripedium-acaule/inat-353812234.jpg",
+    "web": "images/cypripedium-acaule/inat-353812234.webp",
+    "thumbnail": "images/cypripedium-acaule/inat-353812234-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 870908,
+    "web": 161120,
+    "thumbnail": 8186
+  },
+  "sha256": {
+    "download": "7de37465d855de1be259738558062ebb69dae92590092bd6bbd9364d28e5db1b",
+    "master": "723eef91811861c4f0283cf545b07f31877e0040da37149309043216abee3f1b",
+    "web": "b640c2ff7ee5d5f5d478f1fbb84465499c0fc3a709264afacc637b98f7bbabe3"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Cypripedium acaule [Cypripedium acaule] — Michael J. Papay / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/353812234. Original attribution: (c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Cypripedium acaule",
+  "sourceId": "353812234",
+  "photoUrl": "https://www.inaturalist.org/photos/353812234",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/353812234/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/353812234/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Michael J. Papay",
+  "originalAttribution": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+  "taxonId": 47588,
+  "acceptedScientificName": "Cypripedium acaule",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.925714285714285,
+  "photoApiEvidence": {
+    "id": 353812234,
+    "license_code": "cc-by",
+    "attribution": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/353812234/square.jpeg",
+    "original_dimensions": {
+      "height": 2048,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Michael J. Papay",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/353812234/square.jpeg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/353812234/medium.jpeg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/cypripedium-acaule/inat-353812234.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/cypripedium-acaule--inat-353812234.json"
+}

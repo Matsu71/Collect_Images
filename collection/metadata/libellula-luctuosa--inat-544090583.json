@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-544090583",
+  "targetId": "inat-taxon-47934",
+  "scientificName": "Libellula luctuosa",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:09+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:09+00:00",
+  "files": {
+    "master": "images/libellula-luctuosa/inat-544090583.jpg",
+    "web": "images/libellula-luctuosa/inat-544090583.webp",
+    "thumbnail": "images/libellula-luctuosa/inat-544090583-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1557
+    ],
+    "master": [
+      2048,
+      1557
+    ],
+    "web": [
+      1400,
+      1064
+    ]
+  },
+  "bytes": {
+    "master": 496558,
+    "web": 127390,
+    "thumbnail": 11700
+  },
+  "sha256": {
+    "download": "057eafe42d5b383361bb2d3eab8d4305b22ef6b8e8d3b969332b09d5f0eba348",
+    "master": "713d397e7fce5574228399339218c6df6de6485946545ef4077419128254c99f",
+    "web": "69bd7406464964d783c388bb1df3acf4cdf93e0817583c955a762389a849fcec"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Libellula luctuosa [Libellula luctuosa] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/544090583. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Libellula luctuosa",
+  "sourceId": "544090583",
+  "photoUrl": "https://www.inaturalist.org/photos/544090583",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/544090583/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/544090583/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 47934,
+  "acceptedScientificName": "Libellula luctuosa",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/301924329",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.557619047619047,
+  "photoApiEvidence": {
+    "id": 544090583,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1557
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544090583/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47792/47927/1317176/47819/47818",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47792,47927,1317176,47819,47818,47934",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 47934,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 47818,
+    "name": "Libellula luctuosa",
+    "rank": "species",
+    "extinct": false,
+    "id": 47934,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47792,
+      47927,
+      1317176,
+      47819,
+      47818,
+      47934
+    ],
+    "provisional": false,
+    "created_at": "2008-07-23T20:44:20+00:00",
+    "default_photo": {
+      "id": 15608,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) John Wright, some rights reserved (CC BY-NC-ND)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15608/square.jpg",
+      "original_dimensions": {
+        "height": 683,
+        "width": 1024
+      },
+      "flags": [],
+      "attribution_name": "John Wright",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15608/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15608/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 8,
+    "observations_count": 87713,
+    "photos_locked": false,
+    "universal_search_rank": 87713,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 15125,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Widow_skimmer",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Widow Skimmer"
+  },
+  "rawMetadataPath": "metadata/libellula-luctuosa/inat-544090583.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/libellula-luctuosa--inat-544090583.json"
+}

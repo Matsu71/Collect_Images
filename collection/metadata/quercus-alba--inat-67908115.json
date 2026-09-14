@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-67908115",
+  "targetId": "inat-taxon-54779",
+  "scientificName": "Quercus alba",
+  "nameJa": "ホワイトオーク",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:19+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:19+00:00",
+  "files": {
+    "master": "images/quercus-alba/inat-67908115.jpg",
+    "web": "images/quercus-alba/inat-67908115.webp",
+    "thumbnail": "images/quercus-alba/inat-67908115-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 963102,
+    "web": 174092,
+    "thumbnail": 22112
+  },
+  "sha256": {
+    "download": "c156f8e2ab6c8f538ccab64493b497ce1ae5a5d9efd30b27f224c5a242a570d3",
+    "master": "47e2c537f3b70fb7d3cef3048322c6ad4bbe1097f8cdafd1a84924123e6f49e5",
+    "web": "be2b38a0a4350846beb871c49ced6e4ab440967ac27dae0be3548ccb60d4cd9b"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Quercus alba [Quercus alba] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/67908115. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Quercus alba",
+  "sourceId": "67908115",
+  "photoUrl": "https://www.inaturalist.org/photos/67908115",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67908115/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67908115/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 54779,
+  "acceptedScientificName": "Quercus alba",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/42761568",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.194285714285714,
+  "photoApiEvidence": {
+    "id": 67908115,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67908115/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47853/47852/47851/861029/861033/1552800",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47853,47852,47851,861029,861033,1552800,54779",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 54779,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1552800,
+    "name": "Quercus alba",
+    "rank": "species",
+    "extinct": false,
+    "id": 54779,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47853,
+      47852,
+      47851,
+      861029,
+      861033,
+      1552800,
+      54779
+    ],
+    "provisional": false,
+    "created_at": "2009-12-28T05:07:36+00:00",
+    "default_photo": {
+      "id": 7298947,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Eric Keith, some rights reserved (CC BY-NC), uploaded by Eric Keith",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7298947/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "Eric Keith",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7298947/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7298947/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 83613,
+    "photos_locked": false,
+    "universal_search_rank": 83613,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 1838,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Quercus_alba",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "white oak"
+  },
+  "rawMetadataPath": "metadata/quercus-alba/inat-67908115.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/quercus-alba--inat-67908115.json"
+}

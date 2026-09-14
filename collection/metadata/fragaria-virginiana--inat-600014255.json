@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-600014255",
+  "targetId": "inat-taxon-77155",
+  "scientificName": "Fragaria virginiana",
+  "nameJa": "バージニアイチゴ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:32+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:32+00:00",
+  "files": {
+    "master": "images/fragaria-virginiana/inat-600014255.jpg",
+    "web": "images/fragaria-virginiana/inat-600014255.webp",
+    "thumbnail": "images/fragaria-virginiana/inat-600014255-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 639514,
+    "web": 168640,
+    "thumbnail": 21716
+  },
+  "sha256": {
+    "download": "731393e10361e27d07aaed1e1603659e884222b1eb63288b56a029b62bb9fcdb",
+    "master": "cc57a74784fc44ae05b29b312a1caf92d069db399f5b28c4d7384c758cb649dc",
+    "web": "59a643e3c9771f99ee87544070dbd247de833f89ef32412e0d395f2c49ad0f19"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Fragaria virginiana [Fragaria virginiana] — Abby Hyde / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/600014255. Original attribution: (c) Abby Hyde, some rights reserved (CC BY), uploaded by Abby Hyde. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Fragaria virginiana",
+  "sourceId": "600014255",
+  "photoUrl": "https://www.inaturalist.org/photos/600014255",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/600014255/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/600014255/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Abby Hyde",
+  "originalAttribution": "(c) Abby Hyde, some rights reserved (CC BY), uploaded by Abby Hyde",
+  "taxonId": 77155,
+  "acceptedScientificName": "Fragaria virginiana",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 11.95,
+  "photoApiEvidence": {
+    "id": 600014255,
+    "license_code": "cc-by",
+    "attribution": "(c) Abby Hyde, some rights reserved (CC BY), uploaded by Abby Hyde",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/600014255/square.jpg",
+    "original_dimensions": {
+      "height": 1365,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Abby Hyde",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/600014255/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/600014255/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/fragaria-virginiana/inat-600014255.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/fragaria-virginiana--inat-600014255.json"
+}

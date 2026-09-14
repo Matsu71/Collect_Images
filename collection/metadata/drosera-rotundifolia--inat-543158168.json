@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-543158168",
+  "targetId": "inat-taxon-52658",
+  "scientificName": "Drosera rotundifolia",
+  "nameJa": "モウセンゴケ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:24+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:24+00:00",
+  "files": {
+    "master": "images/drosera-rotundifolia/inat-543158168.jpg",
+    "web": "images/drosera-rotundifolia/inat-543158168.webp",
+    "thumbnail": "images/drosera-rotundifolia/inat-543158168-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1421456,
+    "web": 342492,
+    "thumbnail": 36536
+  },
+  "sha256": {
+    "download": "a454998128948c647aa5d9dbf1e483d7bec02d9578c89bad50e6dccd9a8bc6bd",
+    "master": "560b0d220b27fba65e52bc07656ef2111ba200ab9b0d36d35941fbee5ed48640",
+    "web": "32a6f0bff91ae492b904a9804a2e36137d9378bcd66ac261e58a9aeec91d7307"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Drosera rotundifolia [Drosera rotundifolia] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/543158168. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Drosera rotundifolia",
+  "sourceId": "543158168",
+  "photoUrl": "https://www.inaturalist.org/photos/543158168",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/543158168/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/543158168/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 52658,
+  "acceptedScientificName": "Drosera rotundifolia",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/301422397",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 543158168,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543158168/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47366/51937/51935/1064188/1064197",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47366,51937,51935,1064188,1064197,52658",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 52658,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1064197,
+    "name": "Drosera rotundifolia",
+    "rank": "species",
+    "extinct": false,
+    "id": 52658,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47366,
+      51937,
+      51935,
+      1064188,
+      1064197,
+      52658
+    ],
+    "created_at": "2009-08-21T04:11:28+00:00",
+    "default_photo": {
+      "id": 775538,
+      "license_code": "cc-by-nd",
+      "attribution": "(c) Chris Parker, some rights reserved (CC BY-ND)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/775538/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Chris Parker",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/775538/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/775538/medium.jpg"
+    },
+    "taxon_changes_count": 4,
+    "taxon_schemes_count": 5,
+    "observations_count": 49115,
+    "photos_locked": false,
+    "universal_search_rank": 49115,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 14690,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Drosera_rotundifolia",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "round-leaved sundew"
+  },
+  "rawMetadataPath": "metadata/drosera-rotundifolia/inat-543158168.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/drosera-rotundifolia--inat-543158168.json"
+}

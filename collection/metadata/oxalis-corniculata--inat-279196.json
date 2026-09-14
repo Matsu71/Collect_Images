@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-279196",
+  "targetId": "inat-taxon-53168",
+  "scientificName": "Oxalis corniculata",
+  "nameJa": "カタバミ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:26:18+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:26:18+00:00",
+  "files": {
+    "master": "images/oxalis-corniculata/inat-279196.jpg",
+    "web": "images/oxalis-corniculata/inat-279196.webp",
+    "thumbnail": "images/oxalis-corniculata/inat-279196-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 482080,
+    "web": 96880,
+    "thumbnail": 8608
+  },
+  "sha256": {
+    "download": "acc523841f28bcb0592df0cf9ac4cf6cf0b00b0a6750263d685f9a3bb1e2263d",
+    "master": "4ed18a6e5ef5e7e549af3c2bb4d382fb5d2bb1c820ddc1da5c4264c80b1c9f46",
+    "web": "28908e57f57610c4793d71eaa81ce7b5af8298f9f27bcf5f90f970bec9f6a905"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Oxalis corniculata [Oxalis corniculata] — jacinta lluch valero / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/279196. Original attribution: (c) jacinta lluch valero, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Oxalis corniculata",
+  "sourceId": "279196",
+  "photoUrl": "https://www.inaturalist.org/photos/279196",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/279196/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/279196/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "jacinta lluch valero",
+  "originalAttribution": "(c) jacinta lluch valero, some rights reserved (CC BY-SA)",
+  "taxonId": 53168,
+  "acceptedScientificName": "Oxalis corniculata",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.194285714285714,
+  "photoApiEvidence": {
+    "id": 279196,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) jacinta lluch valero, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/279196/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "jacinta lluch valero",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/279196/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/279196/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/oxalis-corniculata/inat-279196.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY-SA 4.0",
+  "metadataPath": "collection/metadata/oxalis-corniculata--inat-279196.json"
+}

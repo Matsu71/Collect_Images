@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-423186795",
+  "targetId": "inat-taxon-58555",
+  "scientificName": "Everes comyntas",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:48+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:48+00:00",
+  "files": {
+    "master": "images/everes-comyntas/inat-423186795.jpg",
+    "web": "images/everes-comyntas/inat-423186795.webp",
+    "thumbnail": "images/everes-comyntas/inat-423186795-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 870735,
+    "web": 174564,
+    "thumbnail": 9684
+  },
+  "sha256": {
+    "download": "c83b63e063e2f2fff2f4698e83a58c4777f1b487554c424227ad2848b57a8576",
+    "master": "3b7478d76ed00f4815572542b094f8eff5976fbfe9c702d36de277093503b970",
+    "web": "d1a892370df609b9e14a5e1dd0bbcce39327ed416c13e864cef57f1e4ef81545"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Everes comyntas [Everes comyntas] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/423186795. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Everes comyntas",
+  "sourceId": "423186795",
+  "photoUrl": "https://www.inaturalist.org/photos/423186795",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/423186795/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/423186795/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 58555,
+  "acceptedScientificName": "Everes comyntas",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/237761127",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.259047619047617,
+  "photoApiEvidence": {
+    "id": 423186795,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/423186795/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47157/47224/47923/58558/125833/522677/59149",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47157,47224,47923,58558,125833,522677,59149,58555",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 58555,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 59149,
+    "name": "Everes comyntas",
+    "rank": "species",
+    "extinct": false,
+    "id": 58555,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47157,
+      47224,
+      47923,
+      58558,
+      125833,
+      522677,
+      59149,
+      58555
+    ],
+    "created_at": "2010-04-01T19:10:15+00:00",
+    "default_photo": {
+      "id": 91562330,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) jenniferf4, some rights reserved (CC BY-NC), uploaded by jenniferf4",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91562330/square.jpeg",
+      "original_dimensions": {
+        "height": 1262,
+        "width": 1480
+      },
+      "flags": [],
+      "attribution_name": "jenniferf4",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91562330/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91562330/medium.jpeg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 1,
+    "observations_count": 70370,
+    "photos_locked": false,
+    "universal_search_rank": 70370,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eastern_tailed-blue",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Eastern Tailed-Blue"
+  },
+  "rawMetadataPath": "metadata/everes-comyntas/inat-423186795.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/everes-comyntas--inat-423186795.json"
+}

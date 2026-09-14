@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-648",
+  "targetId": "inat-taxon-204533",
+  "scientificName": "Larus argentatus",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:15+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:15+00:00",
+  "files": {
+    "master": "images/larus-argentatus/inat-648.jpg",
+    "web": "images/larus-argentatus/inat-648.webp",
+    "thumbnail": "images/larus-argentatus/inat-648-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 565173,
+    "web": 62668,
+    "thumbnail": 3892
+  },
+  "sha256": {
+    "download": "47c81f543acf48942c3cdc005feec73910d654340c1473081623e57f0ea0e6a4",
+    "master": "b3a4898e738b767405c96cb4c6d0fea600ecb7b0f9ccf98d46232671bbef5338",
+    "web": "b6989c8e7b29ecbd391e2e8be63916951af409d845e9fcc34fb111d3aebf25d2"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Larus argentatus [Larus argentatus] — biogeek / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/648. Original attribution: (c) biogeek, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Larus argentatus",
+  "sourceId": "648",
+  "photoUrl": "https://www.inaturalist.org/photos/648",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/648/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/648/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "biogeek",
+  "originalAttribution": "(c) biogeek, some rights reserved (CC BY)",
+  "taxonId": 204533,
+  "acceptedScientificName": "Larus argentatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/562",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.194285714285714,
+  "photoApiEvidence": {
+    "id": 648,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648/square.jpg",
+    "attribution": "(c) biogeek, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67561/4342/447155/4343/204533",
+    "min_species_ancestry": "48460,1,2,355675,3,67561,4342,447155,4343,204533",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 204533,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": true,
+    "parent_id": 204533,
+    "name": "Larus argentatus argenteus",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 515480,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67561,
+      4342,
+      447155,
+      4343,
+      204533,
+      515480
+    ],
+    "created_at": "2016-11-16T02:04:18+00:00",
+    "default_photo": {
+      "id": 278706880,
+      "license_code": null,
+      "attribution": "(c) Michiel Van de Velde, all rights reserved, uploaded by Michiel Van de Velde",
+      "url": "https://static.inaturalist.org/photos/278706880/square.jpeg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Michiel Van de Velde",
+      "square_url": "https://static.inaturalist.org/photos/278706880/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/278706880/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 460,
+    "photos_locked": false,
+    "universal_search_rank": 460,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_herring_gull",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Western European Herring Gull"
+  },
+  "rawMetadataPath": "metadata/larus-argentatus/inat-648.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/larus-argentatus--inat-648.json"
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-72435878",
+  "targetId": "inat-taxon-53195",
+  "scientificName": "Rumex acetosella",
+  "nameJa": "ヒメスイバ(広義)",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:28:03+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:28:03+00:00",
+  "files": {
+    "master": "images/rumex-acetosella/inat-72435878.jpg",
+    "web": "images/rumex-acetosella/inat-72435878.webp",
+    "thumbnail": "images/rumex-acetosella/inat-72435878-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 893195,
+    "web": 185270,
+    "thumbnail": 20532
+  },
+  "sha256": {
+    "download": "410ff568d33904887085faea0267444be888df92d9204a19c75aa6415e93ac3e",
+    "master": "eb90ac3141913203a89eec9d268e8ba025f6b1539cb417414e894740bbdae08e",
+    "web": "8bba271b8a663c6cd6e4a406ebea45fc82a7a9ce05b73acd23e7ffddb39ffa56"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 71,
+  "credit": "Rumex acetosella [Rumex acetosella] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/72435878. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Rumex acetosella",
+  "sourceId": "72435878",
+  "photoUrl": "https://www.inaturalist.org/photos/72435878",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/72435878/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/72435878/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 53195,
+  "acceptedScientificName": "Rumex acetosella",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/45674468",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 72435878,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72435878/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47366/48382/922206/922242/53196/1540583/1540586",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47366,48382,922206,922242,53196,1540583,1540586,53195",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 53195,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1540586,
+    "name": "Rumex acetosella",
+    "rank": "species",
+    "extinct": false,
+    "id": 53195,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47366,
+      48382,
+      922206,
+      922242,
+      53196,
+      1540583,
+      1540586,
+      53195
+    ],
+    "provisional": false,
+    "created_at": "2009-09-18T19:01:46+00:00",
+    "default_photo": {
+      "id": 203599374,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Antti Henttonen, some rights reserved (CC BY-NC), uploaded by Antti Henttonen",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/203599374/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1526
+      },
+      "flags": [],
+      "attribution_name": "Antti Henttonen",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/203599374/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/203599374/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 7,
+    "observations_count": 64928,
+    "photos_locked": false,
+    "universal_search_rank": 64928,
+    "flag_counts": {
+      "resolved": 4,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rumex_acetosella",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Sheep's sorrel"
+  },
+  "rawMetadataPath": "metadata/rumex-acetosella/inat-72435878.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/rumex-acetosella--inat-72435878.json"
+}

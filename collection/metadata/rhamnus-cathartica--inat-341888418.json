@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-341888418",
+  "targetId": "inat-taxon-54811",
+  "scientificName": "Rhamnus cathartica",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:24:53+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:24:53+00:00",
+  "files": {
+    "master": "images/rhamnus-cathartica/inat-341888418.jpg",
+    "web": "images/rhamnus-cathartica/inat-341888418.webp",
+    "thumbnail": "images/rhamnus-cathartica/inat-341888418-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 629213,
+    "web": 149036,
+    "thumbnail": 14532
+  },
+  "sha256": {
+    "download": "5a64f993a6cf043408e5868aabb6f2d87153334c556ec0d277a9996e197c931d",
+    "master": "f7a901f039b2c27b88e5eb798c446acf6903330ba22f98208b58a323b0ce0dfa",
+    "web": "20f01e95795b6b6fcf6f35db7317aec612e1db2279865fc9d96df60ee8255132"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Rhamnus cathartica [Rhamnus cathartica] — Robert Flogaus-Faust / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/341888418. Original attribution: (c) Robert Flogaus-Faust, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Rhamnus cathartica",
+  "sourceId": "341888418",
+  "photoUrl": "https://www.inaturalist.org/photos/341888418",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/341888418/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/341888418/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Robert Flogaus-Faust",
+  "originalAttribution": "(c) Robert Flogaus-Faust, some rights reserved (CC BY)",
+  "taxonId": 54811,
+  "acceptedScientificName": "Rhamnus cathartica",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.194285714285714,
+  "photoApiEvidence": {
+    "id": 341888418,
+    "license_code": "cc-by",
+    "attribution": "(c) Robert Flogaus-Faust, some rights reserved (CC BY)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341888418/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Robert Flogaus-Faust",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341888418/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341888418/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/rhamnus-cathartica/inat-341888418.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/rhamnus-cathartica--inat-341888418.json"
+}

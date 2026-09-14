@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-209710844",
+  "targetId": "inat-taxon-4626",
+  "scientificName": "Gavia immer",
+  "nameJa": "ハシグロアビ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:28:50+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:28:50+00:00",
+  "files": {
+    "master": "images/gavia-immer/inat-209710844.jpg",
+    "web": "images/gavia-immer/inat-209710844.webp",
+    "thumbnail": "images/gavia-immer/inat-209710844-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 1012026,
+    "web": 181902,
+    "thumbnail": 18824
+  },
+  "sha256": {
+    "download": "c58cc4288d24e6ee7556d3bfbd828f9a6ae0486882a4ca4f959a684d8d23a5a0",
+    "master": "7e20efd19292c5be2cb0edc53796b4f396548ef8b46ae6a5fafbd0abab849bbf",
+    "web": "3036e7047f94918d412d6d672e385dc7cb0d7d66c2a2ea53dadcf649d19ab0ee"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Gavia immer [Gavia immer] — Andrew Hrycyna / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/209710844. Original attribution: (c) Andrew Hrycyna, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Gavia immer",
+  "sourceId": "209710844",
+  "photoUrl": "https://www.inaturalist.org/photos/209710844",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/209710844/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/209710844/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Andrew Hrycyna",
+  "originalAttribution": "(c) Andrew Hrycyna, some rights reserved (CC BY)",
+  "taxonId": 4626,
+  "acceptedScientificName": "Gavia immer",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/123770073",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.95,
+  "photoApiEvidence": {
+    "id": 209710844,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/209710844/square.jpg",
+    "attribution": "(c) Andrew Hrycyna, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67562/4619/4620",
+    "min_species_ancestry": "48460,1,2,355675,3,67562,4619,4620,4626",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 4626,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 4620,
+    "name": "Gavia immer",
+    "rank": "species",
+    "extinct": false,
+    "id": 4626,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67562,
+      4619,
+      4620,
+      4626
+    ],
+    "created_at": "2008-03-13T02:45:55+00:00",
+    "default_photo": {
+      "id": 304321551,
+      "license_code": null,
+      "attribution": "(c) Michael Brozek, all rights reserved, uploaded by Michael Brozek",
+      "url": "https://static.inaturalist.org/photos/304321551/square.jpg",
+      "original_dimensions": {
+        "height": 1363,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Michael Brozek",
+      "square_url": "https://static.inaturalist.org/photos/304321551/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/304321551/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 69260,
+    "photos_locked": false,
+    "universal_search_rank": 69260,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 143700,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Common_loon",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Common Loon"
+  },
+  "rawMetadataPath": "metadata/gavia-immer/inat-209710844.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/gavia-immer--inat-209710844.json"
+}

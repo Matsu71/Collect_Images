@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-415341934",
+  "targetId": "inat-taxon-56225",
+  "scientificName": "Polygonia c-album",
+  "nameJa": "シータテハ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:20:12+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:20:12+00:00",
+  "files": {
+    "master": "images/polygonia-c-album/inat-415341934.jpg",
+    "web": "images/polygonia-c-album/inat-415341934.webp",
+    "thumbnail": "images/polygonia-c-album/inat-415341934-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1913,
+      1914
+    ],
+    "master": [
+      1913,
+      1914
+    ],
+    "web": [
+      1399,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1307188,
+    "web": 284308,
+    "thumbnail": 19902
+  },
+  "sha256": {
+    "download": "7490b58fdb9ab175b42dde727f5bbc3405819da14b3d0b9b12da74cf4771f3b5",
+    "master": "91491bf74a95ba24933dfcd588d239aa5a0d96714057e9a94da554dee086671d",
+    "web": "ec708490fae6270f2fbd87855fb63556376d47e679e43be0174dded5b872e20c"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Polygonia c-album [Polygonia c-album] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/415341934. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Polygonia c-album",
+  "sourceId": "415341934",
+  "photoUrl": "https://www.inaturalist.org/photos/415341934",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/415341934/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/415341934/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 56225,
+  "acceptedScientificName": "Polygonia c-album",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/233690538",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.066190476190474,
+  "photoApiEvidence": {
+    "id": 415341934,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1913,
+      "height": 1914
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415341934/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47157/47224/47922/202067/202066/50392",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47157,47224,47922,202067,202066,50392,56225",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 56225,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 50392,
+    "name": "Polygonia c-album",
+    "rank": "species",
+    "extinct": false,
+    "id": 56225,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47157,
+      47224,
+      47922,
+      202067,
+      202066,
+      50392,
+      56225
+    ],
+    "created_at": "2010-02-20T15:55:22+00:00",
+    "default_photo": {
+      "id": 155133827,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Ramunė Vakarė, some rights reserved (CC BY-NC-SA), uploaded by Ramunė Vakarė",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/155133827/square.jpeg",
+      "original_dimensions": {
+        "height": 1449,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Ramunė Vakarė",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/155133827/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/155133827/medium.jpeg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 1,
+    "observations_count": 84820,
+    "photos_locked": false,
+    "universal_search_rank": 84820,
+    "flag_counts": {
+      "resolved": 4,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Polygonia_c-album",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "European Comma"
+  },
+  "rawMetadataPath": "metadata/polygonia-c-album/inat-415341934.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/polygonia-c-album--inat-415341934.json"
+}

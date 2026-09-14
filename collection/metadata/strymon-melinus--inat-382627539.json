@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-382627539",
+  "targetId": "inat-taxon-50931",
+  "scientificName": "Strymon melinus",
+  "nameJa": "ハイイロカラスシジミ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:24:20+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:24:20+00:00",
+  "files": {
+    "master": "images/strymon-melinus/inat-382627539.jpg",
+    "web": "images/strymon-melinus/inat-382627539.webp",
+    "thumbnail": "images/strymon-melinus/inat-382627539-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 527606,
+    "web": 82010,
+    "thumbnail": 9246
+  },
+  "sha256": {
+    "download": "b20285863c0629a4ea066d89717317f9759b07fa5aac3ecb81ae36c4f6796935",
+    "master": "bae928b5917f1bd928aacfed6fa0790842dcf1f2b565a1fa2fc72dc9fdb55efe",
+    "web": "964b6be4d5f9faba7ded6b09c0eec9bff9a55969499c563fab419c9b33dd41b3"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Strymon melinus [Strymon melinus] — dhasdf / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/382627539. Original attribution: (c) dhasdf, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Strymon melinus",
+  "sourceId": "382627539",
+  "photoUrl": "https://www.inaturalist.org/photos/382627539",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/382627539/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/382627539/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "dhasdf",
+  "originalAttribution": "(c) dhasdf, some rights reserved (CC BY)",
+  "taxonId": 50931,
+  "acceptedScientificName": "Strymon melinus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/216356415",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.194285714285714,
+  "photoApiEvidence": {
+    "id": 382627539,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/382627539/square.jpg",
+    "attribution": "(c) dhasdf, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47157/47224/47923/125830/125836/1456505/50940",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47157,47224,47923,125830,125836,1456505,50940,50931",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 50931,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 50940,
+    "name": "Strymon melinus",
+    "rank": "species",
+    "extinct": false,
+    "id": 50931,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47157,
+      47224,
+      47923,
+      125830,
+      125836,
+      1456505,
+      50940,
+      50931
+    ],
+    "created_at": "2009-04-14T02:22:37+00:00",
+    "default_photo": {
+      "id": 94289281,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) danabarb, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/94289281/square.jpg",
+      "original_dimensions": {
+        "height": 846,
+        "width": 1083
+      },
+      "flags": [],
+      "attribution_name": "danabarb",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/94289281/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/94289281/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 89435,
+    "photos_locked": false,
+    "universal_search_rank": 89435,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gray_hairstreak",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Gray Hairstreak"
+  },
+  "rawMetadataPath": "metadata/strymon-melinus/inat-382627539.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/strymon-melinus--inat-382627539.json"
+}

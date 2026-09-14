@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-2611412",
+  "targetId": "inat-taxon-50340",
+  "scientificName": "Hylephila phyleus",
+  "nameJa": "コツノセセリ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:20:42+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:20:42+00:00",
+  "files": {
+    "master": "images/hylephila-phyleus/inat-2611412.jpg",
+    "web": "images/hylephila-phyleus/inat-2611412.webp",
+    "thumbnail": "images/hylephila-phyleus/inat-2611412-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 426246,
+    "web": 163108,
+    "thumbnail": 10494
+  },
+  "sha256": {
+    "download": "dd1c5d4bb02e05c7c002c7260cdb1439ce7d6c5b360a9e30880a939543bc82b5",
+    "master": "11cd5c10b5633c474969df24eef19b0dc05635d744ee43ecf0360f92a3ae17a1",
+    "web": "ecdcb6fabbabb0dce771592ad9203d15fbca1ea0a78bcbdb45ff656c8bd38c26"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Hylephila phyleus [Hylephila phyleus] — Ken-ichi Ueda / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/2611412. Original attribution: (c) Ken-ichi Ueda, some rights reserved (CC BY), uploaded by Ken-ichi Ueda. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Hylephila phyleus",
+  "sourceId": "2611412",
+  "photoUrl": "https://www.inaturalist.org/photos/2611412",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2611412/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2611412/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Ken-ichi Ueda",
+  "originalAttribution": "(c) Ken-ichi Ueda, some rights reserved (CC BY), uploaded by Ken-ichi Ueda",
+  "taxonId": 50340,
+  "acceptedScientificName": "Hylephila phyleus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 11.95,
+  "photoApiEvidence": {
+    "id": 2611412,
+    "license_code": "cc-by",
+    "attribution": "(c) Ken-ichi Ueda, some rights reserved (CC BY), uploaded by Ken-ichi Ueda",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2611412/square.jpg",
+    "original_dimensions": {
+      "height": 1365,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Ken-ichi Ueda",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2611412/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2611412/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/hylephila-phyleus/inat-2611412.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/hylephila-phyleus--inat-2611412.json"
+}

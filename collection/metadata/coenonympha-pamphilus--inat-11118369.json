@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-11118369",
+  "targetId": "inat-taxon-52589",
+  "scientificName": "Coenonympha pamphilus",
+  "nameJa": "チャイロヒメヒカゲ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:24:40+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:24:40+00:00",
+  "files": {
+    "master": "images/coenonympha-pamphilus/inat-11118369.jpg",
+    "web": "images/coenonympha-pamphilus/inat-11118369.webp",
+    "thumbnail": "images/coenonympha-pamphilus/inat-11118369-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1906,
+      1890
+    ],
+    "master": [
+      1906,
+      1890
+    ],
+    "web": [
+      1400,
+      1388
+    ]
+  },
+  "bytes": {
+    "master": 867831,
+    "web": 155500,
+    "thumbnail": 5960
+  },
+  "sha256": {
+    "download": "f6b8c864b911976bd4fa2d8c134a2b31b5b6b4994d2be48782e3075cc1591907",
+    "master": "bf8b6a9fb497ef7c56644989921f30476fbd08e5af01f8bb5c19a992c791de08",
+    "web": "0bcb1e2d03efca02afc0ef1360eea19502c8f24090a6cc2248ef7778e81e0f89"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Coenonympha pamphilus [Coenonympha pamphilus] — Kostas Zontanos / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/11118369. Original attribution: (c) Kostas Zontanos, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Coenonympha pamphilus",
+  "sourceId": "11118369",
+  "photoUrl": "https://www.inaturalist.org/photos/11118369",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11118369/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11118369/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Kostas Zontanos",
+  "originalAttribution": "(c) Kostas Zontanos, some rights reserved (CC BY)",
+  "taxonId": 52589,
+  "acceptedScientificName": "Coenonympha pamphilus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/8364087",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.7,
+  "photoApiEvidence": {
+    "id": 11118369,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1906,
+      "height": 1890
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11118369/square.jpeg",
+    "attribution": "(c) Kostas Zontanos, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47157/47224/47922/58597/58598/202100/52590",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47157,47224,47922,58597,58598,202100,52590,52589",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 52589,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 52590,
+    "name": "Coenonympha pamphilus",
+    "rank": "species",
+    "extinct": false,
+    "id": 52589,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47157,
+      47224,
+      47922,
+      58597,
+      58598,
+      202100,
+      52590,
+      52589
+    ],
+    "created_at": "2009-08-11T21:54:07+00:00",
+    "default_photo": {
+      "id": 189092456,
+      "license_code": null,
+      "attribution": "(c) ruimvs, all rights reserved, uploaded by ruimvs",
+      "url": "https://static.inaturalist.org/photos/189092456/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "ruimvs",
+      "square_url": "https://static.inaturalist.org/photos/189092456/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/189092456/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 69465,
+    "photos_locked": false,
+    "universal_search_rank": 69465,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Small_heath_(butterfly)",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Small Heath"
+  },
+  "rawMetadataPath": "metadata/coenonympha-pamphilus/inat-11118369.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/coenonympha-pamphilus--inat-11118369.json"
+}

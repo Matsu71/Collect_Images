@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-73723498",
+  "targetId": "inat-taxon-83992",
+  "scientificName": "Betula pendula",
+  "nameJa": "オウシュウシラカンバ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:23:59+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:23:59+00:00",
+  "files": {
+    "master": "images/betula-pendula/inat-73723498.jpg",
+    "web": "images/betula-pendula/inat-73723498.webp",
+    "thumbnail": "images/betula-pendula/inat-73723498-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1590184,
+    "web": 444792,
+    "thumbnail": 37700
+  },
+  "sha256": {
+    "download": "2767bd18e6d816f3e0dc52659ca15b2e3d1e2173df85c3b0fe41ebb16a19e557",
+    "master": "c22c69c0c97909a44db54a007e34ae8a133af26d6c33ba90edf93e9445c95f77",
+    "web": "a3abd51007ea7cc936da7264ea1e7b5fb3abf51778eab8907d60963e92f5fe56"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Betula pendula [Betula pendula] — Нурхайдарова Татьяна / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/73723498. Original attribution: (c) Нурхайдарова Татьяна, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Betula pendula",
+  "sourceId": "73723498",
+  "photoUrl": "https://www.inaturalist.org/photos/73723498",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/73723498/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/73723498/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Нурхайдарова Татьяна",
+  "originalAttribution": "(c) Нурхайдарова Татьяна, some rights reserved (CC BY)",
+  "taxonId": 83992,
+  "acceptedScientificName": "Betula pendula",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/46481172",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.194285714285714,
+  "photoApiEvidence": {
+    "id": 73723498,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/73723498/square.jpg",
+    "attribution": "(c) Нурхайдарова Татьяна, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47853/49155/49156",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47853,49155,49156,83992",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 83992,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 49156,
+    "name": "Betula pendula",
+    "rank": "species",
+    "extinct": false,
+    "id": 83992,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47853,
+      49155,
+      49156,
+      83992
+    ],
+    "provisional": false,
+    "created_at": "2011-06-27T18:27:14+00:00",
+    "default_photo": {
+      "id": 36257611,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Полина Яковлевна Нехаева (Лихачева), some rights reserved (CC BY-NC), uploaded by Полина Яковлевна Нехаева (Лихачева)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/36257611/square.jpeg",
+      "original_dimensions": {
+        "height": 1067,
+        "width": 1600
+      },
+      "flags": [],
+      "attribution_name": "Полина Яковлевна Нехаева (Лихачева)",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/36257611/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/36257611/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 78302,
+    "photos_locked": false,
+    "universal_search_rank": 78302,
+    "flag_counts": {
+      "resolved": 4,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Betula_pendula",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "silver birch"
+  },
+  "rawMetadataPath": "metadata/betula-pendula/inat-73723498.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/betula-pendula--inat-73723498.json"
+}

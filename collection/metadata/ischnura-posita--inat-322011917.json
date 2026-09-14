@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-322011917",
+  "targetId": "inat-taxon-103498",
+  "scientificName": "Ischnura posita",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:28:32+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:28:32+00:00",
+  "files": {
+    "master": "images/ischnura-posita/inat-322011917.jpg",
+    "web": "images/ischnura-posita/inat-322011917.webp",
+    "thumbnail": "images/ischnura-posita/inat-322011917-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1638
+    ],
+    "master": [
+      2048,
+      1638
+    ],
+    "web": [
+      1400,
+      1120
+    ]
+  },
+  "bytes": {
+    "master": 474156,
+    "web": 44606,
+    "thumbnail": 4900
+  },
+  "sha256": {
+    "download": "1a440f1d791cdebf1b643ab7139efb75cab4a3b9ddb5b664e9e963851de2624c",
+    "master": "b16f7e52448fc24b2ae578dc53610eef0d5b3cc3b4a629047d99c5e26c0d4279",
+    "web": "e04b13a217b3ac09e9c5e8d466f5986f9e0cccad38d289de1789500cd8ea45ea"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Ischnura posita [Ischnura posita] — Zachary Dankowicz / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/322011917. Original attribution: (c) Zachary Dankowicz, some rights reserved (CC BY), uploaded by Zachary Dankowicz. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ischnura posita",
+  "sourceId": "322011917",
+  "photoUrl": "https://www.inaturalist.org/photos/322011917",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/322011917/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/322011917/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Zachary Dankowicz",
+  "originalAttribution": "(c) Zachary Dankowicz, some rights reserved (CC BY), uploaded by Zachary Dankowicz",
+  "taxonId": 103498,
+  "acceptedScientificName": "Ischnura posita",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.34,
+  "photoApiEvidence": {
+    "id": 322011917,
+    "license_code": "cc-by",
+    "attribution": "(c) Zachary Dankowicz, some rights reserved (CC BY), uploaded by Zachary Dankowicz",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/322011917/square.jpg",
+    "original_dimensions": {
+      "height": 1638,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Zachary Dankowicz",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/322011917/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/322011917/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/ischnura-posita/inat-322011917.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/ischnura-posita--inat-322011917.json"
+}

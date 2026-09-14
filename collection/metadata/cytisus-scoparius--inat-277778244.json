@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-277778244",
+  "targetId": "inat-taxon-48538",
+  "scientificName": "Cytisus scoparius",
+  "nameJa": "エニシダ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:22:47+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:22:47+00:00",
+  "files": {
+    "master": "images/cytisus-scoparius/inat-277778244.jpg",
+    "web": "images/cytisus-scoparius/inat-277778244.webp",
+    "thumbnail": "images/cytisus-scoparius/inat-277778244-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1542
+    ],
+    "master": [
+      2048,
+      1542
+    ],
+    "web": [
+      1400,
+      1054
+    ]
+  },
+  "bytes": {
+    "master": 405763,
+    "web": 87446,
+    "thumbnail": 12540
+  },
+  "sha256": {
+    "download": "0e43e9ac3d5e1f0213f2284cce167199720d29e22d8d74cf574e58b6c7b348b7",
+    "master": "859c25f7c2ccfee0637003592bb6a3075aa41452d9c32cd26238701536e6e576",
+    "web": "af212f313278773d77bbf95c3a4dd9dfc5404244405ee97e91f70d83ed1185d2"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Cytisus scoparius [Cytisus scoparius] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/277778244. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Cytisus scoparius",
+  "sourceId": "277778244",
+  "photoUrl": "https://www.inaturalist.org/photos/277778244",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277778244/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277778244/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 48538,
+  "acceptedScientificName": "Cytisus scoparius",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/160737234",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.536190476190476,
+  "photoApiEvidence": {
+    "id": 277778244,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1542
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/277778244/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47123/47122/507502/548591/48539",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47123,47122,507502,548591,48539,48538",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 48538,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 48539,
+    "name": "Cytisus scoparius",
+    "rank": "species",
+    "extinct": false,
+    "id": 48538,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47123,
+      47122,
+      507502,
+      548591,
+      48539,
+      48538
+    ],
+    "provisional": false,
+    "created_at": "2008-10-09T08:59:05+03:00",
+    "default_photo": {
+      "id": 70985676,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Ina Siebert, bazı hakları saklıdır (CC BY-NC), yükleyen: Ina Siebert",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70985676/square.jpg",
+      "original_dimensions": {
+        "height": 900,
+        "width": 1200
+      },
+      "flags": [],
+      "attribution_name": "Ina Siebert",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70985676/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70985676/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 5,
+    "observations_count": 75836,
+    "photos_locked": false,
+    "universal_search_rank": 75836,
+    "flag_counts": {
+      "resolved": 5,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cytisus_scoparius",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Scotch Broom"
+  },
+  "rawMetadataPath": "metadata/cytisus-scoparius/inat-277778244.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/cytisus-scoparius--inat-277778244.json"
+}

@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-64465661",
+  "targetId": "inat-taxon-84640",
+  "scientificName": "Polistes dominula",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:22:30+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:22:30+00:00",
+  "files": {
+    "master": "images/polistes-dominula/inat-64465661.jpg",
+    "web": "images/polistes-dominula/inat-64465661.webp",
+    "thumbnail": "images/polistes-dominula/inat-64465661-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1500,
+      1500
+    ],
+    "master": [
+      1500,
+      1500
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 250054,
+    "web": 84254,
+    "thumbnail": 6934
+  },
+  "sha256": {
+    "download": "5d3c273714f1baba66185974c50d3cd0efe2aa2c6c73629c18e719f174e1c653",
+    "master": "ddc41679c31b931e15b6fdca71661e846ee57f552c1dc22067abb5da4a8ed028",
+    "web": "2cc95de2c6c6d3c031122954955b8a038852f95bd1b232fc84556ae99f6af602"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Polistes dominula [Polistes dominula] — Bill Keim / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/64465661. Original attribution: (c) Bill Keim, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Polistes dominula",
+  "sourceId": "64465661",
+  "photoUrl": "https://www.inaturalist.org/photos/64465661",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/64465661/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/64465661/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Bill Keim",
+  "originalAttribution": "(c) Bill Keim, some rights reserved (CC BY)",
+  "taxonId": 84640,
+  "acceptedScientificName": "Polistes dominula",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 12.142857142857142,
+  "photoApiEvidence": {
+    "id": 64465661,
+    "license_code": "cc-by",
+    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64465661/square.jpg",
+    "original_dimensions": {
+      "height": 1500,
+      "width": 1500
+    },
+    "flags": [],
+    "attribution_name": "Bill Keim",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64465661/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64465661/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/polistes-dominula/inat-64465661.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/polistes-dominula--inat-64465661.json"
+}

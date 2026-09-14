@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-183888732",
+  "targetId": "inat-taxon-116461",
+  "scientificName": "Anolis sagrei",
+  "nameJa": "ブラウンアノール",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:22:05+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:22:05+00:00",
+  "files": {
+    "master": "images/anolis-sagrei/inat-183888732.jpg",
+    "web": "images/anolis-sagrei/inat-183888732.webp",
+    "thumbnail": "images/anolis-sagrei/inat-183888732-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1483,
+      1898
+    ],
+    "master": [
+      1483,
+      1898
+    ],
+    "web": [
+      1094,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 587995,
+    "web": 172374,
+    "thumbnail": 11216
+  },
+  "sha256": {
+    "download": "14725e634b11c613ad43bf71c910df00067b7042b61bc5fd12e165300a41a29e",
+    "master": "ad759fc31335733858aa7ab67968bde4df1484283ecc14dddefc354bfa94c467",
+    "web": "c8053971408a2c7635692ac323c7cdb7ee9a250f579cfa0f49f1a0978af49856"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Anolis sagrei [Anolis sagrei] — Lucy Keith-Diagne / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/183888732. Original attribution: (c) Lucy Keith-Diagne, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Anolis sagrei",
+  "sourceId": "183888732",
+  "photoUrl": "https://www.inaturalist.org/photos/183888732",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183888732/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183888732/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Lucy Keith-Diagne",
+  "originalAttribution": "(c) Lucy Keith-Diagne, some rights reserved (CC BY)",
+  "taxonId": 116461,
+  "acceptedScientificName": "Anolis sagrei",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": "https://www.inaturalist.org/observations/109138678",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.785238095238094,
+  "photoApiEvidence": {
+    "id": 183888732,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1483,
+      "height": 1898
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/183888732/square.jpeg",
+    "attribution": "(c) Lucy Keith-Diagne, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/26172/85552/1563907/1567779/200152/36362",
+    "min_species_ancestry": "48460,1,2,355675,26036,26172,85552,1563907,1567779,200152,36362,116461",
+    "endemic": false,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 116461,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 36362,
+    "name": "Anolis sagrei",
+    "rank": "species",
+    "extinct": false,
+    "id": 116461,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      26172,
+      85552,
+      1563907,
+      1567779,
+      200152,
+      36362,
+      116461
+    ],
+    "created_at": "2011-08-07T01:00:11+00:00",
+    "default_photo": {
+      "id": 22869683,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Jill Bazeley, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22869683/square.jpg",
+      "original_dimensions": {
+        "height": 1350,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Jill Bazeley",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22869683/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22869683/medium.jpg"
+    },
+    "taxon_changes_count": 3,
+    "taxon_schemes_count": 4,
+    "observations_count": 158100,
+    "photos_locked": false,
+    "universal_search_rank": 158100,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 765,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Brown_anole",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "Brown Anole"
+  },
+  "rawMetadataPath": "metadata/anolis-sagrei/inat-183888732.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/anolis-sagrei--inat-183888732.json"
+}

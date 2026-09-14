@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-17279347",
+  "targetId": "inat-taxon-39814",
+  "scientificName": "Terrapene carolina",
+  "nameJa": "カロリナハコガメ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:25:59+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:25:59+00:00",
+  "files": {
+    "master": "images/terrapene-carolina/inat-17279347.jpg",
+    "web": "images/terrapene-carolina/inat-17279347.webp",
+    "thumbnail": "images/terrapene-carolina/inat-17279347-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 726218,
+    "web": 186176,
+    "thumbnail": 20020
+  },
+  "sha256": {
+    "download": "fa3c1de71de9e429d127e4c2f72efdd1de9e98211c7d3fffbd1d9ec84c7695e0",
+    "master": "2b5e75da2ed48b299e148811e73f77cd85b8c7f019e603e57d082118bb1e8d4a",
+    "web": "2f04c3e6e86f78a61cd1f78b31c6ef7a7c4115b676c49f73566147e8b31ac1bf"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Terrapene carolina [Terrapene carolina] — Michael Ellis / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/17279347. Original attribution: (c) Michael Ellis, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Terrapene carolina",
+  "sourceId": "17279347",
+  "photoUrl": "https://www.inaturalist.org/photos/17279347",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/17279347/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/17279347/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Michael Ellis",
+  "originalAttribution": "(c) Michael Ellis, some rights reserved (CC BY)",
+  "taxonId": 39814,
+  "acceptedScientificName": "Terrapene carolina",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Reptilia",
+  "observationUrl": "https://www.inaturalist.org/observations/12051904",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.194285714285714,
+  "photoApiEvidence": {
+    "id": 17279347,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17279347/square.jpg",
+    "attribution": "(c) Michael Ellis, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/26036/39532/39760/797516/39806/39814",
+    "min_species_ancestry": "48460,1,2,355675,26036,39532,39760,797516,39806,39814",
+    "endemic": false,
+    "iconic_taxon_id": 26036,
+    "min_species_taxon_id": 39814,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": true,
+    "parent_id": 39814,
+    "name": "Terrapene carolina carolina",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 50001,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      26036,
+      39532,
+      39760,
+      797516,
+      39806,
+      39814,
+      50001
+    ],
+    "created_at": "2009-03-02T04:01:40+00:00",
+    "default_photo": {
+      "id": 18191877,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Ryan Jones, some rights reserved (CC BY-NC), uploaded by Ryan Jones",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18191877/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Ryan Jones",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18191877/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18191877/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 94090,
+    "photos_locked": false,
+    "universal_search_rank": 94090,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eastern_box_turtle",
+    "iconic_taxon_name": "Reptilia",
+    "preferred_common_name": "Eastern Box Turtle"
+  },
+  "rawMetadataPath": "metadata/terrapene-carolina/inat-17279347.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/terrapene-carolina--inat-17279347.json"
+}

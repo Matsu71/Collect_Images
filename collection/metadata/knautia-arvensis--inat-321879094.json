@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-321879094",
+  "targetId": "inat-taxon-129115",
+  "scientificName": "Knautia arvensis",
+  "nameJa": "クナウティア・アーベンシス",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:59+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:59+00:00",
+  "files": {
+    "master": "images/knautia-arvensis/inat-321879094.jpg",
+    "web": "images/knautia-arvensis/inat-321879094.webp",
+    "thumbnail": "images/knautia-arvensis/inat-321879094-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 454604,
+    "web": 98124,
+    "thumbnail": 10390
+  },
+  "sha256": {
+    "download": "1326b709040ca7c4a245f122784057e85f0c0589a8671f77e1e2adc85a9de58f",
+    "master": "25001a77faa3ddd966da0295b3d4b0fa302be17c4666aecea893c4d908608327",
+    "web": "8adc9317eccb0ce9c1c3920dfe04dbe475bf0d6b1c0dde45677d33522046dc94"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Knautia arvensis [Knautia arvensis] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/321879094. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Knautia arvensis",
+  "sourceId": "321879094",
+  "photoUrl": "https://www.inaturalist.org/photos/321879094",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/321879094/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/321879094/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 129115,
+  "acceptedScientificName": "Knautia arvensis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/184401128",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 321879094,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/321879094/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48526/48527/345608/129116/1657087",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48526,48527,345608,129116,1657087,129115",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 129115,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 1657087,
+    "name": "Knautia arvensis",
+    "rank": "species",
+    "extinct": false,
+    "id": 129115,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48526,
+      48527,
+      345608,
+      129116,
+      1657087,
+      129115
+    ],
+    "provisional": false,
+    "created_at": "2012-05-28T22:22:27+00:00",
+    "default_photo": {
+      "id": 252157733,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Stella Mielke, some rights reserved (CC BY-NC), uploaded by Stella Mielke",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/252157733/square.jpg",
+      "original_dimensions": {
+        "height": 1200,
+        "width": 1200
+      },
+      "flags": [],
+      "attribution_name": "Stella Mielke",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/252157733/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/252157733/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 3,
+    "observations_count": 59138,
+    "photos_locked": false,
+    "universal_search_rank": 59138,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Knautia_arvensis",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Field Scabious"
+  },
+  "rawMetadataPath": "metadata/knautia-arvensis/inat-321879094.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/knautia-arvensis--inat-321879094.json"
+}

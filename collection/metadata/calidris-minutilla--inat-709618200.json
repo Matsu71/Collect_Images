@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-709618200",
+  "targetId": "inat-taxon-3864",
+  "scientificName": "Calidris minutilla",
+  "nameJa": "アメリカヒバリシギ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:25:40+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:25:40+00:00",
+  "files": {
+    "master": "images/calidris-minutilla/inat-709618200.jpg",
+    "web": "images/calidris-minutilla/inat-709618200.webp",
+    "thumbnail": "images/calidris-minutilla/inat-709618200-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1784,
+      1792
+    ],
+    "master": [
+      1784,
+      1792
+    ],
+    "web": [
+      1394,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 552051,
+    "web": 158098,
+    "thumbnail": 10236
+  },
+  "sha256": {
+    "download": "234efd7be1f9a7909cd4b73e2873edeb1a2ad7a08e053b8caaa14bb19d4b461e",
+    "master": "5d2ef1e5c808966d70f1ac009d4452067a97c803e4759844993ed935dddf3430",
+    "web": "99b49c5c4e663b471ec81a2e3c659125d1cfa431b3d872b42021b6d20de162c0"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Calidris minutilla [Calidris minutilla] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/709618200. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Calidris minutilla",
+  "sourceId": "709618200",
+  "photoUrl": "https://www.inaturalist.org/photos/709618200",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/709618200/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/709618200/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 3864,
+  "acceptedScientificName": "Calidris minutilla",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/387517603",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.881904761904761,
+  "photoApiEvidence": {
+    "id": 709618200,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1784,
+      "height": 1792
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/709618200/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67561/3835/3836",
+    "min_species_ancestry": "48460,1,2,355675,3,67561,3835,3836,3864",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 3864,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 3836,
+    "name": "Calidris minutilla",
+    "rank": "species",
+    "extinct": false,
+    "id": 3864,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67561,
+      3835,
+      3836,
+      3864
+    ],
+    "created_at": "2008-03-13T02:43:43+00:00",
+    "default_photo": {
+      "id": 230314,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/230314/square.jpg",
+      "original_dimensions": {
+        "height": 1000,
+        "width": 1500
+      },
+      "flags": [],
+      "attribution_name": "Greg Lasley",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/230314/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/230314/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 70962,
+    "photos_locked": false,
+    "universal_search_rank": 70962,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Least_sandpiper",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Least Sandpiper",
+    "conservation_status": {
+      "id": 1132,
+      "place_id": null,
+      "source_id": 18766,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "nt",
+      "status_name": "near threatened",
+      "geoprivacy": null,
+      "iucn": 20
+    }
+  },
+  "rawMetadataPath": "metadata/calidris-minutilla/inat-709618200.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/calidris-minutilla--inat-709618200.json"
+}

@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-184431181",
+  "targetId": "inat-taxon-144047",
+  "scientificName": "Persicaria virginiana",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:30+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:30+00:00",
+  "files": {
+    "master": "images/persicaria-virginiana/inat-184431181.jpg",
+    "web": "images/persicaria-virginiana/inat-184431181.webp",
+    "thumbnail": "images/persicaria-virginiana/inat-184431181-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1023426,
+    "web": 212910,
+    "thumbnail": 38358
+  },
+  "sha256": {
+    "download": "7c2c9e0cac4b7bd31c100d4195bf9fd29536dc2e657f024f85f6f51e6a7d519b",
+    "master": "f6f406b0e31b82bdddca913e039e21b6a764c5f695f32858d664d44e9bdb2b23",
+    "web": "a3d6e7c634af4842bc32b1a4a43ea8e7b61657af1b0d2954911c2e41372b71e2"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Persicaria virginiana [Persicaria virginiana] — Fritzflohrreynolds / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/184431181. Original attribution: (c) Fritzflohrreynolds, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Persicaria virginiana",
+  "sourceId": "184431181",
+  "photoUrl": "https://www.inaturalist.org/photos/184431181",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/184431181/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/184431181/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Fritzflohrreynolds",
+  "originalAttribution": "(c) Fritzflohrreynolds, some rights reserved (CC BY-SA)",
+  "taxonId": 144047,
+  "acceptedScientificName": "Persicaria virginiana",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.194285714285714,
+  "photoApiEvidence": {
+    "id": 184431181,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Fritzflohrreynolds, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184431181/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Fritzflohrreynolds",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184431181/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184431181/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/persicaria-virginiana/inat-184431181.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY-SA 4.0",
+  "metadataPath": "collection/metadata/persicaria-virginiana--inat-184431181.json"
+}

@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-409571662",
+  "targetId": "inat-taxon-4937",
+  "scientificName": "Egretta caerulea",
+  "nameJa": "ヒメアカクロサギ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:26:41+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:26:41+00:00",
+  "files": {
+    "master": "images/egretta-caerulea/inat-409571662.jpg",
+    "web": "images/egretta-caerulea/inat-409571662.webp",
+    "thumbnail": "images/egretta-caerulea/inat-409571662-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 638239,
+    "web": 119432,
+    "thumbnail": 12334
+  },
+  "sha256": {
+    "download": "7db86097f10b20c6b8031c6c2bfdd8e0a057dcb38696ff242fefbf41fca65638",
+    "master": "d71d123d83083c60a5b262bbd4cd343b590aa2391d8c133eda58b3ce016574bb",
+    "web": "9eb9db67882822d04d6512e0db0f232b4830cefe03d48cb9d36c75d81e850178"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Egretta caerulea [Egretta caerulea] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/409571662. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Egretta caerulea",
+  "sourceId": "409571662",
+  "photoUrl": "https://www.inaturalist.org/photos/409571662",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/409571662/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/409571662/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 4937,
+  "acceptedScientificName": "Egretta caerulea",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/230652631",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.527619047619048,
+  "photoApiEvidence": {
+    "id": 409571662,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/409571662/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67566/4929/597395/4933",
+    "min_species_ancestry": "48460,1,2,355675,3,67566,4929,597395,4933,4937",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 4937,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 4933,
+    "name": "Egretta caerulea",
+    "rank": "species",
+    "extinct": false,
+    "id": 4937,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67566,
+      4929,
+      597395,
+      4933,
+      4937
+    ],
+    "created_at": "2008-03-13T02:46:49+00:00",
+    "default_photo": {
+      "id": 106796895,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) MARMAR, some rights reserved (CC BY-NC), uploaded by MARMAR",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/106796895/square.jpg",
+      "original_dimensions": {
+        "height": 1507,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "MARMAR",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/106796895/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/106796895/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 80595,
+    "photos_locked": false,
+    "universal_search_rank": 80595,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Little_blue_heron",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Little Blue Heron"
+  },
+  "rawMetadataPath": "metadata/egretta-caerulea/inat-409571662.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/egretta-caerulea--inat-409571662.json"
+}

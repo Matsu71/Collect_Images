@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-201598575",
+  "targetId": "inat-taxon-129020",
+  "scientificName": "Veronica officinalis",
+  "nameJa": "セイヨウグンバイヅル",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:24:25+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:24:25+00:00",
+  "files": {
+    "master": "images/veronica-officinalis/inat-201598575.jpg",
+    "web": "images/veronica-officinalis/inat-201598575.webp",
+    "thumbnail": "images/veronica-officinalis/inat-201598575-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 414838,
+    "web": 79656,
+    "thumbnail": 8648
+  },
+  "sha256": {
+    "download": "5b7d636069e696a420609034d1135c3e403af8d8c99f65a3b5b73d4ac7d27dac",
+    "master": "a6542852ce537f3514b8ce254368b5b7b59e9a9968f4c288141a20b2f9ed9d52",
+    "web": "677a378deb31a46eaaf7a90837fcbe65cc71adac5fb16dc219663ef8e11e0662"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Veronica officinalis [Veronica officinalis] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/201598575. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Veronica officinalis",
+  "sourceId": "201598575",
+  "photoUrl": "https://www.inaturalist.org/photos/201598575",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/201598575/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/201598575/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 129020,
+  "acceptedScientificName": "Veronica officinalis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/119277875",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.283333333333333,
+  "photoApiEvidence": {
+    "id": 201598575,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/201598575/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48151/50638/840955/51611/738395",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48151,50638,840955,51611,738395,129020",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 129020,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 738395,
+    "name": "Veronica officinalis",
+    "rank": "species",
+    "extinct": false,
+    "id": 129020,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48151,
+      50638,
+      840955,
+      51611,
+      738395,
+      129020
+    ],
+    "created_at": "2012-05-26T21:18:24+00:00",
+    "default_photo": {
+      "id": 3867971,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Jakob Fahr, some rights reserved (CC BY-NC), uploaded by Jakob Fahr",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3867971/square.JPG",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1602
+      },
+      "flags": [],
+      "attribution_name": "Jakob Fahr",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3867971/square.JPG",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3867971/medium.JPG"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 54532,
+    "photos_locked": false,
+    "universal_search_rank": 54532,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Veronica_officinalis",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "heath speedwell"
+  },
+  "rawMetadataPath": "metadata/veronica-officinalis/inat-201598575.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/veronica-officinalis--inat-201598575.json"
+}

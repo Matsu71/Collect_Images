@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-433087980",
+  "targetId": "inat-taxon-3892",
+  "scientificName": "Tringa melanoleuca",
+  "nameJa": "オオキアシシギ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:24:18+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:24:18+00:00",
+  "files": {
+    "master": "images/tringa-melanoleuca/inat-433087980.jpg",
+    "web": "images/tringa-melanoleuca/inat-433087980.webp",
+    "thumbnail": "images/tringa-melanoleuca/inat-433087980-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 615424,
+    "web": 187748,
+    "thumbnail": 14936
+  },
+  "sha256": {
+    "download": "6843f6f6d8e14ede95f9201c7c6229c4e76e01223b855a4856828c76b41c5645",
+    "master": "aa1be5cd9de07cdd210193a9cda3a7ea5013664795b7ba087681cf288f86c65b",
+    "web": "ea03b6494b07419c638626de934b7151dcfc08629964976e2d7589dfdea2b316"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Tringa melanoleuca [Tringa melanoleuca] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/433087980. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Tringa melanoleuca",
+  "sourceId": "433087980",
+  "photoUrl": "https://www.inaturalist.org/photos/433087980",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/433087980/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/433087980/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 3892,
+  "acceptedScientificName": "Tringa melanoleuca",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/242913276",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.616666666666667,
+  "photoApiEvidence": {
+    "id": 433087980,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/433087980/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67561/3835/3874",
+    "min_species_ancestry": "48460,1,2,355675,3,67561,3835,3874,3892",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 3892,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 3874,
+    "name": "Tringa melanoleuca",
+    "rank": "species",
+    "extinct": false,
+    "id": 3892,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67561,
+      3835,
+      3874,
+      3892
+    ],
+    "created_at": "2008-03-13T02:43:47+00:00",
+    "default_photo": {
+      "id": 312548110,
+      "license_code": null,
+      "attribution": "(c) Javier Chiavone, all rights reserved, uploaded by Javier Chiavone",
+      "url": "https://static.inaturalist.org/photos/312548110/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Javier Chiavone",
+      "square_url": "https://static.inaturalist.org/photos/312548110/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/312548110/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 75261,
+    "photos_locked": false,
+    "universal_search_rank": 75261,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Greater_yellowlegs",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Greater Yellowlegs",
+    "conservation_status": {
+      "id": 1147,
+      "place_id": null,
+      "source_id": 18766,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "nt",
+      "status_name": "near threatened",
+      "geoprivacy": null,
+      "iucn": 20
+    }
+  },
+  "rawMetadataPath": "metadata/tringa-melanoleuca/inat-433087980.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/tringa-melanoleuca--inat-433087980.json"
+}

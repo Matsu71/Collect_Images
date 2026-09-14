@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-481381176",
+  "targetId": "inat-taxon-129105",
+  "scientificName": "Asplenium scolopendrium",
+  "nameJa": "コタニワタリ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:22:17+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:22:17+00:00",
+  "files": {
+    "master": "images/asplenium-scolopendrium/inat-481381176.jpg",
+    "web": "images/asplenium-scolopendrium/inat-481381176.webp",
+    "thumbnail": "images/asplenium-scolopendrium/inat-481381176-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1629436,
+    "web": 343340,
+    "thumbnail": 19774
+  },
+  "sha256": {
+    "download": "2b88ac3f0b2b3eb3258703a585d8853375b82b052c11457ec0e08456f3717324",
+    "master": "a615321d3975bf0040bbed11ea88669b49065aa7d9f068c8be9bc9d2a76815ab",
+    "web": "5ece6495fd2faff150ddea8f74b69dcaba5b1ad7044b7274bf8b6a703248fdf4"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Asplenium scolopendrium [Asplenium scolopendrium] — Владимир Дворкин / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/481381176. Original attribution: (c) Владимир Дворкин, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Asplenium scolopendrium",
+  "sourceId": "481381176",
+  "photoUrl": "https://www.inaturalist.org/photos/481381176",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/481381176/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/481381176/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Владимир Дворкин",
+  "originalAttribution": "(c) Владимир Дворкин, some rights reserved (CC BY)",
+  "taxonId": 129105,
+  "acceptedScientificName": "Asplenium scolopendrium",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/267840706",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 481381176,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481381176/square.jpeg",
+    "attribution": "(c) Владимир Дворкин, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/121943/764796/47754/1224540/64662/71992/1369125/129105",
+    "min_species_ancestry": "48460,47126,211194,121943,764796,47754,1224540,64662,71992,1369125,129105",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 129105,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": true,
+    "parent_id": 129105,
+    "name": "Asplenium scolopendrium scolopendrium",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 156224,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      121943,
+      764796,
+      47754,
+      1224540,
+      64662,
+      71992,
+      1369125,
+      129105,
+      156224
+    ],
+    "created_at": "2012-10-21T22:17:54+00:00",
+    "default_photo": {
+      "id": 191671,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) HermannFalkner/sokol, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/191671/square.jpg",
+      "original_dimensions": {
+        "height": 834,
+        "width": 1250
+      },
+      "flags": [],
+      "attribution_name": "HermannFalkner/sokol",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/191671/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/191671/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 2,
+    "observations_count": 4240,
+    "photos_locked": false,
+    "universal_search_rank": 4240,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Asplenium_scolopendrium",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "European Hart's-tongue Fern"
+  },
+  "rawMetadataPath": "metadata/asplenium-scolopendrium/inat-481381176.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/asplenium-scolopendrium--inat-481381176.json"
+}

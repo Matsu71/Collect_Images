@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-137949795",
+  "targetId": "inat-taxon-50717",
+  "scientificName": "Epipactis helleborine",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:23:02+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:23:02+00:00",
+  "files": {
+    "master": "images/epipactis-helleborine/inat-137949795.jpg",
+    "web": "images/epipactis-helleborine/inat-137949795.webp",
+    "thumbnail": "images/epipactis-helleborine/inat-137949795-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1537,
+      2048
+    ],
+    "master": [
+      1537,
+      2048
+    ],
+    "web": [
+      1051,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1454182,
+    "web": 362950,
+    "thumbnail": 25274
+  },
+  "sha256": {
+    "download": "8afff6abfcd4eecd631b69d6aec1109072c89359dcf1ba8cffaa11c1891358bd",
+    "master": "f93cc59f863aa3f8bcc013f22b66d163268e30d7a006e60773f1f4fd8f105cd9",
+    "web": "625bb1a687fc5e9f5b8d68780992d739a674f2e82dbf9999b61a6fca0361c85c"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Epipactis helleborine [Epipactis helleborine] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/137949795. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Epipactis helleborine",
+  "sourceId": "137949795",
+  "photoUrl": "https://www.inaturalist.org/photos/137949795",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/137949795/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/137949795/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 50717,
+  "acceptedScientificName": "Epipactis helleborine",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/83963845",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.529047619047619,
+  "photoApiEvidence": {
+    "id": 137949795,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1537,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137949795/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47163/47218/47217/738346/790406/790407/50716/1153255/1153261",
+    "min_species_ancestry": "48460,47126,211194,47125,47163,47218,47217,738346,790406,790407,50716,1153255,1153261,50717",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 50717,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1153261,
+    "name": "Epipactis helleborine",
+    "rank": "species",
+    "extinct": false,
+    "id": 50717,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47163,
+      47218,
+      47217,
+      738346,
+      790406,
+      790407,
+      50716,
+      1153255,
+      1153261,
+      50717
+    ],
+    "created_at": "2009-03-26T06:37:01+00:00",
+    "default_photo": {
+      "id": 70711190,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Wolfgang Bettighofer, some rights reserved (CC BY-NC), uploaded by Wolfgang Bettighofer",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70711190/square.jpg",
+      "original_dimensions": {
+        "height": 1600,
+        "width": 1198
+      },
+      "flags": [],
+      "attribution_name": "Wolfgang Bettighofer",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70711190/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70711190/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 4,
+    "observations_count": 81893,
+    "photos_locked": false,
+    "universal_search_rank": 81893,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Epipactis_helleborine",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Broad-leaved helleborine"
+  },
+  "rawMetadataPath": "metadata/epipactis-helleborine/inat-137949795.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/epipactis-helleborine--inat-137949795.json"
+}

@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-252786276",
+  "targetId": "inat-taxon-78882",
+  "scientificName": "Rosa multiflora",
+  "nameJa": "ノイバラ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:19:38+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:19:38+00:00",
+  "files": {
+    "master": "images/rosa-multiflora/inat-252786276.jpg",
+    "web": "images/rosa-multiflora/inat-252786276.webp",
+    "thumbnail": "images/rosa-multiflora/inat-252786276-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1371
+    ],
+    "master": [
+      2048,
+      1371
+    ],
+    "web": [
+      1400,
+      937
+    ]
+  },
+  "bytes": {
+    "master": 621548,
+    "web": 130754,
+    "thumbnail": 12492
+  },
+  "sha256": {
+    "download": "4ba487aad8a7ba6963e715134030aa486ccb50173f1960add5b747dcff3d9285",
+    "master": "c157ef15dbaf1d8bf7ec19529b569529cc4b1d7efd7c7fe723195d00ec0c4297",
+    "web": "d75fa1178b5dfc6afa4dee572d7afcf6c11e8f003bf12600834bb3727a58d761"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Rosa multiflora [Rosa multiflora] — Douglas Goldman / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/252786276. Original attribution: (c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Rosa multiflora",
+  "sourceId": "252786276",
+  "photoUrl": "https://www.inaturalist.org/photos/252786276",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/252786276/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/252786276/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Douglas Goldman",
+  "originalAttribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+  "taxonId": 78882,
+  "acceptedScientificName": "Rosa multiflora",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 9.958571428571428,
+  "photoApiEvidence": {
+    "id": 252786276,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/252786276/square.jpg",
+    "original_dimensions": {
+      "height": 1371,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Douglas Goldman",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/252786276/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/252786276/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/rosa-multiflora/inat-252786276.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY-SA 4.0",
+  "metadataPath": "collection/metadata/rosa-multiflora--inat-252786276.json"
+}

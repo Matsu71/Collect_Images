@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-189057259",
+  "targetId": "inat-taxon-46001",
+  "scientificName": "Sciurus vulgaris",
+  "nameJa": "キタリス",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:59+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:59+00:00",
+  "files": {
+    "master": "images/sciurus-vulgaris/inat-189057259.jpg",
+    "web": "images/sciurus-vulgaris/inat-189057259.webp",
+    "thumbnail": "images/sciurus-vulgaris/inat-189057259-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1613,
+      2048
+    ],
+    "master": [
+      1613,
+      2048
+    ],
+    "web": [
+      1103,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 693369,
+    "web": 174604,
+    "thumbnail": 15800
+  },
+  "sha256": {
+    "download": "141821cfbeca18db1d3a6ce73dfdcf41b35e95c6b8d878f306e53594ef690ee4",
+    "master": "7d660ef4fb71e58110c4f5fde1b32d8653536194f7f0583bf08c36b0d9fcc539",
+    "web": "61061c43139078a693a78eaccbc9e9d67095f28777bd12cabf1c875073183a98"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Sciurus vulgaris [Sciurus vulgaris] — carnifex / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/189057259. Original attribution: (c) carnifex, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Sciurus vulgaris",
+  "sourceId": "189057259",
+  "photoUrl": "https://www.inaturalist.org/photos/189057259",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/189057259/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/189057259/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "carnifex",
+  "originalAttribution": "(c) carnifex, some rights reserved (CC BY)",
+  "taxonId": 46001,
+  "acceptedScientificName": "Sciurus vulgaris",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/111954567",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.637619047619047,
+  "photoApiEvidence": {
+    "id": 189057259,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1613,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/189057259/square.jpeg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43698/129411/45933/332614/339575/45994/1431495",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43698,129411,45933,332614,339575,45994,1431495,46001",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 46001,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1431495,
+    "name": "Sciurus vulgaris",
+    "rank": "species",
+    "extinct": false,
+    "id": 46001,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43698,
+      129411,
+      45933,
+      332614,
+      339575,
+      45994,
+      1431495,
+      46001
+    ],
+    "created_at": "2008-03-19T01:25:40+00:00",
+    "default_photo": {
+      "id": 6235808,
+      "license_code": null,
+      "attribution": "(c) guido parmeggiani, all rights reserved, uploaded by guido parmeggiani",
+      "url": "https://static.inaturalist.org/photos/6235808/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "guido parmeggiani",
+      "square_url": "https://static.inaturalist.org/photos/6235808/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/6235808/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 4,
+    "observations_count": 94385,
+    "photos_locked": false,
+    "universal_search_rank": 94385,
+    "flag_counts": {
+      "resolved": 4,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 3771,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red_squirrel",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Eurasian Red Squirrel"
+  },
+  "rawMetadataPath": "metadata/sciurus-vulgaris/inat-189057259.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/sciurus-vulgaris--inat-189057259.json"
+}

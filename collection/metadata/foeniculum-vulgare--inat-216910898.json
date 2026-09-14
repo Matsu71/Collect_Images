@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-216910898",
+  "targetId": "inat-taxon-53052",
+  "scientificName": "Foeniculum vulgare",
+  "nameJa": "ウイキョウ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:49+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:49+00:00",
+  "files": {
+    "master": "images/foeniculum-vulgare/inat-216910898.jpg",
+    "web": "images/foeniculum-vulgare/inat-216910898.webp",
+    "thumbnail": "images/foeniculum-vulgare/inat-216910898-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 677967,
+    "web": 176936,
+    "thumbnail": 19920
+  },
+  "sha256": {
+    "download": "aefce96f8d413f73f6dceb3e988079af5bfcfc87541392f821f7a6ccefa9d1b9",
+    "master": "ce2cde9d4672eb6fe005f968268fe6605a0fb2d09acc1132d35fefe09569b0f3",
+    "web": "ccb4bd2a2b0377a179c11c83dc3b9792a74135d691e666124a8b74c90c110eec"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Foeniculum vulgare [Foeniculum vulgare] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/216910898. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Foeniculum vulgare",
+  "sourceId": "216910898",
+  "photoUrl": "https://www.inaturalist.org/photos/216910898",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/216910898/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/216910898/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 53052,
+  "acceptedScientificName": "Foeniculum vulgare",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/127748017",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 216910898,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216910898/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48700/48699/790553/790576/53053",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48700,48699,790553,790576,53053,53052",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 53052,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 53053,
+    "name": "Foeniculum vulgare",
+    "rank": "species",
+    "extinct": false,
+    "id": 53052,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48700,
+      48699,
+      790553,
+      790576,
+      53053,
+      53052
+    ],
+    "created_at": "2009-09-12T22:39:46+00:00",
+    "default_photo": {
+      "id": 50868492,
+      "license_code": null,
+      "attribution": "(c) Allie Schiltmeyer, all rights reserved, uploaded by Allie Schiltmeyer",
+      "url": "https://static.inaturalist.org/photos/50868492/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "Allie Schiltmeyer",
+      "square_url": "https://static.inaturalist.org/photos/50868492/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/50868492/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 7,
+    "observations_count": 58960,
+    "photos_locked": false,
+    "universal_search_rank": 58960,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 1
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Fennel",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "fennel"
+  },
+  "rawMetadataPath": "metadata/foeniculum-vulgare/inat-216910898.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/foeniculum-vulgare--inat-216910898.json"
+}

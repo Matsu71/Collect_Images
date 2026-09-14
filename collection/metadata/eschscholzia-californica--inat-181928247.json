@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-181928247",
+  "targetId": "inat-taxon-48225",
+  "scientificName": "Eschscholzia californica",
+  "nameJa": "ハナビシソウ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:22:24+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:22:24+00:00",
+  "files": {
+    "master": "images/eschscholzia-californica/inat-181928247.jpg",
+    "web": "images/eschscholzia-californica/inat-181928247.webp",
+    "thumbnail": "images/eschscholzia-californica/inat-181928247-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 831426,
+    "web": 189760,
+    "thumbnail": 16174
+  },
+  "sha256": {
+    "download": "df2646698ddb72a536a75c2dae3dbf9fe5f37ae79224a9eca03444a3311f78d0",
+    "master": "45797e32514366f3ee0a6b55d02f673391aed62b9de99fa93880c2abcfb545a7",
+    "web": "a6b58b352d00341eeeb9ccf0e02a6c83882ddb573c3e8b27d6410fb48b7c0501"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Eschscholzia californica [Eschscholzia californica] — Annette Herz / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/181928247. Original attribution: (c) Annette Herz, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Eschscholzia californica",
+  "sourceId": "181928247",
+  "photoUrl": "https://www.inaturalist.org/photos/181928247",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/181928247/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/181928247/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Annette Herz",
+  "originalAttribution": "(c) Annette Herz, some rights reserved (CC BY)",
+  "taxonId": 48225,
+  "acceptedScientificName": "Eschscholzia californica",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/108094155",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 181928247,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/181928247/square.jpg",
+    "attribution": "(c) Annette Herz, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48232/47332/889631/1453810/48226",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48232,47332,889631,1453810,48226,48225",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 48225,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 48226,
+    "name": "Eschscholzia californica",
+    "rank": "species",
+    "extinct": false,
+    "id": 48225,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48232,
+      47332,
+      889631,
+      1453810,
+      48226,
+      48225
+    ],
+    "created_at": "2008-08-28T22:25:52+00:00",
+    "default_photo": {
+      "id": 67227218,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) pronghornranch67, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67227218/square.jpg",
+      "original_dimensions": {
+        "height": 1921,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "pronghornranch67",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67227218/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67227218/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 106467,
+    "photos_locked": false,
+    "universal_search_rank": 106467,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eschscholzia_californica",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "California poppy"
+  },
+  "rawMetadataPath": "metadata/eschscholzia-californica/inat-181928247.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/eschscholzia-californica--inat-181928247.json"
+}

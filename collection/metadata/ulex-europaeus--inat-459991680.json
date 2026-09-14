@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-459991680",
+  "targetId": "inat-taxon-51751",
+  "scientificName": "Ulex europaeus",
+  "nameJa": "ハリエニシダ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:22:34+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:22:34+00:00",
+  "files": {
+    "master": "images/ulex-europaeus/inat-459991680.jpg",
+    "web": "images/ulex-europaeus/inat-459991680.webp",
+    "thumbnail": "images/ulex-europaeus/inat-459991680-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1259606,
+    "web": 252654,
+    "thumbnail": 36574
+  },
+  "sha256": {
+    "download": "8013f1f3ccb603fe847933fce42c350cfd6a35db3459e4a223aae27c250a559f",
+    "master": "f7de5b96358b175b01386d65b3276942aa516754193562112da27327f4712dc2",
+    "web": "d506cbcf49bd1c8945efa60698e3730016089f1c50e7f89f9d54fecabc5eb929"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Ulex europaeus [Ulex europaeus] — lejones417 / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/459991680. Original attribution: (c) lejones417, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Ulex europaeus",
+  "sourceId": "459991680",
+  "photoUrl": "https://www.inaturalist.org/photos/459991680",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/459991680/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/459991680/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "lejones417",
+  "originalAttribution": "(c) lejones417, some rights reserved (CC BY-SA)",
+  "taxonId": 51751,
+  "acceptedScientificName": "Ulex europaeus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.194285714285714,
+  "photoApiEvidence": {
+    "id": 459991680,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) lejones417, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459991680/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "lejones417",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459991680/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459991680/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/ulex-europaeus/inat-459991680.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY-SA 4.0",
+  "metadataPath": "collection/metadata/ulex-europaeus--inat-459991680.json"
+}

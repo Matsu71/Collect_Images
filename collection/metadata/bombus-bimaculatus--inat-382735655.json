@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-382735655",
+  "targetId": "inat-taxon-52779",
+  "scientificName": "Bombus bimaculatus",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:53+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:53+00:00",
+  "files": {
+    "master": "images/bombus-bimaculatus/inat-382735655.jpg",
+    "web": "images/bombus-bimaculatus/inat-382735655.webp",
+    "thumbnail": "images/bombus-bimaculatus/inat-382735655-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1601,
+      2048
+    ],
+    "master": [
+      1601,
+      2048
+    ],
+    "web": [
+      1094,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 526269,
+    "web": 117726,
+    "thumbnail": 7960
+  },
+  "sha256": {
+    "download": "8fde54bc7fa1d0a899693d174f1d4b2023b771f5b6bcc6f81b14ff2a0cc9f9d2",
+    "master": "2b775931441df2bbaa58c2c4dbb50a2c319bab4b1af57146eadbb95716cc06b0",
+    "web": "a2fcf0d41e7caea75979443bb82a2830e7470e91028089fe32528ded32bb523d"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Bombus bimaculatus [Bombus bimaculatus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/382735655. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Bombus bimaculatus",
+  "sourceId": "382735655",
+  "photoUrl": "https://www.inaturalist.org/photos/382735655",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/382735655/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/382735655/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 52779,
+  "acceptedScientificName": "Bombus bimaculatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/216414159",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.953809523809524,
+  "photoApiEvidence": {
+    "id": 382735655,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1601,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/382735655/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47201/124417/326777/47222/630955/47221/199939/538883/52775/538900",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47201,124417,326777,47222,630955,47221,199939,538883,52775,538900,52779",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 52779,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 538900,
+    "name": "Bombus bimaculatus",
+    "rank": "species",
+    "extinct": false,
+    "id": 52779,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47201,
+      124417,
+      326777,
+      47222,
+      630955,
+      47221,
+      199939,
+      538883,
+      52775,
+      538900,
+      52779
+    ],
+    "created_at": "2009-08-25T13:58:28+00:00",
+    "default_photo": {
+      "id": 141716331,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) larrytip, some rights reserved (CC BY-NC), uploaded by larrytip",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141716331/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1638
+      },
+      "flags": [],
+      "attribution_name": "larrytip",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141716331/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141716331/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 3,
+    "observations_count": 81353,
+    "photos_locked": false,
+    "universal_search_rank": 81353,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Two-spotted_bumble_bee",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Two-spotted Bumble Bee"
+  },
+  "rawMetadataPath": "metadata/bombus-bimaculatus/inat-382735655.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/bombus-bimaculatus--inat-382735655.json"
+}

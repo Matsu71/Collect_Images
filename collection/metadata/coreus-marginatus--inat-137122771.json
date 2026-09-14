@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-137122771",
+  "targetId": "inat-taxon-318545",
+  "scientificName": "Coreus marginatus",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:23:42+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:23:42+00:00",
+  "files": {
+    "master": "images/coreus-marginatus/inat-137122771.jpg",
+    "web": "images/coreus-marginatus/inat-137122771.webp",
+    "thumbnail": "images/coreus-marginatus/inat-137122771-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2047
+    ],
+    "master": [
+      2048,
+      2047
+    ],
+    "web": [
+      1400,
+      1399
+    ]
+  },
+  "bytes": {
+    "master": 794734,
+    "web": 190356,
+    "thumbnail": 17038
+  },
+  "sha256": {
+    "download": "b9d00b3206ec5d238c0c0add8712e8a19908127dbbe6d7447d306c8f1af057ba",
+    "master": "5fb1976d40cd5344dc597f61eeeeb363cfeb7a11f982fc228ddfe2c099303ae0",
+    "web": "4781506b98e7199724baa7c634617dc426e6c66b2f7bf652dd381553598ed8a6"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Coreus marginatus [Coreus marginatus] — Barry Walter / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/137122771. Original attribution: (c) Barry Walter, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Coreus marginatus",
+  "sourceId": "137122771",
+  "photoUrl": "https://www.inaturalist.org/photos/137122771",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/137122771/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/137122771/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Barry Walter",
+  "originalAttribution": "(c) Barry Walter, some rights reserved (CC BY)",
+  "taxonId": 318545,
+  "acceptedScientificName": "Coreus marginatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/83486882",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.257619047619047,
+  "photoApiEvidence": {
+    "id": 137122771,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2047
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137122771/square.jpg",
+    "attribution": "(c) Barry Walter, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47744/61267/372868/51776/51777/319231/510322/318567",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47744,61267,372868,51776,51777,319231,510322,318567,318545",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 318545,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 318567,
+    "name": "Coreus marginatus",
+    "rank": "species",
+    "extinct": false,
+    "id": 318545,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47744,
+      61267,
+      372868,
+      51776,
+      51777,
+      319231,
+      510322,
+      318567,
+      318545
+    ],
+    "provisional": false,
+    "created_at": "2013-05-08T16:25:57+00:00",
+    "default_photo": {
+      "id": 321598,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Walwyn, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/321598/square.jpg",
+      "original_dimensions": {
+        "height": 800,
+        "width": 1200
+      },
+      "flags": [],
+      "attribution_name": "Walwyn",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/321598/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/321598/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 1,
+    "observations_count": 61885,
+    "photos_locked": false,
+    "universal_search_rank": 61885,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Coreus_marginatus",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Dock Bug"
+  },
+  "rawMetadataPath": "metadata/coreus-marginatus/inat-137122771.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/coreus-marginatus--inat-137122771.json"
+}

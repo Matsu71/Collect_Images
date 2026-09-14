@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-177964678",
+  "targetId": "inat-taxon-49658",
+  "scientificName": "Liquidambar styraciflua",
+  "nameJa": "モミジバフウ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:24:19+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:24:19+00:00",
+  "files": {
+    "master": "images/liquidambar-styraciflua/inat-177964678.jpg",
+    "web": "images/liquidambar-styraciflua/inat-177964678.webp",
+    "thumbnail": "images/liquidambar-styraciflua/inat-177964678-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2022
+    ],
+    "master": [
+      2048,
+      2022
+    ],
+    "web": [
+      1400,
+      1382
+    ]
+  },
+  "bytes": {
+    "master": 1223662,
+    "web": 265806,
+    "thumbnail": 18334
+  },
+  "sha256": {
+    "download": "6c930bb2a13a7675f6359d13e30c798c68cc4778d348de1b660eb00802c01950",
+    "master": "18b496c74d5b2c83e559dfe0bd815a40d3decc7c5b328fd3aa681cfcf687777c",
+    "web": "1134df1d429b9831ee7244c323020a5ab4fee2618c2f5b2b1404fafc918f44d5"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Liquidambar styraciflua [Liquidambar styraciflua] — Sandy Wolkenberg / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/177964678. Original attribution: (c) Sandy Wolkenberg, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Liquidambar styraciflua",
+  "sourceId": "177964678",
+  "photoUrl": "https://www.inaturalist.org/photos/177964678",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/177964678/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/177964678/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Sandy Wolkenberg",
+  "originalAttribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY)",
+  "taxonId": 49658,
+  "acceptedScientificName": "Liquidambar styraciflua",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/105991748",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.888571428571429,
+  "photoApiEvidence": {
+    "id": 177964678,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2022
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177964678/square.jpg",
+    "attribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/71289/71434/49661",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,71289,71434,49661,49658",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 49658,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 49661,
+    "name": "Liquidambar styraciflua",
+    "rank": "species",
+    "extinct": false,
+    "id": 49658,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      71289,
+      71434,
+      49661,
+      49658
+    ],
+    "provisional": false,
+    "created_at": "2009-02-15T19:42:29+02:00",
+    "default_photo": {
+      "id": 239888168,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Randy Puckett, bazı hakları saklıdır (CC BY-NC), yükleyen: Randy Puckett",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/239888168/square.jpeg",
+      "original_dimensions": {
+        "height": 1308,
+        "width": 1356
+      },
+      "flags": [],
+      "attribution_name": "Randy Puckett",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/239888168/square.jpeg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/239888168/medium.jpeg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 9,
+    "observations_count": 116726,
+    "photos_locked": false,
+    "universal_search_rank": 116726,
+    "flag_counts": {
+      "resolved": 4,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Liquidambar_styraciflua",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "American sweetgum"
+  },
+  "rawMetadataPath": "metadata/liquidambar-styraciflua/inat-177964678.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/liquidambar-styraciflua--inat-177964678.json"
+}

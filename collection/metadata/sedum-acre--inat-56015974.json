@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-56015974",
+  "targetId": "inat-taxon-55734",
+  "scientificName": "Sedum acre",
+  "nameJa": "オウシュウマンネングサ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:25:54+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:25:54+00:00",
+  "files": {
+    "master": "images/sedum-acre/inat-56015974.jpg",
+    "web": "images/sedum-acre/inat-56015974.webp",
+    "thumbnail": "images/sedum-acre/inat-56015974-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 704448,
+    "web": 169874,
+    "thumbnail": 19660
+  },
+  "sha256": {
+    "download": "b5f860e10132873a3233fd3347705a708356dda8eb2a5823cc8b1b629464bc75",
+    "master": "3ec3dc1412eb1f769d6b7fb7a65ad6ffe78c6ddb2bddb170175e98cfc127545b",
+    "web": "1153c74347c3bd256260f5d2ab120c1f8fbde86367d8b35fc260bb59b71ee12f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Sedum acre [Sedum acre] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/56015974. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Sedum acre",
+  "sourceId": "56015974",
+  "photoUrl": "https://www.inaturalist.org/photos/56015974",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/56015974/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/56015974/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 55734,
+  "acceptedScientificName": "Sedum acre",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/35519358",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 56015974,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56015974/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/71289/51890/889256/1092926/55735/1447328",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,71289,51890,889256,1092926,55735,1447328,55734",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 55734,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1447328,
+    "name": "Sedum acre",
+    "rank": "species",
+    "extinct": false,
+    "id": 55734,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      71289,
+      51890,
+      889256,
+      1092926,
+      55735,
+      1447328,
+      55734
+    ],
+    "provisional": false,
+    "created_at": "2010-02-09T20:17:55+00:00",
+    "default_photo": {
+      "id": 80435797,
+      "license_code": null,
+      "attribution": "(c) Roman Yumshanov, all rights reserved, uploaded by Roman Yumshanov",
+      "url": "https://static.inaturalist.org/photos/80435797/square.jpeg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Roman Yumshanov",
+      "square_url": "https://static.inaturalist.org/photos/80435797/square.jpeg",
+      "medium_url": "https://static.inaturalist.org/photos/80435797/medium.jpeg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 48672,
+    "photos_locked": false,
+    "universal_search_rank": 48672,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Sedum_acre",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Biting Stonecrop"
+  },
+  "rawMetadataPath": "metadata/sedum-acre/inat-56015974.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/sedum-acre--inat-56015974.json"
+}

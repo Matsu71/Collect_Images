@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-258244756",
+  "targetId": "inat-taxon-61532",
+  "scientificName": "Propylea quatuordecimpunctata",
+  "nameJa": "コカメノコテントウ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:24:11+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:24:11+00:00",
+  "files": {
+    "master": "images/propylea-quatuordecimpunctata/inat-258244756.jpg",
+    "web": "images/propylea-quatuordecimpunctata/inat-258244756.webp",
+    "thumbnail": "images/propylea-quatuordecimpunctata/inat-258244756-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1148,
+      763
+    ],
+    "master": [
+      1148,
+      763
+    ],
+    "web": [
+      1148,
+      763
+    ]
+  },
+  "bytes": {
+    "master": 147926,
+    "web": 53018,
+    "thumbnail": 7814
+  },
+  "sha256": {
+    "download": "1c9af08441369df3462ade5295840701d40fc1f2144a8d93c67824cb35e695ae",
+    "master": "3032aee6e0b5ef278f22355eb8b4670a88925e917453e7369fccd29d520cda06",
+    "web": "243bd9742f8853f51a1d3fc27b460bcb0fb83cc8d5e1c4749cf0902c91b7b37d"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Propylea quatuordecimpunctata [Propylea quatuordecimpunctata] — Dimitǎr Boevski / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/258244756. Original attribution: (c) Dimitǎr Boevski, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Propylea quatuordecimpunctata",
+  "sourceId": "258244756",
+  "photoUrl": "https://www.inaturalist.org/photos/258244756",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/258244756/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/258244756/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Dimitǎr Boevski",
+  "originalAttribution": "(c) Dimitǎr Boevski, some rights reserved (CC BY)",
+  "taxonId": 61532,
+  "acceptedScientificName": "Propylea quatuordecimpunctata",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/149831011",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.09,
+  "photoApiEvidence": {
+    "id": 258244756,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1148,
+      "height": 763
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/258244756/square.jpeg",
+    "attribution": "(c) Dimitǎr Boevski, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47208/71130/372852/471714/48486/333790/333796/61533",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47208,71130,372852,471714,48486,333790,333796,61533,61532",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 61532,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 61533,
+    "name": "Propylea quatuordecimpunctata",
+    "rank": "species",
+    "extinct": false,
+    "id": 61532,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47208,
+      71130,
+      372852,
+      471714,
+      48486,
+      333790,
+      333796,
+      61533,
+      61532
+    ],
+    "created_at": "2010-06-03T15:02:03+00:00",
+    "default_photo": {
+      "id": 2723241,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Jason M Crockwell, some rights reserved (CC BY-NC-ND), uploaded by Jason M Crockwell",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2723241/square.JPG",
+      "original_dimensions": {
+        "height": 977,
+        "width": 1302
+      },
+      "flags": [],
+      "attribution_name": "Jason M Crockwell",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2723241/square.JPG",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2723241/medium.JPG"
+    },
+    "taxon_changes_count": 3,
+    "taxon_schemes_count": 1,
+    "observations_count": 52034,
+    "photos_locked": false,
+    "universal_search_rank": 52034,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Propylea_quatuordecimpunctata",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Fourteen-spotted Lady Beetle"
+  },
+  "rawMetadataPath": "metadata/propylea-quatuordecimpunctata/inat-258244756.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/propylea-quatuordecimpunctata--inat-258244756.json"
+}

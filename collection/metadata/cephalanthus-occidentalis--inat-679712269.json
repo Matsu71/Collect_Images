@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-679712269",
+  "targetId": "inat-taxon-52763",
+  "scientificName": "Cephalanthus occidentalis",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:36+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:36+00:00",
+  "files": {
+    "master": "images/cephalanthus-occidentalis/inat-679712269.jpg",
+    "web": "images/cephalanthus-occidentalis/inat-679712269.webp",
+    "thumbnail": "images/cephalanthus-occidentalis/inat-679712269-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1280,
+      960
+    ],
+    "master": [
+      1280,
+      960
+    ],
+    "web": [
+      1280,
+      960
+    ]
+  },
+  "bytes": {
+    "master": 192927,
+    "web": 78374,
+    "thumbnail": 10260
+  },
+  "sha256": {
+    "download": "7dc86e89d17daaf61f99541f7d61430a94fe1c1ab88cb1cf3f17353a08e4a3ec",
+    "master": "ce27eb2b52dde7993decf800318fca077ce86cb4bce6f088889678062ec13772",
+    "web": "362b4996f3a6dca12fbb5edfed17c27c6749b65dd24dda594e841cb4c6cad82d"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Cephalanthus occidentalis [Cephalanthus occidentalis] — Michael J. Papay / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/679712269. Original attribution: (c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Cephalanthus occidentalis",
+  "sourceId": "679712269",
+  "photoUrl": "https://www.inaturalist.org/photos/679712269",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/679712269/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/679712269/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Michael J. Papay",
+  "originalAttribution": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+  "taxonId": 52763,
+  "acceptedScientificName": "Cephalanthus occidentalis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 11.371428571428572,
+  "photoApiEvidence": {
+    "id": 679712269,
+    "license_code": "cc-by",
+    "attribution": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/679712269/square.jpg",
+    "original_dimensions": {
+      "height": 960,
+      "width": 1280
+    },
+    "flags": [],
+    "attribution_name": "Michael J. Papay",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/679712269/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/679712269/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/cephalanthus-occidentalis/inat-679712269.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/cephalanthus-occidentalis--inat-679712269.json"
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-545571882",
+  "targetId": "inat-taxon-167829",
+  "scientificName": "Rhus typhina",
+  "nameJa": "ルス・ティフィナ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:24:26+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:24:26+00:00",
+  "files": {
+    "master": "images/rhus-typhina/inat-545571882.jpg",
+    "web": "images/rhus-typhina/inat-545571882.webp",
+    "thumbnail": "images/rhus-typhina/inat-545571882-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1619410,
+    "web": 449982,
+    "thumbnail": 39130
+  },
+  "sha256": {
+    "download": "d028cc6db103627d1f78cc2f67a4201fc0e29e9bde2303912fa80d4e741705ce",
+    "master": "f977d979398d9c04eec2b78be5e21a25616c32534b1697986aaabe0181e2760a",
+    "web": "8ad8f390ebbec0482a94c8dd8e964f5082d5986e8006c518e963d40621808668"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Rhus typhina [Rhus typhina] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/545571882. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Rhus typhina",
+  "sourceId": "545571882",
+  "photoUrl": "https://www.inaturalist.org/photos/545571882",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/545571882/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/545571882/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 167829,
+  "acceptedScientificName": "Rhus typhina",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/302722858",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 545571882,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545571882/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47729/48874/707807/54765",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47729,48874,707807,54765,167829",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 167829,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 54765,
+    "name": "Rhus typhina",
+    "rank": "species",
+    "extinct": false,
+    "id": 167829,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47729,
+      48874,
+      707807,
+      54765,
+      167829
+    ],
+    "created_at": "2012-10-22T22:41:22+00:00",
+    "default_photo": {
+      "id": 41368056,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) mkosiewski, some rights reserved (CC BY-NC), uploaded by mkosiewski",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41368056/square.jpg",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "mkosiewski",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41368056/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41368056/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 3,
+    "observations_count": 91000,
+    "photos_locked": false,
+    "universal_search_rank": 91000,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rhus_typhina",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "staghorn sumac"
+  },
+  "rawMetadataPath": "metadata/rhus-typhina/inat-545571882.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/rhus-typhina--inat-545571882.json"
+}

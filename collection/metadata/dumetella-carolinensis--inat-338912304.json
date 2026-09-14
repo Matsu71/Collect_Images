@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-338912304",
+  "targetId": "inat-taxon-14995",
+  "scientificName": "Dumetella carolinensis",
+  "nameJa": "ネコマネドリ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:47+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:47+00:00",
+  "files": {
+    "master": "images/dumetella-carolinensis/inat-338912304.jpg",
+    "web": "images/dumetella-carolinensis/inat-338912304.webp",
+    "thumbnail": "images/dumetella-carolinensis/inat-338912304-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1639
+    ],
+    "master": [
+      2048,
+      1639
+    ],
+    "web": [
+      1400,
+      1120
+    ]
+  },
+  "bytes": {
+    "master": 936426,
+    "web": 178282,
+    "thumbnail": 13632
+  },
+  "sha256": {
+    "download": "1d2bffad8cbb68049734debf76dfdf6b28ecfb06ac1baf80a830c52a97d9b3de",
+    "master": "6b2dd85d626a11323e37f80f2f6320348d572a04d3a961c29a9298fdd0b0ac77",
+    "web": "9bd72a0931ae27189298d17d6ce532855d8d3f91933c5b1811e5257f34da3f23"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Dumetella carolinensis [Dumetella carolinensis] — Kristy Morley / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/338912304. Original attribution: (c) Kristy Morley, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Dumetella carolinensis",
+  "sourceId": "338912304",
+  "photoUrl": "https://www.inaturalist.org/photos/338912304",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/338912304/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/338912304/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Kristy Morley",
+  "originalAttribution": "(c) Kristy Morley, some rights reserved (CC BY)",
+  "taxonId": 14995,
+  "acceptedScientificName": "Dumetella carolinensis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/192986343",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.008095238095239,
+  "photoApiEvidence": {
+    "id": 338912304,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1639
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338912304/square.jpg",
+    "attribution": "(c) Kristy Morley, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/59911/14994",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,59911,14994,14995",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 14995,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 14994,
+    "name": "Dumetella carolinensis",
+    "rank": "species",
+    "extinct": false,
+    "id": 14995,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      59911,
+      14994,
+      14995
+    ],
+    "created_at": "2008-03-13T03:23:49+00:00",
+    "default_photo": {
+      "id": 16329727,
+      "license_code": null,
+      "attribution": "(c) Michael King, all rights reserved, uploaded by Michael King",
+      "url": "https://static.inaturalist.org/photos/16329727/square.jpg",
+      "original_dimensions": {
+        "height": 1463,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Michael King",
+      "square_url": "https://static.inaturalist.org/photos/16329727/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/16329727/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 111410,
+    "photos_locked": false,
+    "universal_search_rank": 111410,
+    "flag_counts": {
+      "resolved": 5,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Gray_catbird",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Gray Catbird"
+  },
+  "rawMetadataPath": "metadata/dumetella-carolinensis/inat-338912304.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/dumetella-carolinensis--inat-338912304.json"
+}

@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-352206849",
+  "targetId": "inat-taxon-61318",
+  "scientificName": "Arum maculatum",
+  "nameJa": "マムシアルム",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:24:12+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:24:12+00:00",
+  "files": {
+    "master": "images/arum-maculatum/inat-352206849.jpg",
+    "web": "images/arum-maculatum/inat-352206849.webp",
+    "thumbnail": "images/arum-maculatum/inat-352206849-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 945806,
+    "web": 181402,
+    "thumbnail": 20650
+  },
+  "sha256": {
+    "download": "ccb22b4591bbc76aba566e6e68307648916f62d9a46b86c58aad83819182b229",
+    "master": "e4ec3433e18cff1d44a6e6f8136de3455d1478bc701c053c2aa7e375c630710e",
+    "web": "62d799f21092d6255551b34b936f48c26cbe8172fd05cbf8ffc26444f59921b7"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 74,
+  "credit": "Arum maculatum [Arum maculatum] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/352206849. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Arum maculatum",
+  "sourceId": "352206849",
+  "photoUrl": "https://www.inaturalist.org/photos/352206849",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/352206849/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/352206849/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 61318,
+  "acceptedScientificName": "Arum maculatum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/199696090",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.527619047619047,
+  "photoApiEvidence": {
+    "id": 352206849,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/352206849/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47163/48073/48536/467650/937788/51609",
+    "min_species_ancestry": "48460,47126,211194,47125,47163,48073,48536,467650,937788,51609,61318",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 61318,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 51609,
+    "name": "Arum maculatum",
+    "rank": "species",
+    "extinct": false,
+    "id": 61318,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47163,
+      48073,
+      48536,
+      467650,
+      937788,
+      51609,
+      61318
+    ],
+    "created_at": "2010-05-26T04:16:31+00:00",
+    "default_photo": {
+      "id": 510161894,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) cassandra_li, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510161894/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "cassandra_li",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510161894/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510161894/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 37940,
+    "photos_locked": false,
+    "universal_search_rank": 37940,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Arum_maculatum",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "Cuckoo-pint"
+  },
+  "rawMetadataPath": "metadata/arum-maculatum/inat-352206849.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/arum-maculatum--inat-352206849.json"
+}

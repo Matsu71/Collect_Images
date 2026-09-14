@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-5084024",
+  "targetId": "inat-taxon-63371",
+  "scientificName": "Rumex obtusifolius",
+  "nameJa": "エゾノギシギシ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:20:56+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": true,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:20:56+00:00",
+  "files": {
+    "master": "images/rumex-obtusifolius/inat-5084024.jpg",
+    "web": "images/rumex-obtusifolius/inat-5084024.webp",
+    "thumbnail": "images/rumex-obtusifolius/inat-5084024-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 945283,
+    "web": 208916,
+    "thumbnail": 24752
+  },
+  "sha256": {
+    "download": "62de2975867d526ab13e3988ca68b54b599e930c90721d571427f864e546620f",
+    "master": "5795d663a25faa6f5f96f33d167df80508c361759d3cd280052523c8385566d6",
+    "web": "0b3e08c78652288a3e6a9b2b83f75b63604fc8299c30694f0b4f87b923c0cab4"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Rumex obtusifolius [Rumex obtusifolius] — Andreas Rockstein / iNaturalist, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); source: https://www.inaturalist.org/photos/5084024. Original attribution: (c) Andreas Rockstein, some rights reserved (CC BY-SA). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Rumex obtusifolius",
+  "sourceId": "5084024",
+  "photoUrl": "https://www.inaturalist.org/photos/5084024",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5084024/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5084024/original.jpg",
+  "licenseCode": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Andreas Rockstein",
+  "originalAttribution": "(c) Andreas Rockstein, some rights reserved (CC BY-SA)",
+  "taxonId": 63371,
+  "acceptedScientificName": "Rumex obtusifolius",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": null,
+  "observationQualityGrade": null,
+  "selectionBasis": "curated_taxon_photo",
+  "selectionScore": 10.194285714285714,
+  "photoApiEvidence": {
+    "id": 5084024,
+    "license_code": "cc-by-sa",
+    "attribution": "(c) Andreas Rockstein, some rights reserved (CC BY-SA)",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5084024/square.jpg",
+    "original_dimensions": {
+      "height": 1536,
+      "width": 2048
+    },
+    "flags": [],
+    "attribution_name": "Andreas Rockstein",
+    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5084024/square.jpg",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5084024/medium.jpg"
+  },
+  "observationTaxon": null,
+  "rawMetadataPath": "metadata/rumex-obtusifolius/inat-5084024.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY-SA 4.0",
+  "metadataPath": "collection/metadata/rumex-obtusifolius--inat-5084024.json"
+}

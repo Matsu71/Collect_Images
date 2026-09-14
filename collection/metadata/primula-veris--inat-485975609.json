@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-485975609",
+  "targetId": "inat-taxon-55819",
+  "scientificName": "Primula veris",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:20:49+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:20:49+00:00",
+  "files": {
+    "master": "images/primula-veris/inat-485975609.jpg",
+    "web": "images/primula-veris/inat-485975609.webp",
+    "thumbnail": "images/primula-veris/inat-485975609-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 857312,
+    "web": 179918,
+    "thumbnail": 20010
+  },
+  "sha256": {
+    "download": "e4fefcaecc13634dfefb3fb1a99936440cdffa0f297c321e4a5f14d18ea615ca",
+    "master": "2795cca4ec39b21eb727c511597cfb0421b45e884038e82cdd34a56bf7b25b72",
+    "web": "280e62e43e027d4de7079b95a843f57a68d6e15263f75f8e953934970d6e8875"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 80,
+  "credit": "Primula veris [Primula veris] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/485975609. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Primula veris",
+  "sourceId": "485975609",
+  "photoUrl": "https://www.inaturalist.org/photos/485975609",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/485975609/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/485975609/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 55819,
+  "acceptedScientificName": "Primula veris",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/270238276",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 485975609,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485975609/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47181/48064/791934/791968/55820/742749/742870/55819",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47181,48064,791934,791968,55820,742749,742870,55819",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 55819,
+    "threatened": true,
+    "rank_level": 5,
+    "introduced": false,
+    "native": true,
+    "parent_id": 55819,
+    "name": "Primula veris columnae",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 1391176,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47181,
+      48064,
+      791934,
+      791968,
+      55820,
+      742749,
+      742870,
+      55819,
+      1391176
+    ],
+    "created_at": "2022-05-11T16:56:30+00:00",
+    "default_photo": {
+      "id": 293590123,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Aurélien Bour, some rights reserved (CC BY-NC), uploaded by Aurélien Bour",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/293590123/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "Aurélien Bour",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/293590123/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/293590123/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 0,
+    "observations_count": 120,
+    "photos_locked": false,
+    "universal_search_rank": 120,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": null,
+    "iconic_taxon_name": "Plantae"
+  },
+  "rawMetadataPath": "metadata/primula-veris/inat-485975609.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/primula-veris--inat-485975609.json"
+}

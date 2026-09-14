@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-32613942",
+  "targetId": "inat-taxon-4388",
+  "scientificName": "Larus dominicanus",
+  "nameJa": "ミナミオオセグロカモメ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:28:58+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:28:58+00:00",
+  "files": {
+    "master": "images/larus-dominicanus/inat-32613942.jpg",
+    "web": "images/larus-dominicanus/inat-32613942.webp",
+    "thumbnail": "images/larus-dominicanus/inat-32613942-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1600,
+      1200
+    ],
+    "master": [
+      1600,
+      1200
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 274993,
+    "web": 85072,
+    "thumbnail": 11116
+  },
+  "sha256": {
+    "download": "897008f7767c0825d8d303e2ab15e9b6b42a9d51a34a4592aed20b0bb8247cb2",
+    "master": "7020eef648af11ec72920b2c8bcee12013ab87731b86a6caca3e458694d62ea6",
+    "web": "d0ddab6130f436187d3619063c52c835716239d712c581d5446ffa958e85afcf"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Larus dominicanus [Larus dominicanus] — Jacqui Geux / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/32613942. Original attribution: (c) Jacqui Geux, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Larus dominicanus",
+  "sourceId": "32613942",
+  "photoUrl": "https://www.inaturalist.org/photos/32613942",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32613942/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32613942/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Jacqui Geux",
+  "originalAttribution": "(c) Jacqui Geux, some rights reserved (CC BY)",
+  "taxonId": 4388,
+  "acceptedScientificName": "Larus dominicanus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/21102814",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.714285714285715,
+  "photoApiEvidence": {
+    "id": 32613942,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1600,
+      "height": 1200
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32613942/square.jpeg",
+    "attribution": "(c) Jacqui Geux, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67561/4342/447155/4343/4388",
+    "min_species_ancestry": "48460,1,2,355675,3,67561,4342,447155,4343,4388",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 4388,
+    "threatened": false,
+    "rank_level": 5,
+    "introduced": false,
+    "native": true,
+    "parent_id": 4388,
+    "name": "Larus dominicanus dominicanus",
+    "rank": "subspecies",
+    "extinct": false,
+    "id": 333759,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67561,
+      4342,
+      447155,
+      4343,
+      4388,
+      333759
+    ],
+    "created_at": "2013-10-03T09:04:43+00:00",
+    "default_photo": {
+      "id": 227539170,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Finn Davey, some rights reserved (CC BY-NC), uploaded by Finn Davey",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/227539170/square.jpg",
+      "original_dimensions": {
+        "height": 1365,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Finn Davey",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/227539170/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/227539170/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 2,
+    "observations_count": 10827,
+    "photos_locked": false,
+    "universal_search_rank": 10827,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 144933,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Kelp_gull",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Common Kelp Gull"
+  },
+  "rawMetadataPath": "metadata/larus-dominicanus/inat-32613942.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/larus-dominicanus--inat-32613942.json"
+}

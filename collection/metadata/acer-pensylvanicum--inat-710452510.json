@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-710452510",
+  "targetId": "inat-taxon-48095",
+  "scientificName": "Acer pensylvanicum",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:26:24+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:26:24+00:00",
+  "files": {
+    "master": "images/acer-pensylvanicum/inat-710452510.jpg",
+    "web": "images/acer-pensylvanicum/inat-710452510.webp",
+    "thumbnail": "images/acer-pensylvanicum/inat-710452510-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1152
+    ],
+    "master": [
+      2048,
+      1152
+    ],
+    "web": [
+      1400,
+      788
+    ]
+  },
+  "bytes": {
+    "master": 1008353,
+    "web": 213834,
+    "thumbnail": 27842
+  },
+  "sha256": {
+    "download": "cd5be6a5a50005c363cc129c4b3aa394c3f70a1113a8b26fbca7b53dea887cda",
+    "master": "319768622410ae809a075be4e67572a23f6507f9bcb0986c5d32100b3f68016e",
+    "web": "c8eb0800c3155d6d06b78914c62366110d2d0cd7a5b38602d415f5cd6ef083d9"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Acer pensylvanicum [Acer pensylvanicum] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/710452510. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Acer pensylvanicum",
+  "sourceId": "710452510",
+  "photoUrl": "https://www.inaturalist.org/photos/710452510",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/710452510/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/710452510/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 48095,
+  "acceptedScientificName": "Acer pensylvanicum",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/387946448",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 6.979047619047619,
+  "photoApiEvidence": {
+    "id": 710452510,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1152
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/710452510/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47729/58321/47727/1466289/1466290",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47729,58321,47727,1466289,1466290,48095",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 48095,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1466290,
+    "name": "Acer pensylvanicum",
+    "rank": "species",
+    "extinct": false,
+    "id": 48095,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47729,
+      58321,
+      47727,
+      1466289,
+      1466290,
+      48095
+    ],
+    "created_at": "2008-08-12T20:06:32+00:00",
+    "default_photo": {
+      "id": 8048591,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Ashley M Bradford, some rights reserved (CC BY-NC), uploaded by Ashley M Bradford",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8048591/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1536
+      },
+      "flags": [],
+      "attribution_name": "Ashley M Bradford",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8048591/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8048591/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 3,
+    "observations_count": 40622,
+    "photos_locked": false,
+    "universal_search_rank": 40622,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Acer_pensylvanicum",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "striped maple"
+  },
+  "rawMetadataPath": "metadata/acer-pensylvanicum/inat-710452510.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/acer-pensylvanicum--inat-710452510.json"
+}

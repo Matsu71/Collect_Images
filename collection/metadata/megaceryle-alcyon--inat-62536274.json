@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-62536274",
+  "targetId": "inat-taxon-2548",
+  "scientificName": "Megaceryle alcyon",
+  "nameJa": "アメリカヤマセミ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:25:06+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:25:06+00:00",
+  "files": {
+    "master": "images/megaceryle-alcyon/inat-62536274.jpg",
+    "web": "images/megaceryle-alcyon/inat-62536274.webp",
+    "thumbnail": "images/megaceryle-alcyon/inat-62536274-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1366
+    ],
+    "master": [
+      2048,
+      1366
+    ],
+    "web": [
+      1400,
+      934
+    ]
+  },
+  "bytes": {
+    "master": 389996,
+    "web": 91568,
+    "thumbnail": 7966
+  },
+  "sha256": {
+    "download": "4e126b818b9eeb1ac24def0e7ddcf72c4ab64f5de31af31a770ae5a61f29c06c",
+    "master": "1654951b2b8c9f24fc5eb4bb3346e5da099b0c08c54e68433aace3d2e4d8d87a",
+    "web": "08e41464681970ef2a3592ee5537b586e197a92031c3e6be915ee97992ac6bce"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Megaceryle alcyon [Megaceryle alcyon] — Jonathan Eisen / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/62536274. Original attribution: (c) Jonathan Eisen, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Megaceryle alcyon",
+  "sourceId": "62536274",
+  "photoUrl": "https://www.inaturalist.org/photos/62536274",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/62536274/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/62536274/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Jonathan Eisen",
+  "originalAttribution": "(c) Jonathan Eisen, some rights reserved (CC BY)",
+  "taxonId": 2548,
+  "acceptedScientificName": "Megaceryle alcyon",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/39418726",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.951428571428572,
+  "photoApiEvidence": {
+    "id": 62536274,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1366
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62536274/square.jpg",
+    "attribution": "(c) Jonathan Eisen, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/2114/2314/1542374/2547",
+    "min_species_ancestry": "48460,1,2,355675,3,2114,2314,1542374,2547,2548",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 2548,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 2547,
+    "name": "Megaceryle alcyon",
+    "rank": "species",
+    "extinct": false,
+    "id": 2548,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      2114,
+      2314,
+      1542374,
+      2547,
+      2548
+    ],
+    "created_at": "2008-03-13T02:40:33+00:00",
+    "default_photo": {
+      "id": 244248986,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Dave Roberts, some rights reserved (CC BY-NC), uploaded by Dave Roberts",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244248986/square.jpg",
+      "original_dimensions": {
+        "height": 1012,
+        "width": 1512
+      },
+      "flags": [],
+      "attribution_name": "Dave Roberts",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244248986/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244248986/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 88121,
+    "photos_locked": false,
+    "universal_search_rank": 88121,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Belted_kingfisher",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Belted Kingfisher"
+  },
+  "rawMetadataPath": "metadata/megaceryle-alcyon/inat-62536274.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/megaceryle-alcyon--inat-62536274.json"
+}

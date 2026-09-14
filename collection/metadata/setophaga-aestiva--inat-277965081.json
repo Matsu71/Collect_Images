@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-277965081",
+  "targetId": "inat-taxon-1188207",
+  "scientificName": "Setophaga aestiva",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:25:22+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:25:22+00:00",
+  "files": {
+    "master": "images/setophaga-aestiva/inat-277965081.jpg",
+    "web": "images/setophaga-aestiva/inat-277965081.webp",
+    "thumbnail": "images/setophaga-aestiva/inat-277965081-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1641
+    ],
+    "master": [
+      2048,
+      1641
+    ],
+    "web": [
+      1400,
+      1122
+    ]
+  },
+  "bytes": {
+    "master": 612817,
+    "web": 126710,
+    "thumbnail": 14244
+  },
+  "sha256": {
+    "download": "434879987836d3f5867c4e4029b8edd5e8218cb1033365a61d1816e08a50fe38",
+    "master": "f21805ad55d70e0d195b36f474d0f0b2fac74d0a8c06c874b1659ff690e99f25",
+    "web": "38f3a652616d40b5f22079a4566666dff7d721c82487702a5b35871297bfc86f"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Setophaga aestiva [Setophaga aestiva] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/277965081. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Setophaga aestiva",
+  "sourceId": "277965081",
+  "photoUrl": "https://www.inaturalist.org/photos/277965081",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277965081/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277965081/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 1188207,
+  "acceptedScientificName": "Setophaga aestiva",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/160840262",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.010952380952382,
+  "photoApiEvidence": {
+    "id": 277965081,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1641
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/277965081/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/71349/10246",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,71349,10246,1188207",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 1188207,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 10246,
+    "name": "Setophaga aestiva",
+    "rank": "species",
+    "extinct": false,
+    "id": 1188207,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      71349,
+      10246,
+      1188207
+    ],
+    "created_at": "2021-01-29T08:43:00+00:00",
+    "default_photo": {
+      "id": 193214440,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/193214440/square.jpg",
+      "original_dimensions": {
+        "height": 1159,
+        "width": 1737
+      },
+      "flags": [],
+      "attribution_name": "Ad Konings",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/193214440/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/193214440/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 0,
+    "observations_count": 85175,
+    "photos_locked": false,
+    "universal_search_rank": 85175,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 137096,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_warbler",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Northern Yellow Warbler"
+  },
+  "rawMetadataPath": "metadata/setophaga-aestiva/inat-277965081.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/setophaga-aestiva--inat-277965081.json"
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-167101616",
+  "targetId": "inat-taxon-55969",
+  "scientificName": "Viburnum opulus",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:20:18+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:20:18+00:00",
+  "files": {
+    "master": "images/viburnum-opulus/inat-167101616.jpg",
+    "web": "images/viburnum-opulus/inat-167101616.webp",
+    "thumbnail": "images/viburnum-opulus/inat-167101616-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 381528,
+    "web": 58606,
+    "thumbnail": 5860
+  },
+  "sha256": {
+    "download": "9ab91c68178de576e9d993ae265944cb81055de3cdbb880f11e8d7da436ce761",
+    "master": "af630e16068796706529aa0c098fc4756046fa1727cbc15e8b12eb9e3969ae7c",
+    "web": "eb6ea33a59bc75f74bf85aa629f0160916739e8406c71725768431f3522f5d98"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Viburnum opulus [Viburnum opulus] — Alina Bryleva / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/167101616. Original attribution: (c) Alina Bryleva, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Viburnum opulus",
+  "sourceId": "167101616",
+  "photoUrl": "https://www.inaturalist.org/photos/167101616",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/167101616/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/167101616/original.jpeg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Alina Bryleva",
+  "originalAttribution": "(c) Alina Bryleva, some rights reserved (CC BY)",
+  "taxonId": 55969,
+  "acceptedScientificName": "Viburnum opulus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/100141825",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.194285714285714,
+  "photoApiEvidence": {
+    "id": 167101616,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/167101616/square.jpeg",
+    "attribution": "(c) Alina Bryleva, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/48526/781703/54774/1622164",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,48526,781703,54774,1622164,55969",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 55969,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1622164,
+    "name": "Viburnum opulus",
+    "rank": "species",
+    "extinct": false,
+    "id": 55969,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      48526,
+      781703,
+      54774,
+      1622164,
+      55969
+    ],
+    "created_at": "2010-02-12T12:15:42+00:00",
+    "default_photo": {
+      "id": 600790807,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) christian_heintzen, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/600790807/square.jpg",
+      "original_dimensions": {
+        "height": 1360,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "christian_heintzen",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/600790807/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/600790807/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 4,
+    "observations_count": 98114,
+    "photos_locked": false,
+    "universal_search_rank": 98114,
+    "flag_counts": {
+      "resolved": 4,
+      "unresolved": 3
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 20535,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Viburnum_opulus",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "guelder-rose"
+  },
+  "rawMetadataPath": "metadata/viburnum-opulus/inat-167101616.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/viburnum-opulus--inat-167101616.json"
+}

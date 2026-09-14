@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-195111046",
+  "targetId": "inat-taxon-1289388",
+  "scientificName": "Corthylio calendula",
+  "nameJa": "ルビーキクイタダキ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:35+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:35+00:00",
+  "files": {
+    "master": "images/corthylio-calendula/inat-195111046.jpg",
+    "web": "images/corthylio-calendula/inat-195111046.webp",
+    "thumbnail": "images/corthylio-calendula/inat-195111046-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1536
+    ],
+    "master": [
+      2048,
+      1536
+    ],
+    "web": [
+      1400,
+      1050
+    ]
+  },
+  "bytes": {
+    "master": 1122963,
+    "web": 222702,
+    "thumbnail": 27666
+  },
+  "sha256": {
+    "download": "62737d2f1aefe5d17f4b4f04af69286b961135f2ff6d496a4c63ae258ed5cb7d",
+    "master": "dfde0d1addb584490e2bd802e118f7cf238632c30e7ee9902900a69aa5179515",
+    "web": "80c13213dc6693c0f31235fb7dafe4ef8970956583f5c0ba5c49283bedbcea51"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Corthylio calendula [Corthylio calendula] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/195111046. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Corthylio calendula",
+  "sourceId": "195111046",
+  "photoUrl": "https://www.inaturalist.org/photos/195111046",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/195111046/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/195111046/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 1289388,
+  "acceptedScientificName": "Corthylio calendula",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/115607231",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 195111046,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/195111046/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/180354/1289298",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,180354,1289298,1289388",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 1289388,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 1289298,
+    "name": "Corthylio calendula",
+    "rank": "species",
+    "extinct": false,
+    "id": 1289388,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      180354,
+      1289298,
+      1289388
+    ],
+    "created_at": "2021-10-08T04:54:41+00:00",
+    "default_photo": {
+      "id": 251475181,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251475181/square.jpg",
+      "original_dimensions": {
+        "height": 1436,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Ad Konings",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251475181/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251475181/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 0,
+    "observations_count": 94384,
+    "photos_locked": false,
+    "universal_search_rank": 94384,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ruby-crowned_kinglet",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Ruby-crowned Kinglet"
+  },
+  "rawMetadataPath": "metadata/corthylio-calendula/inat-195111046.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/corthylio-calendula--inat-195111046.json"
+}

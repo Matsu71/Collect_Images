@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-302085758",
+  "targetId": "inat-taxon-4857",
+  "scientificName": "Vanellus vanellus",
+  "nameJa": "タゲリ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:27:24+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:27:24+00:00",
+  "files": {
+    "master": "images/vanellus-vanellus/inat-302085758.jpg",
+    "web": "images/vanellus-vanellus/inat-302085758.webp",
+    "thumbnail": "images/vanellus-vanellus/inat-302085758-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1792,
+      1188
+    ],
+    "master": [
+      1792,
+      1188
+    ],
+    "web": [
+      1400,
+      928
+    ]
+  },
+  "bytes": {
+    "master": 419681,
+    "web": 140192,
+    "thumbnail": 8708
+  },
+  "sha256": {
+    "download": "370cef41efb402df9f0acd23f796af39c9ad996809bf979d20f776c1ed1639a1",
+    "master": "886a0904386825ee60e9592ce4b4819db34624951bd457c1830ed93892d7fc48",
+    "web": "f1e72cd6cf647d47218336e06784358152bbab28a566b2c9ac1edfb355225228"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Vanellus vanellus [Vanellus vanellus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/302085758. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Vanellus vanellus",
+  "sourceId": "302085758",
+  "photoUrl": "https://www.inaturalist.org/photos/302085758",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/302085758/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/302085758/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 4857,
+  "acceptedScientificName": "Vanellus vanellus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/162303213",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.697142857142858,
+  "photoApiEvidence": {
+    "id": 302085758,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1792,
+      "height": 1188
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/302085758/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67561/4783/4853",
+    "min_species_ancestry": "48460,1,2,355675,3,67561,4783,4853,4857",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 4857,
+    "threatened": true,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 4853,
+    "name": "Vanellus vanellus",
+    "rank": "species",
+    "extinct": false,
+    "id": 4857,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67561,
+      4783,
+      4853,
+      4857
+    ],
+    "created_at": "2008-03-13T02:46:35+00:00",
+    "default_photo": {
+      "id": 96099602,
+      "license_code": "cc-by-nc-nd",
+      "attribution": "(c) Анна Голубева, some rights reserved (CC BY-NC-ND), uploaded by Анна Голубева",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96099602/square.jpg",
+      "original_dimensions": {
+        "height": 801,
+        "width": 1200
+      },
+      "flags": [],
+      "attribution_name": "Анна Голубева",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96099602/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96099602/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 7,
+    "observations_count": 68932,
+    "photos_locked": false,
+    "universal_search_rank": 68932,
+    "flag_counts": {
+      "resolved": 4,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Northern_lapwing",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Northern Lapwing",
+    "conservation_status": {
+      "id": 1632,
+      "place_id": null,
+      "source_id": 37,
+      "user_id": null,
+      "authority": "IUCN Red List",
+      "status": "nt",
+      "status_name": "near threatened",
+      "geoprivacy": null,
+      "iucn": 20
+    }
+  },
+  "rawMetadataPath": "metadata/vanellus-vanellus/inat-302085758.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/vanellus-vanellus--inat-302085758.json"
+}

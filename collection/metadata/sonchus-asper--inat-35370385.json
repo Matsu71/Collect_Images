@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-35370385",
+  "targetId": "inat-taxon-53269",
+  "scientificName": "Sonchus asper",
+  "nameJa": "オニノゲシ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:26:07+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:26:07+00:00",
+  "files": {
+    "master": "images/sonchus-asper/inat-35370385.jpg",
+    "web": "images/sonchus-asper/inat-35370385.webp",
+    "thumbnail": "images/sonchus-asper/inat-35370385-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1684166,
+    "web": 382350,
+    "thumbnail": 26772
+  },
+  "sha256": {
+    "download": "b7fbe981286372e131a59f9f750a84fa7293c90fd160b41049489b6097fa052d",
+    "master": "8ad2844473e764f6e0b89b381dbfb5339ca2dcffcaee33b80ebf6246aa29c086",
+    "web": "f552b0e05043519201c77cd782c4183c68f26ef329236d1e789d986e3b0f8980"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Sonchus asper [Sonchus asper] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/35370385. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Sonchus asper",
+  "sourceId": "35370385",
+  "photoUrl": "https://www.inaturalist.org/photos/35370385",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35370385/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35370385/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 53269,
+  "acceptedScientificName": "Sonchus asper",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/22821313",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.259047619047617,
+  "photoApiEvidence": {
+    "id": 35370385,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35370385/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47605/47604/447425/359450/632703/53270",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47605,47604,447425,359450,632703,53270,53269",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 53269,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 53270,
+    "name": "Sonchus asper",
+    "rank": "species",
+    "extinct": false,
+    "id": 53269,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47605,
+      47604,
+      447425,
+      359450,
+      632703,
+      53270,
+      53269
+    ],
+    "provisional": false,
+    "created_at": "2009-09-20T04:21:55+00:00",
+    "default_photo": {
+      "id": 254422387,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Marco Grandis, some rights reserved (CC BY-NC), uploaded by Marco Grandis",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254422387/square.jpg",
+      "original_dimensions": {
+        "height": 1200,
+        "width": 1600
+      },
+      "flags": [],
+      "attribution_name": "Marco Grandis",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254422387/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254422387/medium.jpg"
+    },
+    "taxon_changes_count": 1,
+    "taxon_schemes_count": 7,
+    "observations_count": 84087,
+    "photos_locked": false,
+    "universal_search_rank": 84087,
+    "flag_counts": {
+      "resolved": 4,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Sonchus_asper",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "prickly sowthistle"
+  },
+  "rawMetadataPath": "metadata/sonchus-asper/inat-35370385.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/sonchus-asper--inat-35370385.json"
+}

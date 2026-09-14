@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-206395413",
+  "targetId": "inat-taxon-336399",
+  "scientificName": "Coloeus monedula",
+  "nameJa": "ニシコクマルガラス",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:19:45+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:19:45+00:00",
+  "files": {
+    "master": "images/coloeus-monedula/inat-206395413.jpg",
+    "web": "images/coloeus-monedula/inat-206395413.webp",
+    "thumbnail": "images/coloeus-monedula/inat-206395413-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 466182,
+    "web": 119374,
+    "thumbnail": 11058
+  },
+  "sha256": {
+    "download": "a787a647289de016c3707ef15fbbbda82cb279b44d19a0a944d5ce1e3de129ce",
+    "master": "b381925087971580db6320aa2ad946daf2757f21c0b8cd311fa8f08cdddd5996",
+    "web": "0ce617703a5b616ef2537320ae590952ba03c8d3e6c99e17705ba26fddc80702"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Coloeus monedula [Coloeus monedula] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/206395413. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Coloeus monedula",
+  "sourceId": "206395413",
+  "photoUrl": "https://www.inaturalist.org/photos/206395413",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/206395413/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/206395413/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 336399,
+  "acceptedScientificName": "Coloeus monedula",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/121937015",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 9.95,
+  "photoApiEvidence": {
+    "id": 206395413,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/206395413/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/7251/7823/336400",
+    "min_species_ancestry": "48460,1,2,355675,3,7251,7823,336400,336399",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 336399,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 336400,
+    "name": "Coloeus monedula",
+    "rank": "species",
+    "extinct": false,
+    "id": 336399,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      7251,
+      7823,
+      336400,
+      336399
+    ],
+    "created_at": "2013-11-10T21:01:24+00:00",
+    "default_photo": {
+      "id": 189714380,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/189714380/square.jpg",
+      "original_dimensions": {
+        "height": 1392,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Ad Konings",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/189714380/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/189714380/medium.jpg"
+    },
+    "taxon_changes_count": 2,
+    "taxon_schemes_count": 1,
+    "observations_count": 107195,
+    "photos_locked": false,
+    "universal_search_rank": 107195,
+    "flag_counts": {
+      "resolved": 1,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Western_jackdaw",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Eurasian Jackdaw"
+  },
+  "rawMetadataPath": "metadata/coloeus-monedula/inat-206395413.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/coloeus-monedula--inat-206395413.json"
+}

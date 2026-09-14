@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-119544056",
+  "targetId": "inat-taxon-52490",
+  "scientificName": "Eristalis pertinax",
+  "nameJa": "",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:26:50+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:26:50+00:00",
+  "files": {
+    "master": "images/eristalis-pertinax/inat-119544056.jpg",
+    "web": "images/eristalis-pertinax/inat-119544056.webp",
+    "thumbnail": "images/eristalis-pertinax/inat-119544056-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1366
+    ],
+    "master": [
+      2048,
+      1366
+    ],
+    "web": [
+      1400,
+      934
+    ]
+  },
+  "bytes": {
+    "master": 1135666,
+    "web": 186008,
+    "thumbnail": 17708
+  },
+  "sha256": {
+    "download": "deaf1815b9acff0b02bbafb547eaa55739a67deea5fcd4143ba7e573db5466d5",
+    "master": "8588b27820c3a118b2555bf75e52e127b252304ea7f0c132ffaad7aab2966ab3",
+    "web": "02b33d1286edbf657cb0f0731325103ad097fc0d43e21857480a8abfa9b7ea57"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Eristalis pertinax [Eristalis pertinax] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/119544056. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Eristalis pertinax",
+  "sourceId": "119544056",
+  "photoUrl": "https://www.inaturalist.org/photos/119544056",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119544056/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119544056/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 52490,
+  "acceptedScientificName": "Eristalis pertinax",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/73235986",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.284761904761905,
+  "photoApiEvidence": {
+    "id": 119544056,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1366
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/119544056/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47822/48091/372853/414448/49995/326181/364082/520020/52491/518212",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47822,48091,372853,414448,49995,326181,364082,520020,52491,518212,52490",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 52490,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": false,
+    "parent_id": 518212,
+    "name": "Eristalis pertinax",
+    "rank": "species",
+    "extinct": false,
+    "id": 52490,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47822,
+      48091,
+      372853,
+      414448,
+      49995,
+      326181,
+      364082,
+      520020,
+      52491,
+      518212,
+      52490
+    ],
+    "provisional": false,
+    "created_at": "2009-07-22T03:02:19+00:00",
+    "default_photo": {
+      "id": 723604,
+      "license_code": "cc-by-nc-sa",
+      "attribution": "(c) Anne Sorbes, some rights reserved (CC BY-NC-SA), uploaded by Anne Sorbes",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/723604/square.jpg",
+      "original_dimensions": {
+        "height": 1334,
+        "width": 2000
+      },
+      "flags": [],
+      "attribution_name": "Anne Sorbes",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/723604/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/723604/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 32703,
+    "photos_locked": false,
+    "universal_search_rank": 32703,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eristalis_pertinax",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Tapered Drone Fly"
+  },
+  "rawMetadataPath": "metadata/eristalis-pertinax/inat-119544056.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/eristalis-pertinax--inat-119544056.json"
+}

@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-120414720",
+  "targetId": "inat-taxon-51275",
+  "scientificName": "Pentatoma rufipes",
+  "nameJa": "アシアカカメムシ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:28:29+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:28:29+00:00",
+  "files": {
+    "master": "images/pentatoma-rufipes/inat-120414720.jpg",
+    "web": "images/pentatoma-rufipes/inat-120414720.webp",
+    "thumbnail": "images/pentatoma-rufipes/inat-120414720-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 578833,
+    "web": 166764,
+    "thumbnail": 10936
+  },
+  "sha256": {
+    "download": "7d9e4f1afec74facede8d08095ca2754528d4d348e930d23885b330f6ac775fe",
+    "master": "619970240e0451fe47b44dd928002a697e2cbe4cb4aa2768a226969ec682f409",
+    "web": "29b6006e9a442f1ae5a419315e0b7bbca90938e5b47b61392e0d0580cf4d153c"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 83,
+  "credit": "Pentatoma rufipes [Pentatoma rufipes] — Barry Walter / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/120414720. Original attribution: (c) Barry Walter, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Pentatoma rufipes",
+  "sourceId": "120414720",
+  "photoUrl": "https://www.inaturalist.org/photos/120414720",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/120414720/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/120414720/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "Barry Walter",
+  "originalAttribution": "(c) Barry Walter, some rights reserved (CC BY)",
+  "taxonId": 51275,
+  "acceptedScientificName": "Pentatoma rufipes",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/73732907",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.592380952380952,
+  "photoApiEvidence": {
+    "id": 120414720,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/120414720/square.jpg",
+    "attribution": "(c) Barry Walter, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47744/61267/372868/47743/47742/51276/209686/51277",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47744,61267,372868,47743,47742,51276,209686,51277,51275",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 51275,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 51277,
+    "name": "Pentatoma rufipes",
+    "rank": "species",
+    "extinct": false,
+    "id": 51275,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47744,
+      61267,
+      372868,
+      47743,
+      47742,
+      51276,
+      209686,
+      51277,
+      51275
+    ],
+    "created_at": "2009-05-10T06:18:42+00:00",
+    "default_photo": {
+      "id": 23422672,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Jon J. Laysell, some rights reserved (CC BY-NC), uploaded by Jon J. Laysell",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23422672/square.jpg",
+      "original_dimensions": {
+        "height": 1402,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Jon J. Laysell",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23422672/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23422672/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 47839,
+    "photos_locked": false,
+    "universal_search_rank": 47839,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Forest_bug",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Forest Bug"
+  },
+  "rawMetadataPath": "metadata/pentatoma-rufipes/inat-120414720.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/pentatoma-rufipes--inat-120414720.json"
+}

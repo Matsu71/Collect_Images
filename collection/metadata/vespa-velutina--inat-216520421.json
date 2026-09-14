@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-216520421",
+  "targetId": "inat-taxon-119019",
+  "scientificName": "Vespa velutina",
+  "nameJa": "ツマアカスズメバチ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:25+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:25+00:00",
+  "files": {
+    "master": "images/vespa-velutina/inat-216520421.jpg",
+    "web": "images/vespa-velutina/inat-216520421.webp",
+    "thumbnail": "images/vespa-velutina/inat-216520421-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1536,
+      2048
+    ],
+    "master": [
+      1536,
+      2048
+    ],
+    "web": [
+      1050,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 519357,
+    "web": 139700,
+    "thumbnail": 7662
+  },
+  "sha256": {
+    "download": "2bb45b3705acc9a42ceab149477f83f7e8df0af63ec7452622e0cdf089e54edf",
+    "master": "16b44d5eebae31caa64a921c47c6afb0df988e69381b45c2a6a7a72510c3c367",
+    "web": "234007725eb4f5a207f3bbb412c975ef23e96ccb18e0510063f380e7449db19a"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Vespa velutina [Vespa velutina] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/216520421. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Vespa velutina",
+  "sourceId": "216520421",
+  "photoUrl": "https://www.inaturalist.org/photos/216520421",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/216520421/original.jpeg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/216520421/original.jpeg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 119019,
+  "acceptedScientificName": "Vespa velutina",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Insecta",
+  "observationUrl": "https://www.inaturalist.org/observations/127531937",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.860952380952381,
+  "photoApiEvidence": {
+    "id": 216520421,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216520421/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/47120/372739/47158/184884/47201/124417/326777/48740/52747/84738/54328",
+    "min_species_ancestry": "48460,1,47120,372739,47158,184884,47201,124417,326777,48740,52747,84738,54328,119019",
+    "endemic": false,
+    "iconic_taxon_id": 47158,
+    "min_species_taxon_id": 119019,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": true,
+    "native": false,
+    "parent_id": 54328,
+    "name": "Vespa velutina",
+    "rank": "species",
+    "extinct": false,
+    "id": 119019,
+    "ancestor_ids": [
+      48460,
+      1,
+      47120,
+      372739,
+      47158,
+      184884,
+      47201,
+      124417,
+      326777,
+      48740,
+      52747,
+      84738,
+      54328,
+      119019
+    ],
+    "created_at": "2011-09-06T13:32:40+00:00",
+    "default_photo": {
+      "id": 314921958,
+      "license_code": null,
+      "attribution": "(c) Winsten Slowswakey, all rights reserved, uploaded by Winsten Slowswakey",
+      "url": "https://static.inaturalist.org/photos/314921958/square.jpg",
+      "original_dimensions": {
+        "height": 1366,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Winsten Slowswakey",
+      "square_url": "https://static.inaturalist.org/photos/314921958/square.jpg",
+      "medium_url": "https://static.inaturalist.org/photos/314921958/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 1,
+    "observations_count": 33540,
+    "photos_locked": false,
+    "universal_search_rank": 33540,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 41987,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Asian_hornet",
+    "iconic_taxon_name": "Insecta",
+    "preferred_common_name": "Yellow-legged Hornet"
+  },
+  "rawMetadataPath": "metadata/vespa-velutina/inat-216520421.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/vespa-velutina--inat-216520421.json"
+}

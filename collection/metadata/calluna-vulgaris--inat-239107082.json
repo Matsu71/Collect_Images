@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-239107082",
+  "targetId": "inat-taxon-119450",
+  "scientificName": "Calluna vulgaris",
+  "nameJa": "カルーナ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:21:36+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:21:36+00:00",
+  "files": {
+    "master": "images/calluna-vulgaris/inat-239107082.jpg",
+    "web": "images/calluna-vulgaris/inat-239107082.webp",
+    "thumbnail": "images/calluna-vulgaris/inat-239107082-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      2048
+    ],
+    "master": [
+      2048,
+      2048
+    ],
+    "web": [
+      1400,
+      1400
+    ]
+  },
+  "bytes": {
+    "master": 1373853,
+    "web": 257170,
+    "thumbnail": 31982
+  },
+  "sha256": {
+    "download": "256f82f231197dc7ef9e8f34dcd332b94d0f4dbfec96611fc78bb8aefdf75085",
+    "master": "ead99ec3ca2d78553bd13ac869ad451faa75caeb860c3b9661d04b3686506a73",
+    "web": "2cd1ce51207fceb557adf75d73da7a359a2e6206a78e1d1884befc281a81f2eb"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 68,
+  "credit": "Calluna vulgaris [Calluna vulgaris] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/239107082. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Calluna vulgaris",
+  "sourceId": "239107082",
+  "photoUrl": "https://www.inaturalist.org/photos/239107082",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/239107082/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/239107082/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 119450,
+  "acceptedScientificName": "Calluna vulgaris",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Plantae",
+  "observationUrl": "https://www.inaturalist.org/observations/139760437",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.259047619047617,
+  "photoApiEvidence": {
+    "id": 239107082,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/239107082/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/47126/211194/47125/47124/47181/133387/634911/920523/119451",
+    "min_species_ancestry": "48460,47126,211194,47125,47124,47181,133387,634911,920523,119451,119450",
+    "endemic": false,
+    "iconic_taxon_id": 47126,
+    "min_species_taxon_id": 119450,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 119451,
+    "name": "Calluna vulgaris",
+    "rank": "species",
+    "extinct": false,
+    "id": 119450,
+    "ancestor_ids": [
+      48460,
+      47126,
+      211194,
+      47125,
+      47124,
+      47181,
+      133387,
+      634911,
+      920523,
+      119451,
+      119450
+    ],
+    "created_at": "2011-09-25T16:26:36+00:00",
+    "default_photo": {
+      "id": 523311698,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Sean Womack, some rights reserved (CC BY-NC), uploaded by Sean Womack",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523311698/square.jpg",
+      "original_dimensions": {
+        "height": 2048,
+        "width": 1462
+      },
+      "flags": [],
+      "attribution_name": "Sean Womack",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523311698/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523311698/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 4,
+    "observations_count": 64839,
+    "photos_locked": false,
+    "universal_search_rank": 64839,
+    "flag_counts": {
+      "resolved": 3,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 96790,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Calluna",
+    "iconic_taxon_name": "Plantae",
+    "preferred_common_name": "common heather"
+  },
+  "rawMetadataPath": "metadata/calluna-vulgaris/inat-239107082.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/calluna-vulgaris--inat-239107082.json"
+}

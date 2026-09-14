@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-443609042",
+  "targetId": "inat-taxon-4345",
+  "scientificName": "Larus occidentalis",
+  "nameJa": "アメリカオオセグロカモメ",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:24:08+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:24:08+00:00",
+  "files": {
+    "master": "images/larus-occidentalis/inat-443609042.jpg",
+    "web": "images/larus-occidentalis/inat-443609042.webp",
+    "thumbnail": "images/larus-occidentalis/inat-443609042-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      2048,
+      1365
+    ],
+    "master": [
+      2048,
+      1365
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 590174,
+    "web": 89198,
+    "thumbnail": 2382
+  },
+  "sha256": {
+    "download": "86ee60ba7836acdd03b834e7d18da7e85f3d33959eb700d241d169d427f77f96",
+    "master": "52ccede774c7f246c24958857500db702e7bbb5208c3f2fbb6b89213366a4739",
+    "web": "3ab9bcdcde57d85862e10be75913fb6097a5c86f6b764d0b3eb02fe440f02749"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Larus occidentalis [Larus occidentalis] — cello caruso-turiello / iNaturalist, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); source: https://www.inaturalist.org/photos/443609042. Original attribution: (c) cello caruso-turiello, some rights reserved (CC BY). Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Larus occidentalis",
+  "sourceId": "443609042",
+  "photoUrl": "https://www.inaturalist.org/photos/443609042",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/443609042/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/443609042/original.jpg",
+  "licenseCode": "cc-by",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "cello caruso-turiello",
+  "originalAttribution": "(c) cello caruso-turiello, some rights reserved (CC BY)",
+  "taxonId": 4345,
+  "acceptedScientificName": "Larus occidentalis",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Aves",
+  "observationUrl": "https://www.inaturalist.org/observations/248295414",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 7.95,
+  "photoApiEvidence": {
+    "id": 443609042,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443609042/square.jpg",
+    "attribution": "(c) cello caruso-turiello, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/3/67561/4342/447155/4343",
+    "min_species_ancestry": "48460,1,2,355675,3,67561,4342,447155,4343,4345",
+    "endemic": false,
+    "iconic_taxon_id": 3,
+    "min_species_taxon_id": 4345,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 4343,
+    "name": "Larus occidentalis",
+    "rank": "species",
+    "extinct": false,
+    "id": 4345,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      3,
+      67561,
+      4342,
+      447155,
+      4343,
+      4345
+    ],
+    "created_at": "2008-03-13T02:45:04+00:00",
+    "default_photo": {
+      "id": 1877,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Jamie Chavez, some rights reserved (CC BY-NC)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1877/square.jpg",
+      "original_dimensions": {
+        "height": 533,
+        "width": 800
+      },
+      "flags": [],
+      "attribution_name": "Jamie Chavez",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1877/square.jpg",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1877/medium.jpg"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 9,
+    "observations_count": 81537,
+    "photos_locked": false,
+    "universal_search_rank": 81537,
+    "flag_counts": {
+      "resolved": 0,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": null,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Western_gull",
+    "complete_rank": "subspecies",
+    "iconic_taxon_name": "Aves",
+    "preferred_common_name": "Western Gull"
+  },
+  "rawMetadataPath": "metadata/larus-occidentalis/inat-443609042.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC BY 4.0",
+  "metadataPath": "collection/metadata/larus-occidentalis--inat-443609042.json"
+}

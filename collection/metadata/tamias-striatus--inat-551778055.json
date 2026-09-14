@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "assetId": "inat-551778055",
+  "targetId": "inat-taxon-46217",
+  "scientificName": "Tamias striatus",
+  "nameJa": "トウブシマリス",
+  "collectionTier": "extension",
+  "origin": "unverified_photo_candidate",
+  "status": "pending_review",
+  "visualReview": {
+    "status": "pending",
+    "recommendedRole": "pending",
+    "speciesIdentity": "source_taxonomy_only_not_independently_reidentified"
+  },
+  "rightsReview": {
+    "status": "allowed_license_metadata_verified",
+    "verifiedAt": "2026-09-14T01:22:54+00:00",
+    "commercialReuseAllowedByLicense": true,
+    "attributionRequired": false,
+    "shareAlikeRequiredForAdaptation": false,
+    "otherRights": "not_warranted"
+  },
+  "retrievedAt": "2026-09-14T01:22:54+00:00",
+  "files": {
+    "master": "images/tamias-striatus/inat-551778055.jpg",
+    "web": "images/tamias-striatus/inat-551778055.webp",
+    "thumbnail": "images/tamias-striatus/inat-551778055-thumb.webp"
+  },
+  "dimensions": {
+    "source": [
+      1841,
+      1227
+    ],
+    "master": [
+      1841,
+      1227
+    ],
+    "web": [
+      1400,
+      933
+    ]
+  },
+  "bytes": {
+    "master": 442493,
+    "web": 173158,
+    "thumbnail": 18812
+  },
+  "sha256": {
+    "download": "50fc8274dc55b48863ceb81c170dbba8f5c81cc45ca7f0e2771da04746275937",
+    "master": "2f5a340b91f3ac355065047f64c1513a3099ebd8a50945282943c685d40f5c56",
+    "web": "813578b1a8456a1241e6f2ff23037f3ad8b26c29cc14976ee8c63c61f76d6f37"
+  },
+  "changes": [
+    "EXIF orientation applied",
+    "proportional downsize only; no crop",
+    "JPEG/WebP re-encoding",
+    "embedded EXIF removed; provenance retained in metadata"
+  ],
+  "webQuality": 86,
+  "credit": "Tamias striatus [Tamias striatus] — no rights reserved / iNaturalist, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/); source: https://www.inaturalist.org/photos/551778055. Original attribution: no rights reserved. Resized and re-encoded; no subject alteration.",
+  "source": "iNaturalist",
+  "imageTitle": "Tamias striatus",
+  "sourceId": "551778055",
+  "photoUrl": "https://www.inaturalist.org/photos/551778055",
+  "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/551778055/original.jpg",
+  "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/551778055/original.jpg",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "no rights reserved",
+  "originalAttribution": "no rights reserved",
+  "taxonId": 46217,
+  "acceptedScientificName": "Tamias striatus",
+  "taxonMatch": "exact_scientific_name",
+  "taxonRank": "species",
+  "iconicTaxonName": "Mammalia",
+  "observationUrl": "https://www.inaturalist.org/observations/305997421",
+  "observationQualityGrade": "research",
+  "selectionBasis": "research_grade_observation",
+  "selectionScore": 8.41952380952381,
+  "photoApiEvidence": {
+    "id": 551778055,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1841,
+      "height": 1227
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551778055/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "observationTaxon": {
+    "provisional": false,
+    "is_active": true,
+    "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43698/129411/45933/339572/1279829/520586",
+    "min_species_ancestry": "48460,1,2,355675,40151,848317,848320,848323,43698,129411,45933,339572,1279829,520586,46217",
+    "endemic": false,
+    "iconic_taxon_id": 40151,
+    "min_species_taxon_id": 46217,
+    "threatened": false,
+    "rank_level": 10,
+    "introduced": false,
+    "native": true,
+    "parent_id": 520586,
+    "name": "Tamias striatus",
+    "rank": "species",
+    "extinct": false,
+    "id": 46217,
+    "ancestor_ids": [
+      48460,
+      1,
+      2,
+      355675,
+      40151,
+      848317,
+      848320,
+      848323,
+      43698,
+      129411,
+      45933,
+      339572,
+      1279829,
+      520586,
+      46217
+    ],
+    "created_at": "2008-03-19T01:28:49+00:00",
+    "default_photo": {
+      "id": 2211106,
+      "license_code": "cc-by-nc",
+      "attribution": "(c) Mike Leveille, some rights reserved (CC BY-NC), uploaded by Mike Leveille",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2211106/square.JPG",
+      "original_dimensions": {
+        "height": 1536,
+        "width": 2048
+      },
+      "flags": [],
+      "attribution_name": "Mike Leveille",
+      "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2211106/square.JPG",
+      "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2211106/medium.JPG"
+    },
+    "taxon_changes_count": 0,
+    "taxon_schemes_count": 5,
+    "observations_count": 108444,
+    "photos_locked": false,
+    "universal_search_rank": 108444,
+    "flag_counts": {
+      "resolved": 2,
+      "unresolved": 0
+    },
+    "current_synonymous_taxon_ids": null,
+    "atlas_id": 17,
+    "complete_species_count": null,
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eastern_chipmunk",
+    "iconic_taxon_name": "Mammalia",
+    "preferred_common_name": "Eastern Chipmunk"
+  },
+  "rawMetadataPath": "metadata/tamias-striatus/inat-551778055.json",
+  "collectionSource": "base",
+  "alternateStoredCopies": [],
+  "sourceTaxonType": null,
+  "contextFlags": [],
+  "licenseName": "CC0 1.0",
+  "metadataPath": "collection/metadata/tamias-striatus--inat-551778055.json"
+}
